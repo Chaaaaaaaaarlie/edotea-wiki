@@ -18,6 +18,7 @@
 - Lässt sich oft von Hrímnir tragen.
 - Spricht erstaunlicherweise Draconisch.
 - Raucht des Öfteren ihre Pfeife und hat daher eine sehr schwache Kondition.
+- Trinkt sehr viel Alkohol. Ob das Zielwasser ist?
 
 ## Verknüpfungen
 
