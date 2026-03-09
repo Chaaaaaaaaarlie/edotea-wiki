@@ -1,3 +1,5 @@
+![[Hrimnir.png|533]]
+
 # Hrímnir
 
 ## Kurzprofil
