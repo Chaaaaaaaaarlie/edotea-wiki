@@ -15,7 +15,7 @@ RK: 12
 TP: 27 (5d8 + 5)
 Bewegung: 40 ft.
 Sinne: Dunkelsicht 60 ft., Passive Wahrnehmung 10
-Sprachen: -
+Sprachen: keine
 HG: 1/2
 NoteIcon: npc
 ---
@@ -54,4 +54,3 @@ Shadows sind im 2024er Regelwerk koerperlose Untote, die Lebenskraft aussaugen u
 
 - [[Hrímnir]]
 - [[Session 4]]
-
