@@ -40,8 +40,8 @@
 - Sim hat sich das nördliche Haus im Dorf angeschaut. Dort hat er nur einen abgenutzten Bogen gefunden und eine Katze. Sim hat Speak with Animal gecastet aber konnte die Katze trotzdem nicht verstehen.
 
 - Khirin und Berta haben eine Kapelle gefunden.
-- Dort treffen sie einen Priester von Tyr.
-- Tyr ist die Gottheit der Gerechtigkeit.
+- Dort treffen sie einen Priester von [[Tyr]].
+- [[Tyr]] ist die Gottheit der Gerechtigkeit.
 - Der Priester sagt [[Elliot]] ist der Lehnsherr dieses Dorfes.
 - Auf dem Friedhof ist von den Casterwells nur [[Wilhelm Casterwell]] begraben. Der Rest wurde in [[Kalineon]] begraben.
 
@@ -49,7 +49,7 @@
 - Der Buchtitel wirkt einfach wahrlos.
 
 - Friedhof ist im Osten. Der zweite Weg am Fluss.
-- Wir sollen der Wache sagen, dass [[Lumerio]], der Prieser von Tyr uns geschickt hat.
+- Wir sollen der Wache sagen, dass [[Lumerio]], der Prieser von [[Tyr]] uns geschickt hat.
 - Der Schmied heißt [[Orlam]].
 
 - Wir machen uns auf dem Weg zum Friedhof und gehen über den Fluss.

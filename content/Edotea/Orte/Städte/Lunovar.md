@@ -29,7 +29,7 @@
 - Die magische Akademie von [[Lunovar]] ist das Herz der Stadt.
 - Fuer die Aufnahme ist ein Empfehlungsschreiben eines elfischen Buergers noetig.
 - Dort werden Kampfmagie, Illusion, Elementarmagie und altes Wissen gelehrt; auch [[Elliot]] studierte laut [[Session 3]] dort.
-- Eine wichtige religioese Stroemung der Stadt ist der Glaube an Corellon, der in der Zeit des Widerstands gegen das alte [[Kalineon]] stark an Bedeutung gewann.
+- Eine wichtige religioese Stroemung der Stadt ist der Glaube an [[Corellon]], der in der Zeit des Widerstands gegen das alte [[Kalineon]] stark an Bedeutung gewann.
 
 ## Politische Stellung
 
@@ -45,6 +45,7 @@
 ## Verknüpfungen
 
 - [[Elliot]]
+- [[Corellon]]
 - [[Erliorwald]]
 - [[Kalineon]]
 - [[Khirin]]

@@ -10,7 +10,6 @@
 - [[Hellawes]]
 - [[Indura]]
 - [[Kalden]]
-- [[Kalineon]]
 - [[Karvus]]
 - [[Loegress]]
 - [[Lothringen]]
@@ -18,6 +17,21 @@
 - [[Reneed]]
 - [[Vortigern]]
 - [[Zakson]]
+
+## Reiche und Ordnung
+
+- [[Kalineon]]
+- [[Goetterfunke]]
+- [[Apostel]]
+
+## Welt und Glaube
+
+- [[Corellon]]
+- [[Tyr]]
+- [[Lathander]]
+- [[Torm]]
+- [[Tymora]]
+- [[Ilmater]]
 
 ## Natur und besondere Orte
 

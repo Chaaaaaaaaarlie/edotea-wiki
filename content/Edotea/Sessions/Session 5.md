@@ -42,7 +42,7 @@
 - Er ist nicht der einzige dessen Forschung Früchte getragen hat.
 
 - Hrimnir öffnet den Brief.
-- Königshaus [[Kalineon]] hat Elliot gebeten zu Hofe zu kommen für eine Expedition zu Ruinen welche in [[Kalineon]] gefunden wurden.
+- Der Hof von [[Kalineon]] hat Elliot gebeten zu Hofe zu kommen fuer eine Expedition zu Ruinen, die in [[Kalineon]] gefunden wurden.
 
 - Die Glyph auf Warding ist die selbe wie die auf der Insel mit der Ruine.
 
