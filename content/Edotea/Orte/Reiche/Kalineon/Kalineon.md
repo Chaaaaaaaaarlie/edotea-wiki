@@ -39,6 +39,15 @@
 - Das neue [[Kalineon]] respektiert die weitgehende Autonomie von [[Lunovar]].
 - Zugleich profitiert das Reich von der magischen, militaerischen und diplomatischen Staerke der Stadt.
 
+## Städte im Vault
+
+- [[Cadnix]]
+- [[Kalden]]
+- [[Karvus]]
+- [[Lunovar]]
+- [[Vortigern]]
+- [[Zakson]]
+
 ## Bezüge zur Kampagne
 
 - [[Elliot]] war frueher Hofmagier des Koenigreichs [[Kalineon]].
@@ -48,10 +57,15 @@
 
 - [[Elliot]]
 - [[Apostel]]
+- [[Cadnix]]
 - [[Erliorwald]]
 - [[Goetterfunke]]
+- [[Kalden]]
+- [[Karvus]]
 - [[Kontinent Edotea]]
 - [[Lunovar]]
 - [[Session 2]]
 - [[Session 3]]
 - [[Session 5]]
+- [[Vortigern]]
+- [[Zakson]]

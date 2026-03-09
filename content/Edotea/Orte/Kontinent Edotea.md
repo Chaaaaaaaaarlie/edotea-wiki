@@ -2,27 +2,36 @@
 
 ![[Kontinent_Karte.png]]
 
-## Orte im Vault
+## Reiche und Ordnung
+
+- [[Indura]]
+- [[Kalineon]]
+- [[Loegress]]
+- [[Goetterfunke]]
+- [[Apostel]]
+
+## Städte nach Reichen
+
+### Indura
 
 - [[Albarest]]
 - [[Beardsley]]
-- [[Cadnix]]
 - [[Hellawes]]
-- [[Indura]]
+- [[Lothringen]]
+- [[Reneed]]
+
+### Kalineon
+
+- [[Cadnix]]
 - [[Kalden]]
 - [[Karvus]]
-- [[Loegress]]
-- [[Lothringen]]
 - [[Lunovar]]
-- [[Reneed]]
 - [[Vortigern]]
 - [[Zakson]]
 
-## Reiche und Ordnung
+### Loegress
 
-- [[Kalineon]]
-- [[Goetterfunke]]
-- [[Apostel]]
+- Derzeit keine eigene Stadtseite im Vault
 
 ## Welt und Glaube
 
