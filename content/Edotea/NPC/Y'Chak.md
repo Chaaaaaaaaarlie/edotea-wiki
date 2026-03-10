@@ -1,4 +1,4 @@
-# D'Jak
+# Y'Chak
 
 ## Überblick
 - Von [[Berta]] in [[Session 5]] als violette Flamme und als ihr Meister beschrieben.

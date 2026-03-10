@@ -20,7 +20,15 @@
 - Raucht des Öfteren ihre Pfeife und hat daher eine sehr schwache Kondition.
 - Trinkt sehr viel Alkohol. Ob das Zielwasser ist?
 
+## Notizen
+
+- Untersuchte in [[Session 6]] den Wald beim [[Anwesen]], der auf sie wieder lebendiger wirkte.
+- Berichtete in [[Session 6]], dass sie sich seit einiger Zeit seltsam gebraucht fühlt.
+- [[Berta]] stellte in [[Session 6]] mit Identify fest, dass [[Naeli]] unter einem Zauber steht.
+
 ## Verknüpfungen
 
+- [[Anwesen]]
+- [[Berta]]
+- [[Session 6]]
 - [[Treant]]
-

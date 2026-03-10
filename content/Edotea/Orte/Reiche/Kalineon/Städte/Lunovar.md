@@ -41,6 +41,7 @@
 
 - [[Khirin]] stammt aus [[Lunovar]].
 - [[Elliot]] studierte in der Akademie der Stadt.
+- Laut [[Elliot]] sollte sich in [[Lunovar]] Hilfe in der Sache um die Gurde finden lassen.
 
 ## Verknüpfungen
 
@@ -51,3 +52,4 @@
 - [[Khirin]]
 - [[Kontinent Edotea]]
 - [[Session 3]]
+- [[Session 6]]

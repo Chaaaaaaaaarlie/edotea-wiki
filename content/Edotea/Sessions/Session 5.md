@@ -86,7 +86,7 @@
 - Berta lag weinend im Keller.
 - Sie meint es war alles umsonst und ihr Meister kommt wieder.
 - Sie zeigt Naeli eine Vision des Far Realms.
-- Ihr Meister ist eine violette Flamme [[D'Jak]].
+- Ihr Meister ist eine violette Flamme [[Y'Chak]].
 
 - Wir haben [[Fiona Casterwell|Fiona]] begraben und plötzlich wurde Elliot von einem Eldritch Blast angegriffen.
 - Drei Wesen kommen auf uns zu. Ein Fleischliche-Verwesendes.
