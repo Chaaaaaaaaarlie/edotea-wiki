@@ -6,7 +6,7 @@ Geschlecht: Nicht zutreffend
 Rasse: Pflanze
 Alter: Jahrhunderte alt
 Gesinnung: Chaotisch Gut
-Character-Role: Waldwaechter
+Character-Role: Waldwächter
 Zuhause: Nebelwald
 Quelle: Monster Manual (2024) S. 308
 Habitat: Wald
@@ -38,19 +38,19 @@ Der Treant war freundlich und so gingen wir einfach an ihm vorbei, nachdem der T
 ## Merkmale
 
 - **Siege Monster:** Verursacht doppelten Schaden an Objekten und Strukturen.
-- **Waldhueter:** Laut 2024er Flufftext sind Treants uralte, weise Waldhueter, die die Geheimnisse ihres Waldes schuetzen und nur langsam in Konflikte eingreifen.
+- **Waldhüter:** Laut 2024er Flufftext sind Treants uralte, weise Waldhüter, die die Geheimnisse ihres Waldes schützen und nur langsam in Konflikte eingreifen.
 
 ## Aktionen
 
-- **Multiattack:** Fuehrt zwei Slam-Angriffe aus.
+- **Multiattack:** Führt zwei Slam-Angriffe aus.
 - **Slam:** Nahkampfangriff, verursacht Wuchtschaden.
 - **Hail of Bark:** Fernkampfangriff, verursacht Stichschaden.
-- **Animate Trees (1/Tag):** Belebt bis zu zwei Baeume in der Naehe, die an seiner Seite kaempfen.
+- **Animate Trees (1/Tag):** Belebt bis zu zwei Bäume in der Nähe, die an seiner Seite kämpfen.
 
 ## Edotea-Notizen
 
 - Der in Edotea angetroffene Treant verhielt sich friedlich.
-- Er passt gut zur 2024er Darstellung als beschuetzender, uralter Waldgeist.
+- Er passt gut zur 2024er Darstellung als beschützender, uralter Waldgeist.
 
 ## Verknüpfungen
 

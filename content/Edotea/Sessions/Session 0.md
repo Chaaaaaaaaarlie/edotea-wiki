@@ -7,12 +7,12 @@
 ## Allgemeines
 
 - Drei Reiche.
-- Loegress ist in Kriegsbereitschaft.
-- Indura normales Königreich
-- Kalineon ist das Koenigreich in dem [[Kalden]] liegt. Dort fangen wir an. Dort gibt es einen [[Goetterfunke|Herrscher]], welcher von den [[Apostel|Weissen]] (Berater x6) ausgewaehlt wird.
-- Wenn der vorherige Herrscher stirbt haben die [[Apostel|Weissen]] eine Vision von einer Pruefung.
-- Lunovar ist eine Elfenstadt in welche es kein normales Eindringen gibt.
-- Karvus ist eine nahe zu gesetzlose Stadt weil sie genau auf der Grenze zwischen Kalineon und Indura liegt.
+- Lögress ist in Kriegsbereitschaft.
+- Indura ist ein normales Königreich.
+- Kalineon ist das Königreich in dem [[Kalden]] liegt. Dort fangen wir an. Dort gibt es einen [[Goetterfunke|Herrscher]], welcher von den [[Apostel|Weissen]] (Berater x6) ausgewählt wird.
+- Wenn der vorherige Herrscher stirbt, haben die [[Apostel|Weissen]] eine Vision von einer Prüfung.
+- Lunovar ist eine Elfenstadt, in welche es kein normales Eindringen gibt.
+- Karvus ist eine nahezu gesetzlose Stadt, weil sie genau auf der Grenze zwischen Kalineon und Indura liegt.
 
 ## Offene Fragen
 

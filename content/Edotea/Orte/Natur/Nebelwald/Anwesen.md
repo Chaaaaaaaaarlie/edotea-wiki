@@ -7,6 +7,8 @@
 - Laut [[Elliot]] können nur die Hausherren Bücher aus diesen Regalen entnehmen.
 - Dieselben Schutzrunen sind auch in die Wände des [[Anwesen]]s eingearbeitet.
 - [[Magolor]] kannte sich im [[Anwesen]] auffällig gut aus und wusste offenbar von der Bibliothek.
+- Laut [[Session 7]] besteht der Verdacht, dass eines der drei gefährlichen Forschungsbücher von [[Wilhelm Casterwell]] in dieser Bibliothek versteckt war.
+- Falls das stimmt, könnte [[Magolor]] dieses Buch hier an sich genommen haben.
 
 ## Verknüpfungen
 
@@ -19,4 +21,5 @@
 - [[Session 1]]
 - [[Session 2]]
 - [[Session 6]]
+- [[Session 7]]
 - [[Wilhelm Casterwell]]

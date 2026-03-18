@@ -7,9 +7,15 @@
 - Trug laut [[Elliot]] eine Robe, längeres dunkles Haar und ein wertvolles Buch oder einen Folianten am Gürtel.
 - Kannte sich im [[Anwesen]] ungewöhnlich gut aus und wusste offenbar von der Bibliothek, ohne dass [[Elliot]] sie erwähnt hatte.
 - Suchte sich im [[Anwesen]] ein Buch aus, das [[Elliot]] nicht kannte.
+- Laut den Erkenntnissen aus [[Session 7]] könnte dieses Buch eines von drei getrennt versteckten Forschungsbüchern gewesen sein.
+- Falls das stimmt, hätte [[Magolor]] bereits eines der Bücher in den Händen, die mit Raum-, Essenz- und Seelenmagie zusammenhängen.
 
 ## Verknüpfungen
 
+- [[Anwesen]]
+- [[Lysantir Velora]]
 - [[Session 4]]
 - [[Session 5]]
 - [[Session 6]]
+- [[Session 7]]
+- [[Wilhelm Casterwell]]

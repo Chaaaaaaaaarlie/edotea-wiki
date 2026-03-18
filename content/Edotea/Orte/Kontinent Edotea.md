@@ -29,7 +29,7 @@
 - [[Vortigern]]
 - [[Zakson]]
 
-### Loegress
+### Lögress
 
 - Derzeit keine eigene Stadtseite im Vault
 

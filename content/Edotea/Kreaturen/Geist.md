@@ -22,7 +22,7 @@ NoteIcon: npc
 
 # Informationen
 
-Ein Geist ist im 2024er Regelwerk eine unruhige Seele, die nach einem Tod in extremer Gefuehlslage oder mit unerledigter Aufgabe an einen bedeutungsvollen Ort gebunden bleibt.
+Ein Geist ist im 2024er Regelwerk eine unruhige Seele, die nach einem Tod in extremer Gefühlslage oder mit unerledigter Aufgabe an einen bedeutungsvollen Ort gebunden bleibt.
 In Edotea ist ein Geist als Teil der untoten Erscheinungen rund um Friedhof und Kapelle naheliegend.
 
 ## 2024 Regelwerk
@@ -33,8 +33,8 @@ In Edotea ist ein Geist als Teil der untoten Erscheinungen rund um Friedhof und 
 - **RK / TP / Bewegung:** 11 / 45 / 5 ft., fliegend 40 ft. (hover)
 - **Sinne:** Dunkelsicht 60 ft., Passive Wahrnehmung 11
 - **Sprachen:** Common plus eine weitere Sprache
-- **Resistenzen:** Saeure, Wucht, Kaelte, Feuer, Blitz, Stich, Hieb, Donner
-- **Immunitaeten:** Nekrotisch, Gift; ausserdem immun gegen u. a. Charmed, Erschoepfung, Frightened, Grappled, Paralyzed, Petrified, Poisoned, Prone und Restrained
+- **Resistenzen:** Säure, Wucht, Kälte, Feuer, Blitz, Stich, Hieb, Donner
+- **Immunitäten:** Nekrotisch, Gift; ausserdem immun gegen u. a. Charmed, Erschöpfung, Frightened, Grappled, Paralyzed, Petrified, Poisoned, Prone und Restrained
 
 ## Merkmale
 
@@ -43,10 +43,10 @@ In Edotea ist ein Geist als Teil der untoten Erscheinungen rund um Friedhof und 
 
 ## Aktionen
 
-- **Multiattack:** Fuehrt zwei Withering-Touch-Angriffe aus.
+- **Multiattack:** Führt zwei Withering-Touch-Angriffe aus.
 - **Withering Touch:** Nahkampfangriff mit nekrotischem Schaden.
 - **Horrific Visage:** Schreckt sichtbare Kreaturen in einem Kegel auf.
-- **Possession (Aufladung 6):** Kann einen Humanoiden uebernehmen.
+- **Possession (Aufladung 6):** Kann einen Humanoiden übernehmen.
 - **Etherealness:** Wechselt mit dem Zauber *Etherealness* auf die Border Ethereal.
 
 ## Edotea-Notizen

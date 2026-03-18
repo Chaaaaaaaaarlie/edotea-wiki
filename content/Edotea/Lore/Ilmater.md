@@ -2,12 +2,12 @@
 
 ## Überblick
 
-- [[Ilmater]] steht in [[Kalineon]] fuer Mitgefuehl, Leidensfaehigkeit und Fuersorge fuer die Schwachen.
-- Seine Kirche kuemmert sich vor allem um Leidende und Schutzbeduerftige.
+- [[Ilmater]] steht in [[Kalineon]] für Mitgefühl, Leidensfähigkeit und Fürsorge für die Schwachen.
+- Seine Kirche kümmert sich vor allem um Leidende und Schutzbedürftige.
 
 ## Bedeutung in Edotea
 
-- Waehrend der Revolution versorgten die Priester des [[Ilmater]] Verwundete beider Seiten.
+- Während der Revolution versorgten die Priester des [[Ilmater]] Verwundete beider Seiten.
 - Dadurch verhinderten sie viele Massaker und halfen, das Reich zusammenzuhalten.
 
 ## Verknüpfungen

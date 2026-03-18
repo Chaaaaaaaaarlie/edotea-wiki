@@ -6,14 +6,14 @@
 
 - Das [[Anwesen]] ist sehr gepflegt und hochwertig.
 - Sehr dünne Staubschicht auf Kronleuchter. Maximal eine Woche.
-- Wir wurden gebeten in einem Kaminzimmer Platz zu nehmen in welchem wir eine Frau trafen.
+- Wir wurden gebeten, in einem Kaminzimmer Platz zu nehmen, in welchem wir eine Frau trafen.
 - Die Bücher im Zimmer sind fast alle sehr alt.
 - Der Name des Mannes ist [[Elliot]]. Ehemaliger Hofmagier des Königreichs [[Kalineon]].
 - Seine Frau heißt [[Fiona Casterwell|Fiona]].
-- Leben seit 12 Jahren im [[Nebelwald]].
-- Aus Beruf des Hofmagiers zurückgezogen da Fähigkeiten Inadäquat waren.
+- Sie leben seit 12 Jahren im [[Nebelwald]].
+- Hat sich aus dem Beruf des Hofmagiers zurückgezogen, da seine Fähigkeiten als inadäquat galten.
 - Hat Vorfahren mit Drachenblut.
-- Jedoch Blut sehr dünn und nicht mehr so starke magische Kräfte.
+- Das Blut ist jedoch sehr dünn und die magischen Kräfte nicht mehr so stark.
 - Kann Zauber bis zur dritten Stufe.
 - Expertise auf Zauber des Elementes Feuer.
 - Sonst gibt es nur Nebel gegen Herbst. Wir haben aber Frühjahr.
@@ -21,16 +21,16 @@
 - [[Elliot]] ist überrascht, dass jemand Fremdes hier ist.
 - Er bietet uns Zuflucht in seiner Residenz an.
 - [[Naeli]] bittet um eine Karte des Gebiets. [[Elliot]] sagt er fertigt ihr eine an.
-- Er hat sich sehr darüber erschrocken, dass Simian aus versehen auf das Klavier gehauen hat.
+- Er hat sich sehr darüber erschrocken, dass Simian aus Versehen auf das Klavier gehauen hat.
 - [[Khirin]] fragt nach Aufzeichnungen von [[Elliot]] Vorfahren.
 - Er verweist auf eine Bücherei. Der Zustand ist jedoch nicht optimal.
-- [[Fiona Casterwell|Fiona]] hat ziemlich teilnahmslosen Gesichtsausdruck.
+- [[Fiona Casterwell|Fiona]] hat einen ziemlich teilnahmslosen Gesichtsausdruck.
 - [[Sim]] folgt [[Fiona Casterwell|Fiona]] in die Küche für Wein.
 
 ## Abseits
 
 - [[Anwesen]] besteht schon seit mehr als 800 Jahren.
-- Hat Gruppe in Bibliothek gelassen.
+- Hat die Gruppe in die Bibliothek gelassen.
 
 ## Bei Sim
 
@@ -40,10 +40,10 @@
 
 - [[Berta]] und [[Khirin]] studieren die Bücher in der Bücherei.
 - [[Hrímnir]] erzählt er kommt aus dem Norden. Ein kleines Dorf der Goliath-Stämme.
-- [[Naeli]] finden Aufenthaltszimmer für Bedienstete. Sehr spärlich eingerichtet.
-- [[Hrímnir]] und [[Naeli]] finden Handwerksmaterialien wie Holz, Nägel und co. um [[Anwesen]] und Möbel im Schuss zu halten.
+- [[Naeli]] findet Aufenthaltszimmer für Bedienstete. Sehr spärlich eingerichtet.
+- [[Hrímnir]] und [[Naeli]] finden Handwerksmaterialien wie Holz, Nägel und Co., um [[Anwesen]] und Möbel im Schuss zu halten.
 - [[Khirin]] findet Striemen am Boden.
-- [[Elliot]] bietet [[Khirin]] an ihm etwas zu zeigen was mehr sein Geschmack ist und ist dabei sehr enthusiastisch.
+- [[Elliot]] bietet [[Khirin]] an, ihm etwas zu zeigen, was mehr sein Geschmack ist, und ist dabei sehr enthusiastisch.
 - Er zeigt ihnen magische Artefakte von seinen Vorfahren.
 - Es sind wertvolle Erbstücke der Familie.
 - Dort ist auch ein leuchtendes Schwert.
@@ -53,7 +53,7 @@
 
 ## Bei Sim
 
-- Ein Bedienstetenzimmer hat normales Fenster aber Scherben auf Boden von Tonkrug.
+- Ein Bedienstetenzimmer hat ein normales Fenster, aber Scherben eines Tonkrugs auf dem Boden.
 - Alles sehr kaputt und heruntergekommen.
 
 ## Abseits
@@ -64,22 +64,22 @@
 - Hat normale Tiara gefunden.
 - Drei Statuen von Drachen vom Schmied Tretzbold.
 - Zauberbuch und magisches Utensil von [[Wilhelm Casterwell]], der erste Casterwell der sich einen Namen gemacht hat.
-- Magische Utensilien welche nicht weiter beschrieben ist. Vermutlich Alchemie.
+- Magische Utensilien, die nicht weiter beschrieben sind. Vermutlich für Alchemie.
 - Stab mit Sichelmond welcher im Norden in der Eiswüste von [[Wesh]] gefunden wurde.
-- In einer Vitrine ein Zauberbuch von [[Elliot]]s Vorfahren
+- In einer Vitrine steht ein Zauberbuch von [[Elliot]]s Vorfahren.
 - [[Elliot]] sagt, dass das Zauberbuch nicht lesbar ist.
 - Die Statue soll [[Wilhelm Casterwell]] nachempfunden sein.
 
 ## Bei Sim
 
-- Versucht Vitrine zu knacken aber schlägt fehl.
+- Versucht, die Vitrine zu knacken, schlägt aber fehl.
 - Er versteckt sich schnell im Kronleuchter an der Decke.
 - [[Naeli]] schaut sich den Sichelmondstab an nachdem sie [[Elliot]] gefragt hat.
 - Sie darf den Stab bis morgen ausleihen um ihn zu studieren.
 
 ## Gemeinsam
 
-- [[Khirin]] und [[Berta]] haben das Zauberbuch entschlüsselt und suchen das Buch der Schwellen welches darin erwähnt wird.
+- [[Khirin]] und [[Berta]] haben das Zauberbuch entschlüsselt und suchen das Buch der Schwellen, welches darin erwähnt wird.
 - Eine Wand in der Bibliothek ist auffällig.
 - [[Hrímnir]] schlägt die Wand ein und dahinter ist ein Hohlraum der aber anscheinend nur eine Zwischenwand ist.
 - [[Elliot]] sagt, dass er uns den Weg zum Dorf [[Kalden]] beschreiben kann.
@@ -96,4 +96,4 @@
 - Seine Frau wusste aber nichts von der Katze.
 - [[Hrímnir]] hat draußen geschlafen und erneut Stimmen gehört.
 
-- Am nächsten Morgen teilte [[Khirin]] [[Berta]] etwas mit was sein Familiar am Vortag entdeckt hat.
+- Am nächsten Morgen teilte [[Khirin]] [[Berta]] etwas mit, was sein Familiar am Vortag entdeckt hat.

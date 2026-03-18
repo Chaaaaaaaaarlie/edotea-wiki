@@ -14,7 +14,7 @@
 - Sim hat das Grab aufgehebelt.
 - Das Grab wurde bereits ausgegraben und ein Sarg oder eine Leiche ist nirgends zu sehen.
 - Es wurde augenscheinlich von außen ausgegraben.
-- Im Grab formt der Nebel einen Votex/Wirbel.
+- Im Grab formt der Nebel einen Vortex/Wirbel.
 - Hier herrscht kein Nebel.
 
 - Khirin sagt uns, dass [[Elliot]] ganz oft an einen [[Magolor]] gedacht hat als er durch den Nebel in Panik war.
@@ -30,7 +30,7 @@
 - Die Blumenkästen vor der Kapelle sind schon lange verwittert.
 - Die Tür der Kapelle sieht komisch aus. Sie hat zum Beispiel kein Schloss.
 - [[Naeli]] versucht das Fenster mit einem Stein kaputt zu werfen aber der Stein fällt einfach an der Kapelle zu Boden.
-- [[Hrímnir]] ist auf das Dach geklettert und Versucht die Schieferschindeln auf dem Dach weg zu hebeln.
+- [[Hrímnir]] ist auf das Dach geklettert und versucht, die Schieferschindeln auf dem Dach wegzuhebeln.
 - Er sieht drinnen einen in rotem Licht erleuchteten Raum.
 - [[Hrímnir]] lässt sich an einem Seil nach unten.
 - Seine Stimme dringt jedoch nicht nach außen.
@@ -59,7 +59,7 @@
 - Die Runen waren auch im Zauberbuch von [[Wilhelm Casterwell]].
 - Es wurde auf das andere Buch referenziert.
 
-- Als Sim versucht hat mit dem Bruchstück das Papier zu greifen hat sich eine Steinplatte auf welchem das Papier liegt aufgelöst. Dort drunter ist ein Keller.
+- Als Sim versucht hat, mit dem Bruchstück das Papier zu greifen, hat sich eine Steinplatte, auf welcher das Papier liegt, aufgelöst. Darunter ist ein Keller.
 
 ![[Pasted image 20260209205234.png]]
 
@@ -76,11 +76,11 @@
 - Es scheint in blauen Flammen zu liegen welche aber nicht brennen.
 - Das Gehirn ist von Magie erfüllt und scheint mit der Magie oben verbunden zu sein.
 
-- Berta ist sich nicht sicher ob das Gehirn sie gehört hat aber ist sich sicher, dass das Gehirn antworten würde wenn es könnte.
+- Berta ist sich nicht sicher, ob das Gehirn sie gehört hat, ist sich aber sicher, dass das Gehirn antworten würde, wenn es könnte.
 
 - [[Hrímnir]] findet Geräte welche außerweltliche Phänomene abbilden.
 
-- [[Berta]] hört die Stimme es Gehirns. Kann aber nicht einordnen zu was für einer Person die Stimme gehört. Sie weiß nur, dass die Stimme um Hilfe schreit.
+- [[Berta]] hört die Stimme des Gehirns. Kann aber nicht einordnen, zu was für einer Person die Stimme gehört. Sie weiss nur, dass die Stimme um Hilfe schreit.
 
 - Das Gehirn sagt es ist gefangen und kann nichts sehen.
 - Es fühlt sich seit einer Ewigkeit eingesperrt.
@@ -89,7 +89,7 @@
 
 - Das Logbuch ist von [[Magolor]]
 
-- Auf einem Tisch einen Haufen alchemistischer Zutaten und ein Edelstein welcher dem Seelenstein ähnelt und einen Koffer mit Werkzeugen.
+- Auf einem Tisch liegen ein Haufen alchemistischer Zutaten, ein Edelstein, welcher dem Seelenstein ähnelt, und ein Koffer mit Werkzeugen.
 - Der Edelstein scheint nicht magisch zu sein.
 - Der Kristall hat eine hohe Leitfähigkeit und man kann darin einen Spellslot speichern.
 
@@ -97,5 +97,5 @@
 
 - Kampf gegen [[Spectre]], [[Wraith]] und [[Geist]].
 
-- [[Orlam]], der Schmied hat sich in [[Spectre]] verwandelt als wir sich ihm näherten.
+- [[Orlam]], der Schmied, hat sich in einen [[Spectre]] verwandelt, als wir uns ihm nähern wollten.
 - Auch das Haus am Dorfanfang hat sich in eine Ruine verwandelt.

@@ -6,8 +6,8 @@ Gruppierung: Einzeln
 Geschlecht: Nicht zutreffend
 Rasse: Untoter
 Alter: Unbestimmt
-Gesinnung: Chaotisch Boese
-Character-Role: Irrlichtischer Jaeger
+Gesinnung: Chaotisch Böse
+Character-Role: Irrlichtischer Jäger
 Zuhause: Nebelwald
 Quelle: Monster Manual (2024) S. 333
 Habitat: Wald, Sumpf, Stadt
@@ -22,20 +22,20 @@ NoteIcon: npc
 # Informationen
 
 Im [[Nebelwald]] hat die Gruppe einen Will-o'-Wisp gefunden.
-[[Berta]] teilte uns mit, dass diese Wesen geisterhaft sind und normalerweise durch Materie hindurch koennen.
-Trotzdem war es [[Sim]] moeglich, ihn in seinem Umhang zu fangen und anschliessend in einem Topf festzusetzen.
-Spaeter, nachdem [[Khirin]] auf [[Sim]] eingeredet hat, hat [[Sim]] den Will-o'-Wisp wieder freigelassen.
+[[Berta]] teilte uns mit, dass diese Wesen geisterhaft sind und normalerweise durch Materie hindurch können.
+Trotzdem war es [[Sim]] möglich, ihn in seinem Umhang zu fangen und anschliessend in einem Topf festzusetzen.
+Später, nachdem [[Khirin]] auf [[Sim]] eingeredet hat, hat [[Sim]] den Will-o'-Wisp wieder freigelassen.
 
 ## 2024 Regelwerk
 
 - **Quelle:** Monster Manual (2024) - S. 333
-- **Typ:** Winziger Untoter, chaotisch boese
+- **Typ:** Winziger Untoter, chaotisch böse
 - **Habitat:** Wald, Sumpf, Stadt
 - **RK / TP / Bewegung:** 19 / 27 / 5 ft., fliegend 50 ft. (hover)
 - **Sinne:** Dunkelsicht 120 ft., Passive Wahrnehmung 12
 - **Sprachen:** Common plus eine weitere Sprache
-- **Resistenzen:** Saeure, Wucht, Kaelte, Feuer, nekrotischer Schaden, Stich, Hieb
-- **Immunitaeten:** Blitz, Gift; ausserdem immun gegen u. a. Erschoepfung, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained und Unconscious
+- **Resistenzen:** Säure, Wucht, Kälte, Feuer, nekrotischer Schaden, Stich, Hieb
+- **Immunitäten:** Blitz, Gift; ausserdem immun gegen u. a. Erschöpfung, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained und Unconscious
 
 ## Merkmale
 
@@ -46,13 +46,13 @@ Spaeter, nachdem [[Khirin]] auf [[Sim]] eingeredet hat, hat [[Sim]] den Will-o'-
 ## Aktionen
 
 - **Shock:** Nahkampfangriff mit Blitzschaden.
-- **Consume Life (Bonus Action):** Toetet eine lebende Kreatur mit 0 Trefferpunkten endgueltig und heilt sich dabei.
+- **Consume Life (Bonus Action):** Tötet eine lebende Kreatur mit 0 Trefferpunkten endgültig und heilt sich dabei.
 - **Vanish (Bonus Action):** Wird unsichtbar, bis die Konzentration endet oder es wieder offensiv handelt.
 
 ## Edotea-Notizen
 
 - Die Gruppe hat ein Exemplar im [[Nebelwald]] lebend gefangen.
-- Nach einem Gespraech innerhalb der Gruppe wurde das Wesen wieder freigelassen.
+- Nach einem Gespräch innerhalb der Gruppe wurde das Wesen wieder freigelassen.
 - Die offizielle 2024er Schreibweise lautet **Will-o'-Wisp**.
 
 ## Verknüpfungen

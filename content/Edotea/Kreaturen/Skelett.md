@@ -6,9 +6,9 @@ Gruppierung: Einzeln oder Gruppe
 Geschlecht: Nicht zutreffend
 Rasse: Untoter
 Alter: Unbestimmt
-Gesinnung: Rechtschaffen Boese
-Character-Role: Untoter Waechter
-Zuhause: Grabstaetten und Ruinen
+Gesinnung: Rechtschaffen Böse
+Character-Role: Untoter Wächter
+Zuhause: Grabstätten und Ruinen
 Quelle: Monster Manual (2024) S. 282
 Habitat: Shadowfell, Underdark, Stadt
 RK: 14
@@ -21,18 +21,18 @@ NoteIcon: npc
 ---
 # Informationen
 
-Skelette sind im 2024er Regelwerk reanimierte Knochen von Humanoiden, die meist als Waechter, Soldaten oder Diener boeser Magie auftreten.
+Skelette sind im 2024er Regelwerk reanimierte Knochen von Humanoiden, die meist als Wächter, Soldaten oder Diener böser Magie auftreten.
 
 ## 2024 Regelwerk
 
 - **Quelle:** Monster Manual (2024) - S. 282
-- **Typ:** Mittelgrosser Untoter, rechtschaffen boese
+- **Typ:** Mittelgrosser Untoter, rechtschaffen böse
 - **Habitat:** Shadowfell, Underdark, Stadt
 - **RK / TP / Bewegung:** 14 / 13 / 30 ft.
 - **Sinne:** Dunkelsicht 60 ft., Passive Wahrnehmung 9
 - **Sprachen:** Versteht Common plus eine weitere Sprache, kann aber nicht sprechen
 - **Verwundbarkeit:** Wuchtschaden
-- **Immunitaeten:** Gift; ausserdem immun gegen Erschoepfung und Poisoned
+- **Immunitäten:** Gift; ausserdem immun gegen Erschöpfung und Poisoned
 
 ## Aktionen
 
