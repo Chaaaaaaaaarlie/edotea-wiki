@@ -45,15 +45,20 @@
 - [[Khirin]] stammt aus [[Lunovar]].
 - [[Elliot]] studierte in der Akademie der Stadt.
 - Laut [[Elliot]] sollte sich in [[Lunovar]] Hilfe in der Sache um die Gurde finden lassen.
+- Laut [[Nora]] ([[Session 8]]) hat sich [[Lunovar]] seit den zunehmenden Inkursionen stark abgeschottet, gibt fast jeder nicht-elfischen Rasse die Schuld und lässt kaum noch jemanden einreisen.
+- [[Crucellus]], Reichsmitglied und Professor an der Akademie, wurde als Kontaktperson für die Gruppe angekündigt.
 
 ## Verknüpfungen
 
+- [[Crucellus]]
 - [[Elliot]]
 - [[Corellon]]
 - [[Erliorwald]]
 - [[Kalineon]]
 - [[Khirin]]
 - [[Kontinent Edotea]]
+- [[Nora]]
 - [[Session 3]]
 - [[Session 6]]
 - [[Session 7]]
+- [[Session 8]]

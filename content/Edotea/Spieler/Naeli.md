@@ -27,11 +27,17 @@
 - [[Berta]] stellte in [[Session 6]] mit Identify fest, dass [[Naeli]] unter einem Zauber steht.
 - Las in [[Session 7]] weitere Tagebücher von [[Wilhelm Casterwell]] und brachte der Gruppe die Hinweise auf drei gefährliche Bücher nahe.
 - Verbindet diese Erkenntnisse mit [[Magolor]] und will in [[Lunovar]] nach höherer Magie und mehr Wissen dazu suchen.
+- Findet in [[Session 8]] beim Magiehändler in [[Cadnix]] ein etwa 800 Jahre altes Geschichtenbuch. Die ersten zwei Geschichten darin sind für sie interessant (Zusammenfassung steht noch aus).
+- Wirkt in [[Session 8]] Hold Person auf [[Lucien]], der den Wisdom Save versagt und paralysiert wird.
+- Nimmt [[Lucien]] die magische Kommunikationsmünze ab.
 
 ## Verknüpfungen
 
 - [[Anwesen]]
 - [[Berta]]
+- [[Cadnix]]
+- [[Lucien]]
 - [[Session 6]]
 - [[Session 7]]
+- [[Session 8]]
 - [[Treant]]

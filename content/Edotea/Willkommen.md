@@ -2,7 +2,7 @@
 
 ## Einstieg
 
-- [[Sessions/Session 7|Aktuelle Session: Session 7]]
+- [[Sessions/Session 8|Aktuelle Session: Session 8]]
 - [[Orte/Kontinent Edotea|Kontinent Edotea]]
 - [[Orte/Reiche/Kalineon/Kalineon|Kalineon]]
 - [[Orte/Reiche/Kalineon/Städte/Lunovar|Lunovar]]
@@ -20,6 +20,9 @@
 
 - [[NPC/Elliot|Elliot]]
 - [[NPC/Fürst Alator|Fürst Alator]]
+- [[NPC/Nora|Nora]]
+- [[NPC/Lucien|Lucien]]
+- [[NPC/Crucellus|Crucellus]]
 - [[NPC/Magolor|Magolor]]
 - [[NPC/Wilhelm Casterwell|Wilhelm Casterwell]]
 - [[NPC/Lysantir Velora|Lysantir Velora]]
@@ -28,14 +31,20 @@
 
 ## Aktuelle Fäden
 
-- Die Gruppe ist aus dem [[Anwesen]] im [[Nebelwald]] entkommen und hat [[Elliot]] nach [[Cadnix]] begleitet.
+- Die Gruppe ist in [[Cadnix]] und bricht bald nach [[Lunovar]] auf (5 Passierscheine erhalten).
+- [[Lucien]], Agent des Höllenfürsten [[Lore/Marcosias|Marcosias]], wurde gefangen genommen. Verhör steht aus.
+- [[Lore/Marcosias|Marcosias]] will das Pergament, das [[Spieler/Berta|Berta]] bei sich trägt.
+- Auftrag von [[NPC/Nora|Nora]]: Die östliche Garnison von [[Cadnix]] überprüfen (Kontakt verloren).
+- [[NPC/Crucellus|Crucellus]] (Professor an der Akademie in [[Lunovar]]) als Kontaktperson angekündigt.
+- [[NPC/Elliot|Elliot]] bricht mit [[NPC/Fürst Alator|Fürst Alator]] nach [[Kalineon]] auf.
 - In [[Session 7]] verdichten sich die Hinweise auf drei getrennt versteckte Bücher zu Raum-, Essenz- und Seelenmagie.
-- [[Magolor]] könnte bereits eines dieser Bücher aus dem [[Anwesen]] an sich genommen haben.
-- Für die Weiterreise nach [[Lunovar]] werden Passierscheine und möglicherweise ein Empfehlungsschreiben für die Akademie vorbereitet.
-- [[Naeli]] steht weiterhin unter einem unklaren Zauber.
+- [[NPC/Magolor|Magolor]] könnte bereits eines dieser Bücher aus dem [[Anwesen]] an sich genommen haben.
+- [[Spieler/Naeli|Naeli]] steht weiterhin unter einem unklaren Zauber.
+- Seit 5-6 Jahren nehmen Inkursionen aus anderen Ebenen zu (begann in [[Lögress]]).
 
 ## Letzte Sessions
 
+- [[Sessions/Session 8|Session 8]]
 - [[Sessions/Session 7|Session 7]]
 - [[Sessions/Session 6|Session 6]]
 - [[Sessions/Session 5|Session 5]]

@@ -18,6 +18,7 @@
 - Laut [[Session 7]] überlässt er [[Khirin]] seinen Familienring für weitere Nachforschungen zu den alten Laboren und Siegeln seiner Vorfahren.
 - Ebenfalls in [[Session 7]] entlohnt er die Gruppe mit Gegenständen aus seiner Kuriositätenkammer und einem Bag of Holding.
 - In [[Cadnix]] zeigt sich, dass er seit über zehn Jahren als vermisst gilt und später sogar offiziell für tot erklärt wurde.
+- Bricht in [[Session 8]] zusammen mit [[Fürst Alator]] nach [[Kalineon]] auf, um seinen Namen und Status offiziell wiederherzustellen.
 
 ## Verknüpfungen
 
@@ -25,6 +26,7 @@
 - [[Cadnix]]
 - [[Fiona Casterwell]]
 - [[Fürst Alator]]
+- [[Kalineon]]
 - [[Khirin]]
 - [[Magolor]]
 - [[Mondschleiersee]]
@@ -36,4 +38,5 @@
 - [[Session 5]]
 - [[Session 6]]
 - [[Session 7]]
+- [[Session 8]]
 - [[Wilhelm Casterwell]]
