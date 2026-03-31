@@ -2,11 +2,12 @@
 
 ## Einstieg
 
-- [[Sessions/Session 8|Aktuelle Session: Session 8]]
+- [[Sessions/Session 9|Aktuelle Session: Session 9]]
 - [[Orte/Kontinent Edotea|Kontinent Edotea]]
 - [[Orte/Reiche/Kalineon/Kalineon|Kalineon]]
-- [[Orte/Reiche/Kalineon/Städte/Lunovar|Lunovar]]
-- [[Orte/Reiche/Kalineon/Städte/Cadnix|Cadnix]]
+- [[Orte/Reiche/Kalineon/StÃ¤dte/Lunovar|Lunovar]]
+- [[Orte/Reiche/Kalineon/StÃ¤dte/Cadnix|Cadnix]]
+- [[Orte/Reiche/Kalineon/Oestliche Garnison von Cadnix|Ã–stliche Garnison von Cadnix]]
 
 ## Spieler
 
@@ -14,12 +15,12 @@
 - [[Spieler/Sim|Sim]]
 - [[Spieler/Khirin|Khirin]]
 - [[Spieler/Berta|Berta]]
-- [[Spieler/Hrímnir|Hrímnir]]
+- [[Spieler/HrÃ­mnir|HrÃ­mnir]]
 
 ## Wichtige NPC
 
 - [[NPC/Elliot|Elliot]]
-- [[NPC/Fürst Alator|Fürst Alator]]
+- [[NPC/FÃ¼rst Alator|FÃ¼rst Alator]]
 - [[NPC/Nora|Nora]]
 - [[NPC/Lucien|Lucien]]
 - [[NPC/Crucellus|Crucellus]]
@@ -29,21 +30,24 @@
 - [[NPC/Palamedes|Palamedes]]
 - [[NPC/Fiona Casterwell|Fiona Casterwell]]
 
-## Aktuelle Fäden
+## Aktuelle FÃ¤den
 
-- Die Gruppe ist in [[Cadnix]] und bricht bald nach [[Lunovar]] auf (5 Passierscheine erhalten).
-- [[Lucien]], Agent des Höllenfürsten [[Lore/Marcosias|Marcosias]], wurde gefangen genommen. Verhör steht aus.
-- [[Lore/Marcosias|Marcosias]] will das Pergament, das [[Spieler/Berta|Berta]] bei sich trägt.
-- Auftrag von [[NPC/Nora|Nora]]: Die östliche Garnison von [[Cadnix]] überprüfen (Kontakt verloren).
-- [[NPC/Crucellus|Crucellus]] (Professor an der Akademie in [[Lunovar]]) als Kontaktperson angekündigt.
-- [[NPC/Elliot|Elliot]] bricht mit [[NPC/Fürst Alator|Fürst Alator]] nach [[Kalineon]] auf.
-- In [[Session 7]] verdichten sich die Hinweise auf drei getrennt versteckte Bücher zu Raum-, Essenz- und Seelenmagie.
-- [[NPC/Magolor|Magolor]] könnte bereits eines dieser Bücher aus dem [[Anwesen]] an sich genommen haben.
+- Die Gruppe hat [[Cadnix]] verlassen und die [[Orte/Reiche/Kalineon/Oestliche Garnison von Cadnix|Ã¶stliche Garnison von Cadnix]] erreicht.
+- Die Garnison ist zerstÃ¶rt; WÃ¶lfe und kranke weinende [[Treant|Treants]] haben sich das Gebiet zurÃ¼ckgeholt.
+- Der umliegende Wald ist schwer geschÃ¤digt: Pflanzen vergehen, Tiere sterben vom Wasser, und selbst die [[Treant|Treants]] sind verÃ¤ndert.
+- Das Wasser bei der Garnison wirkt leicht magisch.
+- Die Gruppe darf laut den Waldbewohnern bis morgen Sonnenuntergang bleiben, danach soll sie das Gebiet verlassen.
+- [[Lore/Marcosias|Marcosias]] will weiterhin das Pergament, das [[Spieler/Berta|Berta]] bei sich trÃ¤gt.
+- [[NPC/Crucellus|Crucellus]] (Professor an der Akademie in [[Lunovar]]) bleibt die angekÃ¼ndigte Kontaktperson.
+- [[NPC/Elliot|Elliot]] ist mit [[NPC/FÃ¼rst Alator|FÃ¼rst Alator]] nach [[Kalineon]] unterwegs.
+- In [[Session 7]] verdichten sich die Hinweise auf drei getrennt versteckte BÃ¼cher zu Raum-, Essenz- und Seelenmagie.
+- [[NPC/Magolor|Magolor]] kÃ¶nnte bereits eines dieser BÃ¼cher aus dem [[Anwesen]] an sich genommen haben.
 - [[Spieler/Naeli|Naeli]] steht weiterhin unter einem unklaren Zauber.
-- Seit 5-6 Jahren nehmen Inkursionen aus anderen Ebenen zu (begann in [[Lögress]]).
+- Seit 5-6 Jahren nehmen Inkursionen aus anderen Ebenen zu (begann in [[LÃ¶gress]]).
 
 ## Letzte Sessions
 
+- [[Sessions/Session 9|Session 9]]
 - [[Sessions/Session 8|Session 8]]
 - [[Sessions/Session 7|Session 7]]
 - [[Sessions/Session 6|Session 6]]
@@ -56,7 +60,7 @@
 
 ## Bereiche
 
-- [[Lore/Goetterfunke|Götterfunke]]
+- [[Lore/Goetterfunke|GÃ¶tterfunke]]
 - [[Lore/Apostel|Apostel]]
 - [[Lore/Corellon|Corellon]]
 - [[Orte/Natur/Nebelwald/Nebelwald|Nebelwald]]
