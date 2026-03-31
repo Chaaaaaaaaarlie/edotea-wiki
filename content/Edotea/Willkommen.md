@@ -5,9 +5,9 @@
 - [[Sessions/Session 9|Aktuelle Session: Session 9]]
 - [[Orte/Kontinent Edotea|Kontinent Edotea]]
 - [[Orte/Reiche/Kalineon/Kalineon|Kalineon]]
-- [[Orte/Reiche/Kalineon/StÃ¤dte/Lunovar|Lunovar]]
-- [[Orte/Reiche/Kalineon/StÃ¤dte/Cadnix|Cadnix]]
-- [[Orte/Reiche/Kalineon/Oestliche Garnison von Cadnix|Ã–stliche Garnison von Cadnix]]
+- [[Orte/Reiche/Kalineon/Städte/Lunovar|Lunovar]]
+- [[Orte/Reiche/Kalineon/Städte/Cadnix|Cadnix]]
+- [[Orte/Reiche/Kalineon/Oestliche Garnison von Cadnix|Östliche Garnison von Cadnix]]
 
 ## Spieler
 
@@ -15,12 +15,12 @@
 - [[Spieler/Sim|Sim]]
 - [[Spieler/Khirin|Khirin]]
 - [[Spieler/Berta|Berta]]
-- [[Spieler/HrÃ­mnir|HrÃ­mnir]]
+- [[Spieler/Hrímnir|Hrímnir]]
 
 ## Wichtige NPC
 
 - [[NPC/Elliot|Elliot]]
-- [[NPC/FÃ¼rst Alator|FÃ¼rst Alator]]
+- [[NPC/Fürst Alator|Fürst Alator]]
 - [[NPC/Nora|Nora]]
 - [[NPC/Lucien|Lucien]]
 - [[NPC/Crucellus|Crucellus]]
@@ -30,20 +30,20 @@
 - [[NPC/Palamedes|Palamedes]]
 - [[NPC/Fiona Casterwell|Fiona Casterwell]]
 
-## Aktuelle FÃ¤den
+## Aktuelle Fäden
 
-- Die Gruppe hat [[Cadnix]] verlassen und die [[Orte/Reiche/Kalineon/Oestliche Garnison von Cadnix|Ã¶stliche Garnison von Cadnix]] erreicht.
-- Die Garnison ist zerstÃ¶rt; WÃ¶lfe und kranke weinende [[Treant|Treants]] haben sich das Gebiet zurÃ¼ckgeholt.
-- Der umliegende Wald ist schwer geschÃ¤digt: Pflanzen vergehen, Tiere sterben vom Wasser, und selbst die [[Treant|Treants]] sind verÃ¤ndert.
+- Die Gruppe hat [[Cadnix]] verlassen und die [[Orte/Reiche/Kalineon/Oestliche Garnison von Cadnix|östliche Garnison von Cadnix]] erreicht.
+- Die Garnison ist zerstört; Wölfe und kranke weinende [[Treant|Treants]] haben sich das Gebiet zurückgeholt.
+- Der umliegende Wald ist schwer geschädigt: Pflanzen vergehen, Tiere sterben vom Wasser, und selbst die [[Treant|Treants]] sind verändert.
 - Das Wasser bei der Garnison wirkt leicht magisch.
 - Die Gruppe darf laut den Waldbewohnern bis morgen Sonnenuntergang bleiben, danach soll sie das Gebiet verlassen.
-- [[Lore/Marcosias|Marcosias]] will weiterhin das Pergament, das [[Spieler/Berta|Berta]] bei sich trÃ¤gt.
-- [[NPC/Crucellus|Crucellus]] (Professor an der Akademie in [[Lunovar]]) bleibt die angekÃ¼ndigte Kontaktperson.
-- [[NPC/Elliot|Elliot]] ist mit [[NPC/FÃ¼rst Alator|FÃ¼rst Alator]] nach [[Kalineon]] unterwegs.
-- In [[Session 7]] verdichten sich die Hinweise auf drei getrennt versteckte BÃ¼cher zu Raum-, Essenz- und Seelenmagie.
-- [[NPC/Magolor|Magolor]] kÃ¶nnte bereits eines dieser BÃ¼cher aus dem [[Anwesen]] an sich genommen haben.
+- [[Lore/Marcosias|Marcosias]] will weiterhin das Pergament, das [[Spieler/Berta|Berta]] bei sich trägt.
+- [[NPC/Crucellus|Crucellus]] (Professor an der Akademie in [[Lunovar]]) bleibt die angekündigte Kontaktperson.
+- [[NPC/Elliot|Elliot]] ist mit [[NPC/Fürst Alator|Fürst Alator]] nach [[Kalineon]] unterwegs.
+- In [[Session 7]] verdichten sich die Hinweise auf drei getrennt versteckte Bücher zu Raum-, Essenz- und Seelenmagie.
+- [[NPC/Magolor|Magolor]] könnte bereits eines dieser Bücher aus dem [[Anwesen]] an sich genommen haben.
 - [[Spieler/Naeli|Naeli]] steht weiterhin unter einem unklaren Zauber.
-- Seit 5-6 Jahren nehmen Inkursionen aus anderen Ebenen zu (begann in [[LÃ¶gress]]).
+- Seit 5-6 Jahren nehmen Inkursionen aus anderen Ebenen zu (begann in [[Lögress]]).
 
 ## Letzte Sessions
 
@@ -60,7 +60,7 @@
 
 ## Bereiche
 
-- [[Lore/Goetterfunke|GÃ¶tterfunke]]
+- [[Lore/Goetterfunke|Götterfunke]]
 - [[Lore/Apostel|Apostel]]
 - [[Lore/Corellon|Corellon]]
 - [[Orte/Natur/Nebelwald/Nebelwald|Nebelwald]]
