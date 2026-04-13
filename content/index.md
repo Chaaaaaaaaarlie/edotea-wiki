@@ -9,7 +9,7 @@ Die aktuelle Startseite des Wikis liegt unter [[Edotea/Willkommen|Willkommen]].
 ## Einstieg
 
 - [[Edotea/Willkommen|Startseite]]
-- [[Edotea/Sessions/Session 7|Aktuelle Session: Session 7]]
+- [[Edotea/Sessions/Session 10|Aktuelle Session: Session 10]]
 - [[Edotea/Orte/Kontinent Edotea|Kontinent Edotea]]
 - [[Edotea/Orte/Reiche/Kalineon/Kalineon|Kalineon]]
 - [[Edotea/Orte/Reiche/Kalineon/Städte/Lunovar|Lunovar]]
@@ -35,8 +35,9 @@ Die aktuelle Startseite des Wikis liegt unter [[Edotea/Willkommen|Willkommen]].
 
 ## Aktuelle Fäden
 
-- Die Gruppe ist aus dem [[Edotea/Orte/Natur/Nebelwald/Anwesen|Anwesen]] im [[Edotea/Orte/Natur/Nebelwald/Nebelwald|Nebelwald]] entkommen und hat [[Edotea/NPC/Elliot|Elliot]] nach [[Edotea/Orte/Reiche/Kalineon/Städte/Cadnix|Cadnix]] begleitet.
-- In [[Edotea/Sessions/Session 7|Session 7]] verdichten sich die Hinweise auf drei getrennt versteckte Bücher zu Raum-, Essenz- und Seelenmagie.
-- [[Edotea/NPC/Magolor|Magolor]] könnte bereits eines dieser Bücher aus dem [[Edotea/Orte/Natur/Nebelwald/Anwesen|Anwesen]] an sich genommen haben.
-- Für die Weiterreise nach [[Edotea/Orte/Reiche/Kalineon/Städte/Lunovar|Lunovar]] werden Passierscheine und möglicherweise ein Empfehlungsschreiben für die Akademie vorbereitet.
+- Die Gruppe kehrt von der [[Edotea/Orte/Reiche/Kalineon/Oestliche Garnison von Cadnix|östlichen Garnison von Cadnix]] nach [[Edotea/Orte/Reiche/Kalineon/Städte/Cadnix|Cadnix]] zurück.
+- Ein unbekannter Robenträger besuchte die Garnison durch einen Spalt – Verdacht: [[Edotea/NPC/Magolor|Magolor]].
+- [[Edotea/Spieler/Berta|Berta]] hat einen Pakt mit dem Erschaffer der Seite geschlossen; Preis unbekannt, alter Patron verstummt.
+- Im Nordturm wurde ein unbekanntes Symbol gefunden, das Berta und Khirin aus ihrer Vergangenheit kennen, aber nicht einordnen können.
+- Hinweise auf drei getrennt versteckte Bücher zu Raum-, Essenz- und Seelenmagie; [[Edotea/NPC/Magolor|Magolor]] könnte bereits eines haben.
 - [[Edotea/Spieler/Naeli|Naeli]] steht weiterhin unter einem unklaren Zauber.
