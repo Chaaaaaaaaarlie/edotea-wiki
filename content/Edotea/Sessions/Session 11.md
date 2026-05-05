@@ -43,8 +43,7 @@
 
 ### Ankunft vor den Toren Lunovars
 - Vor den Mauern liegen aus Holz zusammengezimmerte Slums; dazu lange Schlangen wartender Reisender, Felder, eine Bergkette und ein Plateau.
-- [[Hrímnir]] springt unbedacht in den Brunnen vor dem Stadttor und findet **3 Elektrum-Münzen**.
-  - Elektrum gilt im Reich als illegal bzw. als Materialverschwendung; Besitz führt pro Münze zu mindestens einem Tag Gefängnis.
+- [[Hrímnir]] springt unbedacht in den Brunnen vor dem Stadttor und findet **40 Goldmünzen**.
 - Wartende Händler mit exotischen Früchten bestätigen die verschärften Einreiseregelungen.
 
 ### Zutritt zur Stadt
