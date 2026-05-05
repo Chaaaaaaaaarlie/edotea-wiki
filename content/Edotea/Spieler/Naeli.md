@@ -17,8 +17,8 @@
 - Hat eine Schneeeule als Vertraute.
 - Lässt sich oft von Hrímnir tragen.
 - Spricht erstaunlicherweise Draconisch.
-- Raucht des Öfteren ihre Pfeife und hat daher eine sehr schwache Kondition.
-- Trinkt sehr viel Alkohol. Ob das Zielwasser ist?
+- Raucht häufig ihre Pfeife und hat daher eine eher schwache Kondition.
+- Trinkt sehr viel Alkohol.
 
 ## Notizen
 
@@ -27,17 +27,23 @@
 - [[Berta]] stellte in [[Session 6]] mit Identify fest, dass [[Naeli]] unter einem Zauber steht.
 - Las in [[Session 7]] weitere Tagebücher von [[Wilhelm Casterwell]] und brachte der Gruppe die Hinweise auf drei gefährliche Bücher nahe.
 - Verbindet diese Erkenntnisse mit [[Magolor]] und will in [[Lunovar]] nach höherer Magie und mehr Wissen dazu suchen.
-- Findet in [[Session 8]] beim Magiehändler in [[Cadnix]] ein etwa 800 Jahre altes Geschichtenbuch. Die ersten zwei Geschichten darin sind für sie interessant (Zusammenfassung steht noch aus).
-- Wirkt in [[Session 8]] Hold Person auf [[Lucien]], der den Wisdom Save versagt und paralysiert wird.
+- Findet in [[Session 8]] beim Magiehändler in [[Cadnix]] ein altes Geschichtenbuch.
+- Wirkt in [[Session 8]] Hold Person auf [[Lucien]].
 - Nimmt [[Lucien]] die magische Kommunikationsmünze ab.
+- Trägt in [[Session 11]] weiterhin die Tagebuchseiten von [[Wilhelm Casterwell]] bei sich und zeigt sie [[Crucellus]].
+- Kennt ihre Eltern nicht und ist in einem Druidenzirkel aufgewachsen.
 
 ## Verknüpfungen
 
 - [[Anwesen]]
 - [[Berta]]
 - [[Cadnix]]
+- [[Crucellus]]
 - [[Lucien]]
+- [[Magolor]]
 - [[Session 6]]
 - [[Session 7]]
 - [[Session 8]]
+- [[Session 11]]
 - [[Treant]]
+- [[Wilhelm Casterwell]]

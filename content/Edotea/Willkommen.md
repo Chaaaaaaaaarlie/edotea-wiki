@@ -2,7 +2,7 @@
 
 ## Einstieg
 
-- [[Sessions/Session 9|Aktuelle Session: Session 9]]
+- [[Sessions/Session 11|Aktuelle Session: Session 11]]
 - [[Orte/Kontinent Edotea|Kontinent Edotea]]
 - [[Orte/Reiche/Kalineon/Kalineon|Kalineon]]
 - [[Orte/Reiche/Kalineon/Städte/Lunovar|Lunovar]]
@@ -27,26 +27,29 @@
 - [[NPC/Magolor|Magolor]]
 - [[NPC/Wilhelm Casterwell|Wilhelm Casterwell]]
 - [[NPC/Lysantir Velora|Lysantir Velora]]
+- [[NPC/Borggrim|Borggrim]]
 - [[NPC/Palamedes|Palamedes]]
 - [[NPC/Fiona Casterwell|Fiona Casterwell]]
 
 ## Aktuelle Fäden
 
-- Die Gruppe hat [[Cadnix]] verlassen und die [[Orte/Reiche/Kalineon/Oestliche Garnison von Cadnix|östliche Garnison von Cadnix]] erreicht.
-- Die Garnison ist zerstört; Wölfe und kranke weinende [[Treant|Treants]] haben sich das Gebiet zurückgeholt.
-- Der umliegende Wald ist schwer geschädigt: Pflanzen vergehen, Tiere sterben vom Wasser, und selbst die [[Treant|Treants]] sind verändert.
-- Das Wasser bei der Garnison wirkt leicht magisch.
-- Die Gruppe darf laut den Waldbewohnern bis morgen Sonnenuntergang bleiben, danach soll sie das Gebiet verlassen.
-- [[Lore/Marcosias|Marcosias]] will weiterhin das Pergament, das [[Spieler/Berta|Berta]] bei sich trägt.
-- [[NPC/Crucellus|Crucellus]] (Professor an der Akademie in [[Lunovar]]) bleibt die angekündigte Kontaktperson.
-- [[NPC/Elliot|Elliot]] ist mit [[NPC/Fürst Alator|Fürst Alator]] nach [[Kalineon]] unterwegs.
-- In [[Session 7]] verdichten sich die Hinweise auf drei getrennt versteckte Bücher zu Raum-, Essenz- und Seelenmagie.
-- [[NPC/Magolor|Magolor]] könnte bereits eines dieser Bücher aus dem [[Anwesen]] an sich genommen haben.
-- [[Spieler/Naeli|Naeli]] steht weiterhin unter einem unklaren Zauber.
-- Seit 5-6 Jahren nehmen Inkursionen aus anderen Ebenen zu (begann in [[Lögress]]).
+- Die Gruppe ist in [[Lunovar]] angekommen und bewegt sich aktuell in der Magischen Akademie.
+- [[Crucellus]] organisiert einen Termin beim Hohen Rat; das kann einige Tage dauern.
+- [[Crucellus]] ist Informant von [[Nora]] und steht in Lunovar unter Beobachtung.
+- In [[Lunovar]] gibt es eine Mordserie: abwechselnd Hochelfen und Bürger, jeweils ein einzelner Stich in die Brust.
+- Ein Riss in der Innenstadt von [[Lunovar]] wurde von einem mechanischen Mann mit vielen Prothesen und einem Würfel geschlossen; die Stadtwache sucht ihn.
+- Die drei Hofmagier des alten Königs waren [[Wilhelm Casterwell]] (Raummagie), [[Lysantir Velora]] (Essenzmagie) und [[Borggrim]] (Seelenmagie).
+- Die Hinterlassenschaft von [[Lysantir Velora]] könnte in den tieferen Stockwerken der Bibliothek oder bei einer Adelsfamilie liegen.
+- [[Berta]]s Pergament muss regelmäßig durch Spellslots nachgeladen werden; aktuelle Restdauer ca. 2,5 Tage.
+- [[Khirin]] hat eine goldene Rose als Leihgabe von [[Crucellus]] erhalten und kennt nun [[Residuum]] als Ersatzmaterial.
+- [[Sim]]s Gurde ist ein beschädigtes Erbstück von [[Wukong]]; zur Reparatur braucht es einen außergewöhnlichen Handwerker.
+- [[Y'Chak]] hat aktuell keinen Zugriff mehr auf [[Berta]].
+- Seit 5–6 Jahren nehmen Inkursionen aus anderen Ebenen zu; die heutigen Risse scheinen Raum-, Essenz- und Seelenmagie zu vereinen.
 
 ## Letzte Sessions
 
+- [[Sessions/Session 11|Session 11]]
+- [[Sessions/Session 10|Session 10]]
 - [[Sessions/Session 9|Session 9]]
 - [[Sessions/Session 8|Session 8]]
 - [[Sessions/Session 7|Session 7]]
@@ -63,6 +66,8 @@
 - [[Lore/Goetterfunke|Götterfunke]]
 - [[Lore/Apostel|Apostel]]
 - [[Lore/Corellon|Corellon]]
+- [[Lore/Drei Bücher|Drei Bücher]]
+- [[Lore/Residuum|Residuum]]
 - [[Orte/Natur/Nebelwald/Nebelwald|Nebelwald]]
 - [[Orte/Natur/Nebelwald/Anwesen|Anwesen]]
 - [[Kreaturen/Shadow|Shadow]]

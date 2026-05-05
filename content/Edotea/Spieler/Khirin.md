@@ -21,17 +21,23 @@
 - Ebenfalls in [[Session 7]] nimmt [[Khirin]] eine verbundene Kristallkugel und eine silberne Drachenstatue zur Untersuchung mit.
 - Macht in [[Session 7]] deutlich, dass Halbelfen und nichtelfische Magie in [[Lunovar]] auf starke Vorbehalte treffen können.
 - Berichtet in [[Session 8]], dass die Kristallkugel weiterhin Dunkelheit und Wasserrauschen zeigt.
-- Teilt Insider-Wissen über [[Lunovar]]: innere vs. äussere Politik, geheime Deals in Palästen, grosse Privatbibliotheken der Familien.
+- Teilt Insider-Wissen über [[Lunovar]]: innere vs. äußere Politik, geheime Deals in Palästen, große Privatbibliotheken der Familien.
 - Deutet an, schon einmal in eine solche Privatbibliothek eingedrungen zu sein.
-- Schliesst eine Art "Vertrag" mit der Gruppe (Details nicht öffentlich).
-- Wird in [[Session 8]] beim Drachenzorn-Trinken besonders stark betrunken (Nat 1 auf Con Save).
-- Wird von [[Sim]] um 10 Gold und einen Armreif bestohlen.
+- Schließt eine Art Vertrag mit der Gruppe.
+- Wird in [[Session 8]] beim Drachenzorn-Trinken besonders stark betrunken.
+- Wird von [[Sim]] bestohlen.
+- Sein Vater ist Skriptor in [[Lunovar]], seine Mutter Kräuterkundlerin und Heilerin ohne Magie.
+- Arbeitete früher in der Akademie von [[Lunovar]] als Bediensteter, wurde aber nicht als Schüler zugelassen.
+- Erhält in [[Session 11]] von [[Crucellus]] eine goldene Rose als Leihgabe; alternativ kennt er nun [[Residuum]] als Materialersatz.
 
 ## Verknüpfungen
 
+- [[Crucellus]]
 - [[Elliot]]
 - [[Lunovar]]
+- [[Residuum]]
 - [[Session 7]]
 - [[Session 8]]
+- [[Session 11]]
 - [[Sim]]
 - [[Will o Wisp]]

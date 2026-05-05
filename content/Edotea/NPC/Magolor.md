@@ -13,15 +13,21 @@
 ## Verdacht: Besuch auf der östlichen Garnison (Session 10)
 
 - Sowohl ein blauer Treant als auch Eulenbärin [[Eulenbärin|Euli]] auf der [[Oestliche Garnison von Cadnix|östlichen Garnison von Cadnix]] berichten von einem Mann in einer Robe, der durch einen **Spalt** erschien.
-- Er trug etwas Sperriges unter der Robe – möglicherweise einen schweren Foliant oder ein grosses Buch (passt zu Magolors bekanntem Besitz).
-- Zeitpunkt: ca. zwölf Monde (~ 1–2 Wochen Spielzeit) vor Session 10.
-- Nach seinem Abgang schloss sich der Spalt, aber der Wald (und die Magie der Gegend) verschlechterte sich spürbar.
-- Magolor ist bisher die einzige bekannte Figur mit passendem Aussehen (Robe, Buch) und bekanntem Interesse an Raum-, Essenz- und Seelenmagie (Spalte könnten in diesen Bereich fallen).
-- Die Verbindung ist umständlicher Verdacht, keine Bestätigung.
+- Er trug etwas Sperriges unter der Robe – möglicherweise einen schweren Folianten oder ein großes Buch.
+- Zeitpunkt: ca. zwölf Monde vor [[Session 10]].
+- Nach seinem Abgang schloss sich der Spalt, aber der Wald und die Magie der Gegend verschlechterten sich spürbar.
+- [[Magolor]] ist bisher die einzige bekannte Figur mit passendem Aussehen und bekanntem Interesse an Raum-, Essenz- und Seelenmagie.
+- Die Verbindung bleibt Verdacht, keine Bestätigung.
+
+## Session 11
+
+- [[Crucellus]] kennt den Namen [[Magolor]] nicht.
+- In einem Buch der Akademie-Bibliothek über berüchtigte Magier taucht [[Magolor]] ebenfalls nicht auf.
 
 ## Verknüpfungen
 
 - [[Anwesen]]
+- [[Elliot]]
 - [[Lysantir Velora]]
 - [[Oestliche Garnison von Cadnix]]
 - [[Session 4]]
@@ -29,4 +35,5 @@
 - [[Session 6]]
 - [[Session 7]]
 - [[Session 10]]
+- [[Session 11]]
 - [[Wilhelm Casterwell]]

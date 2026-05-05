@@ -3,7 +3,7 @@
 ## Beschreibung
 
 - [[Lunovar]] ist die elfische Hochburg auf [[Kontinent Edotea]] und liegt geschützt zwischen Bergen mit einem See im Rücken.
-- Die Stadt entstand, nachdem viele Elfen den [[Erliorwald]] verliessen, um sich vor den Überfällen des alten [[Kalineon]] zu schützen.
+- Die Stadt entstand, nachdem viele Elfen den [[Erliorwald]] verließen, um sich vor den Überfällen des alten [[Kalineon]] zu schützen.
 - Lunovar gilt zugleich als Festung, Handelszentrum und Mittelpunkt hoher Magie.
 
 ## Geschichte
@@ -18,13 +18,16 @@
 - Der See hinter der Stadt dient als Rückzugsweg und Lebensgrundlage.
 - Gemeinsam mit den naturverbundenen Elfen aus den Bergen konnte die Stadt die Angriffe des alten [[Kalineon]] abwehren.
 - Laut [[Session 7]] ist die Einreise für Nichtbürger oder unerwünschte Besucher schwierig und ein Passierschein praktisch sehr hilfreich.
+- In [[Session 11]] zeigt sich vor den Mauern ein ausgedehnter Gürtel aus Holzslums und wartenden Reisenden.
+- Zwischen den beiden Stadtwällen liegt ein künstlich angelegter Graben.
 
 ## Kultur und Gesellschaft
 
 - Das gesellschaftliche Selbstverständnis stützt sich auf Abstammung, magische Meisterschaft sowie Bildung und Kunst.
-- Viele alte Familien legen grossen Wert auf elfische Reinheit und behandeln andere Völker, besonders Halbelfen, herablassend.
+- Viele alte Familien legen großen Wert auf elfische Reinheit und behandeln andere Völker, besonders Halbelfen, herablassend.
 - Wer nicht aus einer anerkannten Linie stammt, kann sich vor allem durch außergewöhnlichen Erfolg in Magie oder Bildung Respekt verschaffen.
-- Laut den Aussagen der Gruppe in [[Session 7]] dürften auch Menschen mit offenkundiger Magie in der Stadt auf deutliche Vorbehalte stossen.
+- Laut den Aussagen der Gruppe in [[Session 7]] dürften auch Menschen mit offenkundiger Magie in der Stadt auf deutliche Vorbehalte stoßen.
+- In [[Session 11]] beschreibt die Gruppe eine sehr saubere Marmorstadt mit Kirschblütenbäumen, vielen Wachen und überwiegend elfischer Bevölkerung.
 
 ## Akademie und Glaube
 
@@ -33,6 +36,16 @@
 - Dort werden Kampfmagie, Illusion, Elementarmagie und altes Wissen gelehrt; auch [[Elliot]] studierte laut [[Session 3]] dort.
 - Eine wichtige religiöse Strömung der Stadt ist der Glaube an [[Corellon]], der in der Zeit des Widerstands gegen das alte [[Kalineon]] stark an Bedeutung gewann.
 - In [[Session 7]] wird der Gruppe in Aussicht gestellt, für die Akademie ein Empfehlungsschreiben zu erhalten.
+
+## Aktuelle Lage
+
+- Strenge Einreiseregeln: Passierscheine, Aufenthaltsadresse und Handelsgenehmigungen.
+- Ein Riss in der Innenstadt wurde vor kurzem von einem mechanisch wirkenden Mann mit vielen Prothesen und einem Würfel geschlossen.
+- Die Stadtwache sucht diesen Mann; angeblich entkam er binnen Sekunden.
+- In der Stadt läuft eine Mordserie: abwechselnd Hochelfen und reguläre Bürger, jeweils ein einzelner Stich in die Brust.
+- Zwischen Adelsfamilien herrschen Spannungen.
+- Elektrum-Besitz ist strafbar.
+- Lunovar ist kommunikativ und politisch zunehmend von [[Kalineon]] abgeschnitten.
 
 ## Politische Stellung
 
@@ -45,20 +58,22 @@
 - [[Khirin]] stammt aus [[Lunovar]].
 - [[Elliot]] studierte in der Akademie der Stadt.
 - Laut [[Elliot]] sollte sich in [[Lunovar]] Hilfe in der Sache um die Gurde finden lassen.
-- Laut [[Nora]] ([[Session 8]]) hat sich [[Lunovar]] seit den zunehmenden Inkursionen stark abgeschottet, gibt fast jeder nicht-elfischen Rasse die Schuld und lässt kaum noch jemanden einreisen.
-- [[Crucellus]], Reichsmitglied und Professor an der Akademie, wurde als Kontaktperson für die Gruppe angekündigt.
+- Laut [[Nora]] hat sich [[Lunovar]] seit den zunehmenden Inkursionen stark abgeschottet.
+- [[Crucellus]] wurde als Kontaktperson für die Gruppe angekündigt.
 
 ## Verknüpfungen
 
+- [[Corellon]]
 - [[Crucellus]]
 - [[Elliot]]
-- [[Corellon]]
 - [[Erliorwald]]
 - [[Kalineon]]
 - [[Khirin]]
 - [[Kontinent Edotea]]
+- [[Magische Akademie Lunovar]]
 - [[Nora]]
 - [[Session 3]]
 - [[Session 6]]
 - [[Session 7]]
 - [[Session 8]]
+- [[Session 11]]
