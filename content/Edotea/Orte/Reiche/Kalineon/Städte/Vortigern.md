@@ -1,5 +1,0 @@
-# Vortigern
-
-## Verknüpfungen
-
-- [[Kontinent Edotea]]

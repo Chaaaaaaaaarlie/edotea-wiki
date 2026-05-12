@@ -1,0 +1,58 @@
+---
+type: meta
+title: "Wiki Log"
+created: 2026-05-11
+updated: 2026-05-12
+tags:
+  - meta
+status: evergreen
+---
+
+# Wiki Log
+
+Append-only. New entries at the **TOP**. Never edit past entries.
+
+## [2026-05-12] consolidate | Kontradiktionen-Sweep nach DM-Feedback
+- **Session 13 → Session 12 zusammengeführt**: Die ingestete "Session 13" war Tool-Misnummerierung — kanonisch ist Session 12. Wiki-Seite Session 13.md gelöscht, Inhalte in Session 12 gemergt (inkl. alter Bibliotheksrecherche-Sektion). Source-Page umbenannt zu [[Session 12 transcript]] (mit Alias auf alten Titel). Session-Zähler 14 → 13.
+- **Drei-Bücher-Trinitaet**: Kanon ist **Raum / Essenz / Seelen** ([[Wilhelm Casterwell]] / [[Lysantir Velora]] / [[Borggrim]]). Das PC-Misremembering in Session 12 (Raum/Zeit/Essenz) ist per `[!contradiction]`-Callout auf [[Session 12]] und [[Drei Bücher]] markiert. [[Virion Loramis]] und [[Risse]]-Page entsprechend korrigiert.
+- **[[Lysantir Velora]]**: Selbstwiderspruch behoben — sie macht *nur* Essenzmagie; die Trinitaet entsteht aus allen drei Magiern zusammen.
+- **[[Hrímnir]]**: Klasse zurück auf **Cleric/Monk** mit Elemental-Monk-Subclass (castet Bless). Rasse korrigiert zu **[[Goliath]]** (mechanisch); kulturell bei Frostgiants aufgewachsen.
+- **Reich-Namen**: `Kalenion` → [[Kalineon]] (Transkriptionsartefakt). Es ist ein Reich, nicht zwei.
+- **Spielername**: `Bertha` / `Bertra` → [[Berta]] (Transkriptions-/Tippfehler). Kurzprofil korrigiert; Whisper-Varianten im Transkript-Source dokumentiert.
+- **Datei umbenannt**: `Loegress.md` → `Lögress.md` (Titel + alle Wikilinks). Alias `Loegress` für Backward-Kompatibilität.
+- **Tote Wikilinks**: `[[Chloro Verde]]` und `[[Talglichtgasse]]` aus overview.md entfernt (DM-Entscheidung: nicht relevant). [[Delora]] bleibt offen (FRAGE an DM).
+- **Neue Stub-Seiten**: [[Goliath]] (Rasse, für Hrímnir), [[Gurde]] (Items — Sims Wukong-Erbstück mit Reparatur-Plan).
+- **Pfadbasierte Wikilinks**: Letzte verbliebene Path-Form (`[[NPC/Chloro Verde]]`) entfernt mit Chloro-Verde-Cleanup.
+
+## [2026-05-12] ingest | Session 12 aus WhisperX-Transkript
+- Quelle: `_transcribex_backups/20260511-205301/Session_13_transcript.txt` (5072 Zeilen, 192 KB).
+- Sprecher-Mapping rekonstruiert: drore=[[Berta]], mep0510=[[Sim]], feeminin=[[Naeli]], luke_234=[[Khirin]], hansmeier=[[Hrímnir]], nightcore0302=DM.
+- Neue Seiten erstellt:
+  - **Charaktere**: [[Fohlen]] (Galleonsfigur-Schulleiter), [[Virion Loramis]] (faktischer Halbelf-Schulleiter, Risse-Forscher).
+  - **Orte**: [[Carbus]] (Standort der zweiten Kristallkugel), [[Isolationsraum]] (Raum in der Akademie), [[Eiswueste-Vulkan-Riss]] (persistenter Riss im Norden).
+  - **Lore**: [[das Nichts]] (kosmische Entität / Bertas Patron), [[Djinn]] (Wunscherfüller).
+  - **Bestiarium**: [[Gedankenschaender]] (Mind Flayer).
+  - **Items**: [[Magischer Schluessel]] (Bertas Pakt-Geschenk), [[Staff of Fire]] (gestohlen, fast defekt).
+  - **Source**: [[Session 12 transcript]] mit Sprecher-Mapping und Whisper-Caveats.
+- Aktualisiert: alle 5 PC-Seiten, [[Magilanikas Maven]] (PC-Namen korrigiert + Magie-Qualität-Warnung), [[Lysantir Velora]], [[Risse]], [[Magische Akademie Lunovar]].
+- Sub-Indizes neu geschrieben: `characters/`, `locations/`, `lore/`, `sessions/` (Session-13-Gap entfernt), `items/` (von Seed → Developing), `sources/` (von Seed → Developing). Master-`index.md` und `hot.md` ebenfalls.
+- Cliffhanger Session 12: Gruppe im Reich von [[das Nichts]], wartet auf Rückversetzung.
+
+## [2026-05-12] migrate | Deutsche Kampagneninhalte in wiki/ konsolidiert
+- 84 vorhandene Dateien aus alten Wurzelordnern (`Spieler/`, `NPC/`, `Orte/`, `Lore/`, `Sessions/`, `Kreaturen/`) in die `wiki/`-Mode-F-Struktur migriert; deutscher Originaltext unverändert.
+- Frontmatter typgerecht prepended: `character` (mit `character_type: pc|npc`), `location` (mit `parent_location`), `lore` (mit `lore_category: deity|concept`), `session` (mit `session_number`).
+- Bestiarium-Frontmatter per MERGE eingefügt (vorhandene RK, TP, Gesinnung, Gruppierung, aliases bleiben erhalten).
+- `overview.md` aus altem `Willkommen.md` regeneriert: PCs auf [[Berta]] / [[Hrímnir]] / [[Khirin]] / [[Naeli]] / [[Sim]] korrigiert; pfadbasierte Wikilinks → bare Namen; tote Links mit `[!gap]` markiert.
+- Mojibake-Verzeichnis `Orte\Reiche\Kalineon\StÃ¤dte` entfernt (SHA-256-Vergleich gegen `Städte\Cadnix.md` → identisch).
+- Sub-Indizes für `characters/`, `locations/`, `lore/`, `sessions/` gebaut. Bug in PC/NPC-Filter (`Where-Object`-Scriptblock ohne Klammern) gefunden und manuell korrigiert.
+- Master-`index.md` und `hot.md` mit aktuellen Inhalten gefüllt.
+- Tote Wikilinks identifiziert: `[[Chloro Verde]]`, `[[Talglichtgasse]]`, `[[Delora]]`, `[[Lögress]]` (vs. `Loegress.md`).
+- Key insight: Session 12 Transkript liegt unverarbeitet in `_transcribex_backups\20260511-205301\` — nächster logischer Ingest-Kandidat.
+
+## [2026-05-11] scaffold | Initial vault structure
+- Vault: `D:\Documents\DnD\Edotea`
+- Mode: F (Book/Course) adapted for D&D campaign
+- Created: folder structure under `wiki/` (characters, locations, factions, lore, items, sessions, quests, sources, questions, meta), `_templates/`, `.obsidian/snippets/vault-colors.css`, vault CLAUDE.md
+- MCP server `obsidian-vault` reconfigured to point at this vault
+- Local REST API plugin (v3.6.2) verified on `https://127.0.0.1:27124`
+- Key insight: Vault is empty — ready for ingest of first session notes, character sheets, or lore documents.
