@@ -29,6 +29,7 @@ status: developing
 - Gemeinsam wirkten sie laut [[Session 7]] auf den Sturz des alten Königs hin.
 - Danach versteckte jeder Forscher sein eigenes Buch einzeln.
 - In [[Session 11]] bestätigen Naelis Tagebuchseiten erneut das Drei-Bücher-Konstrukt und den Plan des damaligen Königs, alle drei Bücher zur Machtakkumulation zu vereinen.
+- In **[[Session 13]]** erkennen [[Berta]] und [[Khirin]] das **[[Wappen des alten Kalineon]]** an einer Brosche des toten [[Spymaster|Spymasters]] — sie kennen es aus einem von Wilhelms Tagebüchern. Dies stützt die Verbindung zwischen Wilhelms Forschungsverbund und der königshausnahen Vergangenheit, die jetzt als Royalisten-Faktion aktiv sein könnte ([[Kalineon-Royalisten]]).
 
 ## Verknüpfungen
 
@@ -46,3 +47,6 @@ status: developing
 - [[Session 6]]
 - [[Session 7]]
 - [[Session 11]]
+- [[Session 13]]
+- [[Wappen des alten Kalineon]]
+- [[Kalineon-Royalisten]]

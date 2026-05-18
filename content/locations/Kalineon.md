@@ -25,6 +25,7 @@ status: developing
 - Vor über tausend Jahren war [[Kalineon]] ein klassisches Königreich, das Macht durch Eroberung, Tribut und Unterwerfung suchte.
 - Diese Politik führte zu langen Kriegen, hohen Abgaben, Zwangsrekrutierungen und religiösen Spannungen.
 - Auch der [[Erliorwald]] und die Elfen, aus denen später [[Lunovar]] hervorging, litten unter den Überfällen des alten Regimes.
+- Das **Wappen** des alten Königshauses ist in [[Wilhelm Casterwell|Wilhelm Casterwills]] Tagebüchern dokumentiert — siehe [[Wappen des alten Kalineon]]. In [[Session 13]] erkennen [[Berta]] und [[Khirin]] dieses Wappen an einer Brosche des toten **[[Spymaster|Spymasters]]** — Khirins Hypothese: aktive **[[Kalineon-Royalisten]]**, die [[Lysantir Velora|Lysantirs]] Pergament begehren.
 
 ## Entstehung des heutigen Kalineon
 
@@ -87,6 +88,9 @@ status: developing
 - [[Session 3]]
 - [[Session 5]]
 - [[Session 7]]
+- [[Session 13]]
 - [[Vortigern]]
 - [[Wilhelm Casterwell]]
+- [[Wappen des alten Kalineon]]
+- [[Kalineon-Royalisten]]
 - [[Zakson]]

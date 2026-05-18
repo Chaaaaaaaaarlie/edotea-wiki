@@ -31,3 +31,4 @@ Stadt, deren genaue Lage und Region bisher unbekannt sind. In [[Session 12]] von
 - In welchem Reich liegt Carbus?
 - Wer besitzt die zweite Kristallkugel — wurde sie entwendet?
 - Ist die Stadt befreundet, neutral, feindlich?
+- **Ist Carbus die [[gesetzlose Stadt]]?** In [[Session 13]] erwähnen die schwarz vermummten Söldner ihre Heimat als "gesetzlose Stadt" — Carbus liegt offiziell außerhalb der bisher bekannten Kalineon-Verwaltung und ist ein plausibler Kandidat.

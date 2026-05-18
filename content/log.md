@@ -2,7 +2,7 @@
 type: meta
 title: "Wiki Log"
 created: 2026-05-11
-updated: 2026-05-12
+updated: 2026-05-18
 tags:
   - meta
 status: evergreen
@@ -11,6 +11,28 @@ status: evergreen
 # Wiki Log
 
 Append-only. New entries at the **TOP**. Never edit past entries.
+
+## [2026-05-18] ingest | Session 13 aus WhisperX-Transkript
+- Quelle: `D:\Documents\DnD\Transkriptionen\Edotea_Session_13_transcript.txt` (178 KB, 4906 Zeilen, ~2h51min). Diesmal **korrekt** Session 13 (anders als bei Session-12-Misnummerierung).
+- Datei in `.raw/session-transcripts/Edotea_Session_13_transcript.txt` kopiert.
+- Sprecher-Mapping wie zuvor: drore=Berta, mep0510=Sim, feeminin=Naeli, luke_234=Khirin, hansmeier=Hrímnir, nightcore0302=DM.
+- Neue Seiten:
+  - **Charaktere**: [[Spymaster]] (tot, royalistischer Auftraggeber), [[Zwergenmeister Schmiedemeisterei]] (NPC, Kintsugi-Schmied), [[Twilight (Pony)]] (companion, Alchemie-Pony).
+  - **Orte**: [[Schmiedemeisterei Lunovar]] (Schmiede am Stadteingang).
+  - **Faktionen**: [[Kalineon-Royalisten]] (vermutete Faktion via Wappen-Brosche).
+  - **Items**: [[Wappen des alten Kalineon]] (Brosche vom Spymaster).
+  - **Lore**: [[gesetzlose Stadt]] (Söldner-Heimat; vermutlich [[Carbus]]).
+  - **Source**: [[Session 13 transcript]].
+  - **Session**: [[Session 13]].
+- Aktualisiert: alle 5 PC-Seiten, [[Fohlen]] (35.000 G Schulden, Telepathie blockiert), [[Y'Chak]] (lila Ketten zerbrochen → keine Bindung mehr), [[Gurde]] (in Reparatur), [[Lunovar]], [[Magische Akademie Lunovar]], [[Carbus]], [[Kalineon]], [[Wilhelm Casterwell]].
+- Sub-Indizes: alle aktualisiert (characters 22→25, locations 27→28, items 3→4, lore 15→16, factions 0→1, sessions 13→14, sources 1→2). Master-`index.md` und `hot.md` ebenfalls.
+- Schlüssel-Erkenntnisse Session 13:
+  - **Y'Chak-Bindung gebrochen** (visuelle Bestätigung durch [[Fohlen]]: lilafarbene Ketten zerbrochen).
+  - **Royalisten-Faden** (Wappen des alten Kalineon-Königshauses an Spymaster-Brosche).
+  - **Fohlens 35.000 G Schulden** an die Schmiede.
+  - **Sims Heimat teilt Kintsugi-Tradition** mit Lunovar/Kalineon — gemeinsamer Ursprung offen.
+  - **Pony aus Alchemie-Explosion** — adoptiert von Naeli+Sim.
+  - **Cliffhanger**: zwei bewusstlose Söldner-Gefangene im gesicherten Zimmer der Akademie, noch nicht verhört.
 
 ## [2026-05-12] consolidate | Kontradiktionen-Sweep nach DM-Feedback
 - **Session 13 → Session 12 zusammengeführt**: Die ingestete "Session 13" war Tool-Misnummerierung — kanonisch ist Session 12. Wiki-Seite Session 13.md gelöscht, Inhalte in Session 12 gemergt (inkl. alter Bibliotheksrecherche-Sektion). Source-Page umbenannt zu [[Session 12 transcript]] (mit Alias auf alten Titel). Session-Zähler 14 → 13.

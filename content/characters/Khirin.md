@@ -53,6 +53,15 @@ status: developing
   - Erhält am Ende des Tages Akademie-Privilegien (Bibliothek, Gemächer).
   - Diskutiert Halbelf-Diskriminierung mit [[Naeli]]: sein Vater ist Skriptor, weil Halbelfen in Lunovar in solche Mittel-Jobs gedrängt werden; Wohlstands-Halbelfen kommen nur aus den Top-Familien.
   - Wird mit der Gruppe ins Reich von [[das Nichts]] gezogen; sieht zunächst **nichts** — auch nach "Augen öffnen" nur die Gruppe.
+- **[[Session 13]]**:
+  - Steckt 2 **Kristallscherben** aus dem zerbrochenen Isolationsraum-Kristall ein (mit [[Fohlen]]s ausdrücklicher Erlaubnis).
+  - Im Spymaster-Kampf: **Fireball** mit **Sculpt Spells** (Pouch um den Spymaster, damit er gefangen genommen werden kann — vom GM dann doch tötlich verwendet via Pushing).
+  - **Counterspell** gegen Söldner-Stabby-Angriff auf sich selbst.
+  - **Scorching Ray** und **Shockwave** als Backup.
+  - **Shield** mehrfach reaktiv.
+  - **Erkennt** das **[[Wappen des alten Kalineon]]** an der Spymaster-Brosche (History-Check) aus [[Wilhelm Casterwell|Wilhelms]] Tagebüchern — formuliert die **Royalisten-Hypothese**.
+  - Tritt am Akademie-Eingang als hochstehender Halbelf auf — die Wache spricht ihn als *"gehobenes Volk"* an.
+  - OOC-Vorschlag: Pony-Name **"Twilight"** (My-Little-Pony-Referenz).
 
 ## Verknüpfungen
 
@@ -69,5 +78,9 @@ status: developing
 - [[Session 8]]
 - [[Session 11]]
 - [[Session 12]]
+- [[Session 13]]
+- [[Spymaster]]
+- [[Wappen des alten Kalineon]]
+- [[Kalineon-Royalisten]]
 - [[Sim]]
 - [[Will o Wisp]]

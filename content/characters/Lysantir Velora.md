@@ -32,6 +32,7 @@ status: developing
   - [[Berta]] zeigt [[Fohlen]] das Pergament aus Lysantirs Hinterlassenschaft. Fohlen **nimmt einen Schritt zurück**: *"definitiv ein sehr unschönes Objekt"*. Den Verfasser/Schreiber kann er nicht identifizieren.
   - [[Fohlen]] bestätigt: Lysantir war in Lunovar unbeliebt wegen ihrer Verbindungen zum alten Reich Kalineon, *"aber sie liebte diese Stadt mit jedem Funken in ihrem Herzen"*.
   - Audienz beim **Hohen Rat** ist für *morgen Mittag* arrangiert — Lysantirs versiegelte Hinterlassenschaft wird dort verhandelt.
+- **[[Session 13]]**: Das Pergament aus ihrer Hinterlassenschaft wird zum Ziel der **[[Kalineon-Royalisten]]** — der getötete [[Spymaster]] trug eine Brosche mit dem **[[Wappen des alten Kalineon]]**. Lysantirs Königshaus-Verbindung macht ihr Pergament für Restauration-Bestrebungen interessant.
 
 ## Verknüpfungen
 
@@ -46,3 +47,7 @@ status: developing
 - [[Session 7]]
 - [[Session 11]]
 - [[Session 12]]
+- [[Session 13]]
+- [[Kalineon-Royalisten]]
+- [[Wappen des alten Kalineon]]
+- [[Spymaster]]

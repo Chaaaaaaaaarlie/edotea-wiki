@@ -2,14 +2,14 @@
 type: meta
 title: "Locations Index"
 created: 2026-05-11
-updated: 2026-05-12
+updated: 2026-05-18
 tags:
   - meta
   - locations
 status: evergreen
 ---
 
-# Orte (27)
+# Orte (28)
 
 ## Kontinent
 - [[Cloud Fang]]
@@ -54,12 +54,13 @@ status: evergreen
 
 - [[Magilanikas Zauberladen]]
 - [[Magische Akademie Lunovar]]
-- [[Isolationsraum]] *(neu, Session 12 — Raum innerhalb der Akademie)*
+- [[Schmiedemeisterei Lunovar]] *(neu, Session 13 — Schmiede am Stadteingang, Kintsugi)*
+- [[Isolationsraum]]
 
 ## Unbekannte Region
 
-- [[Carbus]] *(neu, Session 12 — Standort der zweiten Kristallkugel via Triangulation)*
+- [[Carbus]] — Standort der zweiten Kristallkugel via Triangulation; in [[Session 13]] mögliche Verbindung zur "[[gesetzlose Stadt|gesetzlosen Stadt]]"
 
 ## Riss-Standorte
 
-- [[Eiswueste-Vulkan-Riss]] *(neu, Session 12 — persistenter Riss im nördlichen Vulkan, Naelis Heimat)*
+- [[Eiswueste-Vulkan-Riss]] — persistenter Riss im nördlichen Vulkan, Naelis Heimat

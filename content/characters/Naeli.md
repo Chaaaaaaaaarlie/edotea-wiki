@@ -53,6 +53,16 @@ status: developing
   - Versucht als Erste Kontakt im [[Isolationsraum]] — DM klärt im Privat-Chat (nicht öffentlich gesprochen).
   - Wird mit der Gruppe ins Reich von [[das Nichts]] mitgezogen. Sieht das Nichts als *"etwas Kleines, gefangen in einem dunkelschimmernden Eisbrocken"*.
   - Erinnert: ihr **Zirkel** schickte sie damals südwärts, *"weil Schlimmes im Süden vorgeht"* — der persistente Riss im [[Eiswueste-Vulkan-Riss|Vulkan ihrer Heimat]] war ihr unbekannt.
+- **[[Session 13]]**:
+  - Will weiterhin einen **Pony** haben — wird in dieser Sitzung erhört (siehe unten).
+  - Hilft [[Hrímnir]] beim Grappling-Anschlag, indem sie als kleine "Bein-Stolperfalle" dient.
+  - **Naelis Persuasion** (Schmied) reduziert den Gurde-Reparaturpreis auf 150 G.
+  - Im Spymaster-Kampf: **Nebelwolke**, **Heilung** (12 HP für [[Hrímnir]] nach Vergiftung), Sturm-Spell.
+  - Verwendet ihre **Schneeeule** als Bote — Brief in Elfisch an [[Khirin]] mit der Nachricht *"Entwarnung. Pony."*
+  - Bei der Alchemie-Explosion: castet **Speak with Animals** (nicht Ritual) — Kommunikation mit dem geretteten Pony.
+  - Wird vom Pony als **"Mama"** adoptiert; sagt: *"Wir sind jetzt Pony-Eltern."*
+  - **Intimidation** mit aufglühendem Frost-Stab gegen den elfischen Schüler, der das Pony zurückwill — Schüler zieht beleidigt ab.
+  - Will einen schönen IC-Namen für ihr Pony finden — siehe [[Twilight (Pony)]].
 
 ## Verknüpfungen
 
@@ -73,6 +83,8 @@ status: developing
 - [[Session 8]]
 - [[Session 11]]
 - [[Session 12]]
+- [[Session 13]]
+- [[Twilight (Pony)]]
 - [[Staff of Fire]]
 - [[Treant]]
 - [[Wilhelm Casterwell]]

@@ -49,6 +49,18 @@ status: developing
   - **Trophäe**: reißt einen **Zahn aus einem Mind-Flayer-Schnabel** und hängt ihn an eine Schnur.
   - Trägt die Reisekasse — zahlt 2 Gold fürs Dreierzimmer in der Herberge.
   - Mit der Gruppe ins Reich von [[das Nichts]] gezogen — sieht **leere Eiswüste**.
+- **[[Session 13]]**:
+  - Sammelt 2 faust-große Kristallscherben aus dem Isolationsraum (legt sie auf Bertas Bitte zurück).
+  - In der [[Schmiedemeisterei Lunovar]]: versucht erfolglos seine +1 Handaxt einzutauschen (kein Qualitätssiegel verfügbar).
+  - **Passive Perception 17** — bemerkt als erster die schwarz vermummten Verfolger auf Dächern.
+  - **Grappelt** zwei Söldner; verprügelt den ersten brutal (mehrere Faustschläge, Kopf gegen Holzpfahl).
+  - **Springt vom Dach (9 m)** auf den [[Spymaster|Spymaster]] — **Stunning Strike** trifft, Spymaster gestunt.
+  - Wird **vergiftet ohnmächtig** durch einen gegrappelten Söldner (Stiletto-Stich in den Rücken); Bewusstlosigkeit wird durch [[Naeli]]s Heilung (12 HP) wieder aufgehoben.
+  - Verwendet **Uncanny Metabolism** (volle Heilung, Monk-Points zurück) zu Kampfbeginn.
+  - **Lucky-Point** mehrfach verwendet, um Würfe zu wiederholen.
+  - Goliath-Stärken-Detail: Er hat tatsächlich nur **+0 Stärke**, aber kann als Goliath **doppelt so viel tragen**. [[Berta]] (+2) ist mechanisch stärker.
+  - **He's talking shit**: Über Fohlens Versprechen, die 35.000 G beim Schmied "morgen früh" zu zahlen.
+  - Kauft eine **Schubkarre** für 5 Silber, um die Gefangenen-Kiste zu transportieren.
 
 ## Verknüpfungen
 
@@ -68,5 +80,8 @@ status: developing
 - [[Session 8]]
 - [[Session 11]]
 - [[Session 12]]
+- [[Session 13]]
 - [[Sim]]
+- [[Spymaster]]
+- [[Schmiedemeisterei Lunovar]]
 - [[Staff of Fire]]

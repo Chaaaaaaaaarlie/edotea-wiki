@@ -44,6 +44,16 @@ status: developing
 - Erhält dort einen **fancy aussehenden Schlüssel**: den [[Magischer Schluessel|Schlüssel des Nichts]] — *"jedes Schloss ist das richtige Schloss"*.
 - **Lacht zum ersten Mal echt und fröhlich** während des Nichts-Dialogs.
 - Bekommt Nasenbluten während der Begegnung.
+- **[[Session 13]]**:
+  - **Bestätigt frei**: [[Fohlen]] sah **lilafarbene flammartige Ketten** um sie zerbrechen, als der Kristall zerschellte. [[Y'Chak]] hat keinen Zugriff mehr.
+  - Testet ihre Magie mit **Druidcraft** in der Hand (Blume sprießen lassen) — funktioniert.
+  - Telepathie funktioniert weiterhin (alle PCs); aber **bei [[Fohlen]] selbst** kommt sie nicht durch — Mechanismus unklar.
+  - **Suggestion (DC 15)** auf einen schwarz vermummten Söldner — er beantwortet alle Fragen wahrheitsgemäß.
+  - **Witch Bolt auf höherer Stufe** (90 ft Reichweite) gegen flüchtenden Schwarzmantel.
+  - **Mage Rage** als Buff im Spymaster-Kampf, kombiniert mit **Eldritch Blast**.
+  - **Counterspell** und **Shield** mehrfach reaktiv gegen Söldner-Angriffe.
+  - Erkennt das **[[Wappen des alten Kalineon]]** an der Brosche des [[Spymaster|Spymasters]] (History-Check 13) aus [[Wilhelm Casterwell|Wilhelms]] Tagebüchern.
+  - Erbeutet vom Spymaster den **Auftragszettel** mit einer schlechten Zeichnung von ihr selbst im Hexenhut.
 
 ### Die Seite
 
@@ -68,6 +78,7 @@ status: developing
 - [[Y'Chak]] ist ihr ehemaliger Meister und studiert den Tod, obwohl er selbst nicht sterblich ist.
 - [[Berta]] starb in seinen Experimenten mehrfach, unter anderem fünfmal erfroren in [[Lögress]].
 - Dank des neuen Pakts bzw. der Schriftrolle hat [[Y'Chak]] aktuell keinen direkten Zugriff mehr auf sie.
+- **Bestätigt in [[Session 13]]**: [[Fohlen]] sah **lilafarbene flammartige Ketten** im Moment des Kristallbruchs um Berta zerbrechen — die Bindung an Y'Chak ist gelöst.
 
 ## Verknüpfungen
 
@@ -88,5 +99,9 @@ status: developing
 - [[Session 10]]
 - [[Session 11]]
 - [[Session 12]]
+- [[Session 13]]
+- [[Spymaster]]
+- [[Wappen des alten Kalineon]]
+- [[Kalineon-Royalisten]]
 - [[Will o Wisp]]
 - [[Y'Chak]]

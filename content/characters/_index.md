@@ -2,7 +2,7 @@
 type: meta
 title: "Characters Index"
 created: 2026-05-11
-updated: 2026-05-12
+updated: 2026-05-18
 tags:
   - meta
   - characters
@@ -19,13 +19,13 @@ status: evergreen
 - [[Naeli]]
 - [[Sim]]
 
-## NPCs (22)
+## NPCs (25)
 
 - [[Borggrim]]
 - [[Crucellus]]
 - [[Elliot]]
 - [[Fiona Casterwell]]
-- [[Fohlen]] *(neu, Session 12)*
+- [[Fohlen]]
 - [[Fürst Alator]]
 - [[Kevin]]
 - [[Lucien]]
@@ -38,8 +38,11 @@ status: evergreen
 - [[Orlam]]
 - [[Palamedes]]
 - [[Scale Piercer]]
+- [[Spymaster]] *(neu, Session 13 — tot)*
 - [[Storm Holder]]
-- [[Virion Loramis]] *(neu, Session 12 — namentlich)*
+- [[Twilight (Pony)]] *(neu, Session 13 — Pony-Companion)*
+- [[Virion Loramis]]
 - [[Wilhelm Casterwell]]
 - [[Wukong]]
 - [[Y'Chak]]
+- [[Zwergenmeister Schmiedemeisterei]] *(neu, Session 13)*

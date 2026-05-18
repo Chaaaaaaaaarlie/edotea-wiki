@@ -62,6 +62,18 @@ Nobel auftretender Elf, freundlich-verspielt-warm, lacht leicht. Gibt offen zu, 
 - **[[Berta]]** — Fohlen erkennt sie als Schwester-Diviner an, hält ihre Disguise geheim.
 - **[[Khirin]]** — Halbelf-Solidarität, persönliches Schutzangebot.
 - Schuldet der Gruppe einen Gefallen wegen [[Elliot|Elliot Castorwells]] Rückkehr ([[Session 11]]/12).
+- **[[Schmiedemeisterei Lunovar]]**: schuldet **35.000 Gold** für diverse Akademie-Lieferungen ([[Session 13]]-Reveal). Der Zwergenmeister beschwert sich offen, dass nur Fohlen sich überhaupt zu ihm traut und jedes Mal vertröstet.
+
+## [[Session 13]] — neue Beobachtungen
+
+- **Berichtet [[Berta]]**: Er sah während des Kristall-Bruchs **lilafarbene flammartige Ketten** um sie zerbrechen — Anzeichen, dass [[Y'Chak]]s Bindung gebrochen ist.
+- Fragt vorsichtig: *"Bist du in der Lage, Illusionsmagie zu zaubern?"* — versucht zu klären, ob die Ketten Bertas eigene Illusion waren. Antwort: nein. Fohlens Reaktion: *"Das ist mittelmäßig beunruhigend."*
+- Empfiehlt der Gruppe, *"den Rest des Tages ruhig anzugehen"* und sich auszuruhen.
+- Erlaubt der Gruppe, **Kristallscherben** mitzunehmen — Bedingung: *"zeigt es niemandem, vor allem nicht dem Schulleiter."* (Loramis.)
+- **Empfängt** die Gruppe nach dem Spymaster-Kampf wortlos am Akademie-Eingang — wusste offenbar bereits, dass etwas vorgefallen ist.
+- **Telepathie blockiert**: [[Berta]] kann ihn diesmal nicht telepathisch erreichen. Mechanismus unklar — kein Mind Shielding sichtbar, aber funktioniert nicht. Berta sieht ihn nicht als Illusion.
+- **Bereitet vier Studentenzimmer + ein gesichertes Zimmer** vor, wo die Gefangenen-Kiste landet.
+- **35.000 Gold-Schulden-Eingeständnis**: Fohlen verspricht *"morgen früh"* zu zahlen — [[Hrímnir]] glaubt es nicht (*"He's talking shit."*).
 
 ## Zitate
 - *"Mein Name ist Fohlen und ich bin der unrechtmäßige Schulleiter der Akademie."*
@@ -73,3 +85,6 @@ Nobel auftretender Elf, freundlich-verspielt-warm, lacht leicht. Gibt offen zu, 
 - Wie alt ist Fohlen tatsächlich (Elf-Alter)?
 - Wie kam er zu seinem Cloak of Archmage?
 - Was sieht er als Diviner über [[Berta]]s Pakt mit [[das Nichts]]?
+- Wie blockiert er Telepathie? Ring of Mind Shielding? Anderer Schutz? Aktive Wahl?
+- Wird er die **35.000 Gold** an den Schmied tatsächlich zahlen?
+- Woher wusste er vom Spymaster-Kampf, ohne dass die Gruppe etwas sagte? (Divination?)

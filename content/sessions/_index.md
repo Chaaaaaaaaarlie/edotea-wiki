@@ -2,16 +2,17 @@
 type: meta
 title: "Sessions Index"
 created: 2026-05-11
-updated: 2026-05-12
+updated: 2026-05-18
 tags:
   - meta
   - sessions
 status: evergreen
 ---
 
-# Sessions (13)
+# Sessions (14)
 
 Neueste oben.
+- [[Session 13]]
 - [[Session 12]]
 - [[Session 11]]
 - [[Session 10]]
@@ -26,4 +27,4 @@ Neueste oben.
 - [[Session 1]]
 - [[Session 0]]
 
-> [!note] [[Session 12]] wurde am 2026-05-12 aus dem WhisperX-Transkript ingestiert. Siehe [[Session 12 transcript]] für Sprecher-Mapping und Hinweise zu Transkriptions-Varianten.
+> [!note] [[Session 13]] wurde am 2026-05-18 aus dem WhisperX-Transkript `Edotea_Session_13_transcript.txt` ingestiert. Siehe [[Session 13 transcript]] für Sprecher-Mapping. Diesmal ist die Tool-Nummerierung korrekt (anders als bei [[Session 12 transcript]]).

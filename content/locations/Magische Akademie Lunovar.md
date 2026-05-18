@@ -39,6 +39,10 @@ status: developing
 - Jeder Lehrer hat ein eigenes Büro; pro Klasse gibt es 1–2 separate Räume.
 - **Arena** für praktische Demonstrationen (gemischtes Publikum, Tribünen) — Gastauftritte sind möglich, mehrere geschwächte Riss-Kreaturen können dorthin gebracht werden.
 - **[[Isolationsraum]]** — Sonderraum vom *ursprünglichen Schulleiter* gebaut, vom Hintergrund-Magieflus isoliert; Zentralkristall zerschellt in [[Session 12]].
+- **Studentenzimmer**: mit jeweils 2 Betten, an einem gemeinsamen Gang. In [[Session 13]] hat [[Fohlen]] vier davon freigeräumt, um die Gäste-Gruppe unterzubringen.
+- **Gesichertes Zimmer** am Ende des Studentenzimmer-Gangs — Tür abschließbar mit Schlüssel; ideal für vertrauliche Gegenstände oder Gefangene.
+- **Alchemie-Klassräume**: Mehrere Räume mit eingelassenem Boden (Schüler-Tische tiefer gelegt, damit Rauchschwaden nach oben ziehen). In [[Session 13]] explodiert in einem davon eine Schüler-Mischung und produziert das **[[Twilight (Pony)|magenta Pony]]**.
+- **Innenhof** — verbindet Gebäude und Zimmer; Sim+Naeli nutzen ihn nach dem Pony-Vorfall.
 
 ## Bedeutung
 
@@ -46,6 +50,7 @@ status: developing
 - [[Crucellus]] nutzt einen abgeschirmten Raum bzw. eine private Bibliothek für vertrauliche Gespräche.
 - Hier verdichten sich die Hinweise auf die drei Bücher sowie auf die aktuellen Risse.
 - **[[Session 12]]**: Gastauftritt im *Verteidigung gegen die dunklen Künste*-Kurs. Empfang durch [[Fohlen]], Galleonsfigur-Reveal, Sieg gegen Mind Flayer in der Arena, Lysantir-Pergament-Reaktion, Riss-Diskussion. Gruppe erhält **Bibliotheks-Zugang**, eigene **Gemächer** (umfunktionierter Klassenraum) und Ausweise; Termin Hoher Rat (morgen Mittag) ist arrangiert.
+- **[[Session 13]]**: Zurück nach Spymaster-Kampf — [[Fohlen]] empfängt schweigend, weist 4 Studentenzimmer + 1 **gesichertes Zimmer** zu (für die Gefangenen-Kiste). Bewohner-Schüler bekommen Aufruhr mit, als ein Alchemie-Klassraum explodiert und ein **[[Twilight (Pony)|lavendel Pony]]** entsteht. **Schulden-Reveal**: [[Fohlen]] schuldet der [[Schmiedemeisterei Lunovar]] 35.000 Gold für Akademie-Lieferungen.
 
 ## Verknüpfungen
 
@@ -56,4 +61,7 @@ status: developing
 - [[Nora]]
 - [[Session 11]]
 - [[Session 12]]
+- [[Session 13]]
+- [[Schmiedemeisterei Lunovar]]
+- [[Twilight (Pony)]]
 - [[Virion Loramis]]

@@ -51,6 +51,16 @@ status: developing
   - Mind-Flayer-Arena: Hunter's Mark + Pfeile, hat **Nat 20** und trennt einem Gegner den Kopf am Hals ab.
   - Kniet zu einem toten Mind Flayer und entschuldigt sich für den Schaukampf — empathischer als die übrigen.
   - Wird mit der Gruppe ins Reich von [[das Nichts]] gezogen — sieht *seinen eigenen leeren Raum, niemand darin*.
+- **[[Session 13]]**:
+  - Bringt die [[Gurde]] zur **[[Schmiedemeisterei Lunovar]]** für physische Reparatur.
+  - **Erkennt** die **Kintsugi-Goldlack-Technik** des Zwergenmeisters als die gleiche Tradition wie in seiner **Heimat**. Schmied: *"Alles hat irgendwo bestimmt seinen Ursprung."* — Lore-Hook.
+  - Schlägt ein **Würfelspiel** vor, um Reparaturkosten zu reduzieren — abgelehnt vom Schmied.
+  - Im Spymaster-Kampf: **Hunter's Mark** + Hand Crossbow + **Pushing Attack** auf [[Spymaster]]; pusht ihn vom Dach (15 ft) → 20 ft Sturz, tot.
+  - Verwendet **Tactical Mind** bei Athletik-Wurf, um durchs Fenster zu springen.
+  - **Disarming Attack** auf Söldner.
+  - Bei der Alchemie-Explosion: greift in den pinken Rauch, holt das **[[Twilight (Pony)|Twilight-Pony]]** heraus, springt durch das Fenster.
+  - Wird vom Pony als **"Papa"** adoptiert.
+  - Konfrontiert [[Fohlen]] mit den 35.000 Gold Schulden beim Schmied — *"Wir sind vom Schmied angehauen worden..."*
 
 ## Verknüpfungen
 
@@ -72,6 +82,10 @@ status: developing
 - [[Session 8]]
 - [[Session 11]]
 - [[Session 12]]
+- [[Session 13]]
+- [[Schmiedemeisterei Lunovar]]
+- [[Twilight (Pony)]]
+- [[Spymaster]]
 - [[Virion Loramis]]
 - [[Wukong]]
 - [[Will o Wisp]]

@@ -2,14 +2,14 @@
 type: meta
 title: "Lore Index"
 created: 2026-05-11
-updated: 2026-05-12
+updated: 2026-05-18
 tags:
   - meta
   - lore
 status: evergreen
 ---
 
-# Lore (15 + Bestiarium 11)
+# Lore (16 + Bestiarium 11)
 
 ## Götter & Höllenfürsten
 - [[Corellon]]
@@ -24,6 +24,7 @@ status: evergreen
 
 - [[Apostel]]
 - [[Drei Bücher]]
+- [[gesetzlose Stadt]] *(neu, Session 13 — Söldner-Heimat, möglicherweise [[Carbus]])*
 - [[Goetterfunke]]
 - [[Residuum]]
 - [[Risse]]
