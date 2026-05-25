@@ -9,7 +9,7 @@ related: []
 sources:
   - Tagebücher Wilhelm Casterwell
 created: 2026-05-11
-updated: 2026-05-25
+updated: 2026-05-26
 status: developing
 ---
 # Die drei Bücher
@@ -37,7 +37,24 @@ status: developing
 - Als die Gefahr der Forschung klar wurde, suchten die drei [[Palamedis]] auf.
 - Danach wurden die Bücher **in derselben Nacht** (Tagebuch VIII) getrennt versteckt — jeder Magier kennt nur sein eigenes Versteck. Wenige Eingeweihte: religiöse Führer, einige Anführer der Aufständischen, die drei Magier.
 - Die heutigen Risse scheinen Raum-, Essenz- und Seelenmagie zugleich zu vereinen.
-- [[Magolor]] könnte bereits eines dieser Bücher an sich genommen haben.
+
+### Visueller Identifier ([[Session 14]])
+Per [[Berta]]s Detect Thoughts auf [[Sophie Marie]]: die zwei Folianten, die [[Magolor]] besitzt, sind **baugleich**:
+- **Sehr dunkles schwarzes Leder**, schön verziert (kein normales Leder).
+- **Tragen ein eingebranntes Zeichen** — **identisch** mit dem Stempel-Zeichen auf [[Berta]]s [[Lysanthiriel Vaelora|Lysantir-Pergament]] (Session 6 verschmiert gesehen). Berta und Khirin: *"Das kommt uns sehr unvollständig vor — wir haben es schon an anderen Orten gesehen, aber so."*
+- **Eine grüne Perle** auf dem einen Buch, **eine rote Perle** auf dem anderen.
+- Welcher Magier zu welcher Farbe gehört: **unbekannt** — die Tagebücher erwähnen keine Perlen ([[Naeli]] bestätigt nach Re-Read).
+
+### Magolor hat zwei Bücher
+- Bestätigt durch Sophies Erinnerung: Sie sah Magolor mit **beiden** Folianten am Gürtel.
+- Magolor hat Sophie *"mit Hilfe von dem einen Buch das Leben gerettet"* — Sophies Erinnerung: **grüne Magie um sich herum, das Buch mit der grünen Perle aufgeschlagen**.
+- Bertas Pergament-Seite ist eine **abgerissene Seite** eines der drei Bücher — vermutlich Lysantirs Essenz-Buch (Magolor will sie zurück).
+
+### Elfaria-Aussage ([[Session 14]])
+- *"Diese Bücher wurden in drei verschiedenen Orten versteckt. Ganz Lunovar hat damals unter höchsten Sicherheitsmaßnahmen dafür gesorgt, dass ein Tempel errichtet wurde."*
+- *"Ein Tempel, der nicht zu finden ist — es sei denn, man weiß bereits, wo er ist."*
+- Familie **[[Elfaria Albis von Sylphid|Sylphid]]** ist eine der **Wächter-Familien** für Lysantirs Buch.
+- *"Wir haben Lysantirs Kristallkugel zerstört, nachdem sie starb."* → siehe [[Lysanthiriel Vaelora]].
 
 ## Verknüpfungen
 
@@ -46,8 +63,11 @@ status: developing
 - [[Lysanthiriel Vaelora]]
 - [[Magolor]]
 - [[Palamedis]]
+- [[Sophie Marie]]
+- [[Elfaria Albis von Sylphid]]
 - [[Session 7]]
 - [[Session 11]]
+- [[Session 14]]
 - [[Wilhelm Casterwell]]
 - [[das Nichts]]
 - [[Tagebücher Wilhelm Casterwell]]

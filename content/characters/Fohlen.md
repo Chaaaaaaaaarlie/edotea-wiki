@@ -17,7 +17,7 @@ related:
 sources:
   - Session 12 transcript
 created: 2026-05-12
-updated: 2026-05-12
+updated: 2026-05-26
 status: developing
 ---
 
@@ -81,10 +81,17 @@ Nobel auftretender Elf, freundlich-verspielt-warm, lacht leicht. Gibt offen zu, 
 - *"Solltet du Probleme haben, wende dich gerne an mich."* (zu [[Khirin]])
 - *"Diese hier kamen aus einem Riss, welcher ein gesamtes Dorf zerstört hat."*
 
+## [[Session 14]] — neue Aktionen
+- **Schmied-Zahlung mit Platinumkugel**: Statt Bargeld übergibt Fohlen aus dem **Privatvermögen** eine **Platinumkugel** an den [[Zwergenmeister Schmiedemeisterei|Schmied]] — *"die er innerhalb von zwei Wochen verkaufen soll, falls sie das Geld bis dahin nicht fertig gemacht haben. Wesentlich mehr wert."* Schmied: zufrieden, *"ich kann mich nicht beschweren."*
+- **Divination 3 Tage vorausschauend**: Hat **drei Tage vor [[Session 13]]** eine **[[Lady Günthers Flasche|Pferdeflasche]]** bei [[Virion Loramis]] in Auftrag gegeben — **bevor** das Pony überhaupt existierte. Sim: *"Wie zum Teufel hat er das mitbekommen?"* — Berta: *"Polen hat in die Zukunft gesehen vor drei Tagen und gemerkt, dass wir es brauchen."*
+- **Fireball-Schriftrolle**: Übergibt der Gruppe eine Fireball-Schriftrolle ([[Hrímnir]]) zur Entsorgung der zwei Söldner-Leichen im gesicherten Zimmer-Badezimmer.
+- **Audienz-Antrag**: Hat den Antrag für die Audienz beim Hohen Rat *"für sie"* gestellt — [[Elfaria Albis von Sylphid]] bestätigt das.
+- **Pre-Säuberung**: Als die Gruppe vor der Audienz das Zimmer verlässt, **liegen die drei Söldner-Leichen (Sophie, Spymaster, Spymasters Stellvertreter) komplett ausgezogen in der Wanne** — jemand (Fohlen?) hat zwischenzeitlich vorbereitet, dass nur sie verbrannt werden, keine Spuren bleiben.
+
 ## Offene Fragen
 - Wie alt ist Fohlen tatsächlich (Elf-Alter)?
 - Wie kam er zu seinem Cloak of Archmage?
 - Was sieht er als Diviner über [[Berta]]s Pakt mit [[das Nichts]]?
 - Wie blockiert er Telepathie? Ring of Mind Shielding? Anderer Schutz? Aktive Wahl?
-- Wird er die **35.000 Gold** an den Schmied tatsächlich zahlen?
-- Woher wusste er vom Spymaster-Kampf, ohne dass die Gruppe etwas sagte? (Divination?)
+- **Wie weit reicht seine Divination?** 3 Tage präzise vorausgeplant ist hoch.
+- Wer hat die Leichen ausgezogen und in die Wanne gelegt? Fohlen, oder ein anderer Mitwisser?

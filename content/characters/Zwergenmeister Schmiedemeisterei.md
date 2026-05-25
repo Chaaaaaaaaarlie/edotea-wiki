@@ -15,8 +15,10 @@ related:
   - Gurde
 sources:
   - Session 13 transcript
+  - Session 14
+  - Session 14 transcript
 created: 2026-05-18
-updated: 2026-05-18
+updated: 2026-05-26
 status: developing
 ---
 
@@ -68,8 +70,19 @@ Ein höflicher Mensch am Tresen, der den Meister aus der Werkstatt holte. Sehr f
 - Risse werden **sichtbar bleiben** als Goldlinien (Kintsugi-Stil).
 - Nach Reparatur ist die Gurde **wieder verzauberbar** durch einen Magier.
 
+## [[Session 14]] — Lieferung + Fohlens Zahlung
+- Schmied **lauthals betrunken** am Tresen. Sims Anrede: *"Herr Calder von Lüttow"* (möglicher Name? Whisper-Variante oder Sims Spitzname — siehe Caveats).
+- **Reveal**: [[Fohlen]] hat **kein Bargeld** überbracht, sondern aus seinem **Privatvermögen eine Platinumkugel** übergeben — soll innerhalb von **2 Wochen verkauft** werden, falls Akademie-Geld bis dahin nicht eintrifft. *"Tatsächlich sogar wesentlich mehr wert."* — Schmied ist zufrieden, betrachtet die Schulden als ersetzt.
+- **Gurde**: Stellt das Item *"sehr vorsichtig"* hin, trotz Betrunkenheit. Lack getrocknet+poliert. Sim: *"Wow, so gut hat sie seit Jahren nicht mehr ausgesehen. Du bist ja ein wirklicher Meister."*
+- Schmied: *"Natürlich. Ich bin ja auch ein Zwerg. Jeder Zwerg, der was von sich hält, tut seine Arbeit auch richtig."*
+- Trinkt mit [[Sim]] und [[Naeli]] (Lady-Günther-Pony) — *"Auf Lady Günther"*, hebt Krug.
+- **Sim zahlt 150 Gold**.
+- *"Wenn du nochmal Arbeit für mich hast, freut mich."*
+
+> [!info] **Name-Caveat**: Im Transkript spricht Sim ihn als *"Herr Calder von Lüttow"* an, der DM bestätigt diesen Namen nicht. Möglicherweise: (a) Whisper-Fehler für einen anderen Namen, (b) zwergischer Volltitel, (c) Sims spontaner Einfall. **Bis zur DM-Bestätigung bleibt der Name unbestätigt** — der NPC bleibt *"Zwergenmeister"*.
+
 ## Verknüpfungen
 - [[Schmiedemeisterei Lunovar]] · [[Sim]] · [[Gurde]]
 - [[Fohlen]] · [[Magische Akademie Lunovar]]
 - [[Lunovar]]
-- [[Session 13]]
+- [[Session 13]] · [[Session 14]]

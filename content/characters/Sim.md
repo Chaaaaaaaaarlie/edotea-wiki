@@ -8,7 +8,7 @@ tags:
 related: []
 sources: []
 created: 2026-05-11
-updated: 2026-05-11
+updated: 2026-05-26
 status: developing
 ---
 # Sim
@@ -61,6 +61,15 @@ status: developing
   - Bei der Alchemie-Explosion: greift in den pinken Rauch, holt das **[[Twilight (Pony)|Twilight-Pony]]** heraus, springt durch das Fenster.
   - Wird vom Pony als **"Papa"** adoptiert.
   - Konfrontiert [[Fohlen]] mit den 35.000 Gold Schulden beim Schmied — *"Wir sind vom Schmied angehauen worden..."*
+- **[[Session 14]]**:
+  - **Bricht sich die rechte Hand** beim Backpfeifen-Versuch des Spymaster-Stellvertreters (Strength 1) — und trifft [[Khirin]] statt den Gefangenen.
+  - **Holt die Gurde** physisch fertig vom [[Zwergenmeister Schmiedemeisterei|Schmied]] ab (Kintsugi-Goldlinien); zahlt 150 G. Trinkt mit dem Schmied.
+  - **Übergibt die Gurde** an [[Virion Loramis]] zur magischen Wiederherstellung: *"Pass drauf auf, sie ist sehr wichtig für mich."*
+  - **Markt-Vorfall**: konfrontiert Adelsdame um Halbelfen-Kind ([[Jack]]): *"Sollen wir das mit deinen Kindern auch machen?"*
+  - **Audienz**: Mass Suggestion DC 10 **gescheitert** (Wahrheits-Zwang aktiv).
+  - Nach Suggestion-Ende eskaliert: *"Du kriegst ja nicht mal mit, was in deiner eigenen Stadt passiert. Du hochlässiges Stück Scheiße. Sie, Wichser. Ja."* — Auslöser für Festnahme-Befehl.
+  - **Combat-Flucht**: springt **durch ein Fenster** der Eingangshalle (Dex 15 — knapp geschafft). Auf dem Dach hilft mit Stab anderen über Lücken.
+  - Hat **35 Movement** + Dash = 70/65 ft pro Runde.
 
 ## Verknüpfungen
 
@@ -83,6 +92,7 @@ status: developing
 - [[Session 11]]
 - [[Session 12]]
 - [[Session 13]]
+- [[Session 14]]
 - [[Schmiedemeisterei Lunovar]]
 - [[Twilight (Pony)]]
 - [[Spymaster]]
@@ -90,3 +100,5 @@ status: developing
 - [[Wukong]]
 - [[Will o Wisp]]
 - [[Nebelwald]]
+- [[Elfaria Albis von Sylphid]]
+- [[Jack]]

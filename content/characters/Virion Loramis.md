@@ -18,7 +18,7 @@ sources:
   - Session 12 transcript
   - Session 12
 created: 2026-05-12
-updated: 2026-05-12
+updated: 2026-05-26
 status: developing
 ---
 
@@ -42,6 +42,25 @@ Halbelf aus einem etwas höheren Haus Lunovars — dadurch halbwegs gut behandel
 - *"Sämtliche Fortschritte in der Risse-Forschung haben wir fast ausschließlich ihm zu verdanken."* — [[Fohlen]]
 - Wird der Gruppe als Anlaufstelle für die magische Reparatur der [[Gurde]] empfohlen — aber *erst nach Lösung der Risse-Frage*.
 - Galt schon in [[Session 12]] als möglicher Schlüsselkontakt ("möglicherweise Virion Loramis").
+
+## Erste persönliche Begegnung ([[Session 14]])
+- **Sehr alter Halbelf**, am Gang vor einer Tür stehend, *"verträumt aus dem Fenster schauend"* (DM-Vergessen: war eigentlich eine Tür).
+- Erkannt am Bart — *"Elfen haben keine Gesichtsbehaarung, reinrassige."*
+- Spricht warm, schelmisches Lächeln.
+
+### Übergaben in Session 14
+| Item | Empfänger | Hintergrund |
+| --- | --- | --- |
+| **[[Lady Günthers Flasche|Pferdeflasche]]** | [[Naeli]] | Von [[Fohlen]] **drei Tage vorher per Divination vorausbestellt**, obwohl das Pony erst gestern aufgetaucht ist |
+| **[[Staff of Fire]]** repariert, 10/10 Charges | [[Hrímnir]] | Magisch wiederhergestellt; lädt jetzt täglich nach |
+| **Fireball-Schriftrolle** | [[Hrímnir]] | (Eigentlich von Fohlen ausgehändigt) — zur Entsorgung der Söldner-Leichen |
+| **[[Gurde]]** wieder *angenommen* | [[Sim]] | Sim übergibt physisch reparierte Gurde an Virion zur magischen Wiederherstellung — *"Wie auf meinen Augapfel."* |
+
+### Charakterzüge
+- *"Es ist tatsächlich immer recht anstrengend, mit der Akademie schriftliche Sachen zu vereinbaren. Aber wir zahlen immer."*
+- Entschuldigt sich für *"Verspätung"* der Pferdeflasche (3 Tage statt sofort) — versteht selbst nicht ganz, dass das Pony erst gestern existierte.
+- Sein **Büro** ist *"einfach den Gang geradeaus durch, wenn du durch den Haupteingang kommst"*.
+- Bietet jederzeit Unterstützung an: *"Wenn irgendetwas ist, wendet euch ruhig an mich."* (schelmisches Lächeln)
 
 ## Beziehungen
 - **[[Fohlen]]** — offizielle Galleonsfigur, decken sich gegenseitig den Rücken

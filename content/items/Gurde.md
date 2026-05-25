@@ -14,7 +14,7 @@ related:
   - Virion Loramis
 sources: []
 created: 2026-05-12
-updated: 2026-05-12
+updated: 2026-05-26
 status: developing
 ---
 
@@ -41,16 +41,19 @@ status: developing
 
 Alternative Magie-Anlaufstelle wäre [[Magilanikas Maven]] gewesen (sie bot in Session 12 die Reparatur an als Teil des Leuchteschwert-Verkauf-Deals); [[Fohlen]] warnt jedoch vor ihr (fehlerhaftes Equipment, gestohlene Schülerbücher).
 
-## Aktueller Stand ([[Session 13]])
+## Aktueller Stand ([[Session 14]])
 
-> [!success] **Physische Reparatur begonnen**: [[Sim]] hat die Gurde am Tresen der [[Schmiedemeisterei Lunovar]] abgegeben. Der **Zwergenmeister** verwendet **Kintsugi-Goldlack** — die Risse werden mit Gold verfüllt, bleiben sichtbar als ästhetische Linien. **Fertig am nächsten Morgen** (Tag 3 nach Akademie-Ankunft). Kosten: **150 Gold** (verhandelt, Standard wäre 200).
+> [!success] **Physisch fertig**: [[Sim]] holt die Gurde am Morgen ab. Lack aufgetragen, getrocknet, poliert. *"Eine sehr schöne Arbeit geworden."* — Kintsugi-Goldlinien sichtbar als ästhetische Akzente.
+>
+> **Bezahlung**: [[Sim]] zahlt 150 Gold (siehe [[Session 13]]). Schmied trinkt mit ihm: *"Auf dein Geld und meine Gurte und das Pony!"*
+>
+> **Magische Wiederherstellung übergeben**: [[Sim]] übergibt die Gurde anschließend an [[Virion Loramis]]: *"Bitte pass drauf auf, sie ist sehr wichtig für mich."* — Virion: *"Wie auf meinen Augapfel. Versprochen."*
 
-- Magische Wiederherstellung später durch [[Virion Loramis]] (offen).
-- Schmied bestätigt: nach Reparatur ist die Gurde wieder verzauberbar.
+- Magische Wiederherstellung steht noch aus — Virion hat den Auftrag.
 - Bemerkenswert: Die **Kintsugi-Technik** existiert sowohl in Sims Heimat als auch in Lunovar — *"Alles hat irgendwo bestimmt seinen Ursprung."* Lore-Hook offener Ursprung.
 
 ## Reparatur-Bezahlung
-- [[Sim]] verkaufte in [[Session 12]] sein **Leuchteschwert** an [[Magilanikas Maven]] für 125 Gold + Magie-Reparatur-Zusage. Falls Magilanika ausfällt, fließt der Deal anders.
+- [[Sim]] verkaufte in [[Session 12]] sein **Leuchteschwert** an [[Magilanikas Maven]] für 125 Gold + Magie-Reparatur-Zusage — wegen Pseudo-Wachen-Vorfall ([[Session 14]]) ist die Reparatur über Magilanika hinfällig; Virion übernimmt.
 
 ## Offene Fragen
 - Welche Magie war ursprünglich auf der Gurde — was kann sie wieder, wenn vollständig restauriert?
@@ -60,4 +63,4 @@ Alternative Magie-Anlaufstelle wäre [[Magilanikas Maven]] gewesen (sie bot in S
 ## Verknüpfungen
 - [[Sim]] · [[Wukong]] · [[Magilanikas Maven]] · [[Virion Loramis]] · [[Fohlen]]
 - [[Schmiedemeisterei Lunovar]] · [[Zwergenmeister Schmiedemeisterei]]
-- [[Session 6]] · [[Session 7]] · [[Session 8]] · [[Session 12]] · [[Session 13]]
+- [[Session 6]] · [[Session 7]] · [[Session 8]] · [[Session 12]] · [[Session 13]] · [[Session 14]]

@@ -12,7 +12,7 @@ related:
 sources:
   - Session 12 transcript
 created: 2026-05-12
-updated: 2026-05-12
+updated: 2026-05-26
 status: developing
 ---
 
@@ -25,10 +25,26 @@ Fancy aussehender Schlüssel, den [[Berta]] in [[Session 12]] aus den Händen vo
 - [[Das Nichts|Das Nichts]] materialisiert während [[Berta]]s zweiter Begegnung mit ihm im [[Isolationsraum]] zunächst eine **hellschimmernde Kristallkugel** auf einer schwebenden Insel, die [[Berta]] *"förmlich anbettelt"*, sie zu nehmen.
 - In dem Moment, in dem sie sie aufhebt, **verwandelt sich die Kugel in den Schlüssel**.
 
-## Eigenschaften
+## Eigenschaften (bestätigt in [[Session 14]])
 - *"Jedes Schloss ist das richtige Schloss."* — der Schlüssel ist nicht an ein konkretes Schloss gebunden.
 - Soll [[Berta]] *"näher zu der Freiheit bringen, die sie sucht"*.
-- Tatsächliche Funktion noch nicht erprobt; weder Ziel-Schloss noch Aktivierungs-Bedingungen explizit.
+- **Identify-Resultat ([[Session 14]])**:
+  - *"Kein Patron-Item per se. Aber er ist das, was dich beschützt."*
+  - Magisches Item, **durch nichts Bekanntes zerstörbar**.
+  - *"Wenn du ihn verwendest, öffnet sich eine Tür an einen anderen Ort. Welcher Ort ist dir nicht bekannt."*
+- **Mechanismus**: Schlüssel **passt sich der Zacken/Klinge automatisch dem Schloss an**, sobald in ein Schlüsselloch gesteckt. Dreht problemlos.
+
+### Beobachtete Effekte
+| Aktion | Resultat |
+| --- | --- |
+| In der Luft drehen | **Nichts** |
+| Akademie-Badezimmer-Tür (Klo besetzt von Hrímnir) | **Schwarzes Wasser mit Nebel, leichter Sog** in einen anderen Ort. Hrímnir auf der anderen Seite sah **nichts** — für ihn war nur der Klo-Raum da. |
+| Hintertür in Lunovars Mittelviertel ([[Session 14]] Flucht) | Führt in **[[Berthas Bohnen]]** — eine *"erholend"* anfühlende Kaffeebar |
+
+### Implikationen
+- **Funktioniert nur einseitig** — von der einen Seite sieht man durch, von der anderen nicht.
+- **Schließbar** wieder durch Tür-Zumachen + Schlüssel-Rausziehen.
+- **Zielort offenbar variabel** — zwei Tests, zwei Ergebnisse (zwar verwandt, aber nicht identisch).
 
 ## Offene Fragen
 
@@ -40,4 +56,5 @@ Fancy aussehender Schlüssel, den [[Berta]] in [[Session 12]] aus den Händen vo
 4. Gibt es ein konkretes "Schloss der Freiheit", das [[Berta]] sucht — z.B. das Aufheben ihres Pakts selbst?
 
 ## Verknüpfungen
-- [[Berta]] · [[das Nichts]] · [[Isolationsraum]] · [[Session 12]]
+- [[Berta]] · [[das Nichts]] · [[Isolationsraum]] · [[Berthas Bohnen]]
+- [[Session 12]] · [[Session 14]]

@@ -8,7 +8,7 @@ tags:
 related: []
 sources: []
 created: 2026-05-11
-updated: 2026-05-11
+updated: 2026-05-26
 status: developing
 ---
 # Khirin
@@ -62,6 +62,17 @@ status: developing
   - **Erkennt** das **[[Wappen des alten Kalineon]]** an der Spymaster-Brosche (History-Check) aus [[Wilhelm Casterwell|Wilhelms]] Tagebüchern — formuliert die **Royalisten-Hypothese**.
   - Tritt am Akademie-Eingang als hochstehender Halbelf auf — die Wache spricht ihn als *"gehobenes Volk"* an.
   - OOC-Vorschlag: Pony-Name **"Twilight"** (My-Little-Pony-Referenz).
+- **[[Session 14]]**:
+  - **Bricht sich die rechte Hand** (Strength-Check 0) bei einer Backpfeife für den Spymaster-Stellvertreter; Tagesweise Debuff auf alle physischen Würfe. Sim haut ihn anschließend ebenfalls — d4 Schaden extra.
+  - Castet **Identify als Ritual** auf Magolors Brosche → entdeckt **Abhör- und Ortungsfunktion**.
+  - **Empfängt den [[Spell-Slot-Anhänger]]** von [[Magilanikas Maven]] — speichert Spell-Slot bis Stufe 3.
+  - **Markt-Vorfall**: bezahlt 6 Silber für das Spielzeug + 5 Silber zusätzlich an [[Jack]]; rät Jack, sich als Elfen-Diener zu tarnen.
+  - **Audienz**: castet **Mass Suggestion**-Save **gescheitert** (Wahrheits-Zwang aktiv). Verspielt sich beim Wisdom-Save nicht (Advantage durch Halbelfen-Charm-Resistenz greift hier nicht — *"das ist Charme"*).
+  - Nach Suggestion-Ende: *"Königin Bitch"* (mit ironischer Verneigung) — Suggestion-Aktivität bestätigt.
+  - **Combat-Flucht**: **Misty Step** ans Thron-Podium → **stiehlt die [[Krone des Hohen Rates]]** → **Misty Step** zurück (Bonus Action) → Dash durch Naelis Windwall.
+  - Zweiter Misty Step beim Mauer-Hochklettern.
+  - DM: *"Du wirst bekannt als Kirin der Sack."* — **keine Inspiration** für petty Krone-Diebstahl.
+  - Diebstahl-Motivation: rassistische *"Halbelf-Balg"*/*"Bastard"*-Behandlung während der Audienz aufgestaut.
 
 ## Verknüpfungen
 
@@ -79,8 +90,13 @@ status: developing
 - [[Session 11]]
 - [[Session 12]]
 - [[Session 13]]
+- [[Session 14]]
 - [[Spymaster]]
 - [[Wappen des alten Kalineon]]
 - [[Kalineon-Royalisten]]
 - [[Sim]]
 - [[Will o Wisp]]
+- [[Spell-Slot-Anhänger]]
+- [[Krone des Hohen Rates]]
+- [[Jack]]
+- [[Elfaria Albis von Sylphid]]

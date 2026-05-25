@@ -12,7 +12,7 @@ related: []
 sources:
   - Tagebücher Wilhelm Casterwell
 created: 2026-05-11
-updated: 2026-05-25
+updated: 2026-05-26
 status: developing
 ---
 # Lysanthiriel Vaelora
@@ -40,6 +40,12 @@ status: developing
   - [[Fohlen]] bestätigt: Lysantir war in Lunovar unbeliebt wegen ihrer Verbindungen zum alten Reich Kalineon, *"aber sie liebte diese Stadt mit jedem Funken in ihrem Herzen"*.
   - Audienz beim **Hohen Rat** ist für *morgen Mittag* arrangiert — Lysantirs versiegelte Hinterlassenschaft wird dort verhandelt.
 - **[[Session 13]]**: Das Pergament aus ihrer Hinterlassenschaft wird zum Ziel der **[[Kalineon-Royalisten]]** — der getötete [[Spymaster]] trug eine Brosche mit dem **[[Wappen des alten Kalineon]]**. Lysantirs Königshaus-Verbindung macht ihr Pergament für Restauration-Bestrebungen interessant.
+- **[[Session 14]]**:
+  - **Bestätigt**: Lysantirs Pergament ist tatsächlich Ziel von [[Magolor]] (nicht der Royalisten) — er sieht es als *"sein"* an (Pergament wurde *"an einem Ort zurückgelassen, dort gestohlen"*).
+  - **Ihre Kristallkugel ist zerstört**: [[Elfaria Albis von Sylphid]] (Familien-Wächterin) bestätigt — *"Die Kugel, welche Lysantir verwendet hat, um mit den anderen beiden Verrätern zu korrespondieren, die haben wir zerstört, nachdem [Lysantir] starb."* (DM-Versprecher: *"nachdem Elfaria starb"*).
+  - **Implikation**: Khirins gefundene Kristallkugel (Hammerschläge zu hören) ist **nicht Lysantirs** — sie gehört zu einem der anderen zwei Magier ([[Wilhelm Casterwell]] oder [[Borgrim Runenbrecher]]).
+  - Sie hatte ihre **eigene Kristallkugel** zu Lebzeiten — die Magier-Trinitaet kommunizierte über diese Kugeln (eine pro Person).
+  - Familie **Sylphid** wacht über ihr Buch in einem **Tempel** in Lunovar, *"der nicht zu finden ist, es sei denn, man weiß bereits, wo er ist."*
 
 ## Verknüpfungen
 
@@ -55,9 +61,12 @@ status: developing
 - [[Session 11]]
 - [[Session 12]]
 - [[Session 13]]
+- [[Session 14]]
 - [[Kalineon-Royalisten]]
 - [[Wappen des alten Kalineon]]
 - [[Spymaster]]
+- [[Magolor]]
+- [[Elfaria Albis von Sylphid]]
 - [[das Nichts]]
 - [[Drei Bücher]]
 - [[Tagebücher Wilhelm Casterwell]]

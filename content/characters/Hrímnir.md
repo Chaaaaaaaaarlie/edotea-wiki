@@ -8,7 +8,7 @@ tags:
 related: []
 sources: []
 created: 2026-05-11
-updated: 2026-05-11
+updated: 2026-05-26
 status: developing
 ---
 ![[Hrimnir.png|533]]
@@ -61,6 +61,18 @@ status: developing
   - Goliath-Stärken-Detail: Er hat tatsächlich nur **+0 Stärke**, aber kann als Goliath **doppelt so viel tragen**. [[Berta]] (+2) ist mechanisch stärker.
   - **He's talking shit**: Über Fohlens Versprechen, die 35.000 G beim Schmied "morgen früh" zu zahlen.
   - Kauft eine **Schubkarre** für 5 Silber, um die Gefangenen-Kiste zu transportieren.
+- **[[Session 14]]**:
+  - **Verhör**: setzt sich auf den Spymaster-Stellvertreter, hält Kopf, klatscht ihn wach (Strength 16). Setzt Sophie nach Detect Thoughts wieder ein (Halsschlagader-Druck, Strength 20).
+  - **Versenkt Magolors Loyalitäts-Brosche im Bag of Holding** — kein Empfang (Astralebene).
+  - **Versenkt beide Söldner-Gefangene im Bag of Holding** → ersticken nach 2 Minuten (kein Atmen drin). *"Same Procedure as ever, yeah."*
+  - **Holt den reparierten [[Staff of Fire]]** persönlich bei [[Virion Loramis]] ab (10/10 Charges).
+  - **Markt-Vorfall**: versucht Slide of Hand auf Adelsdamen-Beutel — fliegt auf. *"Gute Frau, ihr seid zu hässlich, um euch anzufassen. Ich bin gestolpert."* Geht weg, niemand hält ihn auf.
+  - **Klettert aufs Dach** (Acrobatic 8) bei Jacks-Verfolgung.
+  - **Empfängt das menschliche Herz** im Jutesack via Naelis Eule. Anatomie-Check 7 → humanoides Herz, normalgroßes Wesen.
+  - **Holt** Hrímnir-Mode bei [[Magilanikas Maven]]: versenkt den Pseudo-Wachen in Bag of Holding; entsorgt ihn später, indem er ihn in den Bag of Holding eines Tatortreiniger-Mannes (brauner Robe) umschüttet.
+  - **Audienz**: Mass Suggestion DC 10 **geschafft**.
+  - **Combat-Flucht**: trägt Naeli unter dem Arm zur Saaltür (Sprint + Step of the Wind). Bricht die Tür mit **Thunder Damage Stunning Strike + Flurry of Blows** auf (24 + 22 = **46 Schaden**, Tür hat Doppelschaden gegen Thunder).
+  - Springt 21 m von der Adelsmauer mit Naeli auf den Schultern (25 HP Abblock → 0 effective dmg).
 
 ## Verknüpfungen
 
@@ -81,7 +93,11 @@ status: developing
 - [[Session 11]]
 - [[Session 12]]
 - [[Session 13]]
+- [[Session 14]]
 - [[Sim]]
 - [[Spymaster]]
 - [[Schmiedemeisterei Lunovar]]
 - [[Staff of Fire]]
+- [[Sophie Marie]]
+- [[Elfaria Albis von Sylphid]]
+- [[Jack]]

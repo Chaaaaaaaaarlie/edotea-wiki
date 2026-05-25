@@ -64,9 +64,20 @@ Hatte eine Crew von **Schwarzmänteln** (Söldner-Spies + Assassine) aus der "ge
 Der Spymaster ist tot, aber:
 1. Er **gehörte zu einer größeren Faktion** — den vermuteten [[Kalineon-Royalisten]].
 2. Er wusste vom **Pergament [[Berta]]s** — wer hat ihn informiert?
-3. Er kam aus der **[[gesetzlose Stadt|gesetzlosen Stadt]]** — Verbindung zu [[Carbus]]?
+3. Er kam aus der **[[gesetzlose Stadt|gesetzlosen Stadt]]** — bestätigt = [[Carbus]] (per [[Session 14]] Stellvertreter-Verhör).
+
+## Korrektur in [[Session 14]] — Auftraggeber
+> [!important] **Der Spymaster arbeitete für [[Magolor]]**, nicht direkt für die [[Kalineon-Royalisten]]. Die zweite Gefangene, **[[Sophie Marie]]**, war die eigentliche Magolor-Agentin im Trupp — der Spymaster war ihr Söldner-Mittelsmann. **Kopfgeld auf Berta** kam von einer separaten Quelle in [[Carbus]] (5.000 G von **[[Edgar Thorne]]**) — gleicher Trupp, zwei parallele Aufträge.
+
+Aussagen des **Spymaster-Stellvertreters** (anderer Söldner, in Session 14 verhört):
+- *"Es gibt zwei Leute, die etwas von dir wollen. Eine Person will etwas in deinen Sachen. Eine Person möchte dich tot haben."* → Sophie = Pergament, [[Edgar Thorne]] = Kopfgeld.
+- *"Diesen [Kopf] hätte ich ebenfalls zurück mit nach [Carbus] nehmen müssen."*
+- Auftraggeber-Quellen verweigert; *"meine eigenen Informanten und Quellen geben ich nicht preis."*
+
+Die **Royalisten-Verbindung** (Wappen des alten Kalineon) bleibt eigenständig — wahrscheinlich ein **drittes Faden** über Söldner-Identität, separat vom Magolor- und Thorne-Auftrag.
 
 ## Verknüpfungen
-- [[Berta]] · [[Kalineon-Royalisten]] · [[Wappen des alten Kalineon]]
-- [[gesetzlose Stadt]] · [[Kalineon]]
-- [[Session 13]]
+- [[Berta]] · [[Magolor]] · [[Sophie Marie]] · [[Edgar Thorne]]
+- [[Kalineon-Royalisten]] · [[Wappen des alten Kalineon]]
+- [[gesetzlose Stadt]] · [[Carbus]] · [[Kalineon]]
+- [[Session 13]] · [[Session 14]]

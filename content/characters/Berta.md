@@ -8,7 +8,7 @@ tags:
 related: []
 sources: []
 created: 2026-05-11
-updated: 2026-05-11
+updated: 2026-05-26
 status: developing
 ---
 # Berta
@@ -54,6 +54,18 @@ status: developing
   - **Counterspell** und **Shield** mehrfach reaktiv gegen Söldner-Angriffe.
   - Erkennt das **[[Wappen des alten Kalineon]]** an der Brosche des [[Spymaster|Spymasters]] (History-Check 13) aus [[Wilhelm Casterwell|Wilhelms]] Tagebüchern.
   - Erbeutet vom Spymaster den **Auftragszettel** mit einer schlechten Zeichnung von ihr selbst im Hexenhut.
+- **[[Session 14]]**:
+  - **Verhör Stellvertreter**: castet **Intimidation 19** (mit Hrímnir-Help-Vorteil) → Geständnis: Kopfgeld in Carbus durch [[Edgar Thorne]] (5.000 G).
+  - **Detect Thoughts auf [[Sophie Marie]]** (zweiter Versuch, mit Past-Life-Erinnerung d6) → ganzes Magolor-Aussehen + Brandstempel-Identifikation.
+  - **Mano Illusion** von Magolor + Folianten für die Gruppe.
+  - **Identify** auf den [[Magischer Schluessel|Schlüssel des Nichts]] — bestätigt: Tür zu anderem Ort, durch nichts Bekanntes zerstörbar.
+  - **Telepathie-Versuch zum Nichts** über die Pergament-Seite (Arcana 23 + d6 Past-Life) — **funktioniert nicht** (falscher Vektor).
+  - **Bertas Book of Shadows weigert sich**, die Pergament-Seite aufzunehmen (blau-rote Flamme).
+  - **Test des Schlüssels** an der Badezimmer-Tür: **funktioniert** — schwarzer Sog. Hrímnir auf der anderen Seite sieht nichts.
+  - **Audienz**: Mass Suggestion DC 10 **geschafft** mit Luckpoint. *"Ich lasse mich nicht einfach so massensuggesten."*
+  - **Combat-Flucht**: durch Fenster gesprungen, Dex-Save scheitert → **10 Schaden** an Scherben (HP von 24 auf 14). Klettert dann Hauswand 3 Stockwerke hoch (Acrobatic 27 mit Tactical Mind). Wirft 80 ft Seil runter.
+  - Ihre **Stadtmauer-Akrobatic 27** lässt sie unbeschadet 21 m runter.
+  - **Final-Move**: nutzt den Schlüssel an einer Hintertür im Mittelviertel → die Tür führt in **[[Berthas Bohnen]]** — eine Kaffeebar, die sich *"erholend"* anfühlt. *"Will jemand Kaffee?"* — als wäre Berta hier zuhause.
 
 ### Die Seite
 
@@ -100,7 +112,13 @@ status: developing
 - [[Session 11]]
 - [[Session 12]]
 - [[Session 13]]
+- [[Session 14]]
 - [[Spymaster]]
+- [[Sophie Marie]]
+- [[Edgar Thorne]]
+- [[Magolor]]
+- [[Elfaria Albis von Sylphid]]
+- [[Berthas Bohnen]]
 - [[Wappen des alten Kalineon]]
 - [[Kalineon-Royalisten]]
 - [[Will o Wisp]]

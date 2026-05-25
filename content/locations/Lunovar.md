@@ -6,9 +6,10 @@ parent_location: "[[Kalineon]]"
 tags:
   - location
 related: []
-sources: []
+sources:
+  - Session 14
 created: 2026-05-11
-updated: 2026-05-11
+updated: 2026-05-26
 status: developing
 ---
 # Lunovar
@@ -60,6 +61,25 @@ status: developing
 - Elektrum-Besitz ist strafbar.
 - Lunovar ist kommunikativ und politisch zunehmend von [[Kalineon]] abgeschnitten.
 
+## Stadtviertel
+
+> [!info] **Adelsviertel Lunovar** ([[Session 14]]): durch eine **separate 21-Meter-Mauer** (Attack-on-Titan-Style) vom Rest der Stadt getrennt. Im Zentrum steht ein riesiges Marmor-Gebäude — der **Ratssaal** mit Thron des Hohen Rates. Reicht-Familien wohnen hier in Halb-Palästen. **Pöbel und Halbelfen** sind ausgeschlossen.
+
+| Viertel | Beschreibung |
+| --- | --- |
+| **Adelsviertel** | Marmor, Palace-Architektur, eigene Mauer, Wachen-eskortierter Zugang |
+| **Mittelviertel** | Hauptmarkt, Adelsläden, Spielzeugstand, Handwerk; an das Adelsviertel angrenzend |
+| **Niederes Viertel** (Pöbel-Viertel) | Wo der Riss sich öffnete; Halbelfen, Halblinge, Nicht-Elfen wohnen hier; "die Gegend des Pöbels" laut Elfaria |
+
+## Gruppe als Verbrecher ([[Session 14]])
+Nach Audienz mit [[Elfaria Albis von Sylphid]]:
+- **Kronendiebstahl** (Krone des Hohen Rates) durch [[Khirin]].
+- **Beleidigung des Hohen Rates** durch [[Sim]] und [[Khirin]] nach Mass Suggestion.
+- **Ausbruch aus dem Ratssaal** durch Naelis Windwall + Hrímnirs Thunder Damage Tür-Aufbruch + Khirins Misty-Step-Flucht.
+- **Flucht über die Adelsmauer** ins Mittelviertel.
+- **Schlüssel-des-Nichts-Portal** in [[Berthas Bohnen]] — die Gruppe verschwindet aus Lunovar.
+- Wachen wissen nicht, dass die Gruppe das Adelsviertel verlassen hat — aber **Gesichter wahrscheinlich bekannt**.
+
 ## Politische Stellung
 
 - Obwohl [[Lunovar]] geographisch im Einflussbereich von [[Kalineon]] liegt, verwaltet die Stadt Bildung, Handel und Verteidigung weitgehend selbst.
@@ -94,3 +114,7 @@ status: developing
 - [[Session 11]]
 - [[Session 12]]
 - [[Session 13]]
+- [[Session 14]]
+- [[Elfaria Albis von Sylphid]]
+- [[Krone des Hohen Rates]]
+- [[Berthas Bohnen]]

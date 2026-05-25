@@ -13,9 +13,11 @@ related:
   - Magilanikas Maven
 sources:
   - Session 12 transcript
+  - Session 14
+  - Session 14 transcript
 created: 2026-05-12
-updated: 2026-05-12
-status: developing
+updated: 2026-05-26
+status: mature
 ---
 
 # Staff of Fire
@@ -24,23 +26,21 @@ status: developing
 Magischer Feuer-Stab, der **Feuerwellen** entfesseln kann. In [[Session 12]] von [[Hrímnir]] aus dem [[Magilanikas Zauberladen]] **gestohlen**, während [[Magilanikas Maven]] in Verhandlungen mit [[Khirin]] abgelenkt war.
 
 ## Zustand
-- *"Die Qualität ist fast am Arsch."* — laut Identify durch [[Khirin]].
-- **1–2 weitere Anwendungen** sicher; danach wird es ein Glücksspiel, ob der Stab **explodiert** ("in eure Fresse").
-- Reparaturbedürftig — Ziel-Anlaufstelle für Magie-Restauration: [[Virion Loramis]] (stellvertretender Schulleiter, [[Magische Akademie Lunovar]]).
+- **Repariert in [[Session 14]]** durch [[Virion Loramis]] — *"Der hat kein Risiko mehr hochzugehen."*
+- **10/10 Charges** (laut Items-Beschreibung).
+- **Lädt täglich nach** — Anzahl der Charges pro Tag offen, *"juckt mich jetzt auch nicht."* (DM).
+- Spell-Auswahl: castet **Burning Hands** standardmäßig (in der Item-Description), zerstört z.B. drei Leichen im Badezimmer.
 
 ## Aktueller Besitzer
-- **[[Naeli]]** — [[Hrímnir]] gab ihr den Stab weiter mit der Anweisung, ihn *nur im Notfall* einzusetzen.
-- Naeli hatte zuvor nie mit Feuer gearbeitet (eher Frost) — Hrímnir: *"Ich glaub an dich, du schaffst das."*
+- **[[Hrímnir]]** — holte den reparierten Stab in [[Session 14]] persönlich aus Virions Büro ab.
+- [[Naeli]] hat ihn in [[Session 14]] für die Leichen-Verbrennung im Akademie-Badezimmer einmalig verwendet (1 Charge, Burning Hands).
 
 ## Diebstahl-Spuren
-- [[Magilanikas Maven]] hat den Diebstahl bisher offenbar nicht bemerkt.
-- Risiko: würde sie es bemerken, hätte sie den Schuldigen ([[Hrímnir]]) identifizieren können (Halbelf? — nein, Hrímnir ist nicht Halbelf; eher die Beschreibung als "Riese").
-- Khirin scherzte: *"Ich kann mich an einem Halbelf erinnern. Ah, ein Halbelf, gut, den lünchen wir."* → leichte Sorge, dass Verdacht auf [[Khirin]] fallen könnte.
+- [[Magilanikas Maven]] hat den Diebstahl bisher offenbar nicht bemerkt — selbst in [[Session 14]] beim Anhänger-Liefer-Termin nicht angesprochen.
 
 ## Offene Fragen
-- Lässt sich der Stab tatsächlich vollständig restaurieren?
-- Wie viele Ladungen erhält ein restaurierter Staff of Fire?
+- Wie viele Charges lädt der Stab pro Tag nach?
 - Konsequenzen, falls Magilanika den Diebstahl bemerkt?
 
 ## Verknüpfungen
-- [[Hrímnir]] · [[Naeli]] · [[Khirin]] · [[Magilanikas Maven]] · [[Magilanikas Zauberladen]] · [[Virion Loramis]] · [[Session 12]]
+- [[Hrímnir]] · [[Naeli]] · [[Khirin]] · [[Magilanikas Maven]] · [[Magilanikas Zauberladen]] · [[Virion Loramis]] · [[Session 12]] · [[Session 14]]

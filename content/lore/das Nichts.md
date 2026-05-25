@@ -18,7 +18,7 @@ sources:
   - Session 12 transcript
   - Tagebücher Wilhelm Casterwell
 created: 2026-05-12
-updated: 2026-05-25
+updated: 2026-05-26
 status: developing
 ---
 
@@ -63,15 +63,38 @@ Jeder Charakter sieht etwas anderes, das ihm/ihr persönlich resoniert:
 - *"Es fällt mir schwer, mit euch Wesen zu kommunizieren, die ich so wenig verstehe."*
 - *"Dass ihr hier seid, ist etwas, das nicht hätte passieren sollen."*
 
-## Verdacht: Traumwesen der drei Hofmagier
+## Bestätigt: Traumwesen der drei Hofmagier ([[Session 14]])
 
-[[Tagebücher Wilhelm Casterwell|Wilhelms Tagebuch V]] beschreibt ein Wesen, das [[Lysanthiriel Vaelora|Lysanthiriel Vaelora]] und [[Borgrim Runenbrecher|Borgrim Runenbrecher]] im Schlaf erschien — in einem Ort ohne Form, ohne Gestalt, ohne Stimme, der dennoch sprach. Es bot ihnen Vollendung ihrer Forschung gegen den **wortgleichen Preis** wie Bertas Pakt:
+[[Naeli]] liest aus [[Tagebücher Wilhelm Casterwell|Wilhelms Tagebuch]] vor — die Passagen sind **wortgleich** mit Bertas Pakt-Beschreibung:
 
-> *"alles, was sie sind. Ihre Erinnerungen. Ihre Erfahrungen. Alles, was sie noch erleben würden. Alles, was sie ausmacht — Vergangenheit, Gegenwart und Zukunft."*
+> *"Sie berichteten von einem Ort, der keine wirkliche Form besaß. Keine Wände, keinen Boden, keinen Himmel. Nur eine Art grenzenlose Leere, in der dennoch etwas anwesend war. Etwas, das weder Gestalt noch Stimme im gewöhnlichen Sinne besaß und doch mit ihnen sprach."*
 
-Es **materialisierte** drei identische Bücher (siehe [[Drei Bücher]]) — Raum, Essenz, Seele. Wilhelm: *"Diese Dinge wurden nicht von Menschenhand erschaffen."*
+> *"Das Wesen verlangte alles, was sie sind. Ihre Erinnerung, ihre Erfahrung, alles, was sie noch erleben würden, alles, was sie ausmacht — Vergangenheit, Gegenwart und Zukunft."*
 
-Starke Hinweise auf Identität mit das Nichts — gleicher Preis, gleiche formlose Begegnungs-Realität. Falls dies stimmt, hat das Nichts bereits **vor Generationen** in die Reichsgeschichte von [[Kalineon]] eingegriffen.
+[[Naeli]]: *"Wir sind dem gleichen Wesen begegnet wie die beiden damals — und vor allem [[Berta]] wie die beiden damals."*
+
+[[Berta]]: *"Weil es Sinn macht, weil sich das Wesen ja als Schöpfer dieser Buchseite vorgestellt hat."*
+
+→ **Bestätigt**: das Nichts = Traumwesen der drei Hofmagier. Es **materialisierte** drei identische Bücher (siehe [[Drei Bücher]]) — Raum, Essenz, Seele. Hat bereits **vor Generationen** in die Reichsgeschichte von [[Kalineon]] eingegriffen.
+
+## Plan des alten Königs / Magolors Ziel ([[Session 14]])
+
+Das Nichts soll an die materielle Ebene **gebunden** werden — eine *Beschwörungs-Mechanik*:
+- **Raummagie** ([[Wilhelm Casterwell]]) → öffnet die **Schwelle**.
+- **Essenzmagie** ([[Lysanthiriel Vaelora]]) → gibt dem Wesen **Form**.
+- **Seelenmagie** ([[Borgrim Runenbrecher]]) → **bindet** es an die materielle Ebene.
+
+[[Naeli]] (aus Tagebuch): *"Vielleicht will es sich an die materielle Ebene binden, sodass es hier eine Macht ausüben kann."*
+
+[[Khirin]]-Hypothese: *"Margolor versucht gerade dieses Ziel umzusetzen."*
+
+Tagebuch-Warnung: *"Doch wenn wir nichts tun, könnte der Plan des Königs etwas entfesseln, das weit schlimmer ist als unser eigener Tod."*
+
+## Berthas Bohnen ([[Session 14]])
+
+In [[Session 14]] öffnet [[Berta]] mit dem [[Magischer Schluessel|Schlüssel des Nichts]] eine Tür → führt **nicht** ins ursprüngliche Nichts-Reich, sondern in **[[Berthas Bohnen]]** — eine Kaffeebar, die sich *"erholend"* anfühlt (im Gegensatz zur leeren Sog-Realität aus [[Session 12]]).
+
+Möglicherweise: ein vom Nichts geschenkter **Rückzugsort** für Berta? Oder eine andere Verbindung zum Nichts-Reich?
 
 ## Offene Fragen
 
@@ -86,4 +109,7 @@ Starke Hinweise auf Identität mit das Nichts — gleicher Preis, gleiche formlo
 7. Warum gab das Wesen den drei Magiern Bücher zu Raum, Essenz und Seele — exakt jenen drei Disziplinen, die zusammen eine **Schwelle / Form / Bindung** erlauben?
 
 ## Verknüpfungen
-- [[Berta]] · [[Magischer Schluessel]] · [[Isolationsraum]] · [[Session 12]] · [[Drei Bücher]] · [[Wilhelm Casterwell]] · [[Tagebücher Wilhelm Casterwell]]
+- [[Berta]] · [[Magischer Schluessel]] · [[Isolationsraum]] · [[Berthas Bohnen]]
+- [[Session 12]] · [[Session 14]]
+- [[Drei Bücher]] · [[Wilhelm Casterwell]] · [[Tagebücher Wilhelm Casterwell]]
+- [[Magolor]] · [[Risse]]

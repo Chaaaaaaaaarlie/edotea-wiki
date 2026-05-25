@@ -9,7 +9,7 @@ related: []
 sources:
   - Tagebücher Wilhelm Casterwell
 created: 2026-05-11
-updated: 2026-05-25
+updated: 2026-05-26
 status: developing
 ---
 ![[Naeli.png|496]]
@@ -64,6 +64,17 @@ status: developing
   - Wird vom Pony als **"Mama"** adoptiert; sagt: *"Wir sind jetzt Pony-Eltern."*
   - **Intimidation** mit aufglühendem Frost-Stab gegen den elfischen Schüler, der das Pony zurückwill — Schüler zieht beleidigt ab.
   - Will einen schönen IC-Namen für ihr Pony finden — siehe [[Twilight (Pony)]].
+- **[[Session 14]]**:
+  - **Benennt das Pony "Lady Günther"** *("Das wollte mir nicht verraten, ob es männlich oder weiblich ist. Also lange ist es Lady Günther.")* — siehe [[Twilight (Pony)]].
+  - Liest weitere **Tagebuch-Passagen** vor, die [[das Nichts]] als das **Traumwesen der drei Hofmagier** bestätigen (siehe [[Session 14]]).
+  - Empfängt die **[[Lady Günthers Flasche|Pferdeflasche]]** von [[Virion Loramis]] (von [[Fohlen]] via Divination 3 Tage vorausbestellt).
+  - **Markt-Vorfall**: lässt Lady Günther die Adelsdame **anrotzen** (Animal Handling 26).
+  - Castet **Charme Person** (subtile Handkuss-Geste, DC under sight) auf die Anführer-Wache → die Wachen lassen [[Jack]] gehen.
+  - Verfolgt Jack heimlich auf Stealth 11 → entdeckt die Herz-Übergabe; ihre **Schneeeule** klaut den Sack.
+  - **Verbrennt** die drei Söldner-Leichen (Sophie, Spymaster, Stellvertreter) im Akademie-Badezimmer mit **Burning Hands** aus dem reparierten Staff of Fire (1 Charge).
+  - **Audienz**: Mass Suggestion DC 10 **geschafft** — kann frei sprechen. Erklärt Elfaria die Magolor-Gefahr.
+  - **Combat-Flucht**: castet **Windwall** (15 ft × 1 ft, vor der Gruppe) — fängt Wachen-Pfeile ab (4d8 für Durchschießer). **Ray of Frost** auf die Saaltür unterstützt Hrímnirs Aufbruch (15 Cold Damage).
+  - Sperrt Lady Günther vor dem Combat in die Flasche ein.
 
 ## Verknüpfungen
 
@@ -85,8 +96,12 @@ status: developing
 - [[Session 11]]
 - [[Session 12]]
 - [[Session 13]]
+- [[Session 14]]
 - [[Twilight (Pony)]]
+- [[Lady Günthers Flasche]]
+- [[Jack]]
 - [[Staff of Fire]]
 - [[Treant]]
 - [[Wilhelm Casterwell]]
 - [[Tagebücher Wilhelm Casterwell]]
+- [[Elfaria Albis von Sylphid]]

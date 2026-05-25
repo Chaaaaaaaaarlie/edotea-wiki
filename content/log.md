@@ -2,7 +2,7 @@
 type: meta
 title: "Wiki Log"
 created: 2026-05-11
-updated: 2026-05-25
+updated: 2026-05-26
 tags:
   - meta
 status: evergreen
@@ -11,6 +11,44 @@ status: evergreen
 # Wiki Log
 
 Append-only. New entries at the **TOP**. Never edit past entries.
+
+## [2026-05-26] ingest | Session 14 aus WhisperX-Transkript
+
+- Quelle: `.raw/session-transcripts/Edotea_Session_14_transcript.txt` (335 KB, 8108 Zeilen, ~5h10min). Tool-Nummerierung diesmal korrekt.
+- Sprecher-Mapping wie zuvor: drore=Berta, mep0510=Sim, feeminin=Naeli, luke_234=Khirin, hansmeier=Hrímnir, nightcore0302=DM.
+- Neue Seiten:
+  - **Charaktere**: [[Sophie Marie]] (Magolor-Agentin, Adelige aus Familie Marie, im Bag of Holding erstickt), [[Edgar Thorne]] (Kopfgeldgeber in Carbus, 5.000 G auf Berta, ungesehen), [[Jack]] (Halbelfen-Kind-Auftragsmörder aus Carbus), [[Elfaria Albis von Sylphid]] (Rats-Vertreterin, Familie der Buch-Wächter).
+  - **Orte**: [[Berthas Bohnen]] (Kaffeebar an unbekannter Ebene, erreichbar via Schlüssel des Nichts, *"erholend"*).
+  - **Items**: [[Krone des Hohen Rates]] (von Khirin gestohlen), [[Spell-Slot-Anhänger]] (Khirins Bestellung, speichert Slot bis Stufe 3), [[Lady Günthers Flasche]] (Pferdeflasche für Lady Günther).
+  - **Source**: [[Session 14 transcript]].
+  - **Session**: [[Session 14]].
+- Aktualisiert:
+  - **[[Magolor]]**: erstes vollständiges Aussehen via Detect Thoughts auf Sophie (Mensch, 40–45, schwarze Haare, markant, schwarzer Mantel, zwei Folianten mit Brandstempel = gleich wie Pergament-Zeichen; eigenes Zauberbuch links).
+  - **[[Lysanthiriel Vaelora]]**: Lysantirs Kristallkugel ist zerstört worden (nach ihrem Tod, von Elfarias Familie). DM-Versprecher: *"nachdem Elfaria starb"* meinte Lysantir.
+  - **[[Drei Bücher]]**: Identifier via Perlen (grün/rot) + Brandstempel; Magolor hat zwei.
+  - **[[das Nichts]]**: Traumwesen-Identität wortwörtlich bestätigt via Naelis Tagebuch-Verlesung; **Berthas Bohnen** als neue Verbindung.
+  - **[[Magischer Schluessel]]**: Funktion bestätigt — Tür zu anderem Ort, durch nichts Bekanntes zerstörbar. Test 1: schwarzer Sog. Test 2: Berthas Bohnen.
+  - **[[Twilight (Pony)]]**: IC-Name **Lady Günther** vergeben von Naeli; Pferdeflasche-Mechanik.
+  - **[[Gurde]]**: physisch fertig, bei Virion zur magischen Wiederherstellung.
+  - **[[Staff of Fire]]**: repariert, 10/10 Charges, lädt täglich nach.
+  - **[[Carbus]] / [[gesetzlose Stadt]]**: identisch bestätigt durch Jack + Spymaster-Stellvertreter.
+  - **[[Fohlen]]**: zahlte Schmied mit Platinumkugel (mehr Wert als 35.000 G); bestellte Pferdeflasche 3 Tage vorher per Divination.
+  - **[[Virion Loramis]]**: erste persönliche Begegnung; reparierte Staff of Fire; übernahm Gurde-Magie.
+  - **[[Magilanikas Maven]]**: lieferte Anhänger; Pseudo-Wache-Vorfall (Mensch in geklauter Elfenrüstung).
+  - **[[Schmiedemeisterei Lunovar]]**, **[[Zwergenmeister Schmiedemeisterei]]**: Platinumkugel-Zahlung; Gurde fertig.
+  - **[[Lunovar]]**: Adelsviertel (21m Mauer); Gruppe jetzt Verbrecher (Krone, Audienz-Aufstand).
+  - **[[Spymaster]]**: Auftragsklärung — Magolor-Söldner + parallel Edgar-Thorne-Kopfgeld; Royalisten-Verbindung bleibt separat.
+  - **Alle 5 PCs**: Session-14-Aktionen ergänzt.
+- Sub-Indizes: alle aktualisiert (characters 25→29 NPCs / 30→34 inkl. PCs, locations 28→29, items 4→7, sessions 14→15, sources 3→4). Master-`index.md` und `hot.md` ebenfalls.
+- Schlüssel-Erkenntnisse Session 14:
+  - **Magolor sichtbar**: Mensch, 40–45. Hat zwei Bücher (grün/rot Perlen).
+  - **Schlüssel des Nichts funktioniert** und führt in andere Reiche; einmal *Berthas Bohnen* (Kaffeebar).
+  - **Carbus = gesetzlose Stadt** bestätigt; Heimat von [[Jack]], [[Edgar Thorne]], Söldnerszene.
+  - **Hoher Rat unkooperativ**: Familie Sylphid wacht über Lysantirs Buch in einem versteckten Tempel.
+  - **Lysantirs Kristallkugel zerstört** — Khirins Kugel gehört Wilhelm oder Borgrim.
+  - **das Nichts = Traumwesen** der drei Hofmagier wortwörtlich bestätigt.
+  - **Cliffhanger**: Gruppe in Berthas Bohnen (Kaffeebar, *"erholend"*).
+  - **Gruppe ist jetzt offiziell Verbrecher in Lunovar**.
 
 ## [2026-05-25] rename | Namens-Kanonisierung per Tagebücher
 

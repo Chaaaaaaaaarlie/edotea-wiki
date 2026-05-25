@@ -14,8 +14,10 @@ related:
   - Fohlen
 sources:
   - Session 13 transcript
+  - Session 14
+  - Session 14 transcript
 created: 2026-05-18
-updated: 2026-05-18
+updated: 2026-05-26
 status: developing
 ---
 
@@ -50,7 +52,13 @@ Schmiede direkt **am Stadteingang von [[Lunovar]]** — empfohlen von [[Fohlen]]
 - Reparatur fertig **am nächsten Morgen**.
 - Schmied bittet Gruppe, [[Fohlen]] zu mahnen wegen der Schulden — *"ansonsten werde ich in Zukunft nichts mehr für die Akademie herstellen."*
 
+## Vorfälle in [[Session 14]]
+- **[[Sim]] holt die fertige [[Gurde]] ab** — physisch perfekt, Kintsugi-Goldlinien sichtbar.
+- **[[Fohlen]] hat Schulden anders beglichen**: keine Bargeldzahlung, sondern eine **Platinumkugel** aus Privatvermögen (mehr Wert als 35.000 G, soll in 2 Wochen verkauft werden).
+- Sim zahlt seine eigenen **150 G** und trinkt mit dem Schmied. Schmied schenkt Naeli (auf Lady Günther) ebenfalls Bier aus.
+- Schmied bleibt offen für zukünftige Aufträge: *"Wenn du noch mal Arbeit für mich hast, freut mich."*
+
 ## Verknüpfungen
 - [[Zwergenmeister Schmiedemeisterei]] · [[Sim]] · [[Gurde]] · [[Fohlen]]
 - [[Lunovar]] · [[Magische Akademie Lunovar]]
-- [[Session 13]]
+- [[Session 13]] · [[Session 14]]

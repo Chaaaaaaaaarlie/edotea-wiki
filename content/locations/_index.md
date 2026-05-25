@@ -2,14 +2,14 @@
 type: meta
 title: "Locations Index"
 created: 2026-05-11
-updated: 2026-05-18
+updated: 2026-05-26
 tags:
   - meta
   - locations
 status: evergreen
 ---
 
-# Orte (28)
+# Orte (29)
 
 ## Kontinent
 - [[Cloud Fang]]
@@ -54,12 +54,13 @@ status: evergreen
 
 - [[Magilanikas Zauberladen]]
 - [[Magische Akademie Lunovar]]
-- [[Schmiedemeisterei Lunovar]] *(neu, Session 13 — Schmiede am Stadteingang, Kintsugi)*
+- [[Schmiedemeisterei Lunovar]]
 - [[Isolationsraum]]
 
-## Unbekannte Region
+## Unbekannte Region / Andere Ebene
 
-- [[Carbus]] — Standort der zweiten Kristallkugel via Triangulation; in [[Session 13]] mögliche Verbindung zur "[[gesetzlose Stadt|gesetzlosen Stadt]]"
+- [[Carbus]] — = [[gesetzlose Stadt|gesetzlose Stadt]] (bestätigt in [[Session 14]]); Heimat von [[Jack]], [[Edgar Thorne]], und den Spymaster-Söldnern
+- [[Berthas Bohnen]] *(neu, Session 14)* — Kaffeebar an unbekannter Ebene, erreichbar via [[Magischer Schluessel|Schlüssel des Nichts]]
 
 ## Riss-Standorte
 
