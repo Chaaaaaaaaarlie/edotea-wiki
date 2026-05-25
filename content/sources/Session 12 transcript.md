@@ -57,7 +57,7 @@ Vollständige Zusammenfassung siehe [[Session 12]]. Hauptpunkte:
 ## Bemerkungen zum Transkript
 - Sehr viel **OOC-Geplänkel** (Würfel-Bugs, Lag, Karten-Lighting, Mozzarella-Sticks, Nintendo Switch, "Frieren"-Anime, etc.) — beim Zusammenfassen herausgefiltert.
 - Mehrere **"Vielen Dank"**-Einwürfe sind Whisper-Halluzinationen aus Stille / Hintergrundton, nicht echte Aussagen.
-- `Lysantril` / `Lysandril` / `Lysantir` — Transkript variiert; konsistent als [[Lysantir Velora]].
+- `Lysantril` / `Lysandril` / `Lysantir` — Transkript variiert; konsistent als [[Lysanthiriel Vaelora]].
 - `Magellaniker` / `Magilanika` — Transkript variiert; im Wiki: [[Magilanikas Maven]].
 - `Fohlen` — Schreibweise im Chat eingegeben (laut DM ohne `h`); Wiki-Schreibweise `Fohlen` beibehalten.
 - `Bertha` / `Bertra` / `Boerta` — Transkript-Varianten; kanonisch: [[Berta]].

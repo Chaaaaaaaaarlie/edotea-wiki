@@ -36,7 +36,7 @@ Magisch isolierter Raum innerhalb der [[Magische Akademie Lunovar]] — vom **ur
 
 ## Ereignisse [[Session 12]]
 - [[Naeli]] (Druidin) versucht zuerst Kontakt — Inhalt unter DM-Privatchat (für Mitspieler nicht öffentlich).
-- [[Berta]] berührt den Zentralkristall mit [[Lysantir Velora|Lysantirs]] Pergament in der anderen Hand → **Zentralkristall zerschellt**.
+- [[Berta]] berührt den Zentralkristall mit [[Lysanthiriel Vaelora|Lysantirs]] Pergament in der anderen Hand → **Zentralkristall zerschellt**.
 - Gesamte Gruppe wird in den Wirkungsbereich von [[das Nichts]] versetzt — *"das hätte nicht passieren sollen"*, so [[das Nichts]].
 - Status des Raums nach Session 12: **Zentralkristall zerstört** — Reparaturkosten / Restauration noch ungeklärt.
 

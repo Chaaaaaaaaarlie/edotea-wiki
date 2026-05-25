@@ -49,7 +49,7 @@ Nobel auftretender Elf, freundlich-verspielt-warm, lacht leicht. Gibt offen zu, 
 - Anschließend Empfang im Büro/Labor:
   - Untersucht [[Naeli]]s Verzauberung, empfiehlt **Wish-Spell** oder **[[Djinn]]**.
   - Trianguliert via Globus [[Khirin]]s Kristallkugel-Pendant nach **[[Carbus]]**.
-  - Zuckt zurück beim Anblick von [[Lysantir Velora|Lysantirs]] Pergament: *"definitiv ein sehr unschönes Objekt"*.
+  - Zuckt zurück beim Anblick von [[Lysanthiriel Vaelora|Lysantirs]] Pergament: *"definitiv ein sehr unschönes Objekt"*.
   - Hat Termin für Hohen Rat (morgen Mittag) bereits arrangiert.
   - **Warnt** vor [[Magilanikas Maven]]: fehlerhaftes Equipment, verkauft Schüler-Bücher weiter.
   - Bietet [[Sim]] einen Schmied für die [[Gurde]]-Reparatur, [[Virion Loramis]] für die Magie-Wiederherstellung.

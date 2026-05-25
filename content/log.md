@@ -12,6 +12,20 @@ status: evergreen
 
 Append-only. New entries at the **TOP**. Never edit past entries.
 
+## [2026-05-25] rename | Namens-Kanonisierung per Tagebücher
+
+- DM-Vorgabe: Schreibweise aus [[Tagebücher Wilhelm Casterwell]] ist kanonisch; ältere Varianten sind falsch.
+- Datei-Umbenennungen:
+  - `characters/Lysantir Velora.md` → `characters/Lysanthiriel Vaelora.md`
+  - `characters/Borggrim.md` → `characters/Borgrim Runenbrecher.md`
+  - `characters/Palamedes.md` → `characters/Palamedis.md`
+- Frontmatter: `title:` + `aliases:` in den drei Dateien geflippt. Aliase: `Lysantir Velora` / `Lysantril` · `Borggrim` / `Borgrim` · `Palamedes` — so dass alte Wikilinks weiterhin auflösen.
+- H1-Headings auf neuen Kanon-Namen angepasst.
+- Bulk `sed` über alle .md außer `log.md` (append-only-Regel): `[[Lysantir Velora]]` → `[[Lysanthiriel Vaelora]]`, `[[Borggrim]]` → `[[Borgrim Runenbrecher]]`, `[[Palamedes]]` → `[[Palamedis]]` (inkl. Display-Text-Varianten `[[...|...]]`).
+- Manuelle Folge-Edits in `frontmatter.related`, bare-name-Erwähnungen und Headings: `Kalineon-Royalisten.md`, `Wappen des alten Kalineon.md`, `Session 12.md`, `Lysanthiriel Vaelora.md`, `Tagebücher Wilhelm Casterwell.md`, `hot.md`, `Wilhelm Casterwell.md`, `Session 6.md`.
+- Source-Page: obsolete "Namens-Kanon vs. PC-Notizen"-Tabelle durch knappe Alias-Auflistung ersetzt.
+- log.md-Einträge vor diesem nicht editiert — Aliase fangen alte Wikilinks ab.
+
 ## [2026-05-25] ingest | Tagebücher Wilhelm Casterwell (Player-Handout)
 
 - Sieben PDFs aus `input/Tagebuch1..6,8.pdf` → `.raw/player-handouts/`. **Tagebuch VII fehlt im Handout-Satz.**

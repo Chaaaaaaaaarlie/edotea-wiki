@@ -211,7 +211,7 @@ Direkte Fortsetzung nach [[Session 12]]. Die Gruppe wird aus dem Reich von [[das
 - **[[Spymaster]]** (tot) führte eine Gruppe **Söldner aus der gesetzlosen Stadt** an.
 - Sie tragen ein **Wappen des alten Reiches [[Kalineon]]** (Vor-Sturz-Königshaus) — siehe [[Wappen des alten Kalineon]].
 - [[Khirin]]s Hypothese: **Royalisten** (= [[Kalineon-Royalisten]]).
-- Ziel: [[Berta]]s Pergament (= [[Lysantir Velora|Lysantirs]] Hinterlassenschaft).
+- Ziel: [[Berta]]s Pergament (= [[Lysanthiriel Vaelora|Lysantirs]] Hinterlassenschaft).
 - **Zweite, separate Faktion** zu [[Magolor]]/[[Y'Chak]]-Bedrohung — bestätigt durch [[Berta]]: *"Ich glaube auch nicht, dass die zusammen sind."*
 
 ### Über Sims Heimat
@@ -265,8 +265,8 @@ Direkte Fortsetzung nach [[Session 12]]. Die Gruppe wird aus dem Reich von [[das
 3. **Was passiert mit den zwei bewusstlosen Söldnern?** Verhör in der nächsten Sitzung.
 4. **Bekommt das Pony einen Namen?** Wer ist der elfische Schüler, dessen "Reagenz" das Pony war?
 5. **Wann zahlt Fohlen den Schmied?** *Wird* er zahlen, oder wäre ein zweiter Lieferunfall die Folge?
-6. **Der Hohe Rat morgen Mittag** — was steht in [[Lysantir Velora|Lysantirs]] Hinterlassenschaft?
-7. Wer hat [[Lysantir Velora|Lysantirs]] Pergament beschrieben? (Unverändert offen aus [[Session 12]].)
+6. **Der Hohe Rat morgen Mittag** — was steht in [[Lysanthiriel Vaelora|Lysantirs]] Hinterlassenschaft?
+7. Wer hat [[Lysanthiriel Vaelora|Lysantirs]] Pergament beschrieben? (Unverändert offen aus [[Session 12]].)
 
 ## Verknüpfungen
 - Vorherige Session: [[Session 12]]
@@ -277,7 +277,7 @@ Direkte Fortsetzung nach [[Session 12]]. Die Gruppe wird aus dem Reich von [[das
 - [[gesetzlose Stadt]]
 - [[Twilight (Pony)]]
 - [[Gurde]] · [[Y'Chak]] · [[das Nichts]]
-- [[Wilhelm Casterwell]] · [[Lysantir Velora]] · [[Kalineon]]
+- [[Wilhelm Casterwell]] · [[Lysanthiriel Vaelora]] · [[Kalineon]]
 
 ---
 

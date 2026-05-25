@@ -43,7 +43,7 @@ Beschrieb sich nicht selbst; alles Wissen über ihn stammt aus der Aussage eines
 ## Auftrag
 Hatte eine Crew von **Schwarzmänteln** (Söldner-Spies + Assassine) aus der "gesetzlosen Stadt" zusammengezogen, mit dem Auftrag:
 - **[[Berta]]** ausrauben — *"alles aus ihren Taschen, wenn möglich. Wir wissen selbst nichts genau über den Inhalt."*
-- Ziel war offensichtlich [[Berta]]s **Pergament aus [[Lysantir Velora|Lysantirs]] Hinterlassenschaft** — der Auftragszettel zeigt eine grob skizzierte [[Berta]] im Hexenhut.
+- Ziel war offensichtlich [[Berta]]s **Pergament aus [[Lysanthiriel Vaelora|Lysantirs]] Hinterlassenschaft** — der Auftragszettel zeigt eine grob skizzierte [[Berta]] im Hexenhut.
 - Verfolgte die Gruppe seit Tagen in Lunovar (parallel zu den Stadtwachen, die ebenfalls die Gruppe im Auge hatten).
 
 ## Tod ([[Session 13]])

@@ -9,9 +9,9 @@ tags:
   - tagebuch
 related:
   - Wilhelm Casterwell
-  - Lysantir Velora
-  - Borggrim
-  - Palamedes
+  - Lysanthiriel Vaelora
+  - Borgrim Runenbrecher
+  - Palamedis
   - Drei Bücher
   - das Nichts
   - Naeli
@@ -87,7 +87,7 @@ Player-Handout-PDFs in `.raw/player-handouts/Tagebuch1..6,8.pdf`. Sieben Tagebuc
   - **Seelenmagie bindet es.**
 - Wenn das Wesen hier ist, will der König es unterwerfen — seine Dynastie soll Jahrhunderte unangreifbar werden.
 - Reaktion der Magier (im Geheimen): Lysanthiriel — *"Wenn wir diesen Plan umsetzen, könnte die Welt selbst darunter leiden."* Borgrim — *"Der König ist dabei, etwas zu schmieden, das niemand führen kann."*
-- Entscheidung: **[[Palamedes|Palamedis, der goldene Drache]] aufsuchen.** Hüter uralten Wissens, existierte vor ihren Reichen.
+- Entscheidung: **[[Palamedis|Palamedis, der goldene Drache]] aufsuchen.** Hüter uralten Wissens, existierte vor ihren Reichen.
 - *"Nicht als Magier im Dienst des Königs. Sondern als Menschen, die verhindern wollen, dass sein Größenwahn etwas entfesselt, das niemand mehr kontrollieren kann."*
 
 ## Tagebuch VIII – Die Nacht des Versteckens
@@ -113,10 +113,10 @@ Player-Handout-PDFs in `.raw/player-handouts/Tagebuch1..6,8.pdf`. Sieben Tagebuc
 - **Der Prinz**: vom König als Erbe des kombinierten Wissens vorgesehen — Status nach dem Sturz offen.
 - **Magolor-Faden**: könnte bereits eines der Bücher gefunden haben (siehe [[Drei Bücher]]).
 
-## Namens-Kanon vs. PC-Notizen
+## Namens-Kanon
 
-| In den Tagebüchern | Bisheriger Wiki-Name | Anmerkung |
-| --- | --- | --- |
-| **Lysanthiriel Vaelora** | [[Lysantir Velora]] | volle Form — der Wiki-Name ist Naelis kürzere Notiz |
-| **Borgrim Runenbrecher** | [[Borggrim]] | volle Form mit Beinamen |
-| **Palamedis** | [[Palamedes]] | Schreibvariante; in den Tagebüchern *Palamedis* |
+Die Tagebücher sind die kanonische Schreib-Quelle für diese Namen. Frühere kürzere Notizen (Naelis Aussprache, Wiki-Vorform) sind als Aliase erhalten, damit alte Wikilinks nicht brechen:
+
+- **[[Lysanthiriel Vaelora]]** — frühere Form: *Lysantir Velora*; spätere Erwähnung als *Lysantril*.
+- **[[Borgrim Runenbrecher]]** — frühere Form: *Borggrim*.
+- **[[Palamedis]]** — frühere Form: *Palamedes*.

@@ -65,7 +65,7 @@ Jeder Charakter sieht etwas anderes, das ihm/ihr persönlich resoniert:
 
 ## Verdacht: Traumwesen der drei Hofmagier
 
-[[Tagebücher Wilhelm Casterwell|Wilhelms Tagebuch V]] beschreibt ein Wesen, das [[Lysantir Velora|Lysanthiriel Vaelora]] und [[Borggrim|Borgrim Runenbrecher]] im Schlaf erschien — in einem Ort ohne Form, ohne Gestalt, ohne Stimme, der dennoch sprach. Es bot ihnen Vollendung ihrer Forschung gegen den **wortgleichen Preis** wie Bertas Pakt:
+[[Tagebücher Wilhelm Casterwell|Wilhelms Tagebuch V]] beschreibt ein Wesen, das [[Lysanthiriel Vaelora|Lysanthiriel Vaelora]] und [[Borgrim Runenbrecher|Borgrim Runenbrecher]] im Schlaf erschien — in einem Ort ohne Form, ohne Gestalt, ohne Stimme, der dennoch sprach. Es bot ihnen Vollendung ihrer Forschung gegen den **wortgleichen Preis** wie Bertas Pakt:
 
 > *"alles, was sie sind. Ihre Erinnerungen. Ihre Erfahrungen. Alles, was sie noch erleben würden. Alles, was sie ausmacht — Vergangenheit, Gegenwart und Zukunft."*
 
@@ -82,7 +82,7 @@ Starke Hinweise auf Identität mit das Nichts — gleicher Preis, gleiche formlo
 3. Steht das Nichts mit anderen kosmischen Mächten in Verbindung — z.B. den [[Risse|Rissen]]?
 4. Welcher tatsächliche Mechanismus lässt es Materie an Orte holen, an die seine Anwesenheit *"nicht zustände"*?
 5. Existieren mehrere "Nichts"-artige Wesen? Oder ist das Nichts singulär?
-6. **Ist das Nichts identisch mit dem Traumwesen der drei Hofmagier?** Falls ja, war es schon einmal **fast** in diese Welt geholt worden — der Plan des alten Königs scheiterte nur, weil [[Palamedes]] eingriff.
+6. **Ist das Nichts identisch mit dem Traumwesen der drei Hofmagier?** Falls ja, war es schon einmal **fast** in diese Welt geholt worden — der Plan des alten Königs scheiterte nur, weil [[Palamedis]] eingriff.
 7. Warum gab das Wesen den drei Magiern Bücher zu Raum, Essenz und Seele — exakt jenen drei Disziplinen, die zusammen eine **Schwelle / Form / Bindung** erlauben?
 
 ## Verknüpfungen

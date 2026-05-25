@@ -26,17 +26,17 @@ status: mature
 - [[Elliot]] begleitet die Gruppe selbst nach [[Cadnix]].
 
 - [[Naeli]] trägt der Gruppe neue Erkenntnisse aus den Tagebüchern vor.
-- [[Wilhelm Casterwell]], [[Lysantir Velora]] und ein unbenannter Zwerg forschten gemeinsam an Raum-, Essenz- und Seelenmagie.
+- [[Wilhelm Casterwell]], [[Lysanthiriel Vaelora]] und ein unbenannter Zwerg forschten gemeinsam an Raum-, Essenz- und Seelenmagie.
 - [[Wilhelm Casterwell]] erhielt in Träumen ein seltsames Buch und konnte mit Formeln und Kreidezeichnungen Spalten im Raum erzeugen.
 - Dasselbe oder ein ähnliches Wesen bot auch den beiden anderen Forschern Hilfe an.
 - Der Preis war laut Tagebüchern "alles, was sie waren und alles, was sie sein werden".
 - Jeder der drei erhielt ein eigenes Buch.
-- Als der alte König immer gieriger wurde und die Gefahr dieser Forschung klarer wurde, suchten die drei den goldenen Drachen [[Palamedes]] auf.
+- Als der alte König immer gieriger wurde und die Gefahr dieser Forschung klarer wurde, suchten die drei den goldenen Drachen [[Palamedis]] auf.
 - Mit seiner Hilfe oder der Hilfe seiner Gläubigen kam es zum Sturz des alten Königs.
 - Danach versteckten die drei ihre Bücher getrennt voneinander, damit niemand alle drei in die Hände bekommt.
 
 - Die Gruppe vermutet, dass [[Magolor]] eines dieser drei Bücher aus der versteckten Bibliothek im [[Anwesen]] mitgenommen hat.
-- [[Lunovar]] wird dadurch noch wichtiger, weil dort vielleicht jemand [[Lysantir Velora]] oder mehr über die Bücher kennt.
+- [[Lunovar]] wird dadurch noch wichtiger, weil dort vielleicht jemand [[Lysanthiriel Vaelora]] oder mehr über die Bücher kennt.
 
 - [[Berta]] identifiziert die Gegenstände in der Kuriositätenkammer.
 - [[Khirin]] erhält von [[Elliot]] den Familienring für weitere Nachforschungen.

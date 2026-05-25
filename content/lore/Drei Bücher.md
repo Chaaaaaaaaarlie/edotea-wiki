@@ -21,8 +21,8 @@ status: developing
 - Drei gefährliche Bücher, verbunden mit Raum-, Essenz- und Seelenmagie.
 - Sie gehörten den drei Hofmagiern des alten Königs von [[Kalineon]]:
   - [[Wilhelm Casterwell]] – Raummagie
-  - [[Lysantir Velora]] – Essenzmagie
-  - [[Borggrim]] – Seelenmagie
+  - [[Lysanthiriel Vaelora]] – Essenzmagie
+  - [[Borgrim Runenbrecher]] – Seelenmagie
 
 ## Notizen
 
@@ -34,18 +34,18 @@ status: developing
   - **Essenzmagie** gibt ihm Form.
   - **Seelenmagie** bindet es.
 - Das Wissen sollte anschließend an den **Prinz** weitergegeben werden — Raum, Essenz und Seele gleichermaßen.
-- Als die Gefahr der Forschung klar wurde, suchten die drei [[Palamedes]] auf.
+- Als die Gefahr der Forschung klar wurde, suchten die drei [[Palamedis]] auf.
 - Danach wurden die Bücher **in derselben Nacht** (Tagebuch VIII) getrennt versteckt — jeder Magier kennt nur sein eigenes Versteck. Wenige Eingeweihte: religiöse Führer, einige Anführer der Aufständischen, die drei Magier.
 - Die heutigen Risse scheinen Raum-, Essenz- und Seelenmagie zugleich zu vereinen.
 - [[Magolor]] könnte bereits eines dieser Bücher an sich genommen haben.
 
 ## Verknüpfungen
 
-- [[Borggrim]]
+- [[Borgrim Runenbrecher]]
 - [[Kalineon]]
-- [[Lysantir Velora]]
+- [[Lysanthiriel Vaelora]]
 - [[Magolor]]
-- [[Palamedes]]
+- [[Palamedis]]
 - [[Session 7]]
 - [[Session 11]]
 - [[Wilhelm Casterwell]]

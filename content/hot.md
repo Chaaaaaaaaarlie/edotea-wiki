@@ -11,7 +11,7 @@ status: evergreen
 # Recent Context
 
 ## Last Updated
-2026-05-25 — [[Tagebücher Wilhelm Casterwell|Sieben Tagebuch-PDFs]] aus `.raw/player-handouts/` ingestiert. Sieben der neun von [[Naeli]] in [[Session 6]] gefundenen Tagebuchseiten als Source-Seite ausgewertet; Wilhelm/Lysantir/Borggrim/Palamedes/Drei Bücher/das Nichts/Session 6 aktualisiert.
+2026-05-25 — [[Tagebücher Wilhelm Casterwell|Sieben Tagebuch-PDFs]] aus `.raw/player-handouts/` ingestiert. Sieben der neun von [[Naeli]] in [[Session 6]] gefundenen Tagebuchseiten als Source-Seite ausgewertet; Wilhelm/Lysanthiriel/Borgrim/Palamedis/Drei Bücher/das Nichts/Session 6 aktualisiert. Charakter-Dateien zu Tagebuch-Kanon umbenannt.
 
 ## Campaign Snapshot
 **Edotea** ist eine D&D-Kampagne auf dem [[Kontinent Edotea]]. Aktive PCs: [[Berta]] (Sorcerer/Warlock), [[Hrímnir]] ([[Goliath]] Cleric/Monk Elemental-Subclass), [[Khirin]] (Halbelf Evocation Wizard 6 mit Sculpt Spells), [[Naeli]] (Halbling Druidin), [[Sim]] (Simian Fighter/Ranger). Aktuell in [[Lunovar]] / [[Kalineon]] an der [[Magische Akademie Lunovar]]. Letzte Session: [[Session 13]].
@@ -24,7 +24,7 @@ Gruppe wieder im **gesicherten Zimmer** der Akademie vereint:
 - Der **[[Spymaster]]** (bärtiger Mensch mit Schnitt überm Auge, [[Kalineon-Royalisten|royalistisch]]) ist tot — durch Sims Pushing Attack vom Dach gestürzt.
 
 ## Aktive Fäden
-1. **Hoher Rat heute Mittag** — [[Fohlen]] geleitet hin. Ziel: Zugang zu [[Lysantir Velora|Lysantirs]] versiegelter Hinterlassenschaft.
+1. **Hoher Rat heute Mittag** — [[Fohlen]] geleitet hin. Ziel: Zugang zu [[Lysanthiriel Vaelora|Lysantirs]] versiegelter Hinterlassenschaft.
 2. **Verhör der bewusstlosen Söldner** — Royalisten-Hierarchie aufklären.
 3. **[[Gurde]] morgen früh abholen** — fertig bei [[Schmiedemeisterei Lunovar]] (150 G). Danach magische Wiederherstellung bei [[Virion Loramis]] (erst nach Riss-Frage).
 4. **Naelis Verzauberung lösen** — [[Fohlen]] sucht einen [[Djinn]] oder Wish-Spell.
@@ -54,7 +54,7 @@ Gruppe wieder im **gesicherten Zimmer** der Akademie vereint:
 - Wann erfolgt das **Verhör der bewusstlosen Söldner**?
 - Funktioniert ein **Wish** oder **[[Djinn]]** wirklich für Naelis Curse?
 - Welches Schloss passt zu Bertas Schlüssel?
-- Wer hat [[Lysantir Velora|Lysantirs]] Pergament beschrieben? Wer informierte die Royalisten?
+- Wer hat [[Lysanthiriel Vaelora|Lysantirs]] Pergament beschrieben? Wer informierte die Royalisten?
 - **Hoher Rat oder Carbus oder Norden?** Reise-Priorisierung offen.
 - **Zahlt [[Fohlen]]** die 35.000 G an den Schmied? Wie blockiert er Telepathie?
 - Welche Familie steckt hinter dem **elfischen Schüler** der Alchemie-Explosion?

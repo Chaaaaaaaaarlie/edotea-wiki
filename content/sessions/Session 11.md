@@ -93,14 +93,14 @@ status: mature
 ### Naelis Tagebuchseiten von Wilhelm Casterwell
 - [[Naeli]] zeigt [[Crucellus]] alte Tagebuchseiten von [[Wilhelm Casterwell]].
 - Inhalt:
-  - Drei Hofmagier des damaligen Königs: [[Lysantir Velora]], [[Borggrim]] und [[Wilhelm Casterwell]].
+  - Drei Hofmagier des damaligen Königs: [[Lysanthiriel Vaelora]], [[Borgrim Runenbrecher]] und [[Wilhelm Casterwell]].
   - Gemeinsam stehen sie für Essenz-, Seelen- und Raummagie.
   - Der damalige König wollte die Kombination der drei Bücher nutzen, um „jede Macht an sich zu reißen“.
   - Die Bücher wurden an Orten versteckt, an denen sie niemand finden soll.
   - Die heutigen Risse vereinen Raum-, Essenz- und Seelenmagie und könnten mit dem drohenden Untergang der Welt zusammenhängen.
 - [[Crucellus]] hält die Lage für äußerst besorgniserregend und empfiehlt den **Hohen Rat**.
-- Die Hinterlassenschaft von [[Lysantir Velora]] könnte in den tieferen Stockwerken der Bibliothek oder bei einer Adelsfamilie liegen.
-- Zu [[Palamedes]] weiß [[Crucellus]] über die bekannte Entstehungsgeschichte hinaus nichts Neues.
+- Die Hinterlassenschaft von [[Lysanthiriel Vaelora]] könnte in den tieferen Stockwerken der Bibliothek oder bei einer Adelsfamilie liegen.
+- Zu [[Palamedis]] weiß [[Crucellus]] über die bekannte Entstehungsgeschichte hinaus nichts Neues.
 
 ### Pergament und Materialhilfen
 - [[Berta]] reicht [[Crucellus]] kurz die Schriftrolle aus der Garnison.
@@ -129,11 +129,11 @@ status: mature
 
 ### Sessionende
 - Die Gruppe befindet sich weiterhin in der Akademie-Bibliothek.
-- Offene Fäden: Termin beim Hohen Rat, Hinterlassenschaft von [[Lysantir Velora]], Mordserie, Mann mit Prothesen, drei Bücher und das Nachladen des Pergaments.
+- Offene Fäden: Termin beim Hohen Rat, Hinterlassenschaft von [[Lysanthiriel Vaelora]], Mordserie, Mann mit Prothesen, drei Bücher und das Nachladen des Pergaments.
 
 ## Verknüpfungen
 - [[Berta]]
-- [[Borggrim]]
+- [[Borgrim Runenbrecher]]
 - [[Cadnix]]
 - [[Crucellus]]
 - [[Fürst Alator]]
@@ -143,14 +143,14 @@ status: mature
 - [[Khirin]]
 - [[Lögress]]
 - [[Lunovar]]
-- [[Lysantir Velora]]
+- [[Lysanthiriel Vaelora]]
 - [[Magolor]]
 - [[Marcosias]]
 - [[Markus L. Kalinion]]
 - [[Naeli]]
 - [[Nora]]
 - [[Oestliche Garnison von Cadnix]]
-- [[Palamedes]]
+- [[Palamedis]]
 - [[Residuum]]
 - [[Session 10]]
 - [[Sim]]

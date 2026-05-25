@@ -25,7 +25,7 @@ status: developing
 - Vor über tausend Jahren war [[Kalineon]] ein klassisches Königreich, das Macht durch Eroberung, Tribut und Unterwerfung suchte.
 - Diese Politik führte zu langen Kriegen, hohen Abgaben, Zwangsrekrutierungen und religiösen Spannungen.
 - Auch der [[Erliorwald]] und die Elfen, aus denen später [[Lunovar]] hervorging, litten unter den Überfällen des alten Regimes.
-- Das **Wappen** des alten Königshauses ist in [[Wilhelm Casterwell|Wilhelm Casterwills]] Tagebüchern dokumentiert — siehe [[Wappen des alten Kalineon]]. In [[Session 13]] erkennen [[Berta]] und [[Khirin]] dieses Wappen an einer Brosche des toten **[[Spymaster|Spymasters]]** — Khirins Hypothese: aktive **[[Kalineon-Royalisten]]**, die [[Lysantir Velora|Lysantirs]] Pergament begehren.
+- Das **Wappen** des alten Königshauses ist in [[Wilhelm Casterwell|Wilhelm Casterwills]] Tagebüchern dokumentiert — siehe [[Wappen des alten Kalineon]]. In [[Session 13]] erkennen [[Berta]] und [[Khirin]] dieses Wappen an einer Brosche des toten **[[Spymaster|Spymasters]]** — Khirins Hypothese: aktive **[[Kalineon-Royalisten]]**, die [[Lysanthiriel Vaelora|Lysantirs]] Pergament begehren.
 
 ## Entstehung des heutigen Kalineon
 
@@ -34,8 +34,8 @@ status: developing
 - Aus ihren Reihen entstand mit Unterstützung breiter Teile der Bevölkerung eine Revolution gegen das alte Königshaus.
 - Im Zentrum der neuen Ordnung stand eine junge Frau aus einfachen Verhältnissen, die als erster [[Goetterfunke]] gilt.
 - Nach dem Sieg gab das neue Regime eroberte Gebiete zurück und schuf ein System, das Tyrannei verhindern soll.
-- Laut den Tagebüchern aus [[Session 7]] könnte dieser goldene Drache [[Palamedes]] gewesen sein.
-- Dieselben Tagebücher deuten zudem darauf hin, dass [[Wilhelm Casterwell]], [[Lysantir Velora]] und ein unbenannter Zwerg im Umfeld dieses Umsturzes aktiv waren.
+- Laut den Tagebüchern aus [[Session 7]] könnte dieser goldene Drache [[Palamedis]] gewesen sein.
+- Dieselben Tagebücher deuten zudem darauf hin, dass [[Wilhelm Casterwell]], [[Lysanthiriel Vaelora]] und ein unbenannter Zwerg im Umfeld dieses Umsturzes aktiv waren.
 
 ## Regierung
 
@@ -81,9 +81,9 @@ status: developing
 - [[Kalden]]
 - [[Karvus]]
 - [[Kontinent Edotea]]
-- [[Lysantir Velora]]
+- [[Lysanthiriel Vaelora]]
 - [[Lunovar]]
-- [[Palamedes]]
+- [[Palamedis]]
 - [[Session 2]]
 - [[Session 3]]
 - [[Session 5]]

@@ -13,7 +13,7 @@ related:
   - gesetzlose Stadt
   - Kalineon
   - Berta
-  - Lysantir Velora
+  - Lysanthiriel Vaelora
 sources:
   - Session 13 transcript
 created: 2026-05-18
@@ -32,10 +32,10 @@ updated: 2026-05-18
 - **Schwarzmäntel-Söldner** — eine Crew aus der [[gesetzlose Stadt|gesetzlosen Stadt]], als Mietkräfte engagiert (keine echten Royalisten, bezahlte Hilfskräfte).
 
 ## Ziele
-Bekanntes Ziel: **[[Berta]]s Pergament** ([[Lysantir Velora|Lysantirs]] Hinterlassenschaft) gestohlen bekommen.
+Bekanntes Ziel: **[[Berta]]s Pergament** ([[Lysanthiriel Vaelora|Lysantirs]] Hinterlassenschaft) gestohlen bekommen.
 
 Mögliche Motivation:
-1. **[[Lysantir Velora]]** war eng mit dem alten [[Kalineon|Kalineon-Königshaus]] verbunden (laut [[Fohlen]] in [[Session 12]] und [[Wilhelm Casterwell]]s Tagebüchern).
+1. **[[Lysanthiriel Vaelora]]** war eng mit dem alten [[Kalineon|Kalineon-Königshaus]] verbunden (laut [[Fohlen]] in [[Session 12]] und [[Wilhelm Casterwell]]s Tagebüchern).
 2. Das Pergament könnte Wissen oder Macht aus der **Königshaus-Zeit** enthalten — wertvoll für Restoration-Bestrebungen.
 3. Die alte Königsdynastie wurde **vor ~750 Jahren** vom Drachen-bewirkten Geistlichen-Bund gestürzt ([[Kalineon]]-Page). Royalisten würden Wiederherstellung anstreben.
 
@@ -49,11 +49,11 @@ Mögliche Motivation:
 - Ist die "gesetzlose Stadt" ihr Hauptquartier?
 - Wer hat sie auf [[Berta]] und das Pergament aufmerksam gemacht? (Sie verfolgen die Gruppe seit Tagen.)
 - Wie groß ist die Faktion — wenige Sympathisanten oder organisierte Untergrundbewegung?
-- Gibt es Verbindungen zu den alten Forschern (Lysantir/Wilhelm/Borggrim) bzw. den [[Drei Bücher|Drei Büchern]]?
+- Gibt es Verbindungen zu den alten Forschern (Lysanthiriel/Wilhelm/Borgrim) bzw. den [[Drei Bücher|Drei Büchern]]?
 
 ## Verknüpfungen
 - [[Spymaster]] · [[Wappen des alten Kalineon]]
 - [[gesetzlose Stadt]] · [[Carbus]]
-- [[Kalineon]] · [[Lysantir Velora]] · [[Wilhelm Casterwell]]
+- [[Kalineon]] · [[Lysanthiriel Vaelora]] · [[Wilhelm Casterwell]]
 - [[Berta]] · [[Khirin]]
 - [[Session 13]]

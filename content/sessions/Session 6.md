@@ -39,8 +39,8 @@ status: mature
 - Dieselben Runen finden sich auch in den Wänden des [[Anwesen]]s.
 
 - [[Naeli]] findet neun Tagebücher von [[Wilhelm Casterwell]] (sieben davon als Handout: siehe [[Tagebücher Wilhelm Casterwell]]).
-- Darin stehen der Name der Elfe [[Lysantir Velora]] (Volltitel **Lysanthiriel Vaelora**) und der Zwerg [[Borggrim]] (Volltitel **Borgrim Runenbrecher**).
-- [[Lysantir Velora]] wird mit Essenzmagie, [[Borggrim]] mit Seelenmagie in Verbindung gebracht; [[Wilhelm Casterwell]] selbst mit Raummagie.
+- Darin stehen die Namen der Elfe [[Lysanthiriel Vaelora]] und des Zwergs [[Borgrim Runenbrecher]].
+- [[Lysanthiriel Vaelora]] wird mit Essenzmagie, [[Borgrim Runenbrecher]] mit Seelenmagie in Verbindung gebracht; [[Wilhelm Casterwell]] selbst mit Raummagie.
 - Alle drei arbeiteten im Auftrag des Königs daran, **zwei Punkte im Raum ohne Bewegung zu verbinden**.
 
 ### Inhalt der Tagebücher (Naelis Handout)
@@ -52,7 +52,7 @@ status: mature
 - **III — Das Buch erscheint**: Ein fremdes Buch über **Schwellen** liegt morgens auf Wilhelms Tisch. Reagiert auf Kreidekreise — Luft strafft sich, Kerzen flackern.
 - **IV — Erster Erfolg**: münzgroßer Raumspalt, Metallring kommt eiskalt zurück. König wird informiert; lächelt kalt: *"Dann ist es Zeit, dass die anderen ebenfalls ihren Teil beitragen."* Auch Lysanthiriel und Borgrim träumen jetzt — mit **Angst**.
 - **V — Das Angebot**: Ein Wesen aus Leere bietet ihnen Vollendung gegen *"alles, was sie sind — Vergangenheit, Gegenwart und Zukunft."* Beide nehmen aus Furcht vor dem König an. Drei identische Bücher entstehen (Raum / Essenz / Seele) — *"Als wären sie nicht geschrieben worden. Sondern entstanden."*
-- **VI — Der Plan des Königs**: Wissen soll an den **Prinz** weitergegeben werden. König will das Wesen herbeizwingen — **Raum öffnet Schwelle, Essenz gibt Form, Seele bindet** — und unterwerfen. Die Magier entscheiden im Geheimen, **[[Palamedes]] (Palamedis, goldener Drache)** aufzusuchen.
+- **VI — Der Plan des Königs**: Wissen soll an den **Prinz** weitergegeben werden. König will das Wesen herbeizwingen — **Raum öffnet Schwelle, Essenz gibt Form, Seele bindet** — und unterwerfen. Die Magier entscheiden im Geheimen, **[[Palamedis]] (goldener Drache)** aufzusuchen.
 - **VIII — Die Nacht des Versteckens** (Tagebuch VII fehlt): Palamedis hat Priester, Adlige, Generäle zu einem Kreis versammelt; ein ruhiger Anführer wurde gewählt. **In dieser Nacht verstecken die drei Magier ihre Bücher.** Wilhelm schließt: *"Wenn wir uns irren … dann könnte diese Nacht … der Anfang eines noch größeren Unheils [sein]."*
 
 > [!important] Das Traumwesen-Angebot ist **wortgleich** mit [[Berta|Bertas]] Pakt mit [[das Nichts]]. Mögliche Identität: das Traumwesen = [[das Nichts]].

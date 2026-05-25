@@ -41,7 +41,7 @@ status: developing
 
 - [[Anwesen]]
 - [[Elliot]]
-- [[Lysantir Velora]]
+- [[Lysanthiriel Vaelora]]
 - [[Oestliche Garnison von Cadnix]]
 - [[Session 4]]
 - [[Session 5]]

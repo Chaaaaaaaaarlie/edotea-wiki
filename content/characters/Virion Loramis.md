@@ -46,10 +46,10 @@ Halbelf aus einem etwas höheren Haus Lunovars — dadurch halbwegs gut behandel
 ## Beziehungen
 - **[[Fohlen]]** — offizielle Galleonsfigur, decken sich gegenseitig den Rücken
 - Vermutlich Schnittstelle zum **Hohen Rat** Lunovars
-- Mögliche Verbindung zu [[Lysantir Velora]]s früherer Arbeit (Essenzmagie — Teil der Trinitaet aus Raum-/Essenz-/Seelenmagie, siehe [[Drei Bücher]])
+- Mögliche Verbindung zu [[Lysanthiriel Vaelora]]s früherer Arbeit (Essenzmagie — Teil der Trinitaet aus Raum-/Essenz-/Seelenmagie, siehe [[Drei Bücher]])
 
 ## Offene Fragen
 - Persönliche Begegnung mit der Gruppe steht noch aus.
-- Kennt er die wahre Natur von [[Lysantir Velora]]s Pergament?
+- Kennt er die wahre Natur von [[Lysanthiriel Vaelora]]s Pergament?
 - Wie genau forscht er an den Rissen — von wo bezieht er Daten?
 - Kann er [[Sim]]s [[Gurde]] (Wukongs Erbstück) magisch wiederherstellen?

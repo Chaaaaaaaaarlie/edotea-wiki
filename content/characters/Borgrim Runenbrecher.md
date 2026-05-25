@@ -1,9 +1,10 @@
 ---
 type: character
-title: "Borggrim"
+title: "Borgrim Runenbrecher"
 character_type: npc
 aliases:
-  - Borgrim Runenbrecher
+  - Borggrim
+  - Borgrim
 tags:
   - character
   - npc
@@ -14,12 +15,12 @@ created: 2026-05-11
 updated: 2026-05-25
 status: developing
 ---
-# Borggrim
+# Borgrim Runenbrecher
 
 ## Überblick
 
-- Zwerg und einer der drei Hofmagier des alten Königs von [[Kalineon]]. **Volltitel: Borgrim Runenbrecher.**
-- Stand für **Seelenmagie** und arbeitete gemeinsam mit [[Lysantir Velora]] und [[Wilhelm Casterwell]] an gefährlicher Forschung.
+- Zwerg und einer der drei Hofmagier des alten Königs von [[Kalineon]]. In älteren Notizen verkürzt als *Borggrim* geführt.
+- Stand für **Seelenmagie** und arbeitete gemeinsam mit [[Lysanthiriel Vaelora]] und [[Wilhelm Casterwell]] an gefährlicher Forschung.
 - Wilhelm beschreibt seine Methode: *"Er behandelt Seelen wie ein Schmied Metall — als etwas, das man formen kann."*
 
 ## Notizen
@@ -37,8 +38,8 @@ status: developing
 ## Verknüpfungen
 
 - [[Kalineon]]
-- [[Lysantir Velora]]
-- [[Palamedes]]
+- [[Lysanthiriel Vaelora]]
+- [[Palamedis]]
 - [[Session 7]]
 - [[Session 11]]
 - [[Wilhelm Casterwell]]

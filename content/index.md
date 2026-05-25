@@ -21,7 +21,7 @@ Master catalog. Updated on every ingest.
 - [[Berta]] · [[Hrímnir]] · [[Khirin]] · [[Naeli]] · [[Sim]]
 
 ### NPCs (25)
-- [[Borggrim]] · [[Crucellus]] · [[Elliot]] · [[Fiona Casterwell]] · [[Fohlen]] · [[Fürst Alator]] · [[Kevin]] · [[Lucien]] · [[Lumerio]] · [[Lysantir Velora]] · [[Magilanikas Maven]] · [[Magolor]] · [[Markus L. Kalinion]] · [[Nora]] · [[Orlam]] · [[Palamedes]] · [[Scale Piercer]] · [[Spymaster]] · [[Storm Holder]] · [[Twilight (Pony)]] · [[Virion Loramis]] · [[Wilhelm Casterwell]] · [[Wukong]] · [[Y'Chak]] · [[Zwergenmeister Schmiedemeisterei]]
+- [[Borgrim Runenbrecher]] · [[Crucellus]] · [[Elliot]] · [[Fiona Casterwell]] · [[Fohlen]] · [[Fürst Alator]] · [[Kevin]] · [[Lucien]] · [[Lumerio]] · [[Lysanthiriel Vaelora]] · [[Magilanikas Maven]] · [[Magolor]] · [[Markus L. Kalinion]] · [[Nora]] · [[Orlam]] · [[Palamedis]] · [[Scale Piercer]] · [[Spymaster]] · [[Storm Holder]] · [[Twilight (Pony)]] · [[Virion Loramis]] · [[Wilhelm Casterwell]] · [[Wukong]] · [[Y'Chak]] · [[Zwergenmeister Schmiedemeisterei]]
 
 ## Locations (28) — see [[_index|Locations Index]]
 - Kontinent: [[Kontinent Edotea]] · [[Cloud Fang]] · [[Erliorwald]] · [[Nebelwald]] · [[Wesh]]

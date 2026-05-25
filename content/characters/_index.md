@@ -21,7 +21,7 @@ status: evergreen
 
 ## NPCs (25)
 
-- [[Borggrim]]
+- [[Borgrim Runenbrecher]]
 - [[Crucellus]]
 - [[Elliot]]
 - [[Fiona Casterwell]]
@@ -30,13 +30,13 @@ status: evergreen
 - [[Kevin]]
 - [[Lucien]]
 - [[Lumerio]]
-- [[Lysantir Velora]]
+- [[Lysanthiriel Vaelora]]
 - [[Magilanikas Maven]]
 - [[Magolor]]
 - [[Markus L. Kalinion]]
 - [[Nora]]
 - [[Orlam]]
-- [[Palamedes]]
+- [[Palamedis]]
 - [[Scale Piercer]]
 - [[Spymaster]] *(neu, Session 13 — tot)*
 - [[Storm Holder]]

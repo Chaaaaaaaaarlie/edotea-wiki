@@ -14,7 +14,7 @@ related:
   - Fohlen
   - Virion Loramis
   - das Nichts
-  - Lysantir Velora
+  - Lysanthiriel Vaelora
   - Risse
 sources:
   - Session 12 transcript
@@ -29,15 +29,15 @@ status: mature
 
 ## Zusammenfassung
 
-Direkte Fortsetzung nach der **Bibliotheksrecherche zu [[Lysantir Velora]]** in [[Lunovar]]. Die Gruppe verlässt die Stadtbibliothek, schüttelt die Verfolger ab und besucht den [[Magilanikas Zauberladen]] — wo [[Hrímnir]] einen **Staff of Fire** klaut, [[Khirin]] eine Magiespeicher-Halskette in Auftrag gibt und [[Sim]] sein Leuchteschwert verkauft. Übernachtung in einer Herberge. Am nächsten Morgen Gastauftritt im **Verteidigung-gegen-die-dunklen-Künste-Kurs** an der [[Magische Akademie Lunovar]]: die Gruppe besiegt mehrere geschwächte, ausgemergelte **Gedankenschänder (Mind Flayer)** in der Arena. Anschließend Empfang im Büro des Schulleiters [[Fohlen]] — der offenbart, dass er nur Galleonsfigur ist und der eigentliche Schulleiter der Halbelf [[Virion Loramis]] ist. Im **[[Isolationsraum]]** versucht die Gruppe Kontakt zu höheren Mächten aufzunehmen. [[Berta]] berührt den Zentralkristall mit [[Lysantir Velora|Lysantirs]] Pergament — der Kristall zerbricht und die ganze Gruppe wird in einen leeren Raum versetzt, wo Berta zum zweiten Mal **[[das Nichts]]** trifft. Sie erhält einen rätselhaften **[[Magischer Schluessel|Schlüssel]]**. Cliffhanger.
+Direkte Fortsetzung nach der **Bibliotheksrecherche zu [[Lysanthiriel Vaelora]]** in [[Lunovar]]. Die Gruppe verlässt die Stadtbibliothek, schüttelt die Verfolger ab und besucht den [[Magilanikas Zauberladen]] — wo [[Hrímnir]] einen **Staff of Fire** klaut, [[Khirin]] eine Magiespeicher-Halskette in Auftrag gibt und [[Sim]] sein Leuchteschwert verkauft. Übernachtung in einer Herberge. Am nächsten Morgen Gastauftritt im **Verteidigung-gegen-die-dunklen-Künste-Kurs** an der [[Magische Akademie Lunovar]]: die Gruppe besiegt mehrere geschwächte, ausgemergelte **Gedankenschänder (Mind Flayer)** in der Arena. Anschließend Empfang im Büro des Schulleiters [[Fohlen]] — der offenbart, dass er nur Galleonsfigur ist und der eigentliche Schulleiter der Halbelf [[Virion Loramis]] ist. Im **[[Isolationsraum]]** versucht die Gruppe Kontakt zu höheren Mächten aufzunehmen. [[Berta]] berührt den Zentralkristall mit [[Lysanthiriel Vaelora|Lysantirs]] Pergament — der Kristall zerbricht und die ganze Gruppe wird in einen leeren Raum versetzt, wo Berta zum zweiten Mal **[[das Nichts]]** trifft. Sie erhält einen rätselhaften **[[Magischer Schluessel|Schlüssel]]**. Cliffhanger.
 
 ## Ereignisse
 
-### Vorab — Bibliotheksrecherche zu Lysantir Velora
+### Vorab — Bibliotheksrecherche zu Lysanthiriel Vaelora
 *(Vor dem Beginn des Transkripts; teilweise aus älterer Wiki-Zusammenfassung.)*
 
 - Die Gruppe besucht die Stadtbibliothek (möglicherweise an der [[Magische Akademie Lunovar|Akademie]] oder die öffentliche Bibliothek von [[Lunovar]]).
-- Recherche zu [[Lysantir Velora]] und ihrer Verbindung zu den [[Risse|Rissen]].
+- Recherche zu [[Lysanthiriel Vaelora]] und ihrer Verbindung zu den [[Risse|Rissen]].
 - **Erkenntnis**: Risse entstehen vermutlich durch Überkonzentration ungenutzter magischer Energie. Lysantirs frühere Arbeit könnte involviert sein.
 - Ein Akademie-Vertreter wird befragt und bestätigt, dass die Risse ein großes Problem darstellen (im Nachhinein wahrscheinlich [[Virion Loramis]], stellvertretender Schulleiter und Risse-Forscher).
 
@@ -121,14 +121,14 @@ Direkte Fortsetzung nach der **Bibliotheksrecherche zu [[Lysantir Velora]]** in 
 - **Warnung**: [[Magilanikas Maven|Magilanika]] **nicht trauen** — Schüler beschweren sich über fehlerhaftes Equipment, sie verkauft weiter Bücher, die sie von Schülern aufgekauft hat. Khirins Kristall-Auftrag ist jetzt heikel.
 
 #### Lysantirs Pergament
-- [[Berta]] zeigt [[Fohlen]] das Pergament aus [[Lysantir Velora|Lysantirs]] Hinterlassenschaft.
+- [[Berta]] zeigt [[Fohlen]] das Pergament aus [[Lysanthiriel Vaelora|Lysantirs]] Hinterlassenschaft.
 - [[Fohlen]] **nimmt einen Schritt zurück**, kann den Verfasser/Schreiber **nicht** identifizieren.
 - Hinterlassenschaften unter Verschluss beim **Hohen Rat** — Termin für *morgen Mittag* bereits beschlossen, [[Fohlen]] geleitet hin.
-- Bestätigt [[Lysantir Velora|Lysantirs]] **Verbindungen zum alten Reich [[Kalineon]]**, ihre Unbeliebtheit, ihren Tod, *aber*: *"sie liebte diese Stadt mit jedem Funken in ihrem Herzen."*
+- Bestätigt [[Lysanthiriel Vaelora|Lysantirs]] **Verbindungen zum alten Reich [[Kalineon]]**, ihre Unbeliebtheit, ihren Tod, *aber*: *"sie liebte diese Stadt mit jedem Funken in ihrem Herzen."*
 
 #### Risse-Diskussion
 
-> [!contradiction] **PC-Misremembering**: [[Sim]] und [[Naeli]] sagen [[Fohlen]] gegenüber, die Trinitaet sei *Raum-, **Zeit**-, Essenzmagie*. Korrekt laut [[Session 7]] und [[Drei Bücher]]-Forschung ist jedoch **Raum / Essenz / Seelen** ([[Wilhelm Casterwell]] / [[Lysantir Velora]] / [[Borggrim]]). Fohlen reagiert konsequent: *"davon noch nie gehört"* — er kannte die Trinitaet nicht in dieser falschen Form. Beim Tracen der Wahrheit aus Sicht der DM gelten die älteren Sessions als Kanon.
+> [!contradiction] **PC-Misremembering**: [[Sim]] und [[Naeli]] sagen [[Fohlen]] gegenüber, die Trinitaet sei *Raum-, **Zeit**-, Essenzmagie*. Korrekt laut [[Session 7]] und [[Drei Bücher]]-Forschung ist jedoch **Raum / Essenz / Seelen** ([[Wilhelm Casterwell]] / [[Lysanthiriel Vaelora]] / [[Borgrim Runenbrecher]]). Fohlen reagiert konsequent: *"davon noch nie gehört"* — er kannte die Trinitaet nicht in dieser falschen Form. Beim Tracen der Wahrheit aus Sicht der DM gelten die älteren Sessions als Kanon.
 
 | Theorie | Quelle | [[Fohlen]]s Reaktion |
 |---|---|---|
@@ -156,7 +156,7 @@ Direkte Fortsetzung nach der **Bibliotheksrecherche zu [[Lysantir Velora]]** in 
 
 - [[Fohlen]] geleitet die Gruppe in den **[[Isolationsraum]]** — gebaut vom *ursprünglichen* Schulleiter der Akademie, isoliert vom magischen Hintergrundfluss, ideal für Druiden / Kleriker / Diviner zum Kommunizieren mit ihrer Kraftquelle.
 - [[Naeli]] (Druidin) versucht zuerst Kontakt — DM klärt im Privat-Chat (Inhalt nicht öffentlich gesprochen).
-- **[[Berta]]** hält ihre Hand an den **Zentralkristall** mit [[Lysantir Velora|Lysantirs]] Pergament in der anderen — Arcana **27** mit Guidance.
+- **[[Berta]]** hält ihre Hand an den **Zentralkristall** mit [[Lysanthiriel Vaelora|Lysantirs]] Pergament in der anderen — Arcana **27** mit Guidance.
 - **Der Kristall in der Mitte zerschellt.** Der Raum verändert sich.
 - Gesamte Gruppe befindet sich auf einer **schwebenden Erdplattform im absoluten Nichts**.
 - **Jeder nimmt [[das Nichts]] anders wahr** (genauso wie in der ersten Begegnung):
@@ -195,7 +195,7 @@ Sitzung endet bevor [[das Nichts]] die Gruppe zurückversetzt. Berta hält den S
 - Schwer-Kommunikation mit Sterblichen: *"es fällt mir schwer mit euch Wesen zu kommunizieren, die ich so wenig verstehe."*
 - Plant, mit dem von Berta erhaltenen "Allem" zu **leben, genießen, lernen, sich entwickeln**.
 
-### Über [[Lysantir Velora]]
+### Über [[Lysanthiriel Vaelora]]
 - [[Fohlen]] zuckte beim Sehen des Pergaments zurück — Verfasser bleibt unidentifiziert, aber das Pergament selbst ist *"definitiv ein sehr unschönes Objekt"*.
 - Hinterlassenschaften unter Hoher-Rats-Verschluss; Audienz unerwartet aber gewährt.
 
@@ -236,7 +236,7 @@ Sitzung endet bevor [[das Nichts]] die Gruppe zurückversetzt. Berta hält den S
 1. **Werden sie tatsächlich zurückversetzt** — oder gibt es noch mehr in der Nichts-Begegnung zu sehen?
 2. Welches Schloss passt zu Bertas neuem Schlüssel? *("Jedes Schloss ist das richtige Schloss")*
 3. Was hat [[Berta]] dem Nichts genau geschuldet — *"alles, was sie war, ist, sein wird"*? Hat sie Erinnerungen / Seele verkauft?
-4. Wer ist der Verfasser von [[Lysantir Velora|Lysantirs]] Pergament — und warum erschreckt es [[Fohlen]]?
+4. Wer ist der Verfasser von [[Lysanthiriel Vaelora|Lysantirs]] Pergament — und warum erschreckt es [[Fohlen]]?
 5. Wer ist die zweite Person mit Prothesen, die in Lunovar den Riss geschlossen hat?
 6. Soll die Gruppe nach [[Carbus]] reisen (für [[Elliot]]s Kristallpaar), nach Norden ([[Eiswueste-Vulkan-Riss|persistenter Riss]]) oder erst den Hohen Rat treffen?
 7. Funktioniert ein **Wish-Spell** oder **[[Djinn]]** wirklich für [[Naeli]] — wo findet man einen?
@@ -247,7 +247,7 @@ Sitzung endet bevor [[das Nichts]] die Gruppe zurückversetzt. Berta hält den S
 - [[Magilanikas Maven]] · [[Magilanikas Zauberladen]]
 - [[Fohlen]] · [[Virion Loramis]] · [[Magische Akademie Lunovar]]
 - [[Isolationsraum]] · [[das Nichts]]
-- [[Lysantir Velora]] · [[Risse]]
+- [[Lysanthiriel Vaelora]] · [[Risse]]
 - [[Carbus]] · [[Eiswueste-Vulkan-Riss]]
 - [[Magischer Schluessel]] · [[Staff of Fire]] · [[Gurde]]
 - [[Djinn]] · [[Gedankenschaender]]
