@@ -6,9 +6,10 @@ tags:
   - character
   - pc
 related: []
-sources: []
+sources:
+  - Tagebücher Wilhelm Casterwell
 created: 2026-05-11
-updated: 2026-05-11
+updated: 2026-05-25
 status: developing
 ---
 ![[Naeli.png|496]]
@@ -43,7 +44,7 @@ status: developing
 - Findet in [[Session 8]] beim Magiehändler in [[Cadnix]] ein altes Geschichtenbuch.
 - Wirkt in [[Session 8]] Hold Person auf [[Lucien]].
 - Nimmt [[Lucien]] die magische Kommunikationsmünze ab.
-- Trägt in [[Session 11]] weiterhin die Tagebuchseiten von [[Wilhelm Casterwell]] bei sich und zeigt sie [[Crucellus]].
+- Trägt in [[Session 11]] weiterhin die Tagebuchseiten von [[Wilhelm Casterwell]] bei sich und zeigt sie [[Crucellus]]. **Voller Inhalt der sieben Handout-Seiten**: siehe [[Tagebücher Wilhelm Casterwell]].
 - Kennt ihre Eltern nicht und ist in einem Druidenzirkel aufgewachsen.
 - **[[Session 12]]**: Sucht aktiv nach einer Möglichkeit, ihre **Identitätsverzauberung** zu lösen.
   - [[Magilanikas Maven]] kann die Verzauberung nicht aufheben, empfiehlt **Wish-Spell** oder *"den zweitbesten Magier der Stadt"*.
@@ -88,3 +89,4 @@ status: developing
 - [[Staff of Fire]]
 - [[Treant]]
 - [[Wilhelm Casterwell]]
+- [[Tagebücher Wilhelm Casterwell]]

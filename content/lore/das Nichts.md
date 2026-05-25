@@ -11,11 +11,14 @@ related:
   - Berta
   - Magischer Schluessel
   - Isolationsraum
+  - Drei Bücher
+  - Wilhelm Casterwell
 sources:
   - Session 12
   - Session 12 transcript
+  - Tagebücher Wilhelm Casterwell
 created: 2026-05-12
-updated: 2026-05-12
+updated: 2026-05-25
 status: developing
 ---
 
@@ -60,6 +63,16 @@ Jeder Charakter sieht etwas anderes, das ihm/ihr persönlich resoniert:
 - *"Es fällt mir schwer, mit euch Wesen zu kommunizieren, die ich so wenig verstehe."*
 - *"Dass ihr hier seid, ist etwas, das nicht hätte passieren sollen."*
 
+## Verdacht: Traumwesen der drei Hofmagier
+
+[[Tagebücher Wilhelm Casterwell|Wilhelms Tagebuch V]] beschreibt ein Wesen, das [[Lysantir Velora|Lysanthiriel Vaelora]] und [[Borggrim|Borgrim Runenbrecher]] im Schlaf erschien — in einem Ort ohne Form, ohne Gestalt, ohne Stimme, der dennoch sprach. Es bot ihnen Vollendung ihrer Forschung gegen den **wortgleichen Preis** wie Bertas Pakt:
+
+> *"alles, was sie sind. Ihre Erinnerungen. Ihre Erfahrungen. Alles, was sie noch erleben würden. Alles, was sie ausmacht — Vergangenheit, Gegenwart und Zukunft."*
+
+Es **materialisierte** drei identische Bücher (siehe [[Drei Bücher]]) — Raum, Essenz, Seele. Wilhelm: *"Diese Dinge wurden nicht von Menschenhand erschaffen."*
+
+Starke Hinweise auf Identität mit das Nichts — gleicher Preis, gleiche formlose Begegnungs-Realität. Falls dies stimmt, hat das Nichts bereits **vor Generationen** in die Reichsgeschichte von [[Kalineon]] eingegriffen.
+
 ## Offene Fragen
 
 > [!warning] **Spoiler-Risiko**: Bertas Pakt-Details sind PC-only / spielerseitig.
@@ -69,6 +82,8 @@ Jeder Charakter sieht etwas anderes, das ihm/ihr persönlich resoniert:
 3. Steht das Nichts mit anderen kosmischen Mächten in Verbindung — z.B. den [[Risse|Rissen]]?
 4. Welcher tatsächliche Mechanismus lässt es Materie an Orte holen, an die seine Anwesenheit *"nicht zustände"*?
 5. Existieren mehrere "Nichts"-artige Wesen? Oder ist das Nichts singulär?
+6. **Ist das Nichts identisch mit dem Traumwesen der drei Hofmagier?** Falls ja, war es schon einmal **fast** in diese Welt geholt worden — der Plan des alten Königs scheiterte nur, weil [[Palamedes]] eingriff.
+7. Warum gab das Wesen den drei Magiern Bücher zu Raum, Essenz und Seele — exakt jenen drei Disziplinen, die zusammen eine **Schwelle / Form / Bindung** erlauben?
 
 ## Verknüpfungen
-- [[Berta]] · [[Magischer Schluessel]] · [[Isolationsraum]] · [[Session 12]]
+- [[Berta]] · [[Magischer Schluessel]] · [[Isolationsraum]] · [[Session 12]] · [[Drei Bücher]] · [[Wilhelm Casterwell]] · [[Tagebücher Wilhelm Casterwell]]

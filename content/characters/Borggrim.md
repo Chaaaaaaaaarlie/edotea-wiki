@@ -2,29 +2,37 @@
 type: character
 title: "Borggrim"
 character_type: npc
+aliases:
+  - Borgrim Runenbrecher
 tags:
   - character
   - npc
 related: []
-sources: []
+sources:
+  - Tagebücher Wilhelm Casterwell
 created: 2026-05-11
-updated: 2026-05-11
+updated: 2026-05-25
 status: developing
 ---
 # Borggrim
 
 ## Überblick
 
-- Zwerg und einer der drei Hofmagier des alten Königs von [[Kalineon]].
+- Zwerg und einer der drei Hofmagier des alten Königs von [[Kalineon]]. **Volltitel: Borgrim Runenbrecher.**
 - Stand für **Seelenmagie** und arbeitete gemeinsam mit [[Lysantir Velora]] und [[Wilhelm Casterwell]] an gefährlicher Forschung.
+- Wilhelm beschreibt seine Methode: *"Er behandelt Seelen wie ein Schmied Metall — als etwas, das man formen kann."*
 
 ## Notizen
 
 - Wurde in älteren Notizen zunächst nur als unbenannter Zwerg geführt.
-- Sein Name wird in [[Session 11]] durch Naelis Tagebuchseiten von [[Wilhelm Casterwell]] bestätigt.
-- Wie die beiden anderen Hofmagier erhielt auch er offenbar ein eigenes Buch über ein Traumwesen.
-- Als die Gefahr der Bücher klar wurde, suchte er gemeinsam mit den anderen [[Palamedes]] auf.
-- Danach wurde auch sein Buch versteckt.
+- Sein Name wird in [[Session 11]] durch Naelis Tagebuchseiten von [[Wilhelm Casterwell]] bestätigt; voller Name **Borgrim Runenbrecher** steht in Tagebuch I (siehe [[Tagebücher Wilhelm Casterwell]]).
+- **Charakter** (laut Tagebüchern): rau, spöttisch, derber Humor. Skeptisch gegenüber Wilhelms Träumen: *"Wenn du lange genug auf Raumdiagramme starrst, beginnst du eben irgendwann, sie im Schlaf zu sehen."*
+- Misstrauen gegenüber dem aufgetauchten Buch: *"Bücher landen selten freiwillig in den Händen eines Magiers, ohne dass jemand dahintersteckt."*
+- Träumte in der Nacht nach Wilhelms Mitteilung erstmals selbst — Reaktion: **Angst**, ungewöhnlich still.
+- Erhielt das Wesen-Angebot zusammen mit Lysanthiriel. Bild dazu (Tagebuch V): *"als würde man einem Schmied anbieten, das perfekte Schwert zu schmieden, wenn er dafür seine Hände, seine Geschichte und jeden kommenden Tag seines Lebens aufgibt."* Nahm **aus Furcht vor dem König** an.
+- Sein Buch ist baugleich mit Wilhelms — Inhalt: **Struktur der Seele**.
+- Reaktion auf den Plan des Königs (Tagebuch VI): ballte die Hände, bis die Knöchel weiß wurden; danach: *"Der König ist dabei, etwas zu schmieden, das niemand führen kann."*
+- In Tagebuch VIII verbarg er seine Unruhe vor dem Verstecken nur schwer.
 
 ## Verknüpfungen
 
@@ -34,3 +42,6 @@ status: developing
 - [[Session 7]]
 - [[Session 11]]
 - [[Wilhelm Casterwell]]
+- [[das Nichts]]
+- [[Drei Bücher]]
+- [[Tagebücher Wilhelm Casterwell]]

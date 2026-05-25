@@ -2,7 +2,7 @@
 type: meta
 title: "Wiki Log"
 created: 2026-05-11
-updated: 2026-05-18
+updated: 2026-05-25
 tags:
   - meta
 status: evergreen
@@ -11,6 +11,29 @@ status: evergreen
 # Wiki Log
 
 Append-only. New entries at the **TOP**. Never edit past entries.
+
+## [2026-05-25] ingest | Tagebücher Wilhelm Casterwell (Player-Handout)
+
+- Sieben PDFs aus `input/Tagebuch1..6,8.pdf` → `.raw/player-handouts/`. **Tagebuch VII fehlt im Handout-Satz.**
+- Es handelt sich um die [[Session 6]] von [[Naeli]] gefundenen Tagebuchseiten von [[Wilhelm Casterwell]] (Session 6 spricht von neun Tagebüchern — DM hat sieben als Handout bereitgestellt).
+- Neue Source-Seite: [[Tagebücher Wilhelm Casterwell]] mit Eintragsweise-Zusammenfassung aller sieben Bände.
+- Aktualisierte Seiten:
+  - **[[Session 6]]**: kompletter Inhalt der Tagebücher als Kurzfassung in die Ereignisse eingefügt.
+  - **[[Wilhelm Casterwell]]**: Tagebuch-Details ergänzt (münzgroßer Raumspalt, Mechanismus Schwelle/Form/Bindung, Prinz-Erbe, Versteck-Nacht-Zitat).
+  - **[[Lysantir Velora]]**: voller Name **Lysanthiriel Vaelora** als Alias, Essenzmagie-Zitat, Reaktion auf Buch, Zitat *"Magie spricht manchmal zu denen, die zuhören"*, Tagebuch-VI-Reaktion.
+  - **[[Borggrim]]**: voller Name **Borgrim Runenbrecher** als Alias, Charakter-Skizze (rau, spöttisch), Skeptiker-Zitat, Tagebuch-V- und VI-Reaktionen.
+  - **[[Palamedes]]**: Tagebuch-Schreibvariante **Palamedis** als Alias; präzisiert, dass er nicht offen eingriff, sondern Religions-/Adels-/General-Kreis aufbaute und einen Anführer wählte.
+  - **[[Drei Bücher]]**: Mechanismus präzisiert (**Raum öffnet Schwelle · Essenz gibt Form · Seele bindet**), Beschaffenheit der Bücher, identische Schrift, "Prinz"-Plan, Versteck in einer einzigen Nacht.
+  - **[[das Nichts]]**: neuer Abschnitt **Verdacht: Traumwesen der drei Hofmagier** — Preis ist wortgleich mit Bertas Pakt; offene Frage zur Identität.
+  - **[[Naeli]]**: Verweis auf [[Tagebücher Wilhelm Casterwell]] beim Session-11-Eintrag.
+- Sub-Indizes: `sources/_index.md` Player-Handouts-Sektion gefüllt; Master-`index.md` Sources 2→3.
+- Schlüssel-Erkenntnisse aus Tagebüchern:
+  - **Mechanik des Königs-Plans**: Raum öffnet Schwelle, Essenz gibt Form, Seele bindet. Erstmals wörtlich aus Tagebuch VI.
+  - **Traumwesen-Preis = Bertas Pakt-Preis** (wortidentisch). Starker Hinweis, dass [[das Nichts]] mit den Hofmagiern interagierte.
+  - **Buch-Eigenschaft**: drei identische Bücher *"entstanden"*, nicht geschrieben — keine Variation in der Schrift.
+  - **Palamedis-Strategie**: kein offenes Eingreifen, sondern Aufbau eines Koalitionskreises und Auswahl eines Anführers.
+  - **Vermisstes Tagebuch VII**: Lücke zwischen Sturz-Beschluss (VI) und Versteck-Nacht (VIII).
+  - **Prinz-Erbe**: das gesammelte Wissen sollte an den damaligen Prinz weitergegeben werden — was nach dem Sturz daraus wurde, ist offen.
 
 ## [2026-05-18] ingest | Session 13 aus WhisperX-Transkript
 - Quelle: `D:\Documents\DnD\Transkriptionen\Edotea_Session_13_transcript.txt` (178 KB, 4906 Zeilen, ~2h51min). Diesmal **korrekt** Session 13 (anders als bei Session-12-Misnummerierung).

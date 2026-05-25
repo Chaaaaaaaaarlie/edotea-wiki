@@ -2,25 +2,32 @@
 type: character
 title: "Lysantir Velora"
 character_type: npc
+aliases:
+  - Lysanthiriel Vaelora
+  - Lysantril
 tags:
   - character
   - npc
 related: []
-sources: []
+sources:
+  - Tagebücher Wilhelm Casterwell
 created: 2026-05-11
-updated: 2026-05-11
+updated: 2026-05-25
 status: developing
 ---
 # Lysantir Velora
 
 ## Überblick
-- Elfe, die in neun Tagebüchern von [[Wilhelm Casterwell]] erwähnt wird.
-- Wird dort mit Essenzmagie in Verbindung gebracht.
-- Arbeitete zusammen mit [[Borggrim]] im Auftrag des Königs daran, zwei Punkte miteinander zu verbinden.
+- Elfe, die in [[Tagebücher Wilhelm Casterwell|Wilhelms Tagebüchern]] erwähnt wird. **Volltitel: Lysanthiriel Vaelora.**
+- Wird dort mit Essenzmagie in Verbindung gebracht — ihre Lehre: *"Materie ist verdichtete Möglichkeit, deren Form sich verändern lässt, wenn man ihre Essenz versteht."*
+- Arbeitete zusammen mit [[Borggrim]] und [[Wilhelm Casterwell]] im Auftrag des Königs daran, zwei Punkte miteinander zu verbinden.
 
 ## Notizen
 - Laut [[Session 7]] war [[Lysantir Velora]] eine von drei Forschenden, die getrennt an Raum-, Essenz- und Seelenmagie arbeiteten.
-- Wie [[Wilhelm Casterwell]] erhielt sie offenbar über ein Traumwesen ein eigenes Buch für ihre Magie.
+- Wie [[Wilhelm Casterwell]] erhielt sie über ein Traumwesen ein eigenes Buch — laut Tagebuch V **am Morgen nach einer Traum-Begegnung mit dem Wesen**, das ihr Vollendung gegen *"alles, was sie ist, war und sein wird"* anbot. Sie nahm **aus Furcht vor dem König** an.
+- Reagierte beim ersten Sichten von Wilhelms Buch ruhig: strich über die Zeichen, *"als würde sie ihre Bedeutung fühlen wollen"*. Ihr Zitat zu Wilhelms Träumen: *"Magie spricht manchmal zu denen, die zuhören."*
+- Ihr Buch hat **identischen Einband, identische Schrift und identischen Aufbau** wie das von Wilhelm — Wilhelm: *"Als wären sie nicht geschrieben worden. Sondern entstanden."*
+- War in Tagebuch VI die Erste, die den Plan des Königs offen kritisierte: *"Wenn wir diesen Plan umsetzen, könnte die Welt selbst darunter leiden."*
 - Als die Gefahr dieser Bücher klar wurde, suchte sie zusammen mit den anderen Forschern den goldenen Drachen [[Palamedes]] auf.
 - Danach wurde ihr Buch wie die anderen beiden versteckt.
 - Die in [[Session 11]] erwähnte „Lysantril\" ist dieselbe Person.
@@ -51,3 +58,6 @@ status: developing
 - [[Kalineon-Royalisten]]
 - [[Wappen des alten Kalineon]]
 - [[Spymaster]]
+- [[das Nichts]]
+- [[Drei Bücher]]
+- [[Tagebücher Wilhelm Casterwell]]

@@ -2,7 +2,7 @@
 type: meta
 title: "Wiki Index"
 created: 2026-05-11
-updated: 2026-05-18
+updated: 2026-05-25
 tags:
   - meta
 status: mature
@@ -49,8 +49,8 @@ Master catalog. Updated on every ingest.
 ## Sessions (14) — see [[_index|Sessions Index]]
 - [[Session 13]] · [[Session 12]] · [[Session 11]] · [[Session 10]] · [[Session 9]] · [[Session 8]] · [[Session 7]] · [[Session 6]] · [[Session 5]] · [[Session 4]] · [[Session 3]] · [[Session 2]] · [[Session 1]] · [[Session 0]]
 
-## Sources (2) — see [[_index|Sources Index]]
-- [[Session 12 transcript]] · [[Session 13 transcript]]
+## Sources (3) — see [[_index|Sources Index]]
+- [[Session 12 transcript]] · [[Session 13 transcript]] · [[Tagebücher Wilhelm Casterwell]]
 
 ## Factions (1) — see [[_index|Factions Index]]
 - [[Kalineon-Royalisten]]
