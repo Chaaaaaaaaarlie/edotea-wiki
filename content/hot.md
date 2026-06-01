@@ -2,7 +2,7 @@
 type: meta
 title: "Hot Cache"
 created: 2026-05-11
-updated: 2026-05-26
+updated: 2026-06-01
 tags:
   - meta
 status: evergreen
@@ -11,7 +11,9 @@ status: evergreen
 # Recent Context
 
 ## Last Updated
-2026-05-26 — [[Session 14]] aus `.raw/session-transcripts/Edotea_Session_14_transcript.txt` ingestiert (8108 Zeilen, ~5h10min). **Magolor-Aussehen erstmals bekannt**, **Schlüssel des Nichts funktioniert**, **Audienz beim Hohen Rat eskaliert** (Krone-Diebstahl, Rats-Flucht), Cliffhanger in **Berthas Bohnen**.
+2026-06-01 — DM-Klärungen eingetragen: **[[Carbus]]** Lage + Gouvernanz bestätigt (Grenzland, Bandenherrschaft). **[[Spell-Slot-Anhänger]]**: kein Verfall, nur durch Khirin aufladbar. **[[Lady Günthers Flasche]]**: kompatibel mit pferdeähnlichen Alchemiewesen.
+
+*(Davor: 2026-05-26 — [[Session 14]] ingestiert, Magolor-Aussehen, Krone-Diebstahl, Berthas Bohnen.)*
 
 ## Campaign Snapshot
 **Edotea** ist eine D&D-Kampagne auf dem [[Kontinent Edotea]]. Aktive PCs: [[Berta]] (Sorcerer/Warlock), [[Hrímnir]] ([[Goliath]] Cleric/Monk Elemental), [[Khirin]] (Halbelf Evocation Wizard 6 mit Sculpt Spells), [[Naeli]] (Halbling Druidin), [[Sim]] (Simian Fighter/Ranger). Aktuell **außerhalb [[Lunovar]]** — durch [[Magischer Schluessel|Schlüssel des Nichts]] in [[Berthas Bohnen]] entkommen. Letzte Session: [[Session 14]].
@@ -51,6 +53,7 @@ Vor Eintritt: aus [[Lunovar]]s Adelsviertel geflohen nach **gescheiterter Audien
 - **Lady Günther** = [[Twilight (Pony)]]'s IC-Name.
 
 ## Recent Changes
+- 2026-06-01 (DM-Update): [[Carbus]] (Lage + Gouvernanz), [[Spell-Slot-Anhänger]] (kein Verfall, nur Khirin), [[Lady Günthers Flasche]] (pferdeähnliche Alchemiewesen).
 - 2026-05-26 (Ingest): [[Session 14]] aus `.raw/session-transcripts/Edotea_Session_14_transcript.txt`. Neue Seiten: [[Sophie Marie]], [[Edgar Thorne]], [[Jack]], [[Elfaria Albis von Sylphid]], [[Berthas Bohnen]], [[Krone des Hohen Rates]], [[Spell-Slot-Anhänger]], [[Lady Günthers Flasche]], [[Session 14]], [[Session 14 transcript]]. Updates: [[Magolor]] (Aussehen), [[Lysanthiriel Vaelora]] (Kristallkugel zerstört), [[Drei Bücher]] (Perlen-Identifier), [[das Nichts]] (Traumwesen-Bestätigung), [[Magischer Schluessel]] (Funktion bestätigt), [[Twilight (Pony)]] (Name "Lady Günther"), [[Gurde]] (fertig), [[Staff of Fire]] (repariert), [[Carbus]] (= gesetzlose Stadt bestätigt), [[Fohlen]] (Platinumkugel, Divination), [[Magilanikas Maven]] (Anhänger, Pseudo-Wache), [[Schmiedemeisterei Lunovar]], [[Zwergenmeister Schmiedemeisterei]], [[Virion Loramis]] (1. persönliche Begegnung), [[Lunovar]] (Adelsviertel, Verbrecher-Status), [[Spymaster]] (Auftragsklärung), alle 5 PCs.
 - 2026-05-25 (Ingest): [[Tagebücher Wilhelm Casterwell]] — sieben PDFs. Drei-Bücher-Mechanik (Raum/Essenz/Seele) wörtlich. Verdacht das Nichts = Traumwesen.
 - 2026-05-18 (Ingest): [[Session 13]] aus WhisperX-Transkript.

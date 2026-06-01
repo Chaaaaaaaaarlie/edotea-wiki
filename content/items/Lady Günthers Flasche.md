@@ -20,7 +20,7 @@ sources:
   - Session 14
   - Session 14 transcript
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-06-01
 status: developing
 ---
 
@@ -47,10 +47,12 @@ status: developing
 - Naeli sperrt **Lady Günther** (= [[Twilight (Pony)]]) vor der Verfolgung des Halbelfen-Kindes ([[Jack]]) in die Flasche → schleicht heimlich hinter ihm her.
 - Im Hohen-Rat-Combat: nochmal eingeschlossen, damit sie nicht im Combat zu Schaden kommt.
 
+## Einschränkungen
+- Kompatibel mit **pferdeähnlichen Alchemiewesen** — nicht nur Lady Günther. Normale nicht-alchemische Pferde unklar.
+- Kein bestätigtes Maximalgewicht.
+
 ## Offene Fragen
-- Funktioniert die Flasche auch mit **anderen** Pferden oder ist sie an Lady Günther gebunden?
 - Was passiert, wenn die Flasche **zerbricht** während das Pony drin ist? Hrímnir-OOC-Tipp: *"Eine Flasche zertrümmern und reparieren mit Mending."*
-- Maximalgewicht/-größe?
 
 ## Verknüpfungen
 - [[Naeli]] · [[Twilight (Pony)]] (= Lady Günther) · [[Virion Loramis]] · [[Fohlen]] · [[Magische Akademie Lunovar]]

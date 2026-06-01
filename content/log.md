@@ -2,7 +2,7 @@
 type: meta
 title: "Wiki Log"
 created: 2026-05-11
-updated: 2026-05-26
+updated: 2026-06-01
 tags:
   - meta
 status: evergreen
@@ -11,6 +11,12 @@ status: evergreen
 # Wiki Log
 
 Append-only. New entries at the **TOP**. Never edit past entries.
+
+## [2026-06-01] update | DM-Infos: Carbus + Item-Klärungen
+
+- **[[Carbus]]**: Lage + Gouvernanz geklärt. Liegt auf unbeanspruchtem Grenzland (kein der 3 Reiche beansprucht es, Landesteilungs-Streit). Regiert durch wechselnde Banden/Kriminelle — kein fester Herrscher.
+- **[[Spell-Slot-Anhänger]]**: Kein Slot-Verfall bestätigt. Aufladen nur durch [[Khirin]] (kein Selbst-Aufladen).
+- **[[Lady Günthers Flasche]]**: Funktioniert mit **pferdeähnlichen Alchemiewesen** (nicht nur Lady Günther). Kein Maximalgewicht festgelegt.
 
 ## [2026-05-26] ingest | Session 14 aus WhisperX-Transkript
 

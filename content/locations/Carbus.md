@@ -23,7 +23,7 @@ sources:
   - Session 14
   - Session 14 transcript
 created: 2026-05-12
-updated: 2026-05-26
+updated: 2026-06-01
 status: developing
 ---
 
@@ -42,13 +42,15 @@ Stadt, deren genaue Lage und Region bisher unbekannt sind. In [[Session 12]] von
 - **Kopfgeld-Markt**: [[Edgar Thorne]] hat dort **5.000 Gold auf [[Berta]]** ausgeschrieben.
 - **Heimat von [[Jack]]** (kindlicher Auftragsmörder, [[Session 14]]).
 
+## Lage & Gouvernanz
+- **Lage**: Liegt auf einem Stück Land, das **keines der drei anliegenden Reiche** ([[Kalineon]], [[Indura]], [[Lögress]]) beansprucht — Grenzstreit über Landesteilung verhindert jede offizielle Hoheit.
+- **Herrschaft**: Kein zentraler Herrscher. Verschiedene **Banden und Kriminelle** teilen Einfluss — wechselt sich regelmäßig ab, da sich Banden gegenseitig bekämpfen. Faktisch Anarchie mit punktueller Bandenherrschaft.
+
 ## Wie kontaktiert man die "Szene"?
 - [[Jack]]: *"Ihr könnt in Carbus einfach nach mir fragen. Es kennen mich sicherlich nicht alle, aber ihr werdet jemanden finden, der mich kennt."*
 - Die Stadt scheint **außerhalb der elfisch-lunovarischen Jurisdiktion** zu liegen — Wachen jagen keine Söldner dorthin, was sie zum Treff- und Operationspunkt macht.
 
 ## Offene Fragen
-- **In welchem Reich liegt Carbus?** Außerhalb von [[Kalineon]] / [[Indura]] / [[Lögress]]?
 - Wer besitzt die zweite Kristallkugel — wurde sie entwendet? Wer schmiedet dort gerade (Hammerschläge)?
-- Wer ist die führende Macht? Krimineller Lord? Anarchie? Kollektiv von Auftragsmördern?
 - Hat [[Magolor]] eine Basis in Carbus, oder operiert er primär aus [[Lunovar]]?
 - Wie kommt die Gruppe von [[Lunovar]] dorthin (sie sind jetzt offen verfolgt)?

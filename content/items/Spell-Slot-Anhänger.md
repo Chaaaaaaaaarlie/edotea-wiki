@@ -17,7 +17,7 @@ sources:
   - Session 14 transcript
   - Session 11
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-06-01
 status: developing
 ---
 
@@ -28,6 +28,8 @@ Magischer **Anhänger**, von [[Magilanikas Maven]] aus einem **Kristall** gefert
 
 ## Funktion
 - **Speichert einen Spell-Slot bis maximal Stufe 3.**
+- Aufladung: **nur durch [[Khirin]]** — der Anhänger lädt sich nicht selbst auf.
+- **Kein Slot-Verfall** — einmal gespeicherter Slot bleibt erhalten bis verwendet.
 - Khirin kann den Slot aufladen und später ohne Verbrauch eigener Ressourcen casten.
 - [[Berta]] bestätigt die Funktion via **Identify als Ritual** im Laden.
 - Magilanika: *"Natürlich funktioniert der. Das musst du gerade sagen — ihr habt einen Auftrag bei der großen und mächtigen Magellanic Maven in Auftrag gegeben."*
@@ -47,8 +49,6 @@ Magischer **Anhänger**, von [[Magilanikas Maven]] aus einem **Kristall** gefert
 - **Wahrscheinlich Schlüssel zu Khirins Krone-Diebstahl-Flucht** ([[Session 14]] Akt 7): zwei Misty Steps in einer Runde durch Anhänger-Vorrat?
 
 ## Offene Fragen
-- Lädt der Anhänger auch selbst auf, oder nur durch Khirins Slot-Investition?
-- Was passiert, wenn der Slot nicht innerhalb einer bestimmten Zeit verwendet wird — bleibt er, oder verfällt er?
 - Kann er auch von anderen PCs benutzt werden, oder ist er attuned an Khirin?
 
 ## Verknüpfungen
