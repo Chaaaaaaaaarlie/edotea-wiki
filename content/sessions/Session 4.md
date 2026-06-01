@@ -16,11 +16,11 @@ status: mature
 
 ## Ereignisse
 
-- Auf dem kleinen Grab steht der Name [[Fiona Casterwell]].
+- Auf dem kleinen Grab steht der Name [[Fiona Casterwill]].
 
 - Khirin und Berta reden von [[Spectre]] und erzählen, dass es Geister sind.
 
-- Das Grab von [[Fiona Casterwell|Fiona]] sieht schon sehr alt aus auch wenn sich immer wieder darum gekümmert wird.
+- Das Grab von [[Fiona Casterwill|Fiona]] sieht schon sehr alt aus auch wenn sich immer wieder darum gekümmert wird.
 - Es ist bereits 10 Jahre alt und der Grabstein fängt schon an zu zerbröckeln...
 
 - Sim hat das Grab aufgehebelt.
@@ -31,13 +31,13 @@ status: mature
 
 - Khirin sagt uns, dass [[Elliot]] ganz oft an einen [[Magolor]] gedacht hat als er durch den Nebel in Panik war.
 
-- In dem großen Grab liegt [[Wilhelm Casterwell]].
+- In dem großen Grab liegt [[Wilhelm Casterwill]].
 - Wir haben das Grab aufgehebelt und wurden von einem [[Skelett]] angegriffen.
 - Im Grab kann ich sehen, dass das [[Skelett]] ohne Sarg begraben wurde.
 - Nur ein Ring war sonst in dem Grab.
 - Auf dem Ring ist dieselbe Insignie wie auf dem Grabstein selbst.
 
-- Der Ring und der Grabstein von [[Fiona Casterwell|Fiona]] leuchten leicht auf bei der Anwendung von Detect Magic.
+- Der Ring und der Grabstein von [[Fiona Casterwill|Fiona]] leuchten leicht auf bei der Anwendung von Detect Magic.
 
 - Die Blumenkästen vor der Kapelle sind schon lange verwittert.
 - Die Tür der Kapelle sieht komisch aus. Sie hat zum Beispiel kein Schloss.
@@ -68,7 +68,7 @@ status: mature
 - Khirin berührt den Kristall und bekommt ein unangenehmes Gefühl.
 - Der Kristall scheint ein Seelenkäfig zu sein.
 
-- Die Runen waren auch im Zauberbuch von [[Wilhelm Casterwell]].
+- Die Runen waren auch im Zauberbuch von [[Wilhelm Casterwill]].
 - Es wurde auf das andere Buch referenziert.
 
 - Als Sim versucht hat, mit dem Bruchstück das Papier zu greifen, hat sich eine Steinplatte, auf welcher das Papier liegt, aufgelöst. Darunter ist ein Keller.
@@ -97,7 +97,7 @@ status: mature
 - Das Gehirn sagt es ist gefangen und kann nichts sehen.
 - Es fühlt sich seit einer Ewigkeit eingesperrt.
 - Kann sich nur noch daran erinnern, dass es im Dorf rumlief und seinem Alltag nachging.
-- Das Gehirn heißt [[Kevin]].
+- Das Gehirn heißt Kevin.
 
 - Das Logbuch ist von [[Magolor]]
 
@@ -109,5 +109,5 @@ status: mature
 
 - Kampf gegen [[Spectre]], [[Wraith]] und [[Geist]].
 
-- [[Orlam]], der Schmied, hat sich in einen [[Spectre]] verwandelt, als wir uns ihm nähern wollten.
+- Orlam, der Schmied, hat sich in einen [[Spectre]] verwandelt, als wir uns ihm nähern wollten.
 - Auch das Haus am Dorfanfang hat sich in eine Ruine verwandelt.

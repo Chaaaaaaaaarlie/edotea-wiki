@@ -1,6 +1,6 @@
 ---
 type: character
-title: "Fiona Casterwell"
+title: "Fiona Casterwill"
 character_type: npc
 tags:
   - character
@@ -11,7 +11,7 @@ created: 2026-05-11
 updated: 2026-05-11
 status: developing
 ---
-# Fiona Casterwell
+# Fiona Casterwill
 
 ## Überblick
 - Ehefrau von [[Elliot]].
@@ -19,7 +19,7 @@ status: developing
 - Nach den Erkenntnissen aus [[Session 5]] war sie der Auslöser eines zentralen Teils der Illusions- und Seelenereignisse im Dorf.
 
 ## Notizen
-- [[Elliot]] sagte in [[Session 7]], dass [[Fiona Casterwell|Fiona]] nicht magisch begabt war.
+- [[Elliot]] sagte in [[Session 7]], dass [[Fiona Casterwill|Fiona]] nicht magisch begabt war.
 - Sie diente früher als Dienstmagd im alten [[Kalineon]], wo [[Elliot]] sich in sie verliebte.
 
 ## Verknüpfungen

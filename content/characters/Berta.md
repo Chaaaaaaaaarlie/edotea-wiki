@@ -52,7 +52,7 @@ status: developing
   - **Witch Bolt auf höherer Stufe** (90 ft Reichweite) gegen flüchtenden Schwarzmantel.
   - **Mage Rage** als Buff im Spymaster-Kampf, kombiniert mit **Eldritch Blast**.
   - **Counterspell** und **Shield** mehrfach reaktiv gegen Söldner-Angriffe.
-  - Erkennt das **[[Wappen des alten Kalineon]]** an der Brosche des [[Spymaster|Spymasters]] (History-Check 13) aus [[Wilhelm Casterwell|Wilhelms]] Tagebüchern.
+  - Erkennt das **[[Wappen des alten Kalineon]]** an der Brosche des [[Spymaster|Spymasters]] (History-Check 13) aus [[Wilhelm Casterwill|Wilhelms]] Tagebüchern.
   - Erbeutet vom Spymaster den **Auftragszettel** mit einer schlechten Zeichnung von ihr selbst im Hexenhut.
 - **[[Session 14]]**:
   - **Verhör Stellvertreter**: castet **Intimidation 19** (mit Hrímnir-Help-Vorteil) → Geständnis: Kopfgeld in Carbus durch [[Edgar Thorne]] (5.000 G).

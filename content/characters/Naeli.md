@@ -7,7 +7,7 @@ tags:
   - pc
 related: []
 sources:
-  - Tagebücher Wilhelm Casterwell
+  - Tagebücher Wilhelm Casterwill
 created: 2026-05-11
 updated: 2026-05-26
 status: developing
@@ -39,12 +39,12 @@ status: developing
 - Untersuchte in [[Session 6]] den Wald beim [[Anwesen]], der auf sie wieder lebendiger wirkte.
 - Berichtete in [[Session 6]], dass sie sich seit einiger Zeit seltsam gebraucht fühlt.
 - [[Berta]] stellte in [[Session 6]] mit Identify fest, dass [[Naeli]] unter einem Zauber steht.
-- Las in [[Session 7]] weitere Tagebücher von [[Wilhelm Casterwell]] und brachte der Gruppe die Hinweise auf drei gefährliche Bücher nahe.
+- Las in [[Session 7]] weitere Tagebücher von [[Wilhelm Casterwill]] und brachte der Gruppe die Hinweise auf drei gefährliche Bücher nahe.
 - Verbindet diese Erkenntnisse mit [[Magolor]] und will in [[Lunovar]] nach höherer Magie und mehr Wissen dazu suchen.
 - Findet in [[Session 8]] beim Magiehändler in [[Cadnix]] ein altes Geschichtenbuch.
 - Wirkt in [[Session 8]] Hold Person auf [[Lucien]].
 - Nimmt [[Lucien]] die magische Kommunikationsmünze ab.
-- Trägt in [[Session 11]] weiterhin die Tagebuchseiten von [[Wilhelm Casterwell]] bei sich und zeigt sie [[Crucellus]]. **Voller Inhalt der sieben Handout-Seiten**: siehe [[Tagebücher Wilhelm Casterwell]].
+- Trägt in [[Session 11]] weiterhin die Tagebuchseiten von [[Wilhelm Casterwill]] bei sich und zeigt sie [[Crucellus]]. **Voller Inhalt der sieben Handout-Seiten**: siehe [[Tagebücher Wilhelm Casterwill]].
 - Kennt ihre Eltern nicht und ist in einem Druidenzirkel aufgewachsen.
 - **[[Session 12]]**: Sucht aktiv nach einer Möglichkeit, ihre **Identitätsverzauberung** zu lösen.
   - [[Magilanikas Maven]] kann die Verzauberung nicht aufheben, empfiehlt **Wish-Spell** oder *"den zweitbesten Magier der Stadt"*.
@@ -102,6 +102,6 @@ status: developing
 - [[Jack]]
 - [[Staff of Fire]]
 - [[Treant]]
-- [[Wilhelm Casterwell]]
-- [[Tagebücher Wilhelm Casterwell]]
+- [[Wilhelm Casterwill]]
+- [[Tagebücher Wilhelm Casterwill]]
 - [[Elfaria Albis von Sylphid]]

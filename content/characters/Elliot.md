@@ -14,14 +14,14 @@ status: developing
 # Elliot
 
 ## Überblick
-- Voller Name: Elliot Casterwell
+- Voller Name: Elliot Casterwill
 - Alter: 34 Jahre
-- Nachfahre von [[Wilhelm Casterwell]]
+- Nachfahre von [[Wilhelm Casterwill]]
 - Früherer Hofmagier von [[Kalineon]] und Herr des [[Anwesen]]s im [[Nebelwald]]
 
 ## Notizen
 - Die Gruppe traf ihn erstmals an der Tür des [[Anwesen]]s.
-- Er berichtete, dass [[Wilhelm Casterwell]] früher in der Ruine am [[Mondschleiersee]] geforscht hat.
+- Er berichtete, dass [[Wilhelm Casterwill]] früher in der Ruine am [[Mondschleiersee]] geforscht hat.
 - Laut [[Session 2]] war er früher Hofmagier des Königreichs [[Kalineon]].
 - Laut [[Session 3]] studierte er an der Akademie von [[Lunovar]].
 - In [[Session 6]] beschrieb er [[Magolor]] als dunkelhaarigen Magier in Robe mit einem wertvollen Buch oder Folianten am Gürtel.
@@ -37,13 +37,12 @@ status: developing
 
 - [[Anwesen]]
 - [[Cadnix]]
-- [[Fiona Casterwell]]
+- [[Fiona Casterwill]]
 - [[Fürst Alator]]
 - [[Kalineon]]
 - [[Khirin]]
 - [[Magolor]]
 - [[Mondschleiersee]]
-- [[Orlam]]
 - [[Session 1]]
 - [[Session 2]]
 - [[Session 3]]
@@ -52,4 +51,4 @@ status: developing
 - [[Session 6]]
 - [[Session 7]]
 - [[Session 8]]
-- [[Wilhelm Casterwell]]
+- [[Wilhelm Casterwill]]

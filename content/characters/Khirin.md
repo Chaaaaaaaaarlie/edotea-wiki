@@ -59,7 +59,7 @@ status: developing
   - **Counterspell** gegen Söldner-Stabby-Angriff auf sich selbst.
   - **Scorching Ray** und **Shockwave** als Backup.
   - **Shield** mehrfach reaktiv.
-  - **Erkennt** das **[[Wappen des alten Kalineon]]** an der Spymaster-Brosche (History-Check) aus [[Wilhelm Casterwell|Wilhelms]] Tagebüchern — formuliert die **Royalisten-Hypothese**.
+  - **Erkennt** das **[[Wappen des alten Kalineon]]** an der Spymaster-Brosche (History-Check) aus [[Wilhelm Casterwill|Wilhelms]] Tagebüchern — formuliert die **Royalisten-Hypothese**.
   - Tritt am Akademie-Eingang als hochstehender Halbelf auf — die Wache spricht ihn als *"gehobenes Volk"* an.
   - OOC-Vorschlag: Pony-Name **"Twilight"** (My-Little-Pony-Referenz).
 - **[[Session 14]]**:

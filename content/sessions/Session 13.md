@@ -125,7 +125,7 @@ Direkte Fortsetzung nach [[Session 12]]. Die Gruppe wird aus dem Reich von [[das
 
 #### Wappen-Identifikation
 - **History-Check**: [[Berta]] (13) und [[Khirin]] (höher) erkennen das Wappen — es ist das **Wappen des alten Reiches [[Kalineon]]** (vor dem Sturz des Königshauses).
-- Quelle: Eines der **Tagebücher [[Wilhelm Casterwell|Wilhelm Casterwills]]** ([[Session 6]]/7).
+- Quelle: Eines der **Tagebücher [[Wilhelm Casterwill|Wilhelm Casterwills]]** ([[Session 6]]/7).
 - [[Khirin]]: *"Es scheint wohl, wir haben es mit alten **Royalisten** zu tun."* — Hypothese. Sie könnten von Bertas Pergament wissen — möglicher Connect, dass das Pergament aus dem alten Kalineon-Königshaus-Kontext stammt.
 - [[Berta]]: *"Oder sie wissen, dass ich die Seite bei mir habe."*
 
@@ -277,7 +277,7 @@ Direkte Fortsetzung nach [[Session 12]]. Die Gruppe wird aus dem Reich von [[das
 - [[gesetzlose Stadt]]
 - [[Twilight (Pony)]]
 - [[Gurde]] · [[Y'Chak]] · [[das Nichts]]
-- [[Wilhelm Casterwell]] · [[Lysanthiriel Vaelora]] · [[Kalineon]]
+- [[Wilhelm Casterwill]] · [[Lysanthiriel Vaelora]] · [[Kalineon]]
 
 ---
 

@@ -28,7 +28,7 @@ status: developing
 
 - [[Anwesen]]
 - [[Elliot]]
-- [[Fiona Casterwell]]
+- [[Fiona Casterwill]]
 - [[Kalden]]
 - [[Kontinent Edotea]]
 - [[Mondschleiersee]]

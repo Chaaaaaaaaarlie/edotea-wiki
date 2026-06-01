@@ -113,7 +113,7 @@ Direkte Fortsetzung nach der **Bibliotheksrecherche zu [[Lysanthiriel Vaelora]]*
 #### Naelis Verzauberung
 - [[Fohlen]] legt [[Naeli]] die Hand auf den Kopf — bestätigt prekäre Situation.
 - Bestätigt Magilanikas Diagnose: **Wish-Spell** oder ein **[[Djinn]]** wären Kandidaten zum Aufheben.
-- Bietet an, seine *Fühler auszustrecken* — er schuldet der Gruppe noch was wegen [[Elliot|Elliot Castorwells]] Rückkehr (Casterwell-Fluch gebrochen).
+- Bietet an, seine *Fühler auszustrecken* — er schuldet der Gruppe noch was wegen [[Elliot|Elliot Castorwells]] Rückkehr (Casterwill-Fluch gebrochen).
 
 #### Reparatur-Hilfen
 - Naelis **Froststab** (+1 auf alle Frost-Zauber) wird über Nacht beim Alchemie- oder Stab-Lehrer überarbeitet, sonst Ersatz bereitgestellt.
@@ -128,7 +128,7 @@ Direkte Fortsetzung nach der **Bibliotheksrecherche zu [[Lysanthiriel Vaelora]]*
 
 #### Risse-Diskussion
 
-> [!contradiction] **PC-Misremembering**: [[Sim]] und [[Naeli]] sagen [[Fohlen]] gegenüber, die Trinitaet sei *Raum-, **Zeit**-, Essenzmagie*. Korrekt laut [[Session 7]] und [[Drei Bücher]]-Forschung ist jedoch **Raum / Essenz / Seelen** ([[Wilhelm Casterwell]] / [[Lysanthiriel Vaelora]] / [[Borgrim Runenbrecher]]). Fohlen reagiert konsequent: *"davon noch nie gehört"* — er kannte die Trinitaet nicht in dieser falschen Form. Beim Tracen der Wahrheit aus Sicht der DM gelten die älteren Sessions als Kanon.
+> [!contradiction] **PC-Misremembering**: [[Sim]] und [[Naeli]] sagen [[Fohlen]] gegenüber, die Trinitaet sei *Raum-, **Zeit**-, Essenzmagie*. Korrekt laut [[Session 7]] und [[Drei Bücher]]-Forschung ist jedoch **Raum / Essenz / Seelen** ([[Wilhelm Casterwill]] / [[Lysanthiriel Vaelora]] / [[Borgrim Runenbrecher]]). Fohlen reagiert konsequent: *"davon noch nie gehört"* — er kannte die Trinitaet nicht in dieser falschen Form. Beim Tracen der Wahrheit aus Sicht der DM gelten die älteren Sessions als Kanon.
 
 | Theorie | Quelle | [[Fohlen]]s Reaktion |
 |---|---|---|

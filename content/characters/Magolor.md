@@ -15,7 +15,7 @@ related:
   - Drei Bücher
   - das Nichts
   - Lysanthiriel Vaelora
-  - Wilhelm Casterwell
+  - Wilhelm Casterwill
   - Borgrim Runenbrecher
   - Oestliche Garnison von Cadnix
 sources:
@@ -112,7 +112,7 @@ Per [[Berta]]s **Detect Thoughts** auf [[Sophie Marie]]:
 - Hat er die Brosche tatsächlich abgehört oder ist die Funktion **passiv** (nur Ortung permanent)?
 
 ## Verknüpfungen
-- [[Anwesen]] · [[Elliot]] · [[Lysanthiriel Vaelora]] · [[Oestliche Garnison von Cadnix]] · [[Wilhelm Casterwell]] · [[Borgrim Runenbrecher]]
-- [[Drei Bücher]] · [[das Nichts]] · [[Risse]] · [[Tagebücher Wilhelm Casterwell]]
+- [[Anwesen]] · [[Elliot]] · [[Lysanthiriel Vaelora]] · [[Oestliche Garnison von Cadnix]] · [[Wilhelm Casterwill]] · [[Borgrim Runenbrecher]]
+- [[Drei Bücher]] · [[das Nichts]] · [[Risse]] · [[Tagebücher Wilhelm Casterwill]]
 - [[Sophie Marie]] · [[Spymaster]]
 - [[Session 4]] · [[Session 5]] · [[Session 6]] · [[Session 7]] · [[Session 10]] · [[Session 11]] · [[Session 14]]

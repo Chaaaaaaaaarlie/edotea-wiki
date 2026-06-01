@@ -24,10 +24,11 @@ status: developing
 - Im aktuellen Vault ist noch keine eindeutig zugeordnete Stadtseite aus dem Kernland von [[Lögress]] vorhanden.
 - [[Zakson]] liegt nahe der Grenze zu diesem Reich.
 - Laut [[Nora]] ([[Session 8]]) haben die Inkursionen aus anderen Ebenen zuerst in [[Lögress]] zugenommen, bevor sie sich nach [[Kalineon]] ausbreiteten.
-- Das östlich gelegene Reich Falmers steht [[Lögress]] feindlich gegenüber, ein Krieg droht, der auch [[Kalineon]] betreffen könnte.
+- Das östlich gelegene Reich [[Falmers]] steht [[Lögress]] feindlich gegenüber, ein Krieg droht, der auch [[Kalineon]] betreffen könnte.
 
 ## Verknüpfungen
 
+- [[Falmers]]
 - [[Kalineon]]
 - [[Kontinent Edotea]]
 - [[Nora]]

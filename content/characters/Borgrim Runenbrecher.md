@@ -10,7 +10,7 @@ tags:
   - npc
 related: []
 sources:
-  - Tagebücher Wilhelm Casterwell
+  - Tagebücher Wilhelm Casterwill
 created: 2026-05-11
 updated: 2026-05-25
 status: developing
@@ -20,13 +20,13 @@ status: developing
 ## Überblick
 
 - Zwerg und einer der drei Hofmagier des alten Königs von [[Kalineon]]. In älteren Notizen verkürzt als *Borggrim* geführt.
-- Stand für **Seelenmagie** und arbeitete gemeinsam mit [[Lysanthiriel Vaelora]] und [[Wilhelm Casterwell]] an gefährlicher Forschung.
+- Stand für **Seelenmagie** und arbeitete gemeinsam mit [[Lysanthiriel Vaelora]] und [[Wilhelm Casterwill]] an gefährlicher Forschung.
 - Wilhelm beschreibt seine Methode: *"Er behandelt Seelen wie ein Schmied Metall — als etwas, das man formen kann."*
 
 ## Notizen
 
 - Wurde in älteren Notizen zunächst nur als unbenannter Zwerg geführt.
-- Sein Name wird in [[Session 11]] durch Naelis Tagebuchseiten von [[Wilhelm Casterwell]] bestätigt; voller Name **Borgrim Runenbrecher** steht in Tagebuch I (siehe [[Tagebücher Wilhelm Casterwell]]).
+- Sein Name wird in [[Session 11]] durch Naelis Tagebuchseiten von [[Wilhelm Casterwill]] bestätigt; voller Name **Borgrim Runenbrecher** steht in Tagebuch I (siehe [[Tagebücher Wilhelm Casterwill]]).
 - **Charakter** (laut Tagebüchern): rau, spöttisch, derber Humor. Skeptisch gegenüber Wilhelms Träumen: *"Wenn du lange genug auf Raumdiagramme starrst, beginnst du eben irgendwann, sie im Schlaf zu sehen."*
 - Misstrauen gegenüber dem aufgetauchten Buch: *"Bücher landen selten freiwillig in den Händen eines Magiers, ohne dass jemand dahintersteckt."*
 - Träumte in der Nacht nach Wilhelms Mitteilung erstmals selbst — Reaktion: **Angst**, ungewöhnlich still.
@@ -42,7 +42,7 @@ status: developing
 - [[Palamedis]]
 - [[Session 7]]
 - [[Session 11]]
-- [[Wilhelm Casterwell]]
+- [[Wilhelm Casterwill]]
 - [[das Nichts]]
 - [[Drei Bücher]]
-- [[Tagebücher Wilhelm Casterwell]]
+- [[Tagebücher Wilhelm Casterwill]]

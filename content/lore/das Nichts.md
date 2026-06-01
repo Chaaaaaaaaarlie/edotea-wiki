@@ -12,11 +12,11 @@ related:
   - Magischer Schluessel
   - Isolationsraum
   - Drei Bücher
-  - Wilhelm Casterwell
+  - Wilhelm Casterwill
 sources:
   - Session 12
   - Session 12 transcript
-  - Tagebücher Wilhelm Casterwell
+  - Tagebücher Wilhelm Casterwill
 created: 2026-05-12
 updated: 2026-05-26
 status: developing
@@ -65,7 +65,7 @@ Jeder Charakter sieht etwas anderes, das ihm/ihr persönlich resoniert:
 
 ## Bestätigt: Traumwesen der drei Hofmagier ([[Session 14]])
 
-[[Naeli]] liest aus [[Tagebücher Wilhelm Casterwell|Wilhelms Tagebuch]] vor — die Passagen sind **wortgleich** mit Bertas Pakt-Beschreibung:
+[[Naeli]] liest aus [[Tagebücher Wilhelm Casterwill|Wilhelms Tagebuch]] vor — die Passagen sind **wortgleich** mit Bertas Pakt-Beschreibung:
 
 > *"Sie berichteten von einem Ort, der keine wirkliche Form besaß. Keine Wände, keinen Boden, keinen Himmel. Nur eine Art grenzenlose Leere, in der dennoch etwas anwesend war. Etwas, das weder Gestalt noch Stimme im gewöhnlichen Sinne besaß und doch mit ihnen sprach."*
 
@@ -80,7 +80,7 @@ Jeder Charakter sieht etwas anderes, das ihm/ihr persönlich resoniert:
 ## Plan des alten Königs / Magolors Ziel ([[Session 14]])
 
 Das Nichts soll an die materielle Ebene **gebunden** werden — eine *Beschwörungs-Mechanik*:
-- **Raummagie** ([[Wilhelm Casterwell]]) → öffnet die **Schwelle**.
+- **Raummagie** ([[Wilhelm Casterwill]]) → öffnet die **Schwelle**.
 - **Essenzmagie** ([[Lysanthiriel Vaelora]]) → gibt dem Wesen **Form**.
 - **Seelenmagie** ([[Borgrim Runenbrecher]]) → **bindet** es an die materielle Ebene.
 
@@ -111,5 +111,5 @@ Möglicherweise: ein vom Nichts geschenkter **Rückzugsort** für Berta? Oder ei
 ## Verknüpfungen
 - [[Berta]] · [[Magischer Schluessel]] · [[Isolationsraum]] · [[Berthas Bohnen]]
 - [[Session 12]] · [[Session 14]]
-- [[Drei Bücher]] · [[Wilhelm Casterwell]] · [[Tagebücher Wilhelm Casterwell]]
+- [[Drei Bücher]] · [[Wilhelm Casterwill]] · [[Tagebücher Wilhelm Casterwill]]
 - [[Magolor]] · [[Risse]]

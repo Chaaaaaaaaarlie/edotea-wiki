@@ -15,7 +15,7 @@ related:
   - Spymaster
   - Kalineon-Royalisten
   - Kalineon
-  - Wilhelm Casterwell
+  - Wilhelm Casterwill
   - Berta
 sources:
   - Session 13 transcript
@@ -34,7 +34,7 @@ Vom toten **[[Spymaster]]** in [[Session 13]] geborgen. Er trug sie **am Herzen*
 
 ## Identifikation
 History-Check in [[Session 13]] gelang [[Berta]] und [[Khirin]]:
-- Das Wappen ist in einem von **[[Wilhelm Casterwell|Wilhelm Casterwills]] Tagebüchern** ([[Session 6]]/[[Session 7]]) abgebildet — die Tagebücher dokumentieren auch die alten Königshaus-Geheimprojekte (Lysanthiriel/Wilhelm/Borgrim-Forschung).
+- Das Wappen ist in einem von **[[Wilhelm Casterwill|Wilhelm Casterwills]] Tagebüchern** ([[Session 6]]/[[Session 7]]) abgebildet — die Tagebücher dokumentieren auch die alten Königshaus-Geheimprojekte (Lysanthiriel/Wilhelm/Borgrim-Forschung).
 - [[Khirin]] zog daraus die Hypothese: **Die Träger sind Royalisten**, eine Faktion, die das alte Königshaus wiederherstellen will → siehe [[Kalineon-Royalisten]].
 
 ## Bedeutung
@@ -49,5 +49,5 @@ History-Check in [[Session 13]] gelang [[Berta]] und [[Khirin]]:
 
 ## Verknüpfungen
 - [[Spymaster]] · [[Kalineon-Royalisten]] · [[Kalineon]]
-- [[Wilhelm Casterwell]] · [[Lysanthiriel Vaelora]] · [[Berta]]
+- [[Wilhelm Casterwill]] · [[Lysanthiriel Vaelora]] · [[Berta]]
 - [[Session 13]]

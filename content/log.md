@@ -12,6 +12,18 @@ status: evergreen
 
 Append-only. New entries at the **TOP**. Never edit past entries.
 
+## [2026-06-01] update | Falmers als neues Reich angelegt
+
+- Neue Location-Stub-Seite: [[Falmers]] — viertes Reich auf dem Kontinent, noch nicht kartiert. Quelle: DM-Bestätigung.
+- Locations-Zähler 29 → 30.
+
+## [2026-06-01] update | Namens- und Charakter-Korrekturen vom DM
+
+- **Rename Casterwell → Casterwill**: alle 20+ Dateien per Python-Bulk-Replace, 3 Dateien umbenannt (`Wilhelm Casterwill.md`, `Fiona Casterwill.md`, `Tagebücher Wilhelm Casterwill.md`).
+- **Gelöscht**: [[Orlam]] (Schmied-Spectre, Session 3–4), [[Lumerio]] (Tyr-Priester, Session 3), [[Kevin]] (Gedankenschaender-Gehirn, Session 4) — DM: nicht relevant für den Vault.
+- Wikilinks zu gelöschten NPCs aus allen Seiten entfernt (Anwesen, Elliot, Spectre, Tyr, Session 3, Session 4). Session-Texte behalten Plain-Text-Erwähnungen.
+- Index-Zähler angepasst: 34 → 31 Characters, 29 → 26 NPCs.
+
 ## [2026-06-01] update | DM-Infos: Carbus + Item-Klärungen
 
 - **[[Carbus]]**: Lage + Gouvernanz geklärt. Liegt auf unbeanspruchtem Grenzland (kein der 3 Reiche beansprucht es, Landesteilungs-Streit). Regiert durch wechselnde Banden/Kriminelle — kein fester Herrscher.
@@ -58,7 +70,7 @@ Append-only. New entries at the **TOP**. Never edit past entries.
 
 ## [2026-05-25] rename | Namens-Kanonisierung per Tagebücher
 
-- DM-Vorgabe: Schreibweise aus [[Tagebücher Wilhelm Casterwell]] ist kanonisch; ältere Varianten sind falsch.
+- DM-Vorgabe: Schreibweise aus [[Tagebücher Wilhelm Casterwill]] ist kanonisch; ältere Varianten sind falsch.
 - Datei-Umbenennungen:
   - `characters/Lysantir Velora.md` → `characters/Lysanthiriel Vaelora.md`
   - `characters/Borggrim.md` → `characters/Borgrim Runenbrecher.md`
@@ -66,24 +78,24 @@ Append-only. New entries at the **TOP**. Never edit past entries.
 - Frontmatter: `title:` + `aliases:` in den drei Dateien geflippt. Aliase: `Lysantir Velora` / `Lysantril` · `Borggrim` / `Borgrim` · `Palamedes` — so dass alte Wikilinks weiterhin auflösen.
 - H1-Headings auf neuen Kanon-Namen angepasst.
 - Bulk `sed` über alle .md außer `log.md` (append-only-Regel): `[[Lysantir Velora]]` → `[[Lysanthiriel Vaelora]]`, `[[Borggrim]]` → `[[Borgrim Runenbrecher]]`, `[[Palamedes]]` → `[[Palamedis]]` (inkl. Display-Text-Varianten `[[...|...]]`).
-- Manuelle Folge-Edits in `frontmatter.related`, bare-name-Erwähnungen und Headings: `Kalineon-Royalisten.md`, `Wappen des alten Kalineon.md`, `Session 12.md`, `Lysanthiriel Vaelora.md`, `Tagebücher Wilhelm Casterwell.md`, `hot.md`, `Wilhelm Casterwell.md`, `Session 6.md`.
+- Manuelle Folge-Edits in `frontmatter.related`, bare-name-Erwähnungen und Headings: `Kalineon-Royalisten.md`, `Wappen des alten Kalineon.md`, `Session 12.md`, `Lysanthiriel Vaelora.md`, `Tagebücher Wilhelm Casterwill.md`, `hot.md`, `Wilhelm Casterwill.md`, `Session 6.md`.
 - Source-Page: obsolete "Namens-Kanon vs. PC-Notizen"-Tabelle durch knappe Alias-Auflistung ersetzt.
 - log.md-Einträge vor diesem nicht editiert — Aliase fangen alte Wikilinks ab.
 
-## [2026-05-25] ingest | Tagebücher Wilhelm Casterwell (Player-Handout)
+## [2026-05-25] ingest | Tagebücher Wilhelm Casterwill (Player-Handout)
 
 - Sieben PDFs aus `input/Tagebuch1..6,8.pdf` → `.raw/player-handouts/`. **Tagebuch VII fehlt im Handout-Satz.**
-- Es handelt sich um die [[Session 6]] von [[Naeli]] gefundenen Tagebuchseiten von [[Wilhelm Casterwell]] (Session 6 spricht von neun Tagebüchern — DM hat sieben als Handout bereitgestellt).
-- Neue Source-Seite: [[Tagebücher Wilhelm Casterwell]] mit Eintragsweise-Zusammenfassung aller sieben Bände.
+- Es handelt sich um die [[Session 6]] von [[Naeli]] gefundenen Tagebuchseiten von [[Wilhelm Casterwill]] (Session 6 spricht von neun Tagebüchern — DM hat sieben als Handout bereitgestellt).
+- Neue Source-Seite: [[Tagebücher Wilhelm Casterwill]] mit Eintragsweise-Zusammenfassung aller sieben Bände.
 - Aktualisierte Seiten:
   - **[[Session 6]]**: kompletter Inhalt der Tagebücher als Kurzfassung in die Ereignisse eingefügt.
-  - **[[Wilhelm Casterwell]]**: Tagebuch-Details ergänzt (münzgroßer Raumspalt, Mechanismus Schwelle/Form/Bindung, Prinz-Erbe, Versteck-Nacht-Zitat).
+  - **[[Wilhelm Casterwill]]**: Tagebuch-Details ergänzt (münzgroßer Raumspalt, Mechanismus Schwelle/Form/Bindung, Prinz-Erbe, Versteck-Nacht-Zitat).
   - **[[Lysantir Velora]]**: voller Name **Lysanthiriel Vaelora** als Alias, Essenzmagie-Zitat, Reaktion auf Buch, Zitat *"Magie spricht manchmal zu denen, die zuhören"*, Tagebuch-VI-Reaktion.
   - **[[Borggrim]]**: voller Name **Borgrim Runenbrecher** als Alias, Charakter-Skizze (rau, spöttisch), Skeptiker-Zitat, Tagebuch-V- und VI-Reaktionen.
   - **[[Palamedes]]**: Tagebuch-Schreibvariante **Palamedis** als Alias; präzisiert, dass er nicht offen eingriff, sondern Religions-/Adels-/General-Kreis aufbaute und einen Anführer wählte.
   - **[[Drei Bücher]]**: Mechanismus präzisiert (**Raum öffnet Schwelle · Essenz gibt Form · Seele bindet**), Beschaffenheit der Bücher, identische Schrift, "Prinz"-Plan, Versteck in einer einzigen Nacht.
   - **[[das Nichts]]**: neuer Abschnitt **Verdacht: Traumwesen der drei Hofmagier** — Preis ist wortgleich mit Bertas Pakt; offene Frage zur Identität.
-  - **[[Naeli]]**: Verweis auf [[Tagebücher Wilhelm Casterwell]] beim Session-11-Eintrag.
+  - **[[Naeli]]**: Verweis auf [[Tagebücher Wilhelm Casterwill]] beim Session-11-Eintrag.
 - Sub-Indizes: `sources/_index.md` Player-Handouts-Sektion gefüllt; Master-`index.md` Sources 2→3.
 - Schlüssel-Erkenntnisse aus Tagebüchern:
   - **Mechanik des Königs-Plans**: Raum öffnet Schwelle, Essenz gibt Form, Seele bindet. Erstmals wörtlich aus Tagebuch VI.
@@ -105,7 +117,7 @@ Append-only. New entries at the **TOP**. Never edit past entries.
   - **Lore**: [[gesetzlose Stadt]] (Söldner-Heimat; vermutlich [[Carbus]]).
   - **Source**: [[Session 13 transcript]].
   - **Session**: [[Session 13]].
-- Aktualisiert: alle 5 PC-Seiten, [[Fohlen]] (35.000 G Schulden, Telepathie blockiert), [[Y'Chak]] (lila Ketten zerbrochen → keine Bindung mehr), [[Gurde]] (in Reparatur), [[Lunovar]], [[Magische Akademie Lunovar]], [[Carbus]], [[Kalineon]], [[Wilhelm Casterwell]].
+- Aktualisiert: alle 5 PC-Seiten, [[Fohlen]] (35.000 G Schulden, Telepathie blockiert), [[Y'Chak]] (lila Ketten zerbrochen → keine Bindung mehr), [[Gurde]] (in Reparatur), [[Lunovar]], [[Magische Akademie Lunovar]], [[Carbus]], [[Kalineon]], [[Wilhelm Casterwill]].
 - Sub-Indizes: alle aktualisiert (characters 22→25, locations 27→28, items 3→4, lore 15→16, factions 0→1, sessions 13→14, sources 1→2). Master-`index.md` und `hot.md` ebenfalls.
 - Schlüssel-Erkenntnisse Session 13:
   - **Y'Chak-Bindung gebrochen** (visuelle Bestätigung durch [[Fohlen]]: lilafarbene Ketten zerbrochen).
@@ -117,7 +129,7 @@ Append-only. New entries at the **TOP**. Never edit past entries.
 
 ## [2026-05-12] consolidate | Kontradiktionen-Sweep nach DM-Feedback
 - **Session 13 → Session 12 zusammengeführt**: Die ingestete "Session 13" war Tool-Misnummerierung — kanonisch ist Session 12. Wiki-Seite Session 13.md gelöscht, Inhalte in Session 12 gemergt (inkl. alter Bibliotheksrecherche-Sektion). Source-Page umbenannt zu [[Session 12 transcript]] (mit Alias auf alten Titel). Session-Zähler 14 → 13.
-- **Drei-Bücher-Trinitaet**: Kanon ist **Raum / Essenz / Seelen** ([[Wilhelm Casterwell]] / [[Lysantir Velora]] / [[Borggrim]]). Das PC-Misremembering in Session 12 (Raum/Zeit/Essenz) ist per `[!contradiction]`-Callout auf [[Session 12]] und [[Drei Bücher]] markiert. [[Virion Loramis]] und [[Risse]]-Page entsprechend korrigiert.
+- **Drei-Bücher-Trinitaet**: Kanon ist **Raum / Essenz / Seelen** ([[Wilhelm Casterwill]] / [[Lysantir Velora]] / [[Borggrim]]). Das PC-Misremembering in Session 12 (Raum/Zeit/Essenz) ist per `[!contradiction]`-Callout auf [[Session 12]] und [[Drei Bücher]] markiert. [[Virion Loramis]] und [[Risse]]-Page entsprechend korrigiert.
 - **[[Lysantir Velora]]**: Selbstwiderspruch behoben — sie macht *nur* Essenzmagie; die Trinitaet entsteht aus allen drei Magiern zusammen.
 - **[[Hrímnir]]**: Klasse zurück auf **Cleric/Monk** mit Elemental-Monk-Subclass (castet Bless). Rasse korrigiert zu **[[Goliath]]** (mechanisch); kulturell bei Frostgiants aufgewachsen.
 - **Reich-Namen**: `Kalenion` → [[Kalineon]] (Transkriptionsartefakt). Es ist ein Reich, nicht zwei.

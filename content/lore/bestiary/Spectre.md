@@ -29,7 +29,7 @@ NoteIcon: npc
 # Informationen
 
 Ein Specter ist laut 2024er Regelwerk ein körperloser, lebensverzehrender Geist voller Zorn.
-In Edotea trat eine specterartige Erscheinung im Zusammenhang mit dem Friedhof, der Kapelle und [[Orlam]] auf.
+In Edotea trat eine specterartige Erscheinung im Zusammenhang mit dem Friedhof und der Kapelle auf.
 
 ## 2024 Regelwerk
 
@@ -54,10 +54,7 @@ In Edotea trat eine specterartige Erscheinung im Zusammenhang mit dem Friedhof, 
 ## Edotea-Notizen
 
 - In [[Session 4]] kämpfte die Gruppe gegen mindestens einen Specter im Bereich der Kapelle.
-- [[Orlam]] erschien der Gruppe ebenfalls in einer specterartigen, untoten Gestalt.
-
 ## Verknüpfungen
 
-- [[Orlam]]
 - [[Session 4]]
 - [[Wraith]]

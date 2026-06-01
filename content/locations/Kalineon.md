@@ -25,7 +25,7 @@ status: developing
 - Vor über tausend Jahren war [[Kalineon]] ein klassisches Königreich, das Macht durch Eroberung, Tribut und Unterwerfung suchte.
 - Diese Politik führte zu langen Kriegen, hohen Abgaben, Zwangsrekrutierungen und religiösen Spannungen.
 - Auch der [[Erliorwald]] und die Elfen, aus denen später [[Lunovar]] hervorging, litten unter den Überfällen des alten Regimes.
-- Das **Wappen** des alten Königshauses ist in [[Wilhelm Casterwell|Wilhelm Casterwills]] Tagebüchern dokumentiert — siehe [[Wappen des alten Kalineon]]. In [[Session 13]] erkennen [[Berta]] und [[Khirin]] dieses Wappen an einer Brosche des toten **[[Spymaster|Spymasters]]** — Khirins Hypothese: aktive **[[Kalineon-Royalisten]]**, die [[Lysanthiriel Vaelora|Lysantirs]] Pergament begehren.
+- Das **Wappen** des alten Königshauses ist in [[Wilhelm Casterwill|Wilhelm Casterwills]] Tagebüchern dokumentiert — siehe [[Wappen des alten Kalineon]]. In [[Session 13]] erkennen [[Berta]] und [[Khirin]] dieses Wappen an einer Brosche des toten **[[Spymaster|Spymasters]]** — Khirins Hypothese: aktive **[[Kalineon-Royalisten]]**, die [[Lysanthiriel Vaelora|Lysantirs]] Pergament begehren.
 
 ## Entstehung des heutigen Kalineon
 
@@ -35,7 +35,7 @@ status: developing
 - Im Zentrum der neuen Ordnung stand eine junge Frau aus einfachen Verhältnissen, die als erster [[Goetterfunke]] gilt.
 - Nach dem Sieg gab das neue Regime eroberte Gebiete zurück und schuf ein System, das Tyrannei verhindern soll.
 - Laut den Tagebüchern aus [[Session 7]] könnte dieser goldene Drache [[Palamedis]] gewesen sein.
-- Dieselben Tagebücher deuten zudem darauf hin, dass [[Wilhelm Casterwell]], [[Lysanthiriel Vaelora]] und ein unbenannter Zwerg im Umfeld dieses Umsturzes aktiv waren.
+- Dieselben Tagebücher deuten zudem darauf hin, dass [[Wilhelm Casterwill]], [[Lysanthiriel Vaelora]] und ein unbenannter Zwerg im Umfeld dieses Umsturzes aktiv waren.
 
 ## Regierung
 
@@ -68,7 +68,7 @@ status: developing
 
 - [[Elliot]] war früher Hofmagier des Königreichs [[Kalineon]].
 - Laut [[Session 5]] wurde [[Elliot]] vom Königshaus wegen einer Expedition zu Ruinen in [[Kalineon]] an den Hof gebeten.
-- Laut [[Session 7]] diente [[Fiona Casterwell]] früher im alten [[Kalineon]] als Dienstmagd.
+- Laut [[Session 7]] diente [[Fiona Casterwill]] früher im alten [[Kalineon]] als Dienstmagd.
 
 ## Verknüpfungen
 
@@ -76,7 +76,7 @@ status: developing
 - [[Apostel]]
 - [[Cadnix]]
 - [[Erliorwald]]
-- [[Fiona Casterwell]]
+- [[Fiona Casterwill]]
 - [[Goetterfunke]]
 - [[Kalden]]
 - [[Karvus]]
@@ -90,7 +90,7 @@ status: developing
 - [[Session 7]]
 - [[Session 13]]
 - [[Vortigern]]
-- [[Wilhelm Casterwell]]
+- [[Wilhelm Casterwill]]
 - [[Wappen des alten Kalineon]]
 - [[Kalineon-Royalisten]]
 - [[Zakson]]

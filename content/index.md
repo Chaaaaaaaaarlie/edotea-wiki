@@ -15,17 +15,17 @@ Master catalog. Updated on every ingest.
 ## Overview
 - [[overview|Edotea — Willkommen]]
 
-## Characters (34) — see [[_index|Characters Index]]
+## Characters (31) — see [[_index|Characters Index]]
 
 ### PCs (5)
 - [[Berta]] · [[Hrímnir]] · [[Khirin]] · [[Naeli]] · [[Sim]]
 
-### NPCs (29)
-- [[Borgrim Runenbrecher]] · [[Crucellus]] · [[Edgar Thorne]] · [[Elfaria Albis von Sylphid]] · [[Elliot]] · [[Fiona Casterwell]] · [[Fohlen]] · [[Fürst Alator]] · [[Jack]] · [[Kevin]] · [[Lucien]] · [[Lumerio]] · [[Lysanthiriel Vaelora]] · [[Magilanikas Maven]] · [[Magolor]] · [[Markus L. Kalinion]] · [[Nora]] · [[Orlam]] · [[Palamedis]] · [[Scale Piercer]] · [[Sophie Marie]] · [[Spymaster]] · [[Storm Holder]] · [[Twilight (Pony)]] · [[Virion Loramis]] · [[Wilhelm Casterwell]] · [[Wukong]] · [[Y'Chak]] · [[Zwergenmeister Schmiedemeisterei]]
+### NPCs (26)
+- [[Borgrim Runenbrecher]] · [[Crucellus]] · [[Edgar Thorne]] · [[Elfaria Albis von Sylphid]] · [[Elliot]] · [[Fiona Casterwill]] · [[Fohlen]] · [[Fürst Alator]] · [[Jack]] · [[Lucien]] · [[Lysanthiriel Vaelora]] · [[Magilanikas Maven]] · [[Magolor]] · [[Markus L. Kalinion]] · [[Nora]] · [[Palamedis]] · [[Scale Piercer]] · [[Sophie Marie]] · [[Spymaster]] · [[Storm Holder]] · [[Twilight (Pony)]] · [[Virion Loramis]] · [[Wilhelm Casterwill]] · [[Wukong]] · [[Y'Chak]] · [[Zwergenmeister Schmiedemeisterei]]
 
-## Locations (29) — see [[_index|Locations Index]]
+## Locations (30) — see [[_index|Locations Index]]
 - Kontinent: [[Kontinent Edotea]] · [[Cloud Fang]] · [[Erliorwald]] · [[Nebelwald]] · [[Wesh]]
-- Reiche: [[Indura]] · [[Kalineon]] · [[Lögress]]
+- Reiche: [[Falmers]] · [[Indura]] · [[Kalineon]] · [[Lögress]]
 - Indura: [[Albarest]] · [[Beardsley]] · [[Hellawes]] · [[Lothringen]] · [[Reneed]]
 - Kalineon: [[Cadnix]] · [[Kalden]] · [[Karvus]] · [[Lunovar]] · [[Vortigern]] · [[Zakson]]
 - Nebelwald: [[Anwesen]] · [[Mondschleiersee]]
@@ -50,7 +50,7 @@ Master catalog. Updated on every ingest.
 - [[Session 14]] · [[Session 13]] · [[Session 12]] · [[Session 11]] · [[Session 10]] · [[Session 9]] · [[Session 8]] · [[Session 7]] · [[Session 6]] · [[Session 5]] · [[Session 4]] · [[Session 3]] · [[Session 2]] · [[Session 1]] · [[Session 0]]
 
 ## Sources (4) — see [[_index|Sources Index]]
-- [[Session 12 transcript]] · [[Session 13 transcript]] · [[Session 14 transcript]] · [[Tagebücher Wilhelm Casterwell]]
+- [[Session 12 transcript]] · [[Session 13 transcript]] · [[Session 14 transcript]] · [[Tagebücher Wilhelm Casterwill]]
 
 ## Factions (1) — see [[_index|Factions Index]]
 - [[Kalineon-Royalisten]]

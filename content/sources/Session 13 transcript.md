@@ -41,7 +41,7 @@ Vollständige Zusammenfassung siehe [[Session 13]]. Hauptpunkte:
 3. **Hinterhalt der Schwarzmäntel**: Auf dem Weg zurück gegrappelt [[Hrímnir]] einen schwarz vermummten Verfolger. Mit [[Berta]]s Suggestion: Sie sind **Söldner aus der gesetzlosen Stadt**, hingewiesen auf [[Berta]] (die "Bleiche, Lange"), sollen ihr alles aus den Taschen klauen. Auftraggeber: bärtiger Mensch mit **Schnitt überm Auge**, wartet mit Komplizen in nahegelegener Gasse.
 4. **Kampf gegen den Spymaster und seine Crew**: [[Hrímnir]] springt vom Dach, stunnt den Spymaster. [[Naeli]] castet Nebelwolke + Healing. [[Berta]] Mage Rage + Eldritch Blast + Witch Bolt. [[Khirin]] Fireball + Scorching Ray. [[Sim]] Hunter's Mark + Pushing Attack. Spymaster fällt durch Pushing Attack vom Dach (20 Fuß), stirbt am Aufprall. Zwei Söldner werden bewusstlos gefangen.
 5. **Loot des Spymasters**:
-   - **Brosche mit Wappen des alten Reiches [[Kalineon]]** (vor Sturz des Königshauses) — Khirin und Berta erkennen es aus [[Wilhelm Casterwell|Wilhelms]] Tagebüchern. Hypothese: **Royalisten**.
+   - **Brosche mit Wappen des alten Reiches [[Kalineon]]** (vor Sturz des Königshauses) — Khirin und Berta erkennen es aus [[Wilhelm Casterwill|Wilhelms]] Tagebüchern. Hypothese: **Royalisten**.
    - **Auftragszettel mit schlechter Zeichnung [[Berta|Bertas]]** im Hexenhut — sie sollten *ihr Pergament* stehlen.
    - **Schwert** (–1, Altmetall nach Blitzschlag).
    - ~28 Gold Berta-Loot, 1 Gold Khirin-Loot.

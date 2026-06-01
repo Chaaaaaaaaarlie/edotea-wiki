@@ -11,7 +11,7 @@ status: evergreen
 # Recent Context
 
 ## Last Updated
-2026-06-01 — DM-Klärungen eingetragen: **[[Carbus]]** Lage + Gouvernanz bestätigt (Grenzland, Bandenherrschaft). **[[Spell-Slot-Anhänger]]**: kein Verfall, nur durch Khirin aufladbar. **[[Lady Günthers Flasche]]**: kompatibel mit pferdeähnlichen Alchemiewesen.
+2026-06-01 — DM-Korrekturen: **Casterwell → Casterwill** (Elliot, Wilhelm, Fiona; 20+ Dateien). **Gelöscht**: Orlam, Lumerio, Kevin (3 Minor-NPCs). Außerdem: Carbus Lage/Gouvernanz, Spell-Slot-Anhänger-Regeln, Lady Günthers Flasche-Kompatibilität.
 
 *(Davor: 2026-05-26 — [[Session 14]] ingestiert, Magolor-Aussehen, Krone-Diebstahl, Berthas Bohnen.)*
 
@@ -34,7 +34,7 @@ Vor Eintritt: aus [[Lunovar]]s Adelsviertel geflohen nach **gescheiterter Audien
 3. **[[Carbus]] / [[gesetzlose Stadt]] = identisch**. Quelle des **5.000 G Kopfgelds** durch [[Edgar Thorne]]. Heimat von [[Jack]], dem Halbelfen-Kind-Auftragsmörder.
 4. **[[Krone des Hohen Rates]]**: Khirin trägt sie, kann in Lunovar nicht verkaufen.
 5. **[[Lysanthiriel Vaelora|Lysantirs]] Buch versteckt in einem Tempel in Lunovar** — *"nicht zu finden, außer man weiß bereits, wo er ist"*. Familie **Sylphid** wacht.
-6. **Lysantirs Kristallkugel zerstört** — Khirins Kugel gehört [[Wilhelm Casterwell|Wilhelm]] oder [[Borgrim Runenbrecher|Borgrim]].
+6. **Lysantirs Kristallkugel zerstört** — Khirins Kugel gehört [[Wilhelm Casterwill|Wilhelm]] oder [[Borgrim Runenbrecher|Borgrim]].
 7. **[[das Nichts]] = Traumwesen der drei Hofmagier** bestätigt. Plan: Raum/Essenz/Seele binden.
 8. **[[Gurde]]** physisch fertig, bei Virion zur magischen Wiederherstellung.
 9. **[[Staff of Fire]]** repariert (10/10 Charges, täglich nachladend).
@@ -43,7 +43,7 @@ Vor Eintritt: aus [[Lunovar]]s Adelsviertel geflohen nach **gescheiterter Audien
 12. **Magolors Loyalitäts-Brosche** im Bag of Holding versiegelt (Ortung+Abhörfunktion blockiert).
 
 ## Key Facts
-- 5 PCs, 29 NPCs, 29 Orte, 16 Lore + 11 Bestiarium, 7 Items, 1 Faction, 15 Sessions, 4 Sources.
+- 5 PCs, 26 NPCs, 30 Orte, 16 Lore + 11 Bestiarium, 7 Items, 1 Faction, 15 Sessions, 4 Sources.
 - **[[Magolor]]-Aussehen**: Mensch, 40–45, schwarze Haare, markante Gesichtsstruktur, schwarzer Mantel, **zwei Folianten mit Brandstempel** (gleich wie auf Bertas Pergament), eigenes Zauberbuch links. **Hat zwei der drei Bücher** (grüne + rote Perle).
 - **[[Sophie Marie]]**: Adelige aus Familie Marie (Lunovar, angesehen), schuldete Magolor das Leben (grüne Magie-Rettung), eingesperrt im Bag of Holding → tot.
 - **[[Edgar Thorne]]** (ungesehen): Kopfgeldgeber in Carbus, 5.000 G auf Berta.
@@ -55,7 +55,7 @@ Vor Eintritt: aus [[Lunovar]]s Adelsviertel geflohen nach **gescheiterter Audien
 ## Recent Changes
 - 2026-06-01 (DM-Update): [[Carbus]] (Lage + Gouvernanz), [[Spell-Slot-Anhänger]] (kein Verfall, nur Khirin), [[Lady Günthers Flasche]] (pferdeähnliche Alchemiewesen).
 - 2026-05-26 (Ingest): [[Session 14]] aus `.raw/session-transcripts/Edotea_Session_14_transcript.txt`. Neue Seiten: [[Sophie Marie]], [[Edgar Thorne]], [[Jack]], [[Elfaria Albis von Sylphid]], [[Berthas Bohnen]], [[Krone des Hohen Rates]], [[Spell-Slot-Anhänger]], [[Lady Günthers Flasche]], [[Session 14]], [[Session 14 transcript]]. Updates: [[Magolor]] (Aussehen), [[Lysanthiriel Vaelora]] (Kristallkugel zerstört), [[Drei Bücher]] (Perlen-Identifier), [[das Nichts]] (Traumwesen-Bestätigung), [[Magischer Schluessel]] (Funktion bestätigt), [[Twilight (Pony)]] (Name "Lady Günther"), [[Gurde]] (fertig), [[Staff of Fire]] (repariert), [[Carbus]] (= gesetzlose Stadt bestätigt), [[Fohlen]] (Platinumkugel, Divination), [[Magilanikas Maven]] (Anhänger, Pseudo-Wache), [[Schmiedemeisterei Lunovar]], [[Zwergenmeister Schmiedemeisterei]], [[Virion Loramis]] (1. persönliche Begegnung), [[Lunovar]] (Adelsviertel, Verbrecher-Status), [[Spymaster]] (Auftragsklärung), alle 5 PCs.
-- 2026-05-25 (Ingest): [[Tagebücher Wilhelm Casterwell]] — sieben PDFs. Drei-Bücher-Mechanik (Raum/Essenz/Seele) wörtlich. Verdacht das Nichts = Traumwesen.
+- 2026-05-25 (Ingest): [[Tagebücher Wilhelm Casterwill]] — sieben PDFs. Drei-Bücher-Mechanik (Raum/Essenz/Seele) wörtlich. Verdacht das Nichts = Traumwesen.
 - 2026-05-18 (Ingest): [[Session 13]] aus WhisperX-Transkript.
 
 ## Open Loops

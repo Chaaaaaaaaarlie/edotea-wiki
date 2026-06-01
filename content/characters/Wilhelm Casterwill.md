@@ -1,18 +1,18 @@
 ---
 type: character
-title: "Wilhelm Casterwell"
+title: "Wilhelm Casterwill"
 character_type: npc
 tags:
   - character
   - npc
 related: []
 sources:
-  - Tagebücher Wilhelm Casterwell
+  - Tagebücher Wilhelm Casterwill
 created: 2026-05-11
 updated: 2026-05-25
 status: developing
 ---
-# Wilhelm Casterwell
+# Wilhelm Casterwill
 
 ## Überblick
 - Früher Forscher in der Ruine am [[Mondschleiersee]].
@@ -20,15 +20,15 @@ status: developing
 
 ## Notizen
 - Zog später in das [[Anwesen]] und gab die Ruinenforschung am [[Mondschleiersee]] auf.
-- In [[Session 6]] wurden neun weitere Tagebücher von ihm gefunden — sieben davon liegen als Handout vor: [[Tagebücher Wilhelm Casterwell]].
+- In [[Session 6]] wurden neun weitere Tagebücher von ihm gefunden — sieben davon liegen als Handout vor: [[Tagebücher Wilhelm Casterwill]].
 - Diese erwähnen die Elfe [[Lysanthiriel Vaelora]] und den Zwerg [[Borgrim Runenbrecher]], die im Auftrag des Königs zwei Punkte miteinander verbinden wollten.
 - [[Lysanthiriel Vaelora]] wird darin mit Essenzmagie, [[Borgrim Runenbrecher]] mit Seelenmagie in Verbindung gebracht.
-- Laut [[Session 7]] war [[Wilhelm Casterwell]] innerhalb dieses Dreigespanns für **Raummagie** zuständig.
+- Laut [[Session 7]] war [[Wilhelm Casterwill]] innerhalb dieses Dreigespanns für **Raummagie** zuständig.
 - Erster dokumentierter Durchbruch (Tagebuch IV): **münzgroßer, stabiler Raumspalt**; ein Metallring kommt eiskalt zurück.
 - Er erhielt laut Tagebüchern ein seltsames Buch — Inhalt: **Schwellen / Übergänge / Punkte, an denen Realität dünn wird**. Erst nach dem ersten Erfolg informierte er den König.
 - Dasselbe Wesen bot auch den anderen Forschern Hilfe an. **Preis** (Tagebuch V): *"alles, was sie sind. Ihre Erinnerungen. Ihre Erfahrungen. Alles, was sie noch erleben würden. Alles, was sie ausmacht — Vergangenheit, Gegenwart und Zukunft."* Lysanthiriel und Borgrim nahmen aus Furcht vor dem König an. → Verdacht: das Wesen = [[das Nichts]] (gleicher Preis wie [[Berta|Bertas]] Pakt).
 - **Plan des Königs** (Tagebuch VI): die drei Bücher kombinieren, um das Wesen herbeizuzwingen — **Raum öffnet die Schwelle, Essenz gibt Form, Seele bindet** — und es zu unterwerfen. Das gesammelte Wissen sollte an den **Prinz** weitergegeben werden.
-- Als die Gefahr klar wurde, suchten [[Wilhelm Casterwell]] und die anderen [[Palamedis]] auf.
+- Als die Gefahr klar wurde, suchten [[Wilhelm Casterwill]] und die anderen [[Palamedis]] auf.
 - Tagebuch VIII: Palamedis versammelt religiöse Führer, Adlige und Generäle; ein ruhiger Anführer wird gewählt, um die königliche Familie zu stürzen. Die drei Magier verstecken **in derselben Nacht** ihre Bücher — jeder kennt nur sein eigenes Versteck.
 - Wilhelms letzter erhaltener Eintrag schließt mit dem Gebet, dass Palamedis weiß, was er tut: *"Wenn wir uns irren … dann könnte diese Nacht … der Anfang eines noch größeren Unheils [sein]."*
 - **Tagebuch VII fehlt** im Handout-Satz — Lücke zwischen Sturz-Plan und Versteck-Nacht.
@@ -56,4 +56,4 @@ status: developing
 - [[Kalineon-Royalisten]]
 - [[das Nichts]]
 - [[Drei Bücher]]
-- [[Tagebücher Wilhelm Casterwell]]
+- [[Tagebücher Wilhelm Casterwill]]

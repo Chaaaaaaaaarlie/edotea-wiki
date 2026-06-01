@@ -16,7 +16,7 @@ status: mature
 
 ## Ereignisse
 
-- [[Naeli]] und [[Berta]] gehen mit [[Fiona Casterwell|Fiona]] ins Arbeitszimmer von [[Elliot]], weil [[Naeli]] ihn fragen will, ob sie den Stab behalten kann. [[Elliot]] ist nirgends zu sehen. [[Fiona Casterwell|Fiona]] läuft dann plötzlich durch eine magische Wand in das eigentliche Arbeitszimmer von [[Elliot]].
+- [[Naeli]] und [[Berta]] gehen mit [[Fiona Casterwill|Fiona]] ins Arbeitszimmer von [[Elliot]], weil [[Naeli]] ihn fragen will, ob sie den Stab behalten kann. [[Elliot]] ist nirgends zu sehen. [[Fiona Casterwill|Fiona]] läuft dann plötzlich durch eine magische Wand in das eigentliche Arbeitszimmer von [[Elliot]].
 
 - Der Stab wurde auf einer Expedition in die nördlichen Lande gefunden. Er verweist auf Expeditions-Tagebücher in der Bibliothek.
 - [[Naeli]] fragt, ob sie den Stab mitnehmen darf. [[Elliot]] sagt, wir können später darüber reden, und händigt [[Naeli]] die versprochene Karte aus.
@@ -29,7 +29,7 @@ status: mature
 - Er wirkte wie jemand, der alles vollbringen könnte.
 - [[Elliot]] durfte das Grimoire nicht untersuchen, da sein Vater ihn als tollpatschig empfand.
 - Wir haben ihn aber niemals als tollpatschig empfunden.
-- [[Elliot]] und [[Fiona Casterwell|Fiona]] haben keine Kinder, wollen aber gerne eines.
+- [[Elliot]] und [[Fiona Casterwill|Fiona]] haben keine Kinder, wollen aber gerne eines.
 - [[Elliot]] ist 34 Jahre alt.
 
 - [[Khirin]] und [[Berta]] unterhalten sich draußen über [[Elliot]].
@@ -55,14 +55,14 @@ status: mature
 - Dort treffen sie einen Priester von [[Tyr]].
 - [[Tyr]] ist die Gottheit der Gerechtigkeit.
 - Der Priester sagt, [[Elliot]] sei der Lehnsherr dieses Dorfes.
-- Auf dem Friedhof ist von den Casterwells nur [[Wilhelm Casterwell]] begraben. Der Rest wurde in [[Kalineon]] begraben.
+- Auf dem Friedhof ist von den Casterwills nur [[Wilhelm Casterwill]] begraben. Der Rest wurde in [[Kalineon]] begraben.
 
 - [[Hrímnir]] hat ein Buch nach [[Berta]] geworfen. Das Buch ist offen vor ihr gelandet und die Seiten des Buches sind leer.
 - Der Buchtitel wirkt einfach wahllos.
 
 - Friedhof ist im Osten. Der zweite Weg am Fluss.
-- Wir sollen der Wache sagen, dass [[Lumerio]], der Priester von [[Tyr]], uns geschickt hat.
-- Der Schmied heißt [[Orlam]].
+- Wir sollen der Wache sagen, dass Lumerio, der Priester von [[Tyr]], uns geschickt hat.
+- Der Schmied heißt Orlam.
 
 - Wir machen uns auf den Weg zum Friedhof und gehen über den Fluss.
 

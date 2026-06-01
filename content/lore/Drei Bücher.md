@@ -7,7 +7,7 @@ tags:
   - concept
 related: []
 sources:
-  - Tagebücher Wilhelm Casterwell
+  - Tagebücher Wilhelm Casterwill
 created: 2026-05-11
 updated: 2026-05-26
 status: developing
@@ -20,7 +20,7 @@ status: developing
 
 - Drei gefährliche Bücher, verbunden mit Raum-, Essenz- und Seelenmagie.
 - Sie gehörten den drei Hofmagiern des alten Königs von [[Kalineon]]:
-  - [[Wilhelm Casterwell]] – Raummagie
+  - [[Wilhelm Casterwill]] – Raummagie
   - [[Lysanthiriel Vaelora]] – Essenzmagie
   - [[Borgrim Runenbrecher]] – Seelenmagie
 
@@ -68,6 +68,6 @@ Per [[Berta]]s Detect Thoughts auf [[Sophie Marie]]: die zwei Folianten, die [[M
 - [[Session 7]]
 - [[Session 11]]
 - [[Session 14]]
-- [[Wilhelm Casterwell]]
+- [[Wilhelm Casterwill]]
 - [[das Nichts]]
-- [[Tagebücher Wilhelm Casterwell]]
+- [[Tagebücher Wilhelm Casterwill]]

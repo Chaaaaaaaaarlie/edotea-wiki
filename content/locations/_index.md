@@ -2,14 +2,14 @@
 type: meta
 title: "Locations Index"
 created: 2026-05-11
-updated: 2026-05-26
+updated: 2026-06-01
 tags:
   - meta
   - locations
 status: evergreen
 ---
 
-# Orte (29)
+# Orte (30)
 
 ## Kontinent
 - [[Cloud Fang]]
@@ -20,6 +20,7 @@ status: evergreen
 
 ## Unter [[Kontinent Edotea]]
 
+- [[Falmers]] *(Stub — noch nicht kartiert)*
 - [[Indura]]
 - [[Kalineon]]
 - [[Lögress]]

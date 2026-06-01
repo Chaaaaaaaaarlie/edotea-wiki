@@ -19,26 +19,23 @@ status: evergreen
 - [[Naeli]]
 - [[Sim]]
 
-## NPCs (29)
+## NPCs (26)
 
 - [[Borgrim Runenbrecher]]
 - [[Crucellus]]
 - [[Edgar Thorne]] *(neu, Session 14 — Kopfgeldgeber in Carbus, ungesehen)*
 - [[Elfaria Albis von Sylphid]] *(neu, Session 14 — Ratsvertreterin)*
 - [[Elliot]]
-- [[Fiona Casterwell]]
+- [[Fiona Casterwill]]
 - [[Fohlen]]
 - [[Fürst Alator]]
 - [[Jack]] *(neu, Session 14 — Halbelfen-Kind-Auftragsmörder aus Carbus)*
-- [[Kevin]]
 - [[Lucien]]
-- [[Lumerio]]
 - [[Lysanthiriel Vaelora]]
 - [[Magilanikas Maven]]
 - [[Magolor]] — Aussehen erstmals enthüllt in [[Session 14]]
 - [[Markus L. Kalinion]]
 - [[Nora]]
-- [[Orlam]]
 - [[Palamedis]]
 - [[Scale Piercer]]
 - [[Sophie Marie]] *(neu, Session 14 — Magolor-Agentin, wahrscheinlich tot)*
@@ -46,7 +43,7 @@ status: evergreen
 - [[Storm Holder]]
 - [[Twilight (Pony)]] *(Session 13 — Pony-Companion, Name "Lady Günther")*
 - [[Virion Loramis]]
-- [[Wilhelm Casterwell]]
+- [[Wilhelm Casterwill]]
 - [[Wukong]]
 - [[Y'Chak]]
 - [[Zwergenmeister Schmiedemeisterei]]

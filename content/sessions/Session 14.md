@@ -117,7 +117,7 @@ Audienz beim Hohen Rat: **[[Elfaria Albis von Sylphid]]** (Familie der Buch-Wäc
 
 #### Naelis Tagebuch-Verlesung
 
-> [!quote] Naeli liest aus einem der [[Tagebücher Wilhelm Casterwell|Tagebücher]] vor:
+> [!quote] Naeli liest aus einem der [[Tagebücher Wilhelm Casterwill|Tagebücher]] vor:
 > *"Sie berichteten von einem Ort, der keine wirkliche Form besaß. Keine Wände, keinen Boden, keinen Himmel. Nur eine Art grenzenlose Leere, in der dennoch etwas anwesend war. Etwas, das weder Gestalt noch Stimme im gewöhnlichen Sinne besaß und doch mit ihnen sprach. Dieses Wesen bot ihnen etwas an."*
 >
 > *"Das Wesen verlangte alles, was sie sind. Ihre Erinnerung, ihre Erfahrung, alles, was sie noch erleben würden, alles, was sie ausmacht, Vergangenheit, Gegenwart und Zukunft."*
@@ -246,7 +246,7 @@ Audienz beim Hohen Rat: **[[Elfaria Albis von Sylphid]]** (Familie der Buch-Wäc
 
 #### Audienz-Inhalt
 - Sim: *"Wir sind auf der Suche nach den Sachen von [[Lysanthiriel Vaelora|Lysantirs Hinterlassenschaft]]."*
-- Elfaria: *"Wie habt ihr von den Hinterlassenschaften erfahren?"* → Sim: *"Aus einem Tagebuch von Wilhelm Casterwell."*
+- Elfaria: *"Wie habt ihr von den Hinterlassenschaften erfahren?"* → Sim: *"Aus einem Tagebuch von Wilhelm Casterwill."*
 - Elfaria: *"Welche Bücher genau gemeint sind?"* → Sim nennt **alle drei Magier**.
 - Elfaria schockiert + wütend: *"Wie könnt ihr es wagen? Sie wurden aus gutem Grund versiegelt."*
 - Naeli (saved, redet ohne aufgefordert zu sein, wird scharf zurechtgewiesen — aber redet trotzdem): *"Wir vermuten, dass bereits zwei Bücher gestohlen wurden."*
@@ -389,7 +389,7 @@ Audienz beim Hohen Rat: **[[Elfaria Albis von Sylphid]]** (Familie der Buch-Wäc
 - *"Frohn hat sich heute Morgen schon gekümmert"* — er war wirklich im Schmied.
 
 ### Über [[Lysanthiriel Vaelora]]
-- **Ihre Kristallkugel ist zerstört** worden, *nach ihrem Tod*. Khirins Kugel gehört daher einem der **anderen beiden** ursprünglichen Magier ([[Wilhelm Casterwell|Wilhelm]] oder [[Borgrim Runenbrecher|Borgrim]]).
+- **Ihre Kristallkugel ist zerstört** worden, *nach ihrem Tod*. Khirins Kugel gehört daher einem der **anderen beiden** ursprünglichen Magier ([[Wilhelm Casterwill|Wilhelm]] oder [[Borgrim Runenbrecher|Borgrim]]).
 - *"Lysantir hat mit den anderen beiden Verrätern korrespondiert"* — Verbindung zu den drei Magiern (= drei Bücher) bestätigt.
 
 ### Über die Gruppe in Lunovar
@@ -415,7 +415,7 @@ Audienz beim Hohen Rat: **[[Elfaria Albis von Sylphid]]** (Familie der Buch-Wäc
 - [[Fohlen]] · [[Virion Loramis]] · [[Magilanikas Maven]] · [[Zwergenmeister Schmiedemeisterei]]
 - [[Lady Günthers Flasche]] · [[Spell-Slot-Anhänger]] · [[Krone des Hohen Rates]] · [[Staff of Fire]] · [[Gurde]] · [[Magischer Schluessel]]
 - [[Berthas Bohnen]] · [[Magische Akademie Lunovar]] · [[Schmiedemeisterei Lunovar]] · [[Magilanikas Zauberladen]] · [[Carbus]] · [[Lunovar]]
-- [[Drei Bücher]] · [[das Nichts]] · [[Tagebücher Wilhelm Casterwell]] · [[Risse]] · [[Lysanthiriel Vaelora]]
+- [[Drei Bücher]] · [[das Nichts]] · [[Tagebücher Wilhelm Casterwill]] · [[Risse]] · [[Lysanthiriel Vaelora]]
 - [[Kalineon-Royalisten]] · [[gesetzlose Stadt]]
 
 ---

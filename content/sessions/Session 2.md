@@ -21,7 +21,7 @@ status: mature
 - Wir wurden gebeten, in einem Kaminzimmer Platz zu nehmen, in welchem wir eine Frau trafen.
 - Die Bücher im Zimmer sind fast alle sehr alt.
 - Der Name des Mannes ist [[Elliot]]. Ehemaliger Hofmagier des Königreichs [[Kalineon]].
-- Seine Frau heißt [[Fiona Casterwell|Fiona]].
+- Seine Frau heißt [[Fiona Casterwill|Fiona]].
 - Sie leben seit 12 Jahren im [[Nebelwald]].
 - Hat sich aus dem Beruf des Hofmagiers zurückgezogen, da seine Fähigkeiten als inadäquat galten.
 - Hat Vorfahren mit Drachenblut.
@@ -36,8 +36,8 @@ status: mature
 - Er hat sich sehr darüber erschrocken, dass Simian aus Versehen auf das Klavier gehauen hat.
 - [[Khirin]] fragt nach Aufzeichnungen von [[Elliot]] Vorfahren.
 - Er verweist auf eine Bücherei. Der Zustand ist jedoch nicht optimal.
-- [[Fiona Casterwell|Fiona]] hat einen ziemlich teilnahmslosen Gesichtsausdruck.
-- [[Sim]] folgt [[Fiona Casterwell|Fiona]] in die Küche für Wein.
+- [[Fiona Casterwill|Fiona]] hat einen ziemlich teilnahmslosen Gesichtsausdruck.
+- [[Sim]] folgt [[Fiona Casterwill|Fiona]] in die Küche für Wein.
 
 ## Abseits
 
@@ -70,17 +70,17 @@ status: mature
 
 ## Abseits
 
-- Teleportationskreis von [[Wilhelm Casterwell]] gemacht.
+- Teleportationskreis von [[Wilhelm Casterwill]] gemacht.
 - Er war bekannt dafür sehr gut in der Art der Magie zu sein.
 - [[Berta]] schaut sich bei den Artefakten um:
 - Hat normale Tiara gefunden.
 - Drei Statuen von Drachen vom Schmied Tretzbold.
-- Zauberbuch und magisches Utensil von [[Wilhelm Casterwell]], der erste Casterwell der sich einen Namen gemacht hat.
+- Zauberbuch und magisches Utensil von [[Wilhelm Casterwill]], der erste Casterwill der sich einen Namen gemacht hat.
 - Magische Utensilien, die nicht weiter beschrieben sind. Vermutlich für Alchemie.
 - Stab mit Sichelmond welcher im Norden in der Eiswüste von [[Wesh]] gefunden wurde.
 - In einer Vitrine steht ein Zauberbuch von [[Elliot]]s Vorfahren.
 - [[Elliot]] sagt, dass das Zauberbuch nicht lesbar ist.
-- Die Statue soll [[Wilhelm Casterwell]] nachempfunden sein.
+- Die Statue soll [[Wilhelm Casterwill]] nachempfunden sein.
 
 ## Bei Sim
 

@@ -9,7 +9,7 @@ tags:
   - npc
 related: []
 sources:
-  - Tagebücher Wilhelm Casterwell
+  - Tagebücher Wilhelm Casterwill
 created: 2026-05-11
 updated: 2026-05-25
 status: developing
@@ -18,11 +18,11 @@ status: developing
 
 ## Überblick
 - **Goldener Drache.** Schreibvariante *Palamedes* in älteren Notizen. Hüter uralten Wissens; existierte laut alten Schriften lange vor den heutigen Reichen.
-- Wurde von [[Wilhelm Casterwell]], [[Lysanthiriel Vaelora]] und [[Borgrim Runenbrecher]] aufgesucht, als die drei die Gefahr ihrer Bücher erkannten.
+- Wurde von [[Wilhelm Casterwill]], [[Lysanthiriel Vaelora]] und [[Borgrim Runenbrecher]] aufgesucht, als die drei die Gefahr ihrer Bücher erkannten.
 
 ## Notizen
 - Laut [[Session 7]] stellte [[Palamedis]] den Forschern eine Armee von Gläubigen oder Verbündeten zur Seite.
-- **Tagebuch VIII** ([[Tagebücher Wilhelm Casterwell]]) präzisiert: Palamedis griff nicht offen ein, sondern **versammelte die religiösen Führer des Landes** — Priester, Gelehrte, einige Adlige, Generäle, deren Loyalität dem Reich statt der Krone galt.
+- **Tagebuch VIII** ([[Tagebücher Wilhelm Casterwill]]) präzisiert: Palamedis griff nicht offen ein, sondern **versammelte die religiösen Führer des Landes** — Priester, Gelehrte, einige Adlige, Generäle, deren Loyalität dem Reich statt der Krone galt.
 - An die Spitze dieses Kreises setzte er einen ihm wenig bekannten, ruhigen, vorsichtig sprechenden, aber entschlossenen **Anführer** — *"Palamedis hat ihn gewählt, oder zumindest hat er ihm seinen Rat gegeben."*
 - Dieser Anführer sollte am nächsten Tag damit beginnen, die Macht der königlichen Familie zu brechen.
 - [[Palamedis]] könnte identisch mit dem goldenen Drachen sein, der in der Reichsgeschichte von [[Kalineon]] als Auslöser des Umsturzes beschrieben wird.
@@ -35,6 +35,6 @@ status: developing
 - [[Lysanthiriel Vaelora]]
 - [[Session 7]]
 - [[Session 11]]
-- [[Wilhelm Casterwell]]
+- [[Wilhelm Casterwill]]
 - [[Drei Bücher]]
-- [[Tagebücher Wilhelm Casterwell]]
+- [[Tagebücher Wilhelm Casterwill]]

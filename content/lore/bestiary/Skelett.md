@@ -47,10 +47,10 @@ Skelette sind im 2024er Regelwerk reanimierte Knochen von Humanoiden, die meist 
 
 ## Edotea-Notizen
 
-- In [[Session 4]] griff ein Skelett die Gruppe aus dem Grab von [[Wilhelm Casterwell]] an.
+- In [[Session 4]] griff ein Skelett die Gruppe aus dem Grab von [[Wilhelm Casterwill]] an.
 
 ## Verknüpfungen
 
 - [[Session 4]]
-- [[Wilhelm Casterwell]]
+- [[Wilhelm Casterwill]]
 

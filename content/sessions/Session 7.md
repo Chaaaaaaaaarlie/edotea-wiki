@@ -16,18 +16,18 @@ status: mature
 
 - Die Gruppe macht im [[Anwesen]] einen Long Rest und verbringt dort den nächsten Morgen.
 
-- [[Naeli]] liest weitere Tagebücher von [[Wilhelm Casterwell]] in der geheimen Bibliothek.
+- [[Naeli]] liest weitere Tagebücher von [[Wilhelm Casterwill]] in der geheimen Bibliothek.
 - Sie findet keine Kreidekreise im Keller, die direkt zu den in den Tagebüchern beschriebenen Experimenten passen.
 
-- [[Elliot]] berichtet von seiner ersten Nacht, in der er nicht wissentlich neben [[Fiona Casterwell|Fiona]] geschlafen hat.
+- [[Elliot]] berichtet von seiner ersten Nacht, in der er nicht wissentlich neben [[Fiona Casterwill|Fiona]] geschlafen hat.
 - Er will wieder Kontakt zum Hof aufnehmen und fehlende Dokumente, Steuern und seine offizielle Lage klären.
 
 - Die Gruppe entscheidet sich, über [[Cadnix]] nach [[Lunovar]] zu reisen, weil dort ein Passierschein zu beschaffen sein könnte.
 - [[Elliot]] begleitet die Gruppe selbst nach [[Cadnix]].
 
 - [[Naeli]] trägt der Gruppe neue Erkenntnisse aus den Tagebüchern vor.
-- [[Wilhelm Casterwell]], [[Lysanthiriel Vaelora]] und ein unbenannter Zwerg forschten gemeinsam an Raum-, Essenz- und Seelenmagie.
-- [[Wilhelm Casterwell]] erhielt in Träumen ein seltsames Buch und konnte mit Formeln und Kreidezeichnungen Spalten im Raum erzeugen.
+- [[Wilhelm Casterwill]], [[Lysanthiriel Vaelora]] und ein unbenannter Zwerg forschten gemeinsam an Raum-, Essenz- und Seelenmagie.
+- [[Wilhelm Casterwill]] erhielt in Träumen ein seltsames Buch und konnte mit Formeln und Kreidezeichnungen Spalten im Raum erzeugen.
 - Dasselbe oder ein ähnliches Wesen bot auch den beiden anderen Forschern Hilfe an.
 - Der Preis war laut Tagebüchern "alles, was sie waren und alles, was sie sein werden".
 - Jeder der drei erhielt ein eigenes Buch.

@@ -23,7 +23,7 @@ status: developing
 - Laut den Erkenntnissen aus [[Session 11]] vereinen die aktuellen Risse offenbar Raum-, Essenz- und Seelenmagie.
 - In der Innenstadt von [[Lunovar]] wurde ein Riss von einem mechanisch wirkenden Mann mit vielen Prothesen und einem Würfel geschlossen.
 - Dieser Mann entkam der Stadtwache binnen Sekunden.
-- Die Risse könnten direkt mit den drei Büchern von [[Wilhelm Casterwell]], [[Lysanthiriel Vaelora]] und [[Borgrim Runenbrecher]] zusammenhängen.
+- Die Risse könnten direkt mit den drei Büchern von [[Wilhelm Casterwill]], [[Lysanthiriel Vaelora]] und [[Borgrim Runenbrecher]] zusammenhängen.
 - **Session 12**: Neue Erkenntnisse — Risse entstehen durch Überkonzentration ungenutzter magischer Energie. Das Schließen von Rissen könnte zu einer massiven magischen Explosion führen, wenn die Energie sich weiter aufstaut.
 - **[[Session 12]]** (via [[Fohlen]]):
   - In [[Kalineon]] sollte das Phänomen *eigentlich gar nicht* auftreten, weil verfügbare Magie sofort verwendet wird → **rätselhafter Anstieg** muss eine andere Ursache haben.
@@ -44,4 +44,4 @@ status: developing
 - [[Session 11]]
 - [[Session 12]]
 - [[Virion Loramis]]
-- [[Wilhelm Casterwell]]
+- [[Wilhelm Casterwill]]

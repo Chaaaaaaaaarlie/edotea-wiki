@@ -6,7 +6,7 @@ tags:
   - session
 related: []
 sources:
-  - Tagebücher Wilhelm Casterwell
+  - Tagebücher Wilhelm Casterwill
 created: 2026-05-11
 updated: 2026-05-25
 status: mature
@@ -38,14 +38,14 @@ status: mature
 - Die Glyphs of Warding an den Regalen erlauben nur den Hausherren, Bücher herauszunehmen.
 - Dieselben Runen finden sich auch in den Wänden des [[Anwesen]]s.
 
-- [[Naeli]] findet neun Tagebücher von [[Wilhelm Casterwell]] (sieben davon als Handout: siehe [[Tagebücher Wilhelm Casterwell]]).
+- [[Naeli]] findet neun Tagebücher von [[Wilhelm Casterwill]] (sieben davon als Handout: siehe [[Tagebücher Wilhelm Casterwill]]).
 - Darin stehen die Namen der Elfe [[Lysanthiriel Vaelora]] und des Zwergs [[Borgrim Runenbrecher]].
-- [[Lysanthiriel Vaelora]] wird mit Essenzmagie, [[Borgrim Runenbrecher]] mit Seelenmagie in Verbindung gebracht; [[Wilhelm Casterwell]] selbst mit Raummagie.
+- [[Lysanthiriel Vaelora]] wird mit Essenzmagie, [[Borgrim Runenbrecher]] mit Seelenmagie in Verbindung gebracht; [[Wilhelm Casterwill]] selbst mit Raummagie.
 - Alle drei arbeiteten im Auftrag des Königs daran, **zwei Punkte im Raum ohne Bewegung zu verbinden**.
 
 ### Inhalt der Tagebücher (Naelis Handout)
 
-> Vollständige Auswertung in [[Tagebücher Wilhelm Casterwell]]. Kurzfassung:
+> Vollständige Auswertung in [[Tagebücher Wilhelm Casterwill]]. Kurzfassung:
 
 - **I — Last des Auftrags**: Königlicher Auftrag, drei Magier, erster gescheiterter Raumriss-Versuch, Bote mit Siegel: *"Fortschritt wird erwartet."*
 - **II — Träume**: Wilhelm träumt Räume, die sich falten. Lysanthiriel: *"Magie spricht manchmal zu denen, die zuhören."* Borgrim spöttisch.

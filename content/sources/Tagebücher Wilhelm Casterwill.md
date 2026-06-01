@@ -1,6 +1,6 @@
 ---
 type: source
-title: "Tagebücher Wilhelm Casterwell"
+title: "Tagebücher Wilhelm Casterwill"
 created: 2026-05-25
 updated: 2026-05-25
 tags:
@@ -8,7 +8,7 @@ tags:
   - player-handout
   - tagebuch
 related:
-  - Wilhelm Casterwell
+  - Wilhelm Casterwill
   - Lysanthiriel Vaelora
   - Borgrim Runenbrecher
   - Palamedis
@@ -19,9 +19,9 @@ related:
 status: developing
 ---
 
-# Tagebücher Wilhelm Casterwell
+# Tagebücher Wilhelm Casterwill
 
-Player-Handout-PDFs in `.raw/player-handouts/Tagebuch1..6,8.pdf`. Sieben Tagebucheinträge von [[Wilhelm Casterwell]], die [[Naeli]] in [[Session 6]] aus dem Keller des [[Anwesen]]s mitnahm. Session 6 erwähnt insgesamt neun Tagebücher — sieben sind als PDF vorhanden; Tagebuch 7 fehlt im Handout-Satz.
+Player-Handout-PDFs in `.raw/player-handouts/Tagebuch1..6,8.pdf`. Sieben Tagebucheinträge von [[Wilhelm Casterwill]], die [[Naeli]] in [[Session 6]] aus dem Keller des [[Anwesen]]s mitnahm. Session 6 erwähnt insgesamt neun Tagebücher — sieben sind als PDF vorhanden; Tagebuch 7 fehlt im Handout-Satz.
 
 ## Tagebuch I – Die Last des Auftrags
 

@@ -90,10 +90,10 @@ status: mature
 - [[Crucellus]] kennt [[Magolor]] nicht; an der Akademie gibt es viele passende Beschreibungen, aber niemanden mit diesem Namen.
 - Das **Buch der Schwellen** ist [[Crucellus]] nicht bekannt.
 
-### Naelis Tagebuchseiten von Wilhelm Casterwell
-- [[Naeli]] zeigt [[Crucellus]] alte Tagebuchseiten von [[Wilhelm Casterwell]].
+### Naelis Tagebuchseiten von Wilhelm Casterwill
+- [[Naeli]] zeigt [[Crucellus]] alte Tagebuchseiten von [[Wilhelm Casterwill]].
 - Inhalt:
-  - Drei Hofmagier des damaligen Königs: [[Lysanthiriel Vaelora]], [[Borgrim Runenbrecher]] und [[Wilhelm Casterwell]].
+  - Drei Hofmagier des damaligen Königs: [[Lysanthiriel Vaelora]], [[Borgrim Runenbrecher]] und [[Wilhelm Casterwill]].
   - Gemeinsam stehen sie für Essenz-, Seelen- und Raummagie.
   - Der damalige König wollte die Kombination der drei Bücher nutzen, um „jede Macht an sich zu reißen“.
   - Die Bücher wurden an Orten versteckt, an denen sie niemand finden soll.
@@ -155,6 +155,6 @@ status: mature
 - [[Session 10]]
 - [[Sim]]
 - [[Treant]]
-- [[Wilhelm Casterwell]]
+- [[Wilhelm Casterwill]]
 - [[Wukong]]
 - [[Y'Chak]]

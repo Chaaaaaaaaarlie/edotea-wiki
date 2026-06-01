@@ -35,7 +35,7 @@ updated: 2026-05-18
 Bekanntes Ziel: **[[Berta]]s Pergament** ([[Lysanthiriel Vaelora|Lysantirs]] Hinterlassenschaft) gestohlen bekommen.
 
 Mögliche Motivation:
-1. **[[Lysanthiriel Vaelora]]** war eng mit dem alten [[Kalineon|Kalineon-Königshaus]] verbunden (laut [[Fohlen]] in [[Session 12]] und [[Wilhelm Casterwell]]s Tagebüchern).
+1. **[[Lysanthiriel Vaelora]]** war eng mit dem alten [[Kalineon|Kalineon-Königshaus]] verbunden (laut [[Fohlen]] in [[Session 12]] und [[Wilhelm Casterwill]]s Tagebüchern).
 2. Das Pergament könnte Wissen oder Macht aus der **Königshaus-Zeit** enthalten — wertvoll für Restoration-Bestrebungen.
 3. Die alte Königsdynastie wurde **vor ~750 Jahren** vom Drachen-bewirkten Geistlichen-Bund gestürzt ([[Kalineon]]-Page). Royalisten würden Wiederherstellung anstreben.
 
@@ -54,6 +54,6 @@ Mögliche Motivation:
 ## Verknüpfungen
 - [[Spymaster]] · [[Wappen des alten Kalineon]]
 - [[gesetzlose Stadt]] · [[Carbus]]
-- [[Kalineon]] · [[Lysanthiriel Vaelora]] · [[Wilhelm Casterwell]]
+- [[Kalineon]] · [[Lysanthiriel Vaelora]] · [[Wilhelm Casterwill]]
 - [[Berta]] · [[Khirin]]
 - [[Session 13]]

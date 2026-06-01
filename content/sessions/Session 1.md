@@ -28,7 +28,7 @@ status: mature
 - Er sagt wir sind in der Nähe von [[Kalden]].
 - [[Mondschleiersee]]:
 - Die Vorfahren des Mannes haben dort Forschung getrieben.
-- [[Wilhelm Casterwell]] Forschungslabor.
+- [[Wilhelm Casterwill]] Forschungslabor.
 - Nach Bau von [[Anwesen]] vernachlässigt.
 - Lange vor der Geburt des [[Elliot]].
 - Er weiß nicht an was geforscht wurde.
