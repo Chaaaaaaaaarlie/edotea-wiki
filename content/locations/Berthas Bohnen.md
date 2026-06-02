@@ -15,8 +15,9 @@ related:
 sources:
   - Session 14
   - Session 14 transcript
+  - Session 15 transcript
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-06-01
 status: developing
 ---
 
@@ -45,10 +46,13 @@ Eine **Kaffeebar an unbekannter Ebene**, die [[Berta]] und die Gruppe am Ende vo
 - **Eine ältere Berta-Inkarnation hat die Bar betrieben?** Berta hat *"mindestens 500 Tode"* hinter sich; vielleicht ein Ort aus einem früheren Leben, der überlebt hat.
 - **Eine Pakt-Versorgung**: das Nichts könnte Berta hier *"wohnen lassen"*, ohne dass es feindlich wirkt.
 
+## Bekanntes ([[Session 15]])
+- **Long Rest möglich**: Die Gruppe hat dort erfolgreich gerastet — der Ort ist vollständig erholend.
+- Die [[Magischer Schluessel|Schlüssel des Nichts]]-Mechanik wurde hier erklärt (3/Tag, 3 Türen max, Schließen ≠ Deaktivieren).
+
 ## Offene Fragen
 - Wer braut den Kaffee? Sind dort weitere Personen?
 - Ist es eine **Pocket-Dimension** oder Teil des Nichts-Reichs?
-- Kann die Gruppe hier **rasten** (Long Rest)?
 - Was passiert beim Wieder-Verlassen — wo öffnet sich die Tür dann?
 - Erinnert sich Berta an den Ort? OOC-Spieler hat ihn nicht vorher etabliert — Plot-Twist des DM.
 - Verbindung zu [[Carbus]] (Khirins Kristallkugel-Hammerschläge) — könnte das die Werkstatt-Hammerschläge derselben Dimension sein?

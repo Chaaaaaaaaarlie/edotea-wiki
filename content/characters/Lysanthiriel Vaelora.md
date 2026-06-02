@@ -46,6 +46,7 @@ status: developing
   - **Implikation**: Khirins gefundene Kristallkugel (Hammerschläge zu hören) ist **nicht Lysantirs** — sie gehört zu einem der anderen zwei Magier ([[Wilhelm Casterwill]] oder [[Borgrim Runenbrecher]]).
   - Sie hatte ihre **eigene Kristallkugel** zu Lebzeiten — die Magier-Trinitaet kommunizierte über diese Kugeln (eine pro Person).
   - Familie **Sylphid** wacht über ihr Buch in einem **Tempel** in Lunovar, *"der nicht zu finden ist, es sei denn, man weiß bereits, wo er ist."*
+- **[[Session 15]]**: [[Fohlen]] berichtet, dass ein **alter Freund/eine alte Freundin von Lysanthiriel** noch im [[Erliorwald]] lebt — sehr langlebig, dort seit Jahrhunderten. Wahrscheinlich Zeuge oder Kenner ihrer Geschichte.
 
 ## Verknüpfungen
 
@@ -70,3 +71,5 @@ status: developing
 - [[das Nichts]]
 - [[Drei Bücher]]
 - [[Tagebücher Wilhelm Casterwill]]
+- [[Erliorwald]]
+- [[Session 15]]

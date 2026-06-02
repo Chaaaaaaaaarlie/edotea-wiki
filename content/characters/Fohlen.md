@@ -17,7 +17,7 @@ related:
 sources:
   - Session 12 transcript
 created: 2026-05-12
-updated: 2026-05-26
+updated: 2026-06-01
 status: developing
 ---
 
@@ -61,7 +61,7 @@ Nobel auftretender Elf, freundlich-verspielt-warm, lacht leicht. Gibt offen zu, 
 - **[[Nora]]** — hat die Gruppe an Fohlen empfohlen.
 - **[[Berta]]** — Fohlen erkennt sie als Schwester-Diviner an, hält ihre Disguise geheim.
 - **[[Khirin]]** — Halbelf-Solidarität, persönliches Schutzangebot.
-- Schuldet der Gruppe einen Gefallen wegen [[Elliot|Elliot Castorwells]] Rückkehr ([[Session 11]]/12).
+- Schuldet der Gruppe einen Gefallen wegen [[Elliot|Elliot Casterwills]] Rückkehr ([[Session 11]]/12).
 - **[[Schmiedemeisterei Lunovar]]**: schuldet **35.000 Gold** für diverse Akademie-Lieferungen ([[Session 13]]-Reveal). Der Zwergenmeister beschwert sich offen, dass nur Fohlen sich überhaupt zu ihm traut und jedes Mal vertröstet.
 
 ## [[Session 13]] — neue Beobachtungen
@@ -87,6 +87,17 @@ Nobel auftretender Elf, freundlich-verspielt-warm, lacht leicht. Gibt offen zu, 
 - **Fireball-Schriftrolle**: Übergibt der Gruppe eine Fireball-Schriftrolle ([[Hrímnir]]) zur Entsorgung der zwei Söldner-Leichen im gesicherten Zimmer-Badezimmer.
 - **Audienz-Antrag**: Hat den Antrag für die Audienz beim Hohen Rat *"für sie"* gestellt — [[Elfaria Albis von Sylphid]] bestätigt das.
 - **Pre-Säuberung**: Als die Gruppe vor der Audienz das Zimmer verlässt, **liegen die drei Söldner-Leichen (Sophie, Spymaster, Spymasters Stellvertreter) komplett ausgezogen in der Wanne** — jemand (Fohlen?) hat zwischenzeitlich vorbereitet, dass nur sie verbrannt werden, keine Spuren bleiben.
+
+## [[Session 15]] — neue Aktionen
+- **[[Sim]] schenkt Fohlen die Katze Schneeball** — Fohlen hat bereits eine Katze: **Schneeflocke**.
+- **Wusste durch Divination** von der Ankunft der Gruppe in der Akademie (nachts).
+- Informiert die Gruppe über **[[Erliorwald]]**:
+  - Ein **alter Freund von [[Lysanthiriel Vaelora]]** lebt seit Jahrhunderten dort (noch lebendig).
+  - Außerdem haust dort ein **gefährliches Wesen** (als separate Warnung erwähnt).
+  - [[Gurde]] bei Virion: noch **~2 Tage** bis zur magischen Wiederherstellung.
+- Empfängt **Brunnenwasser** von der Gruppe (Kasimir-Anhörung).
+- Ist **Schulleiter** — [[Naeli]]s Eule Nyra wird zu ihm entsandt, falls die Gruppe im Erliorwald Hilfe braucht.
+- Übernimmt bei der **Kasimir-Anhörung** Verantwortung für die Leichen-Situation.
 
 ## Offene Fragen
 - Wie alt ist Fohlen tatsächlich (Elf-Alter)?

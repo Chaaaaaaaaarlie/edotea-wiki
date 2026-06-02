@@ -34,6 +34,13 @@ Fancy aussehender Schlüssel, den [[Berta]] in [[Session 12]] aus den Händen vo
   - *"Wenn du ihn verwendest, öffnet sich eine Tür an einen anderen Ort. Welcher Ort ist dir nicht bekannt."*
 - **Mechanismus**: Schlüssel **passt sich der Zacken/Klinge automatisch dem Schloss an**, sobald in ein Schlüsselloch gesteckt. Dreht problemlos.
 
+## Vollständige Mechanik (enthüllt in [[Session 15]])
+- **3 Verwendungen pro Tag**.
+- Maximal **3 aktive Türen gleichzeitig**.
+- **Schließen ≠ Deaktivieren**: eine einmal geöffnete Tür bleibt als Einstiegspunkt bestehen, auch wenn die physische Tür geschlossen wurde.
+- **Taschendimension**: hinter jeder aktiven Tür liegt eine Taschendimension. Von innen kann ein 5-Meter-Stahlriegel vorgelegt werden.
+- **Einstiegspunkt 1**: Akademie-Badezimmer-Tür (von innen mit 5m Stahl aus der Dimension verriegelt, Stand [[Session 15]]).
+
 ### Beobachtete Effekte
 | Aktion | Resultat |
 | --- | --- |
@@ -43,8 +50,8 @@ Fancy aussehender Schlüssel, den [[Berta]] in [[Session 12]] aus den Händen vo
 
 ### Implikationen
 - **Funktioniert nur einseitig** — von der einen Seite sieht man durch, von der anderen nicht.
-- **Schließbar** wieder durch Tür-Zumachen + Schlüssel-Rausziehen.
-- **Zielort offenbar variabel** — zwei Tests, zwei Ergebnisse (zwar verwandt, aber nicht identisch).
+- **Zielort offenbar variabel** — zwei Tests, zwei Ergebnisse (verwandt aber nicht identisch).
+- Akademie-Badezimmer als gesicherter Rückzugspunkt nutzbar (5m Stahl von innen).
 
 ## Offene Fragen
 
@@ -57,4 +64,4 @@ Fancy aussehender Schlüssel, den [[Berta]] in [[Session 12]] aus den Händen vo
 
 ## Verknüpfungen
 - [[Berta]] · [[das Nichts]] · [[Isolationsraum]] · [[Berthas Bohnen]]
-- [[Session 12]] · [[Session 14]]
+- [[Session 12]] · [[Session 14]] · [[Session 15]]

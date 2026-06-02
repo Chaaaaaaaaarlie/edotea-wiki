@@ -113,7 +113,7 @@ Direkte Fortsetzung nach der **Bibliotheksrecherche zu [[Lysanthiriel Vaelora]]*
 #### Naelis Verzauberung
 - [[Fohlen]] legt [[Naeli]] die Hand auf den Kopf — bestätigt prekäre Situation.
 - Bestätigt Magilanikas Diagnose: **Wish-Spell** oder ein **[[Djinn]]** wären Kandidaten zum Aufheben.
-- Bietet an, seine *Fühler auszustrecken* — er schuldet der Gruppe noch was wegen [[Elliot|Elliot Castorwells]] Rückkehr (Casterwill-Fluch gebrochen).
+- Bietet an, seine *Fühler auszustrecken* — er schuldet der Gruppe noch was wegen [[Elliot|Elliot Casterwills]] Rückkehr (Casterwill-Fluch gebrochen).
 
 #### Reparatur-Hilfen
 - Naelis **Froststab** (+1 auf alle Frost-Zauber) wird über Nacht beim Alchemie- oder Stab-Lehrer überarbeitet, sonst Ersatz bereitgestellt.
@@ -255,4 +255,4 @@ Sitzung endet bevor [[das Nichts]] die Gruppe zurückversetzt. Berta hält den S
 ---
 
 *Vorherige Session: [[Session 11]]*
-*Nächste Session: TBD*
+*Nächste Session: [[Session 13]]*

@@ -15,9 +15,10 @@ related:
 sources:
   - Session 14
   - Session 14 transcript
+  - Session 15 transcript
 created: 2026-05-25
-updated: 2026-05-25
-status: seed
+updated: 2026-06-02
+status: mature
 ---
 
 # Krone des Hohen Rates
@@ -35,10 +36,14 @@ status: seed
 - **Misty Step zurück** (Bonus Action), dann **Dash** durch [[Naeli]]s Windwall zur kaputten Saaltür.
 - Wird beim Hochklettern auf die Mauer einmal entdeckt — Wachen wissen aber nicht, dass die Krone weg ist.
 
-## Spielmechanik (offen)
-- Magisch? Nicht identifiziert. Kein Identify-Wurf bisher.
-- Trägbar als Hut? Khirin fragte — DM: *"Warum willst du dann einen Wert wissen?"* / *"Genug, um dafür erstochen zu werden."* — Sims Vorgehen unklar.
-- Khirin hat sie **nicht aufgesetzt**, trägt sie bei sich (klar: Naeli/Sim/Berta würden ihn dazu zwingen, sie abzulegen).
+## Verbleib
+
+In [[Session 15]] nach dem Cassomir-Urteil (100 Gold Strafe) **zurückgegeben an Cassomirs Adjutant**. Nicht mehr im Besitz der Gruppe.
+
+## Spielmechanik
+- **Nicht magisch** — wertvoll aufgrund Material (Gold, Platin, Edelsteine), aber kein Zauberwiderstand oder magische Eigenschaft.
+- Identifiziert durch den Kontext der Anhörung — kein Identify-Wurf nötig.
+- [[Khirin]] hatte sie kurz aufgesetzt (in Berthas Bohnen, [[Session 15]]), ohne Effekt.
 
 ## OOC: Khirins Petty-Move
 - Khirin hatte gerade die Beleidigungen *"Halbelf-Balg"*, *"Bastard"*, etc. ertragen müssen.

@@ -12,6 +12,44 @@ status: evergreen
 
 Append-only. New entries at the **TOP**. Never edit past entries.
 
+## [2026-06-02] Korrekturen | Session 15 — Cassomir + Krone + neue Details
+
+- **Umbenennung**: Kasimir → [[Cassomir]] (ASR-Fehler; Quelle: neue .txt-Version des Transkripts).
+  - Datei `wiki/characters/Kasimir.md` → `Cassomir.md` umbenannt und inhaltlich korrigiert.
+  - Alle Wikilinks in Session 15, _index, index, hot.md aktualisiert.
+- **Krone des Hohen Rates**: War falsch als "bleibt bei Khirin" dokumentiert. Korrekt: **Krone zurückgegeben an Cassomirs Adjutant** in der Zone-of-Truth-Anhörung.
+- **Zone of Truth**: Geworfen durch Cassomirs **Adjutant** (Magier mit Stab), nicht durch Cassomir selbst. Cassomir betrat die Zone auch selbst.
+- Neue Details aus vollständiger .txt-Transkript-Lektüre:
+  - Lady Günthers Pony: offiziell freigesprochen (kein Eigentumsanspruch).
+  - Cassomir schickt Bounty-Hunter-Infos via [[Fohlen]].
+  - [[Khirin]] erhält Folianten-Auftrag von Akademie.
+  - Tricksy Fae (Khirins Vertraute) verdient 15 Gold; 3 Gold an [[Hrímnir]].
+  - [[Krone des Hohen Rates]]: bestätigt nicht magisch (Gold/Platin/Edelsteine).
+  - Schlüssel-Test außerhalb Akademie bestätigt; Fohlen gibt Schlüsselbund für Dormitorzimmer.
+
+## [2026-06-01] ingest | Session 15 aus WhisperX-Transkript
+
+- Quelle: `.raw/session-transcripts/Session_15_transcript.md` (5098 Zeilen, ~3:10h). Original: `craig-kT2F0rsPdxBq-Jjd0o-9GlDk1JsL.flac.md`.
+- Sprecher-Mapping wie zuvor: drore=Berta, mep0510=Sim, feeminin=Naeli, luke_234=Khirin, hansmeier=Hrímnir, nightcore0302=DM.
+- Neue Seiten:
+  - **Charaktere**: [[Cassomir]] (oberste Gerichtsinstanz der Hohen Familien, Silber-Elf, 3 Schwerter, schwarze Lederrüstung, Zone-of-Truth-Richter).
+  - **Sessions**: [[Session 15]] (Berthas Bohnen Long Rest, Schlüssel-Mechanik, Kasimir-Anhörung, Erliorwald-Erkundung, Cliffhanger Böschung).
+  - **Sources**: [[Session 15 transcript]].
+- Aktualisierte Seiten:
+  - **[[Magischer Schluessel]]**: Vollständige Mechanik (3/Tag, max 3 Türen, Schließen ≠ Deaktivieren, Taschendimension, Einstiegspunkt 1 = Akademie-Badezimmer).
+  - **[[Berthas Bohnen]]**: Long Rest dort möglich bestätigt.
+  - **[[Erliorwald]]**: Vollständig neu befüllt — magischer Nebel, Glühwürmchen, Lichtung (Körperabdruck 2m×1m, Leder-Geruch), Böschung (Gefahr 800m), Tripwires, Pfeil.
+  - **[[Lysanthiriel Vaelora]]**: Alter Freund im Erliorwald noch am Leben.
+  - **[[Fohlen]]**: Session-15-Sektion (Schneeball+Schneeflocke, Divination-Empfang, Erliorwald-Briefing).
+  - **[[Naeli]]**: Eulennamen **Nyra** eingetragen; Session-15-Aktionen.
+- Zähler-Updates: Characters 31→32, NPCs 26→27, Sessions 15→16, Sources 4→5.
+
+## [2026-06-01] fix | ASR-Korrekturen in älteren Wiki-Seiten
+
+- **"Castorwell" → "Casterwill"**: 2 Stellen bereinigt (`Fohlen.md`, `Session 12.md`).
+- **"Frohn" → Fohlen**: ASR-Variante in `Session 14.md` (Virion-Zitat) korrigiert.
+- **"Nächste Session: TBD" → konkrete Links**: `Session 12.md` → [[Session 13]], `Session 13.md` → [[Session 14]], `Session 14.md` → [[Session 15]].
+
 ## [2026-06-01] update | Falmers als neues Reich angelegt
 
 - Neue Location-Stub-Seite: [[Falmers]] — viertes Reich auf dem Kontinent, noch nicht kartiert. Quelle: DM-Bestätigung.

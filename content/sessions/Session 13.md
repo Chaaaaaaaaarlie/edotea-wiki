@@ -282,4 +282,4 @@ Direkte Fortsetzung nach [[Session 12]]. Die Gruppe wird aus dem Reich von [[das
 ---
 
 *Vorherige Session: [[Session 12]]*
-*Nächste Session: TBD*
+*Nächste Session: [[Session 14]]*

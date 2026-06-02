@@ -2,7 +2,7 @@
 type: meta
 title: "Hot Cache"
 created: 2026-05-11
-updated: 2026-06-01
+updated: 2026-06-02
 tags:
   - meta
 status: evergreen
@@ -11,61 +11,58 @@ status: evergreen
 # Recent Context
 
 ## Last Updated
-2026-06-01 — DM-Korrekturen: **Casterwell → Casterwill** (Elliot, Wilhelm, Fiona; 20+ Dateien). **Gelöscht**: Orlam, Lumerio, Kevin (3 Minor-NPCs). Außerdem: Carbus Lage/Gouvernanz, Spell-Slot-Anhänger-Regeln, Lady Günthers Flasche-Kompatibilität.
+2026-06-02 — **Session 15** korrigiert (Cassomir statt Kasimir; Krone zurückgegeben; Zone of Truth durch Adjutant; neue Details). Neue Seite: [[Cassomir]].
 
-*(Davor: 2026-05-26 — [[Session 14]] ingestiert, Magolor-Aussehen, Krone-Diebstahl, Berthas Bohnen.)*
+*(Davor: 2026-06-01 — [[Session 15]] ingestiert. Erliorwald-Erkundung begonnen.)*
 
 ## Campaign Snapshot
-**Edotea** ist eine D&D-Kampagne auf dem [[Kontinent Edotea]]. Aktive PCs: [[Berta]] (Sorcerer/Warlock), [[Hrímnir]] ([[Goliath]] Cleric/Monk Elemental), [[Khirin]] (Halbelf Evocation Wizard 6 mit Sculpt Spells), [[Naeli]] (Halbling Druidin), [[Sim]] (Simian Fighter/Ranger). Aktuell **außerhalb [[Lunovar]]** — durch [[Magischer Schluessel|Schlüssel des Nichts]] in [[Berthas Bohnen]] entkommen. Letzte Session: [[Session 14]].
+**Edotea** ist eine D&D-Kampagne auf dem [[Kontinent Edotea]]. Aktive PCs: [[Berta]] (Sorcerer/Warlock), [[Hrímnir]] ([[Goliath]] Cleric/Monk Elemental), [[Khirin]] (Halbelf Evocation Wizard 6 mit Sculpt Spells), [[Naeli]] (Halbling Druidin, Schneeeule **Nyra**), [[Sim]] (Simian Fighter/Ranger). Aktuell im **[[Erliorwald]]** — Waldrand/Böschung. Letzte Session: [[Session 15]].
 
-## Cliffhanger Session 14
-Gruppe in **[[Berthas Bohnen]]** — eine Kaffeebar an unbekannter Ebene, erreicht durch den Schlüssel des Nichts. *"Erholend"* statt leer. Berta wie zuhause: *"Will jemand Kaffee?"* Khirin müde, Sim Schnaps.
+## Cliffhanger Session 15
+Gruppe im **[[Erliorwald]]** — am oberen Rand der Böschung. ~800m voraus: etwas, das [[Naeli]]s Eule Nyra instinktiv massive Angst bereitet, bewegt sich nicht. [[Khirin]] Wisdom-Save natürliche **1** → Panikattacke, zieht sich zurück. Befunde auf der Lichtung: 2m×1m Körperabdruck, Ledergeruch, primitive Tripwires, selbst gefertigter Pfeil (Schussrichtung: aus der Böschungstiefe). Nyra als Notfall-Bote zu Fohlen (Schulleiter) entsandt.
 
-Vor Eintritt: aus [[Lunovar]]s Adelsviertel geflohen nach **gescheiterter Audienz**:
-- [[Elfaria Albis von Sylphid]] castet Mass Suggestion → eskaliert in Festnahme-Befehl.
-- [[Khirin]] **klaut die Krone vom Thron** (Misty Step + Dash).
-- [[Hrímnir]] **bricht die Saaltür** mit Thunder Damage (46 dmg).
-- [[Naeli]] **Windwall** fängt Wachen-Pfeile ab.
-- Flucht durchs Fenster, über Dächer, 21 m Mauer runter, Schlüssel-Portal.
+Davor: **[[Cassomir]]**-Anhörung (Zone of Truth, geworfen von Cassomirs Adjutant — Magier mit Stab) — Krone-Diebstahl = 100G Strafe, **[[Krone des Hohen Rates|Krone zurückgegeben]]** an Cassomirs Adjutant; Mordvorwürfe geklärt; [[Elfaria Albis von Sylphid]] zur Rechenschaft gezogen. Gruppe **offiziell nicht mehr der Morde beschuldigt**. Cassomir betrat Zone of Truth selbst. Lady Günthers Pony freigesprochen.
 
 ## Aktive Fäden
-1. **[[Berthas Bohnen]] erkunden** — was ist dieser Ort? Wer braut den Kaffee?
-2. **[[Magolor]] hat zwei [[Drei Bücher|Bücher]]**: grün-Perle + rot-Perle. Aussehen jetzt bekannt (Mensch, 40–45, schwarze Haare, markant, schwarzer Mantel).
-3. **[[Carbus]] / [[gesetzlose Stadt]] = identisch**. Quelle des **5.000 G Kopfgelds** durch [[Edgar Thorne]]. Heimat von [[Jack]], dem Halbelfen-Kind-Auftragsmörder.
-4. **[[Krone des Hohen Rates]]**: Khirin trägt sie, kann in Lunovar nicht verkaufen.
-5. **[[Lysanthiriel Vaelora|Lysantirs]] Buch versteckt in einem Tempel in Lunovar** — *"nicht zu finden, außer man weiß bereits, wo er ist"*. Familie **Sylphid** wacht.
+1. **[[Erliorwald]] erkunden** — wer/was ist Lysantirs alter Freund? Was ist das 800m-Wesen?
+2. **[[Magolor]] hat zwei [[Drei Bücher|Bücher]]**: grün-Perle + rot-Perle. Magolor-Skizze jetzt auch bei Cassomir.
+3. **[[Carbus]] / [[gesetzlose Stadt]]**: Quelle des 5.000 G Kopfgelds durch [[Edgar Thorne]]. Heimat von [[Jack]].
+4. **[[Krone des Hohen Rates]]**: zurückgegeben an Cassomirs Adjutant (Session 15). Kein aktiver Haftbefehl mehr.
+5. **[[Lysanthiriel Vaelora|Lysantirs]] Buch in Lunovar-Tempel** — *"nicht zu finden, außer man weiß bereits, wo er ist"*. Familie Sylphid wacht. [[Elfaria Albis von Sylphid]] unter Cassomirs Druck — ändert das etwas?
 6. **Lysantirs Kristallkugel zerstört** — Khirins Kugel gehört [[Wilhelm Casterwill|Wilhelm]] oder [[Borgrim Runenbrecher|Borgrim]].
 7. **[[das Nichts]] = Traumwesen der drei Hofmagier** bestätigt. Plan: Raum/Essenz/Seele binden.
-8. **[[Gurde]]** physisch fertig, bei Virion zur magischen Wiederherstellung.
+8. **[[Gurde]]** bei Virion zur magischen Wiederherstellung (~2 Tage ab Session 15-Mitte).
 9. **[[Staff of Fire]]** repariert (10/10 Charges, täglich nachladend).
 10. **[[Sophie Marie]]** wahrscheinlich tot (im Bag of Holding erstickt).
-11. **PCs sind jetzt offiziell Verbrecher in Lunovar** (Kronendiebstahl, Audienz-Aufstand).
-12. **Magolors Loyalitäts-Brosche** im Bag of Holding versiegelt (Ortung+Abhörfunktion blockiert).
+11. **Mordvorwürfe offiziell fallen gelassen** (Cassomir). Kronendiebstahl abgebüßt.
+12. **Magolors Loyalitäts-Brosche** im Bag of Holding versiegelt.
+13. **Kopfgeldjäger in Lunovar** — Cassomir schickt via [[Fohlen]] Informationen.
+14. **Folianten-Auftrag** für [[Khirin]] von der Akademie (*ordentlicher Lohn*).
 
 ## Key Facts
-- 5 PCs, 26 NPCs, 30 Orte, 16 Lore + 11 Bestiarium, 7 Items, 1 Faction, 15 Sessions, 4 Sources.
-- **[[Magolor]]-Aussehen**: Mensch, 40–45, schwarze Haare, markante Gesichtsstruktur, schwarzer Mantel, **zwei Folianten mit Brandstempel** (gleich wie auf Bertas Pergament), eigenes Zauberbuch links. **Hat zwei der drei Bücher** (grüne + rote Perle).
-- **[[Sophie Marie]]**: Adelige aus Familie Marie (Lunovar, angesehen), schuldete Magolor das Leben (grüne Magie-Rettung), eingesperrt im Bag of Holding → tot.
-- **[[Edgar Thorne]]** (ungesehen): Kopfgeldgeber in Carbus, 5.000 G auf Berta.
-- **[[Jack]]** (Halbelf-Kind, Auftragsmörder aus Carbus): überlebt, geht aus Lunovar weg.
-- **[[Elfaria Albis von Sylphid]]**: Ratsvertreterin, Familie der Buch-Wächter, extrem klassistisch.
-- **[[Berthas Bohnen]]**: Kaffeebar via Schlüssel des Nichts. *"Erholend"*.
-- **Lady Günther** = [[Twilight (Pony)]]'s IC-Name.
+- 5 PCs, 28 NPCs, 30 Orte, 16 Lore + 11 Bestiarium, 7 Items, 1 Faction, 16 Sessions, 5 Sources.
+- **[[Cassomir]]** (neu): Silberhaariger Elf, oberste Gerichtsinstanz der Hohen Familien. Schwarze Lederrüstung, 3 Schwerter (1 Seite, 2 Rücken). Sehr grimmig, fair, gefürchtet. Kein Lunovar-Stadtbeamter. Betritt Zone of Truth selbst. **Adjutant** = Magier mit Stab.
+- **[[Magischer Schluessel|Schlüssel des Nichts]] — vollständige Mechanik**: 3/Tag, max. 3 aktive Türen, Schließen ≠ Deaktivieren, Taschendimension (5m Stahl von innen). **Einstiegspunkt 1** = Akademie-Dormitorzimmer (Bad). Fohlen gibt Schlüsselbund für Außentür.
+- **[[Naeli]]s Eule** heißt **Nyra** (Schneeeule).
+- **[[Fohlen]]** hat zwei Katzen: Schneeflocke (seine) + Schneeball (von Sim, Session 15).
+- **[[Erliorwald]]**: magischer Nebel (Khirins Maske bestätigt), Glühwürmchen-Lichter, Tripwires aus Gras, Körperabdruck 2m×1m, primitive selbst gefertigte Pfeile aus Böschungstiefe — Lysantirs Freund lebt dort seit Jahrhunderten.
+- **[[Krone des Hohen Rates]]**: nicht magisch — wertvolles Schmuckstück (Gold, Platin, Edelsteine). Zurückgegeben Session 15.
+- **Khirins Vertraute "Tricksy Fae"** verdient 15 Gold durch Pickpocketing in Lunovar (3 Gold an Hrímnir).
 
 ## Recent Changes
-- 2026-06-01 (DM-Update): [[Carbus]] (Lage + Gouvernanz), [[Spell-Slot-Anhänger]] (kein Verfall, nur Khirin), [[Lady Günthers Flasche]] (pferdeähnliche Alchemiewesen).
-- 2026-05-26 (Ingest): [[Session 14]] aus `.raw/session-transcripts/Edotea_Session_14_transcript.txt`. Neue Seiten: [[Sophie Marie]], [[Edgar Thorne]], [[Jack]], [[Elfaria Albis von Sylphid]], [[Berthas Bohnen]], [[Krone des Hohen Rates]], [[Spell-Slot-Anhänger]], [[Lady Günthers Flasche]], [[Session 14]], [[Session 14 transcript]]. Updates: [[Magolor]] (Aussehen), [[Lysanthiriel Vaelora]] (Kristallkugel zerstört), [[Drei Bücher]] (Perlen-Identifier), [[das Nichts]] (Traumwesen-Bestätigung), [[Magischer Schluessel]] (Funktion bestätigt), [[Twilight (Pony)]] (Name "Lady Günther"), [[Gurde]] (fertig), [[Staff of Fire]] (repariert), [[Carbus]] (= gesetzlose Stadt bestätigt), [[Fohlen]] (Platinumkugel, Divination), [[Magilanikas Maven]] (Anhänger, Pseudo-Wache), [[Schmiedemeisterei Lunovar]], [[Zwergenmeister Schmiedemeisterei]], [[Virion Loramis]] (1. persönliche Begegnung), [[Lunovar]] (Adelsviertel, Verbrecher-Status), [[Spymaster]] (Auftragsklärung), alle 5 PCs.
-- 2026-05-25 (Ingest): [[Tagebücher Wilhelm Casterwill]] — sieben PDFs. Drei-Bücher-Mechanik (Raum/Essenz/Seele) wörtlich. Verdacht das Nichts = Traumwesen.
-- 2026-05-18 (Ingest): [[Session 13]] aus WhisperX-Transkript.
+- 2026-06-02 (Korrektur): [[Cassomir]] (umbenannt von Kasimir), [[Session 15]] (Krone zurückgegeben, Zone by Adjutant, neue Details), [[Krone des Hohen Rates]] (nicht magisch, zurückgegeben).
+- 2026-06-01 (Ingest): [[Session 15]] — Cassomir-Anhörung, Erliorwald-Start. Neue Seiten: [[Cassomir]], [[Session 15]], [[Session 15 transcript]]. Updates: [[Magischer Schluessel]], [[Berthas Bohnen]], [[Erliorwald]], [[Lysanthiriel Vaelora]], [[Fohlen]], [[Naeli]].
+- 2026-06-01 (DM-Update): [[Carbus]], [[Spell-Slot-Anhänger]], [[Lady Günthers Flasche]], [[Falmers]] (neu).
+- 2026-05-26 (Ingest): [[Session 14]].
 
 ## Open Loops
-- Wer/Was ist **[[Berthas Bohnen]]** wirklich? Wer betreibt die Bar?
-- **Welche Bücher** hat [[Magolor]] konkret (grüne Perle = ?, rote Perle = ?)?
-- Wo ist [[Magolor]] **jetzt**? In Lunovar (4 Tage da war er)? In Carbus?
-- Wer ist **[[Edgar Thorne]]**? Verbindung zu Magolor/Royalisten?
+- Was lauert **800m in der Böschung** des Erliorwalds?
+- Wer/was ist **Lysantirs Freund** im Erliorwald (Lichtungs-Spuren, Ledergeruch, primitive Waffen)?
+- Wo ist [[Magolor]] **jetzt**?
+- Wer ist **[[Edgar Thorne]]**?
 - Wird **Familie Marie** [[Sophie Marie|Sophies]] Verschwinden eskalieren?
 - **Wie finden die PCs den Tempel** in Lunovar? *"Nicht zu finden, außer man weiß bereits, wo er ist."*
-- **Wie kommen sie aus Lunovar raus** ohne entdeckt zu werden — jetzt wo sie offiziell verfolgt werden?
-- Was tut man mit der **geklauten Krone**?
-- Inhalt des **vermissten Tagebuchs VII** — Lücke zwischen Sturz-Beschluss und Versteck-Nacht.
+- Inhalt des **vermissten Tagebuchs VII**.
 - Hat [[Magolor]] über die Brosche **mitgehört**, bevor Hrímnir sie ins Bag of Holding warf?
+- Welche Konsequenzen hat Cassomir für **[[Elfaria Albis von Sylphid]]**?
+- Welche Kopfgeldjäger sind in **[[Lunovar]]** aktiv?

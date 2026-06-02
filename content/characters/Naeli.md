@@ -9,7 +9,7 @@ related: []
 sources:
   - Tagebücher Wilhelm Casterwill
 created: 2026-05-11
-updated: 2026-05-26
+updated: 2026-06-01
 status: developing
 ---
 ![[Naeli.png|496]]
@@ -28,7 +28,7 @@ status: developing
 
 - Sehr klein, mit zwei verschiedenfarbigen Augen.
 - Kommt vom Nordkontinent.
-- Hat eine Schneeeule als Vertraute.
+- Hat eine Schneeeule namens **Nyra** als Vertraute.
 - Lässt sich oft von Hrímnir tragen.
 - Spricht erstaunlicherweise Draconisch.
 - Raucht häufig ihre Pfeife und hat daher eine eher schwache Kondition.
@@ -70,11 +70,17 @@ status: developing
   - Empfängt die **[[Lady Günthers Flasche|Pferdeflasche]]** von [[Virion Loramis]] (von [[Fohlen]] via Divination 3 Tage vorausbestellt).
   - **Markt-Vorfall**: lässt Lady Günther die Adelsdame **anrotzen** (Animal Handling 26).
   - Castet **Charme Person** (subtile Handkuss-Geste, DC under sight) auf die Anführer-Wache → die Wachen lassen [[Jack]] gehen.
-  - Verfolgt Jack heimlich auf Stealth 11 → entdeckt die Herz-Übergabe; ihre **Schneeeule** klaut den Sack.
+  - Verfolgt Jack heimlich auf Stealth 11 → entdeckt die Herz-Übergabe; **Nyra** (ihre Schneeeule) klaut den Sack.
   - **Verbrennt** die drei Söldner-Leichen (Sophie, Spymaster, Stellvertreter) im Akademie-Badezimmer mit **Burning Hands** aus dem reparierten Staff of Fire (1 Charge).
   - **Audienz**: Mass Suggestion DC 10 **geschafft** — kann frei sprechen. Erklärt Elfaria die Magolor-Gefahr.
   - **Combat-Flucht**: castet **Windwall** (15 ft × 1 ft, vor der Gruppe) — fängt Wachen-Pfeile ab (4d8 für Durchschießer). **Ray of Frost** auf die Saaltür unterstützt Hrímnirs Aufbruch (15 Cold Damage).
   - Sperrt Lady Günther vor dem Combat in die Flasche ein.
+- **[[Session 15]]**:
+  - Long Rest in [[Berthas Bohnen]].
+  - Schickt **Nyra** auf Erkundung im [[Erliorwald]] → Nyra entdeckt massive Gefahr ~800m in der Böschung, kehrt unruhig zurück.
+  - Castet **Speak with Animals** auf Nyra → hört Nyras Bericht.
+  - Sendet Nyra als Notfall-Boten zu **[[Fohlen]]** (Schulleiter), falls die Gruppe Hilfe braucht.
+  - Erhält die **Bärenfalle** von Sim als Vorsichtsmaßnahme (gegen ihre ethischen Bedenken akzeptiert).
 
 ## Verknüpfungen
 
@@ -97,6 +103,8 @@ status: developing
 - [[Session 12]]
 - [[Session 13]]
 - [[Session 14]]
+- [[Session 15]]
+- [[Erliorwald]]
 - [[Twilight (Pony)]]
 - [[Lady Günthers Flasche]]
 - [[Jack]]

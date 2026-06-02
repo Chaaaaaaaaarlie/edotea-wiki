@@ -2,7 +2,7 @@
 type: meta
 title: "Characters Index"
 created: 2026-05-11
-updated: 2026-05-26
+updated: 2026-06-01
 tags:
   - meta
   - characters
@@ -19,7 +19,7 @@ status: evergreen
 - [[Naeli]]
 - [[Sim]]
 
-## NPCs (26)
+## NPCs (27)
 
 - [[Borgrim Runenbrecher]]
 - [[Crucellus]]
@@ -30,6 +30,7 @@ status: evergreen
 - [[Fohlen]]
 - [[Fürst Alator]]
 - [[Jack]] *(neu, Session 14 — Halbelfen-Kind-Auftragsmörder aus Carbus)*
+- [[Cassomir]] *(neu, Session 15 — oberste Gerichtsinstanz der Hohen Familien, Silber-Elf)*
 - [[Lucien]]
 - [[Lysanthiriel Vaelora]]
 - [[Magilanikas Maven]]

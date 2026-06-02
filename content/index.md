@@ -2,7 +2,7 @@
 type: meta
 title: "Wiki Index"
 created: 2026-05-11
-updated: 2026-05-26
+updated: 2026-06-01
 tags:
   - meta
 status: mature
@@ -15,13 +15,13 @@ Master catalog. Updated on every ingest.
 ## Overview
 - [[overview|Edotea — Willkommen]]
 
-## Characters (31) — see [[_index|Characters Index]]
+## Characters (32) — see [[_index|Characters Index]]
 
 ### PCs (5)
 - [[Berta]] · [[Hrímnir]] · [[Khirin]] · [[Naeli]] · [[Sim]]
 
-### NPCs (26)
-- [[Borgrim Runenbrecher]] · [[Crucellus]] · [[Edgar Thorne]] · [[Elfaria Albis von Sylphid]] · [[Elliot]] · [[Fiona Casterwill]] · [[Fohlen]] · [[Fürst Alator]] · [[Jack]] · [[Lucien]] · [[Lysanthiriel Vaelora]] · [[Magilanikas Maven]] · [[Magolor]] · [[Markus L. Kalinion]] · [[Nora]] · [[Palamedis]] · [[Scale Piercer]] · [[Sophie Marie]] · [[Spymaster]] · [[Storm Holder]] · [[Twilight (Pony)]] · [[Virion Loramis]] · [[Wilhelm Casterwill]] · [[Wukong]] · [[Y'Chak]] · [[Zwergenmeister Schmiedemeisterei]]
+### NPCs (27)
+- [[Borgrim Runenbrecher]] · [[Crucellus]] · [[Edgar Thorne]] · [[Elfaria Albis von Sylphid]] · [[Elliot]] · [[Fiona Casterwill]] · [[Fohlen]] · [[Fürst Alator]] · [[Jack]] · [[Cassomir]] · [[Lucien]] · [[Lysanthiriel Vaelora]] · [[Magilanikas Maven]] · [[Magolor]] · [[Markus L. Kalinion]] · [[Nora]] · [[Palamedis]] · [[Scale Piercer]] · [[Sophie Marie]] · [[Spymaster]] · [[Storm Holder]] · [[Twilight (Pony)]] · [[Virion Loramis]] · [[Wilhelm Casterwill]] · [[Wukong]] · [[Y'Chak]] · [[Zwergenmeister Schmiedemeisterei]]
 
 ## Locations (30) — see [[_index|Locations Index]]
 - Kontinent: [[Kontinent Edotea]] · [[Cloud Fang]] · [[Erliorwald]] · [[Nebelwald]] · [[Wesh]]
@@ -46,11 +46,11 @@ Master catalog. Updated on every ingest.
 ## Items (7) — see [[_index|Items Index]]
 - [[Gurde]] · [[Krone des Hohen Rates]] · [[Lady Günthers Flasche]] · [[Magischer Schluessel]] · [[Spell-Slot-Anhänger]] · [[Staff of Fire]] · [[Wappen des alten Kalineon]]
 
-## Sessions (15) — see [[_index|Sessions Index]]
-- [[Session 14]] · [[Session 13]] · [[Session 12]] · [[Session 11]] · [[Session 10]] · [[Session 9]] · [[Session 8]] · [[Session 7]] · [[Session 6]] · [[Session 5]] · [[Session 4]] · [[Session 3]] · [[Session 2]] · [[Session 1]] · [[Session 0]]
+## Sessions (16) — see [[_index|Sessions Index]]
+- [[Session 15]] · [[Session 14]] · [[Session 13]] · [[Session 12]] · [[Session 11]] · [[Session 10]] · [[Session 9]] · [[Session 8]] · [[Session 7]] · [[Session 6]] · [[Session 5]] · [[Session 4]] · [[Session 3]] · [[Session 2]] · [[Session 1]] · [[Session 0]]
 
-## Sources (4) — see [[_index|Sources Index]]
-- [[Session 12 transcript]] · [[Session 13 transcript]] · [[Session 14 transcript]] · [[Tagebücher Wilhelm Casterwill]]
+## Sources (5) — see [[_index|Sources Index]]
+- [[Session 15 transcript]] · [[Session 12 transcript]] · [[Session 13 transcript]] · [[Session 14 transcript]] · [[Tagebücher Wilhelm Casterwill]]
 
 ## Factions (1) — see [[_index|Factions Index]]
 - [[Kalineon-Royalisten]]

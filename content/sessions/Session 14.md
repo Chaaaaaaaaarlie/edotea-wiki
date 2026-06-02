@@ -386,7 +386,7 @@ Audienz beim Hohen Rat: **[[Elfaria Albis von Sylphid]]** (Familie der Buch-Wäc
 ### Über [[Fohlen]]
 - Bezahlte Schmied mit **Platinumkugel aus Privatvermögen** (mehr wert als 35.000 G) — kein Bargeld-Transfer.
 - Hat **drei Tage vorher** die Pferdeflasche für Lady Günther per Divination bestellt.
-- *"Frohn hat sich heute Morgen schon gekümmert"* — er war wirklich im Schmied.
+- *"[[Fohlen]] hat sich heute Morgen schon gekümmert"* — er war wirklich im Schmied.
 
 ### Über [[Lysanthiriel Vaelora]]
 - **Ihre Kristallkugel ist zerstört** worden, *nach ihrem Tod*. Khirins Kugel gehört daher einem der **anderen beiden** ursprünglichen Magier ([[Wilhelm Casterwill|Wilhelm]] oder [[Borgrim Runenbrecher|Borgrim]]).
@@ -421,4 +421,4 @@ Audienz beim Hohen Rat: **[[Elfaria Albis von Sylphid]]** (Familie der Buch-Wäc
 ---
 
 *Vorherige Session: [[Session 13]]*
-*Nächste Session: TBD*
+*Nächste Session: [[Session 15]]*
