@@ -57,8 +57,17 @@ Die Gruppe wurde nach der Kronenklaue-Eskalation aus [[Session 14]] vor Cassomir
 - **Brunnenwasser** an [[Fohlen]] übergeben.
 - **Bounty Hunter Info**: Cassomir schickt [[Fohlen]] Informationen über aktive Kopfgeldjäger in [[Lunovar]].
 
+## Machtbefugnisse
+
+- **Inquisitionsbefugnis**: Cassomir ist derjenige, der dafür sorgt, dass Familien, die schwere Verbrechen begangen haben, *"ausgerottet"* werden. Selbst die Hohen Familien fürchten ihn.
+- **Stimme im Rat**: *"ich durchaus meine Stimme im Rat der oberen Familien habe"* — hat Einfluss auf den Rat, macht die Gesetze aber nicht selbst.
+- **Zuständigkeit**: Große Verbrechen (Mord, Krondiebstahl, Familienverbrechen). Kleine Vergehen → normale Stadtwache.
+
+## Lunovar-Geschichte (laut Cassomir)
+*"Lunowa ist als Grundmauer der Gerechtigkeit im Krieg gegen den alten König erbaut worden."* — Lunovar wurde in einem Krieg gegen **"den alten König"** gegründet. Cassomir findet es betrüblich, dass die Stadt diese Gründungswerte nicht mehr vollständig lebt.
+
 ## Offene Fragen
-- Was ist Cassomirs Verhältnis zu den Hohen Familien generell — steht er über ihnen, oder ist er ihr gewählter Richter?
+- **Wer ist "der alte König"**, gegen den Lunovar gegründet wurde?
 - Welche Konsequenzen drohen [[Elfaria Albis von Sylphid]] konkret?
 - Wozu wird die Magolor-Skizze verwendet — hat Cassomir Interesse an Magolor?
 

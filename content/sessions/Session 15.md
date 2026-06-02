@@ -29,7 +29,9 @@ status: mature
 
 ## Zusammenfassung
 
-Fortsetzung direkt nach der Flucht in [[Berthas Bohnen]] ([[Session 14]]). Die Gruppe erholt sich dort — die Bar erweist sich als vollständig für einen **Long Rest** geeignet. Vollständige Mechanik des [[Magischer Schluessel|Schlüssels des Nichts]] wird in der Bar erklärt: **3 Verwendungen pro Tag**, maximal **3 aktive Türen gleichzeitig**, Schließen der Tür deaktiviert den Zugang **nicht** (der Einstiegspunkt bleibt erhalten); hinter der aktiven Tür liegt eine Taschendimension (5 Meter Stahl von innen). [[Sim]] nimmt eine Katze namens **Schneeball** an und gibt sie [[Fohlen]] — der bereits eine Katze namens **Schneeflocke** hat. [[Khirin]] setzt kurz die gestohlene [[Krone des Hohen Rates|Krone]] auf, legt sie wieder in das Bag of Holding.
+Fortsetzung direkt nach der Flucht in [[Berthas Bohnen]] ([[Session 14]]). Die Gruppe verbringt Zeit in der Bar — die vollständige Mechanik des [[Magischer Schluessel|Schlüssels des Nichts]] wird dort erklärt: **3 Verwendungen pro Tag**, maximal **3 aktive Türen gleichzeitig**, Schließen der Tür deaktiviert den Zugang **nicht** (der Einstiegspunkt bleibt erhalten); hinter der aktiven Tür liegt eine Taschendimension (5 Meter Stahl von innen). [[Sim]] nimmt eine Katze namens **Schneeball** an und gibt sie [[Fohlen]] — der bereits eine Katze namens **Schneeflocke** hat. [[Khirin]] setzt kurz die gestohlene [[Krone des Hohen Rates|Krone]] auf, legt sie wieder in das Bag of Holding.
+
+Nach dem Verlassen von Berthas Bohnen (~17 Uhr) findet die Gruppe ein **verlassenes Haus** in Lunova und hält dort einen **Long Rest** ab (bis ~01 Uhr nachts).
 
 Nach dem Long Rest verlässt die Gruppe Berthas Bohnen und versteckt sich den Tag über in einem verlassenen Haus. Nachts schleichen sie in die Akademie. **[[Fohlen]]** empfängt sie — wusste durch Divination von ihrer Ankunft. Berichte: [[Gurde]] braucht noch ~2 Tage; im [[Erliorwald]] lebt **ein alter Freund/eine alte Freundin von [[Lysanthiriel Vaelora]]** (langlebig, seit Jahrhunderten dort) — und ein **gefährliches Wesen**. Das Akademie-Badezimmer wird als **Einstiegspunkt 1** des Schlüssels definiert (Stahl-Blockade von innen).
 
@@ -45,9 +47,9 @@ Neuer NPC **[[Cassomir]]** — oberste Gerichtsinstanz der Hohen Familien, silbe
 
 ## Ereignisse
 
-### Akt 1: Berthas Bohnen — Long Rest & Schlüssel-Erklärung
+### Akt 1: Berthas Bohnen — Schlüssel-Erklärung
 
-- Long Rest in [[Berthas Bohnen]] erfolgreich abgeschlossen — der Ort wirkt *"erholend"*.
+- Die Gruppe verbringt Zeit in [[Berthas Bohnen]] (~17 Uhr in-game). Der Ort *könnte* für einen Long Rest genutzt werden, sie verlassen ihn aber vorher.
 - **[[Magischer Schluessel|Schlüssel des Nichts]] — vollständige Mechanik**:
   - **3 Verwendungen pro Tag**
   - Maximal **3 aktive Türen gleichzeitig**
@@ -57,13 +59,19 @@ Neuer NPC **[[Cassomir]]** — oberste Gerichtsinstanz der Hohen Familien, silbe
   - Fohlen hat bereits eine Katze: **Schneeflocke**.
 - [[Khirin]] setzt kurz die [[Krone des Hohen Rates]] auf → legt sie zurück ins Bag of Holding.
 
+### Akt 1b: Long Rest im verlassenen Haus
+
+- Nach Verlassen von Berthas Bohnen (in-game ~17 Uhr) findet die Gruppe ein **leerstehendes Haus** in Lunovar (Perception 20 durch [[Hrímnir]]).
+- **Long Rest** dort: von ~17:30 bis ~01:00 Uhr nachts.
+
 ### Akt 2: Akademie-Infiltration & Fohlen
 
-- Gruppe versteckt sich tagsüber in einem **verlassenen Haus** in Lunovar.
-- Nachts: schleicht sich in die **[[Magische Akademie Lunovar]]**.
+- Gruppe schleicht sich nachts (~01:00 Uhr) in die **[[Magische Akademie Lunovar]]**.
+- Akadmeie-Eingang hat Wachen ohne Insignien (Akademie-eigene Wachen) — problemloser Einlass nachts.
 - **[[Fohlen]]** empfängt sie (wusste durch Divination von ihrer Ankunft).
   - [[Gurde]]: noch **~2 Tage** für magische Wiederherstellung bei Virion.
-  - **[[Erliorwald]]**: Ein **alter Freund von [[Lysanthiriel Vaelora]]** lebt dort — sehr langlebig, seit Jahrhunderten im Wald. Außerdem haust dort ein **gefährliches Wesen** (von Fohlen als Warnung erwähnt).
+  - **[[Erliorwald]]**: Eine **alte Freundin von [[Lysanthiriel Vaelora]]** lebt dort — sehr langlebig, seit Jahrhunderten im Wald. Außerdem haust dort ein **gefährliches Wesen** (von Fohlen als separate Warnung erwähnt).
+  - Fohlen: *"knackige 400 Jahre alt"* — sah die Ankunft der Gruppe **vor ~2 Wochen** per Divination voraus, gibt sich bewusst nicht zu sehr ein, um die prophezeite Zukunft nicht zu stören.
 - **Einstiegspunkt 1** des Schlüssels: Akademie-Badezimmer-Tür. Von innen per 5m Stahl aus der Taschendimension verriegelt.
 
 ### Akt 3: Gerichtsanhörung vor Cassomir
@@ -160,7 +168,7 @@ Gruppe steht am oberen Rand der Böschung. Khirin panisch und fühlt sich tiefer
 - **Selbst gefertigte Pfeile** — einfachste Fertigung, kein Handwerk-Niveau.
 
 ### Über [[Lysanthiriel Vaelora]]
-- **Ein alter Freund/eine alte Freundin** von ihr lebt seit Jahrhunderten im [[Erliorwald]] — von [[Fohlen]] erwähnt.
+- **Eine alte Freundin** von ihr lebt seit Jahrhunderten im [[Erliorwald]] — von [[Fohlen]] explizit als "Freundin" (weiblich) bezeichnet.
 
 ### Über den [[Magischer Schluessel|Schlüssel des Nichts]]
 - Vollständige Mechanik enthüllt (siehe Akt 1).

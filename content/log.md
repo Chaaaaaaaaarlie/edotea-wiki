@@ -12,6 +12,14 @@ status: evergreen
 
 Append-only. New entries at the **TOP**. Never edit past entries.
 
+## [2026-06-02b] Korrekturen | Session 15 — aktualisiertes Transkript (2. Durchgang)
+
+- **Long Rest-Ort korrigiert**: War fälschlicherweise als "in Berthas Bohnen" dokumentiert. Korrekt: **verlassenes Haus in Lunova** (~17:30–01:00 Uhr). Berthas Bohnen wurde nur für die Schlüssel-Erklärung genutzt, die Gruppe verließ die Dimension vorher.
+- **Lysantirs Freundin**: Durchgehend von "Freund/Freundin" → **"Freundin"** korrigiert. Fohlen sagt explizit "Freundin" (weiblich). Betrifft: [[Session 15]], [[Fohlen]], [[Erliorwald]].
+- **Fohlen**: Alter **400 Jahre** ergänzt. Detaillierte Prophezeiung hinzugefügt: sah Ankunft ~2 Wochen voraus, meidet bewusst zu starkes Eingreifen.
+- **Cassomir**: Inquisitionsbefugnisse ergänzt (kann Familien "ausrotten" lassen). Stimme im Rat der Hohen Familien. Lunovar-Gründungsgeschichte: "im Krieg gegen den alten König erbaut".
+- **Neue offene Frage**: Wer ist "der alte König"?
+
 ## [2026-06-02] Korrekturen | Session 15 — Cassomir + Krone + neue Details
 
 - **Umbenennung**: Kasimir → [[Cassomir]] (ASR-Fehler; Quelle: neue .txt-Version des Transkripts).

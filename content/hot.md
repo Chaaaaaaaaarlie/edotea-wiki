@@ -11,9 +11,9 @@ status: evergreen
 # Recent Context
 
 ## Last Updated
-2026-06-02 — **Session 15** korrigiert (Cassomir statt Kasimir; Krone zurückgegeben; Zone of Truth durch Adjutant; neue Details). Neue Seite: [[Cassomir]].
+2026-06-02 — **Session 15** (2. Korrektur): Long Rest war im **verlassenen Haus** in Lunova, nicht in Berthas Bohnen. Lysantirs Freundin ist **weiblich**. Fohlen ist **400 Jahre alt**, prophezeite Ankunft 2 Wochen voraus. Cassomir hat **Inquisitionsbefugnisse** + Stimme im Hohen Familienrat. Lunovar gegründet *"im Krieg gegen den alten König"*.
 
-*(Davor: 2026-06-01 — [[Session 15]] ingestiert. Erliorwald-Erkundung begonnen.)*
+*(Davor: 2026-06-02 — Cassomir-Umbenennung + Krone-Korrektur. 2026-06-01 — Session 15 ingestiert.)*
 
 ## Campaign Snapshot
 **Edotea** ist eine D&D-Kampagne auf dem [[Kontinent Edotea]]. Aktive PCs: [[Berta]] (Sorcerer/Warlock), [[Hrímnir]] ([[Goliath]] Cleric/Monk Elemental), [[Khirin]] (Halbelf Evocation Wizard 6 mit Sculpt Spells), [[Naeli]] (Halbling Druidin, Schneeeule **Nyra**), [[Sim]] (Simian Fighter/Ranger). Aktuell im **[[Erliorwald]]** — Waldrand/Böschung. Letzte Session: [[Session 15]].
@@ -45,11 +45,12 @@ Davor: **[[Cassomir]]**-Anhörung (Zone of Truth, geworfen von Cassomirs Adjutan
 - **[[Magischer Schluessel|Schlüssel des Nichts]] — vollständige Mechanik**: 3/Tag, max. 3 aktive Türen, Schließen ≠ Deaktivieren, Taschendimension (5m Stahl von innen). **Einstiegspunkt 1** = Akademie-Dormitorzimmer (Bad). Fohlen gibt Schlüsselbund für Außentür.
 - **[[Naeli]]s Eule** heißt **Nyra** (Schneeeule).
 - **[[Fohlen]]** hat zwei Katzen: Schneeflocke (seine) + Schneeball (von Sim, Session 15).
-- **[[Erliorwald]]**: magischer Nebel (Khirins Maske bestätigt), Glühwürmchen-Lichter, Tripwires aus Gras, Körperabdruck 2m×1m, primitive selbst gefertigte Pfeile aus Böschungstiefe — Lysantirs Freund lebt dort seit Jahrhunderten.
+- **[[Erliorwald]]**: magischer Nebel (Khirins Maske bestätigt), Glühwürmchen-Lichter, Tripwires aus Gras, Körperabdruck 2m×1m, primitive selbst gefertigte Pfeile aus Böschungstiefe — Lysantirs **Freundin** (weiblich) lebt dort seit Jahrhunderten.
 - **[[Krone des Hohen Rates]]**: nicht magisch — wertvolles Schmuckstück (Gold, Platin, Edelsteine). Zurückgegeben Session 15.
 - **Khirins Vertraute "Tricksy Fae"** verdient 15 Gold durch Pickpocketing in Lunovar (3 Gold an Hrímnir).
 
 ## Recent Changes
+- 2026-06-02 (Korrektur 2): [[Session 15]] (Long Rest → verlassenes Haus, nicht Berthas Bohnen), [[Fohlen]] (400 Jahre alt, 2-Wochen-Prophezeiung), [[Cassomir]] (Inquisitionsbefugnisse, Ratsstimme), [[Erliorwald]] (Freundin weiblich), Lunovar-Gründungsgeschichte ergänzt.
 - 2026-06-02 (Korrektur): [[Cassomir]] (umbenannt von Kasimir), [[Session 15]] (Krone zurückgegeben, Zone by Adjutant, neue Details), [[Krone des Hohen Rates]] (nicht magisch, zurückgegeben).
 - 2026-06-01 (Ingest): [[Session 15]] — Cassomir-Anhörung, Erliorwald-Start. Neue Seiten: [[Cassomir]], [[Session 15]], [[Session 15 transcript]]. Updates: [[Magischer Schluessel]], [[Berthas Bohnen]], [[Erliorwald]], [[Lysanthiriel Vaelora]], [[Fohlen]], [[Naeli]].
 - 2026-06-01 (DM-Update): [[Carbus]], [[Spell-Slot-Anhänger]], [[Lady Günthers Flasche]], [[Falmers]] (neu).
@@ -57,7 +58,7 @@ Davor: **[[Cassomir]]**-Anhörung (Zone of Truth, geworfen von Cassomirs Adjutan
 
 ## Open Loops
 - Was lauert **800m in der Böschung** des Erliorwalds?
-- Wer/was ist **Lysantirs Freund** im Erliorwald (Lichtungs-Spuren, Ledergeruch, primitive Waffen)?
+- Wer ist **Lysantirs Freundin** im Erliorwald (Lichtungs-Spuren, Ledergeruch, primitive Waffen)? Weiblich, seit Jahrhunderten dort.
 - Wo ist [[Magolor]] **jetzt**?
 - Wer ist **[[Edgar Thorne]]**?
 - Wird **Familie Marie** [[Sophie Marie|Sophies]] Verschwinden eskalieren?

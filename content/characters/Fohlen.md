@@ -90,17 +90,18 @@ Nobel auftretender Elf, freundlich-verspielt-warm, lacht leicht. Gibt offen zu, 
 
 ## [[Session 15]] — neue Aktionen
 - **[[Sim]] schenkt Fohlen die Katze Schneeball** — Fohlen hat bereits eine Katze: **Schneeflocke**.
-- **Wusste durch Divination** von der Ankunft der Gruppe in der Akademie (nachts).
+- **Wusste durch Divination** von der Ankunft der Gruppe in der Akademie (nachts, ~01 Uhr).
+- **Alter**: *"knackige 400 Jahre alt"* (eigene Aussage).
+- **Prophezeite Ankunft**: Sah die Gruppe vor **~2 Wochen** kommen — als der Schulleiter den Raum mit dem Kristall vorstellte. Hält die Prophezeiung aufrecht, indem er sich bewusst **nicht zu sehr einmischt**: *"Ich befürchte, sollte ich eingreifen in zu hohem Maße, dass das, was ich gesehen habe, so nicht stattfindet."*
 - Informiert die Gruppe über **[[Erliorwald]]**:
-  - Ein **alter Freund von [[Lysanthiriel Vaelora]]** lebt seit Jahrhunderten dort (noch lebendig).
+  - Eine **alte Freundin von [[Lysanthiriel Vaelora]]** lebt seit Jahrhunderten dort (noch lebendig).
   - Außerdem haust dort ein **gefährliches Wesen** (als separate Warnung erwähnt).
   - [[Gurde]] bei Virion: noch **~2 Tage** bis zur magischen Wiederherstellung.
-- Empfängt **Brunnenwasser** von der Gruppe (Kasimir-Anhörung).
-- Ist **Schulleiter** — [[Naeli]]s Eule Nyra wird zu ihm entsandt, falls die Gruppe im Erliorwald Hilfe braucht.
-- Übernimmt bei der **Kasimir-Anhörung** Verantwortung für die Leichen-Situation.
+- Empfängt **Brunnenwasser** von der Gruppe (nach der Cassomir-Anhörung).
+- Ist **Notfallkontakt** — [[Naeli]]s Eule Nyra wird zu ihm entsandt, falls die Gruppe im Erliorwald Hilfe braucht.
+- Übernimmt bei der **Cassomir-Anhörung** Verantwortung für die Leichen-Situation.
 
 ## Offene Fragen
-- Wie alt ist Fohlen tatsächlich (Elf-Alter)?
 - Wie kam er zu seinem Cloak of Archmage?
 - Was sieht er als Diviner über [[Berta]]s Pakt mit [[das Nichts]]?
 - Wie blockiert er Telepathie? Ring of Mind Shielding? Anderer Schutz? Aktive Wahl?

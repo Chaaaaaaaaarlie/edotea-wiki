@@ -25,6 +25,7 @@ status: developing
 - Vor vielen Jahrhunderten lebten die Elfen der Region noch im [[Erliorwald]].
 - Als das alte Königshaus von [[Kalineon]] wiederholt den Wald überfiel, um Artefakte und elfische Magie für militärische Zwecke zu nutzen, spaltete sich das Volk.
 - Ein Teil zog tiefer in die Berge und blieb naturnah, während der andere Teil mit [[Lunovar]] eine neue, stark befestigte Stadt gründete.
+- Laut **[[Cassomir]]** ([[Session 15]]): *"Lunowa ist als Grundmauer der Gerechtigkeit im Krieg gegen den alten König erbaut worden."* — Lunovar verstand sich ursprünglich als Hüterin der Gerechtigkeit, nicht nur als Festung. Cassomir findet es betrüblich, dass diese Werte nicht mehr vollständig gelebt werden.
 
 ## Verteidigung und Aufbau
 

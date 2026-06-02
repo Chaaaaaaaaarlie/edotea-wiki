@@ -18,7 +18,7 @@ status: developing
 # Erliorwald
 
 ## Überblick
-Geheimnisvoller Wald in der Nähe von [[Lunovar]], etwa 3 Stunden Fußmarsch entfernt. Dichter magischer Nebel, kaum Tierleben, kleine glühwürmchenartige Lichtwesen. Laut [[Fohlen]] lebt dort **ein jahrhundertealter Freund von [[Lysanthiriel Vaelora]]** — und ein **gefährliches Wesen**.
+Geheimnisvoller Wald in der Nähe von [[Lunovar]], etwa 3 Stunden Fußmarsch entfernt. Dichter magischer Nebel, kaum Tierleben, kleine glühwürmchenartige Lichtwesen. Laut [[Fohlen]] lebt dort **eine jahrhundertealte Freundin von [[Lysanthiriel Vaelora]]** — und ein **gefährliches Wesen**.
 
 ## Bekannte Merkmale ([[Session 15]])
 
@@ -33,11 +33,11 @@ Geheimnisvoller Wald in der Nähe von [[Lunovar]], etwa 3 Stunden Fußmarsch ent
 
 ## Bewohner / Wesen
 
-- **Lysantirs alter Freund/Freundin**: eine jahrhundertelang im Wald lebende Person, die mit [[Lysanthiriel Vaelora]] befreundet war. Laut Fohlen noch lebendig. Spuren auf der Lichtung (Körperabdruck, Ledergeruch, primitive Fallen/Pfeile) könnten von ihr stammen.
+- **Lysantirs alte Freundin**: eine **weibliche** jahrhundertelang im Wald lebende Person, die mit [[Lysanthiriel Vaelora]] befreundet war. Laut [[Fohlen]] explizit "Freundin" (weiblich), noch lebendig. Spuren auf der Lichtung (Körperabdruck, Ledergeruch, primitive Fallen/Pfeile) könnten von ihr stammen.
 - **Unbekanntes gefährliches Wesen**: ~800m Richtung Böschung, verursacht instinktiven Schrecken, bewegt sich nicht. Anderes Wesen als Lysantirs Freund (von Fohlen separat erwähnt).
 
 ## Offene Fragen
-- Wer ist Lysantirs Freund — welche Rasse, welche Geschichte?
+- Wer ist Lysantirs Freundin — welche Rasse, welche Geschichte?
 - Was ist das Wesen in der Böschung (Drache? Urtier? Dämon)?
 - Können die glühwürmchenartigen Lichter kommunizieren oder führen?
 - Welche Rolle spielen die Stolperdrähte — Schutz oder Alarm?
