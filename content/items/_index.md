@@ -2,14 +2,17 @@
 type: meta
 title: "Items Index"
 created: 2026-05-11
-updated: 2026-05-26
+updated: 2026-06-09
 tags:
   - meta
   - items
 status: developing
 ---
 
-# Items (7)
+# Items (8)
+
+## Tränke
+- [[Aalafiels Trank]] *(neu, Session 16)* — Abscheu-Aura-Trank der Treants; 10 Min./Schluck (größenabhängig); Voraussetzung, um mit [[Aalafiel]] zu sprechen
 
 ## Artefakte
 - [[Gurde]] — Sims Erbstück, Magie-Kürbis aus Wukongs Besitz; **physisch fertig** ([[Session 14]]), bei [[Virion Loramis]] zur magischen Wiederherstellung

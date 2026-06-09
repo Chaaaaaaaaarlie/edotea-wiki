@@ -12,6 +12,30 @@ status: evergreen
 
 Append-only. New entries at the **TOP**. Never edit past entries.
 
+## [2026-06-09] ingest | Session 16 (gespielt 2026-06-08) aus WhisperX-Transkript
+
+- **Transkript-Prüfung & -Korrektur**:
+  - Quellen: `wiki/sources/session16_transcript_raw.md` (19 771 Zeilen) + `session16_transcript_corrected.md` (16 647 Zeilen, dedupliziert). Sicherungskopien angelegt: `*.BACKUP-2026-06-09.md`.
+  - **Neues Sprecher-Mapping** (andere Diarisierungs-Labels als 12–15): Blestem=DM, Dr Ore=[[Berta]], Mep=[[Sim]], Silence=[[Naeli]], Galan=[[Khirin]], hansmeier=[[Hrímnir]]. Per Inhalt verifiziert.
+  - **Globale Namens-Korrekturen** im `_corrected.md`: Kirin→[[Khirin]] (16), Bertha/Borta/Humberta→[[Berta]] (21; *Berthas Bohnen* geschützt), Rimnir/Remnir/Rymnir/Remnius/„Herr Miner"→[[Hrímnir]] (10), Nira→Nyra (1), Nelly/Nelia/Nele/Nathie→[[Naeli]] (14). Zeitstempel/Sprecher/Struktur unverändert.
+  - **Markiert (nicht korrigiert)**: Worg-Schreibweise (ASR: Worc/Vork/Walk/Dire Walk; DM sagt „Worg"), Aalafiel-Schreibweise (Spieler: „Alaphia"), Treant (ASR: Trend/Triade), Sim/Simeon/Simian, „Bertha Wichbold", sowie die WhisperX-Loop-Artefakte. Details siehe [[Session 16 transcript]].
+- **Neue Seiten**:
+  - **Charaktere**: [[Aalafiel]] (Elfe, „Monster vom Erlior", Beschützerin des [[Erliorwald]]s mit Abscheu-Aura; im Norden).
+  - **Bestiarium**: [[Worg]] (Feenwildnis-Bestien, Giftbiss/ätzender Speichel), [[Spinnenwesen]] (totes Seelenmagie-Konstrukt).
+  - **Lore/Ebene**: [[Feenwildnis]] (Feywild; Portal im Erliorwald).
+  - **Items**: [[Aalafiels Trank]] (Abscheu-Aura-Trank, 10 Min./Schluck).
+  - **Sessions**: [[Session 16]]. **Sources**: [[Session 16 transcript]].
+- **Aktualisierte Seiten**:
+  - [[Erliorwald]] (Böschungs-Abstieg, verbrannte Senke, Hain der Heilung, Feenwildnis-Portal, Aalafiel im Norden), [[Lysanthiriel Vaelora]] (Freundin vermutl. = Aalafiel; Seelenmagie-Spur), [[Borgrim Runenbrecher]] (Seelenmagie-Spinnenwesen), [[Treant]] (Erliorwald-Begegnung), alle 5 PCs ([[Berta]], [[Hrímnir]], [[Khirin]], [[Naeli]], [[Sim]]), [[Session 15]] (Nächste-Session-Link).
+  - Zähler-Updates: Characters 32→33, NPCs 27→28, Lore 16→17, Bestiarium 11→13, Items 7→8, Sessions 16→17, Sources 5→6. Master-`index.md`, alle Sub-Indizes, `hot.md`.
+- **Schlüssel-Erkenntnisse Session 16**:
+  - Unterhalb der Böschung: **verbrannte Kampf-Senke** mit totem **[[Spinnenwesen]]** aus **Seelenmagie** — „Magie vom [[Borgrim Runenbrecher|Runenbrecher]]" ([[Naeli]]).
+  - **[[Worg|Worge]] aus der [[Feenwildnis]]** (Hinterhalt; Giftbiss nicht heilbar, ätzender Speichel) — fast TPK.
+  - **Feenlichter = Pixies**; führten zum **Hain der Heilung** (Treants + Feenwildnis-Portal).
+  - Der [[Treant]] enthüllt **[[Aalafiel]]** = „Monster vom Erlior" = Beschützerin mit Abscheu-Aura; Kontakt nur via **[[Aalafiels Trank]]**; sie ist im **Norden** (Fluss folgen). Vermutlich Lysantirs Freundin (S15).
+  - Gepanzerte Elfen wollten Aalafiel vor 4–5 Monden vernichten.
+  - **Cliffhanger**: Gruppe rastet im Hain, hält die Tränke, bricht nach Norden auf.
+
 ## [2026-06-02b] Korrekturen | Session 15 — aktualisiertes Transkript (2. Durchgang)
 
 - **Long Rest-Ort korrigiert**: War fälschlicherweise als "in Berthas Bohnen" dokumentiert. Korrekt: **verlassenes Haus in Lunova** (~17:30–01:00 Uhr). Berthas Bohnen wurde nur für die Schlüssel-Erklärung genutzt, die Gruppe verließ die Dimension vorher.

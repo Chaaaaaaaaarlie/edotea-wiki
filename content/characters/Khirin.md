@@ -8,7 +8,7 @@ tags:
 related: []
 sources: []
 created: 2026-05-11
-updated: 2026-05-26
+updated: 2026-06-09
 status: developing
 ---
 # Khirin
@@ -73,6 +73,14 @@ status: developing
   - Zweiter Misty Step beim Mauer-Hochklettern.
   - DM: *"Du wirst bekannt als Kirin der Sack."* — **keine Inspiration** für petty Krone-Diebstahl.
   - Diebstahl-Motivation: rassistische *"Halbelf-Balg"*/*"Bastard"*-Behandlung während der Audienz aufgestaut.
+
+## [[Session 16]]
+
+- Noch **verängstigt** aus [[Session 15]]. Untersuchte eine Drahtfalle und **löste eine Rune aus** → gleißender Lichtblitz über den halben Wald; castete aus Panik **Blade Ward**, fiel geblendet von einem Baum (D4).
+- **Arcana** auf das **[[Spinnenwesen]]**: vermutet, es wurde geschaffen, um **etwas zu suchen/sehen** (die vielen falschen Augen).
+- Bestätigte (History/Arcana), dass die **[[Worg|Worge]]** aus der **[[Feenwildnis]]** stammen.
+- Ging im Kampf zu Boden (Death Saves), bestand jedoch.
+- Spricht Elvish/Draconic, versucht **Sylvan** mit dem **[[Treant]]**.
 
 ## Verknüpfungen
 

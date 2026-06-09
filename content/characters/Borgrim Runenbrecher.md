@@ -35,6 +35,11 @@ status: developing
 - Reaktion auf den Plan des Königs (Tagebuch VI): ballte die Hände, bis die Knöchel weiß wurden; danach: *"Der König ist dabei, etwas zu schmieden, das niemand führen kann."*
 - In Tagebuch VIII verbarg er seine Unruhe vor dem Verstecken nur schwer.
 
+## [[Session 16]] — Seelenmagie im Erliorwald
+- In der verbrannten Senke des [[Erliorwald]]s findet die Gruppe ein totes, verbranntes **[[Spinnenwesen]]** — ein Konstrukt aus **Seelenmagie** ([[Hrímnir]] via Identify).
+- [[Naeli]] erkennt: *"Das ist die Magie vom Runenbrecher."* — erste Spur, dass Borgrims Seelenmagie im Erliorwald aktiv gewirkt hat (oder von jemandem nachgeahmt/eingesetzt wird).
+- Wer das Wesen geschaffen und wer es verbrannt hat, ist offen.
+
 ## Verknüpfungen
 
 - [[Kalineon]]
@@ -46,3 +51,6 @@ status: developing
 - [[das Nichts]]
 - [[Drei Bücher]]
 - [[Tagebücher Wilhelm Casterwill]]
+- [[Erliorwald]]
+- [[Spinnenwesen]]
+- [[Session 16]]

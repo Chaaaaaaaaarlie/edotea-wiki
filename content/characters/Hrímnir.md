@@ -8,7 +8,7 @@ tags:
 related: []
 sources: []
 created: 2026-05-11
-updated: 2026-05-26
+updated: 2026-06-09
 status: developing
 ---
 ![[Hrimnir.png|533]]
@@ -73,6 +73,14 @@ status: developing
   - **Audienz**: Mass Suggestion DC 10 **geschafft**.
   - **Combat-Flucht**: trägt Naeli unter dem Arm zur Saaltür (Sprint + Step of the Wind). Bricht die Tür mit **Thunder Damage Stunning Strike + Flurry of Blows** auf (24 + 22 = **46 Schaden**, Tür hat Doppelschaden gegen Thunder).
   - Springt 21 m von der Adelsmauer mit Naeli auf den Schultern (25 HP Abblock → 0 effective dmg).
+
+## [[Session 16]]
+
+- Rutschte die Böschung des [[Erliorwald]]s auf den Füßen hinab.
+- **Identify** auf das tote **[[Spinnenwesen]]** → es entstand aus **[[Borgrim Runenbrecher|Seelenmagie]]**.
+- Im Kampf gegen die **[[Worg|Worge]]**: Elemental Attunement, **Stunning Strike**, **Flurry of Blows**, Frost/Cold-Schaden, **Deflect Attacks/Redirect**, mehrere **Luck Points**; machte sich größer (~3 m).
+- Half, niedergegangene Verbündete wieder hochzuheilen.
+- Sprach (Common) mit dem **[[Treant]]** über die gesuchte Elfe **[[Aalafiel]]** und die Artefakt-Suche.
 
 ## Verknüpfungen
 

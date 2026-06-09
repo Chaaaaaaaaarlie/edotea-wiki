@@ -3,7 +3,7 @@ type: lore
 title: "Treant"
 lore_category: bestiary
 created: 2026-05-11
-updated: 2026-05-11
+updated: 2026-06-09
 status: mature
 aliases:
   - Treant
@@ -70,6 +70,14 @@ Der Treant war freundlich und so gingen wir einfach an ihm vorbei, nachdem der T
   - Kennt keinen Namen des Mannes.
 - Nach dem Leeren des Brunnens in [[Session 10]] informiert [[Berta]] den kranken Treant; dieser reagiert hoffnungsvoll, aber vorsichtig: „Veränderung braucht Zeit."
 
+### Treants im Erliorwald ([[Session 16]])
+
+- Ein großer **Treant** (mit weiteren) hütet einen **Hain der Heilung** im [[Erliorwald]] — eine Feen-Lichtung voller Pixies.
+- Spricht (Common/Elvish/Sylvan; [[Berta]] via Comprehend Languages) freundlich mit der Gruppe und gibt umfangreiche Auskunft über **[[Aalafiel]]** (das *"Monster vom Erlior"*).
+- Bewacht ein **Portal in die [[Feenwildnis]]**, das die Waldkreaturen (u.a. die [[Worg|Worge]]) nutzen; bietet an, die Gruppe im Notfall hindurchzugeleiten.
+- Übergibt der Gruppe **[[Aalafiels Trank|Abscheu-Tränke]]** und **Früchte/Äpfel**; lehnt magisches Brunnenwasser höflich ab.
+- Passt zur 2024er Darstellung als langlebiger, beschützender Waldhüter.
+
 ## Verknüpfungen
 
 - [[Berta]]
@@ -77,7 +85,13 @@ Der Treant war freundlich und so gingen wir einfach an ihm vorbei, nachdem der T
 - [[Nebelwald]]
 - [[Naeli]]
 - [[Oestliche Garnison von Cadnix]]
+- [[Erliorwald]]
+- [[Aalafiel]]
+- [[Feenwildnis]]
+- [[Worg]]
+- [[Aalafiels Trank]]
 - [[Session 1]]
 - [[Session 9]]
 - [[Session 10]]
+- [[Session 16]]
 - [[Sim]]

@@ -2,14 +2,14 @@
 type: meta
 title: "Lore Index"
 created: 2026-05-11
-updated: 2026-05-18
+updated: 2026-06-09
 tags:
   - meta
   - lore
 status: evergreen
 ---
 
-# Lore (16 + Bestiarium 11)
+# Lore (17 + Bestiarium 13)
 
 ## Götter & Höllenfürsten
 - [[Corellon]]
@@ -38,6 +38,10 @@ status: evergreen
 - [[das Nichts]] *(neu, Session 12 — Bertas Patron)*
 - [[Djinn]] *(neu, Session 12 — potenzielle Hilfe für Naelis Curse)*
 
+## Ebenen
+
+- [[Feenwildnis]] *(neu, Session 16 — Feywild; Portal im [[Erliorwald]], Heimat von Treants/Pixies/Worgen)*
+
 ## Bestiarium
 
 - [[Eulenbärin]]
@@ -47,7 +51,9 @@ status: evergreen
 - [[Shadow]]
 - [[Skelett]]
 - [[Spectre]]
+- [[Spinnenwesen]] *(neu, Session 16 — totes Seelenmagie-Konstrukt im Erliorwald)*
 - [[Treant]]
 - [[Will o Wisp]]
+- [[Worg]] *(neu, Session 16 — Feenwildnis-Bestien, Giftbiss/ätzender Speichel)*
 - [[Wraith]]
 - [[Zombie]]

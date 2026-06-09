@@ -8,7 +8,7 @@ tags:
 related: []
 sources: []
 created: 2026-05-11
-updated: 2026-05-26
+updated: 2026-06-09
 status: developing
 ---
 # Berta
@@ -91,6 +91,14 @@ status: developing
 - [[Berta]] starb in seinen Experimenten mehrfach, unter anderem fünfmal erfroren in [[Lögress]].
 - Dank des neuen Pakts bzw. der Schriftrolle hat [[Y'Chak]] aktuell keinen direkten Zugriff mehr auf sie.
 - **Bestätigt in [[Session 13]]**: [[Fohlen]] sah **lilafarbene flammartige Ketten** im Moment des Kristallbruchs um Berta zerbrechen — die Bindung an Y'Chak ist gelöst.
+
+## [[Session 16]]
+
+- Stieg mit der Gruppe die Böschung des [[Erliorwald]]s hinab; untersuchte (Medicine) das tote **[[Spinnenwesen]]**: *"definitiv kein Mensch mehr"* — zusammengesetzt oder von woanders.
+- Im Kampf gegen die **[[Worg|Worge]]**: u.a. **Silvery Barbs**; gab Verbündeten Advantage.
+- Im **Hain der Heilung** castete sie **Comprehend Languages** (Ritual) und sprach telepathisch mit dem **[[Treant]]** — erfuhr von **[[Aalafiel]]** und dem **[[Aalafiels Trank|Abscheu-Trank]]**.
+- Bot dem Treant **magisches Brunnenwasser** an (höflich abgelehnt).
+- Steckte den **[[Magischer Schluessel|Schlüssel]]** in Sims geschnitzte Tür → Test erfolgreich.
 
 ## Verknüpfungen
 

@@ -47,6 +47,7 @@ status: developing
   - Sie hatte ihre **eigene Kristallkugel** zu Lebzeiten — die Magier-Trinitaet kommunizierte über diese Kugeln (eine pro Person).
   - Familie **Sylphid** wacht über ihr Buch in einem **Tempel** in Lunovar, *"der nicht zu finden ist, es sei denn, man weiß bereits, wo er ist."*
 - **[[Session 15]]**: [[Fohlen]] berichtet, dass ein **alter Freund/eine alte Freundin von Lysanthiriel** noch im [[Erliorwald]] lebt — sehr langlebig, dort seit Jahrhunderten. Wahrscheinlich Zeuge oder Kenner ihrer Geschichte.
+- **[[Session 16]]**: Im [[Erliorwald]] erfährt die Gruppe vom [[Treant]] von **[[Aalafiel]]**, dem *"Monster vom Erlior"* — einer jahrhundertelang dort lebenden Elfe. **Wahrscheinlich** ist dies die in Session 15 genannte Freundin Lysanthiriels (nicht wörtlich bestätigt; die Gruppe sucht sie aufgrund von Fohlens Hinweis). Außerdem trägt ein verbranntes [[Spinnenwesen]] in der Senke die Magiesignatur von [[Borgrim Runenbrecher]] (Seelenmagie) — ein Hinweis auf aktive Magier-Trinitaet-Magie im Erliorwald.
 
 ## Verknüpfungen
 
@@ -72,4 +73,7 @@ status: developing
 - [[Drei Bücher]]
 - [[Tagebücher Wilhelm Casterwill]]
 - [[Erliorwald]]
+- [[Aalafiel]]
+- [[Spinnenwesen]]
 - [[Session 15]]
+- [[Session 16]]

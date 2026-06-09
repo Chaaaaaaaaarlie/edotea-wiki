@@ -8,7 +8,7 @@ tags:
 related: []
 sources: []
 created: 2026-05-11
-updated: 2026-05-26
+updated: 2026-06-09
 status: developing
 ---
 # Sim
@@ -70,6 +70,14 @@ status: developing
   - Nach Suggestion-Ende eskaliert: *"Du kriegst ja nicht mal mit, was in deiner eigenen Stadt passiert. Du hochlässiges Stück Scheiße. Sie, Wichser. Ja."* — Auslöser für Festnahme-Befehl.
   - **Combat-Flucht**: springt **durch ein Fenster** der Eingangshalle (Dex 15 — knapp geschafft). Auf dem Dach hilft mit Stab anderen über Lücken.
   - Hat **35 Movement** + Dash = 70/65 ft pro Runde.
+
+## [[Session 16]]
+
+- Kletterte die Böschung des [[Erliorwald]]s hinab; verfolgte die **Magiespuren** des [[Spinnenwesen]]s nach **Norden**.
+- Im Kampf gegen die **[[Worg|Worge]]**: **Hunter's Mark**, Sharpshooter-Pfeile (*"Robin Hood"*), **Pushing Attack**, **Precision Attack**.
+- **Nature**: erkannte, dass die Worge **nicht von dieser Welt** sind (aus der **[[Feenwildnis]]**).
+- Schnitzte eine **Tür mit Seil-Scharnieren**, um den **[[Magischer Schluessel|Schlüssel des Nichts]]** im Wald zu testen → funktioniert.
+- Spürte (wie [[Naeli]]) den Sog der **Feenlichter** nicht; blieb die *"Stimme der Vernunft"*.
 
 ## Verknüpfungen
 

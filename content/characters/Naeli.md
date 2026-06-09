@@ -9,7 +9,7 @@ related: []
 sources:
   - Tagebücher Wilhelm Casterwill
 created: 2026-05-11
-updated: 2026-06-01
+updated: 2026-06-09
 status: developing
 ---
 ![[Naeli.png|496]]
@@ -81,6 +81,11 @@ status: developing
   - Castet **Speak with Animals** auf Nyra → hört Nyras Bericht.
   - Sendet Nyra als Notfall-Boten zu **[[Fohlen]]** (Schulleiter), falls die Gruppe Hilfe braucht.
   - Erhält die **Bärenfalle** von Sim als Vorsichtsmaßnahme (gegen ihre ethischen Bedenken akzeptiert).
+- **[[Session 16]]**:
+  - Rutschte die Böschung des [[Erliorwald]]s auf Baumrinde mit Steuerseil hinab (*"Naeli-Express"*).
+  - Erkannte (Nature) das **von Feuer verbrannte** Gras der Senke; erkannte die Magie des **[[Spinnenwesen]]s**: *"Das ist die Magie vom [[Borgrim Runenbrecher|Runenbrecher]]."*
+  - Im Kampf gegen die **[[Worg|Worge]]**: **Wild Shape → Schwarzbär**, **Gewitter/Call Lightning**, **Healing Word**, Savory/Vicious Barbs.
+  - Spürte (wie [[Sim]]) den Sog der **Feenlichter (Pixies)** nicht; brach im **Hain der Heilung** erschöpft auf Blütenblättern zusammen.
 
 ## Verknüpfungen
 

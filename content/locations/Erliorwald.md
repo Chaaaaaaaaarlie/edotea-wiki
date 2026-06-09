@@ -9,10 +9,15 @@ related:
   - Lunovar
   - Lysanthiriel Vaelora
   - Fohlen
+  - Aalafiel
+  - Treant
+  - Feenwildnis
+  - Worg
 sources:
   - Session 15 transcript
+  - Session 16 transcript
 created: 2026-05-11
-updated: 2026-06-01
+updated: 2026-06-09
 status: developing
 ---
 # Erliorwald
@@ -36,6 +41,20 @@ Geheimnisvoller Wald in der Nähe von [[Lunovar]], etwa 3 Stunden Fußmarsch ent
 - **Lysantirs alte Freundin**: eine **weibliche** jahrhundertelang im Wald lebende Person, die mit [[Lysanthiriel Vaelora]] befreundet war. Laut [[Fohlen]] explizit "Freundin" (weiblich), noch lebendig. Spuren auf der Lichtung (Körperabdruck, Ledergeruch, primitive Fallen/Pfeile) könnten von ihr stammen.
 - **Unbekanntes gefährliches Wesen**: ~800m Richtung Böschung, verursacht instinktiven Schrecken, bewegt sich nicht. Anderes Wesen als Lysantirs Freund (von Fohlen separat erwähnt).
 
+## Bekannte Merkmale ([[Session 16]])
+
+- **Die Böschung hinab**: ~40° steil; rutschbar (Gras-Schlitten auf Baumrinde). Bäume mit Kratzspuren, die zu keiner bekannten Kreatur passen; eine ausgelöste **Rune-Falle** an einem Stolperdraht erzeugt einen gleißenden Lichtblitz über den halben Wald.
+- **Verbrannte Senke** (unterhalb der Böschung): tote, kahle Bäume, von Kratern übersäter Boden — Ort eines **vergangenen Kampfes**. Gras **von Feuer verbrannt**; Asche verfärbt sich lilaartig.
+  - Dort liegt ein totes, verbranntes **[[Spinnenwesen]]** (Seelenmagie-Konstrukt, Magiesignatur von [[Borgrim Runenbrecher]]). Magiespuren führen nach **Norden**.
+- **[[Worg|Worge]]** aus der **[[Feenwildnis]]** lauern in der Senke (Giftbiss, ätzender Speichel).
+- **Feenlichter = Pixies**: die glühwürmchenartigen Lichter aus [[Session 15]] sind Feenwesen; sie können die Gruppe als **Strom goldener Funken** leiten.
+- **Hain der Heilung**: eine Feen-Lichtung voller Pixies und **[[Treant|Treants]]**; gewährt Rast/Inspiration. Hier hütet ein großer Treant ein **Portal in die [[Feenwildnis]]**.
+
+## Bewohner / Wesen (aktualisiert [[Session 16]])
+
+- **[[Aalafiel]]** = das **„Monster vom Erlior"** = mit hoher Wahrscheinlichkeit die in [[Session 15]] erwähnte **Freundin von [[Lysanthiriel Vaelora]]**. Beschützerin des Waldes mit Abscheu-Aura; Lager im **Norden** (dem Fluss folgen). Vor 4–5 Monden kamen gepanzerte Elfen, um sie zu vernichten.
+- **[[Treant|Treants]]**: Wächter des Hains der Heilung und des Feenwildnis-Portals; geben der Gruppe **[[Aalafiels Trank|Abscheu-Tränke]]** und Früchte.
+
 ## Offene Fragen
 - Wer ist Lysantirs Freundin — welche Rasse, welche Geschichte?
 - Was ist das Wesen in der Böschung (Drache? Urtier? Dämon)?
@@ -49,4 +68,11 @@ Geheimnisvoller Wald in der Nähe von [[Lunovar]], etwa 3 Stunden Fußmarsch ent
 - [[Lysanthiriel Vaelora]]
 - [[Fohlen]]
 - [[Naeli]]
+- [[Aalafiel]]
+- [[Treant]]
+- [[Feenwildnis]]
+- [[Worg]]
+- [[Spinnenwesen]]
+- [[Aalafiels Trank]]
 - [[Session 15]]
+- [[Session 16]]

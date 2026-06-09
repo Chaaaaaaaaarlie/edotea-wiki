@@ -2,7 +2,7 @@
 type: meta
 title: "Characters Index"
 created: 2026-05-11
-updated: 2026-06-01
+updated: 2026-06-09
 tags:
   - meta
   - characters
@@ -19,8 +19,9 @@ status: evergreen
 - [[Naeli]]
 - [[Sim]]
 
-## NPCs (27)
+## NPCs (28)
 
+- [[Aalafiel]] *(neu, Session 16 — „Monster vom Erlior", Beschützerin-Elfe im [[Erliorwald]])*
 - [[Borgrim Runenbrecher]]
 - [[Crucellus]]
 - [[Edgar Thorne]] *(neu, Session 14 — Kopfgeldgeber in Carbus, ungesehen)*

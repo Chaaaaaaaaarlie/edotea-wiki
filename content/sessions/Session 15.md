@@ -199,4 +199,4 @@ Gruppe steht am oberen Rand der Böschung. Khirin panisch und fühlt sich tiefer
 ---
 
 *Vorherige Session: [[Session 14]]*
-*Nächste Session: TBD*
+*Nächste Session: [[Session 16]]*
