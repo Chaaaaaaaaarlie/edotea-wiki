@@ -82,6 +82,14 @@ status: developing
 - Ging im Kampf zu Boden (Death Saves), bestand jedoch.
 - Spricht Elvish/Draconic, versucht **Sylvan** mit dem **[[Treant]]**.
 
+## [[Session 17]]
+
+- Treibt die **Rätsel-Analyse** in der [[Gruft des Buches]] voran (Akronym-Theorien, Farbspektrum, Reihenfolge der Bücher) — viele Fehlversuche, aber die finale **Reihenfolge-Idee** (Schwelle→Essenz→Seele) trägt mit bei.
+- **Ging im Stein-Golem-Kampf zu Boden** (K.O., Death Saves) — von [[Berta]] **stabilisiert** und auf wenige HP gebracht; spielte den „Geist"-Gag aus.
+- Zauber: **Misty Step** (nimmt den Lila-Kristall mit), **Dispel Magic** auf Golems (funktioniert, da Konstrukte), **Frostbite**.
+- Bleibt der neugierige **Looter** der Gruppe — Reibung mit [[Naeli]] (*„fui Edelsteine!"*).
+- Kann **Draconisch lesen** → entziffert [[Aalafiel]]s Fluch-Text (in den Chat geschickt).
+
 ## Verknüpfungen
 
 - [[Carbus]]
@@ -108,3 +116,7 @@ status: developing
 - [[Krone des Hohen Rates]]
 - [[Jack]]
 - [[Elfaria Albis von Sylphid]]
+- [[Session 16]]
+- [[Session 17]]
+- [[Aalafiel]]
+- [[Gruft des Buches]]

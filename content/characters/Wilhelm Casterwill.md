@@ -8,8 +8,9 @@ tags:
 related: []
 sources:
   - Tagebücher Wilhelm Casterwill
+  - Session 17 transcript
 created: 2026-05-11
-updated: 2026-05-25
+updated: 2026-06-16
 status: developing
 ---
 # Wilhelm Casterwill
@@ -34,6 +35,9 @@ status: developing
 - **Tagebuch VII fehlt** im Handout-Satz — Lücke zwischen Sturz-Plan und Versteck-Nacht.
 - In [[Session 11]] bestätigen Naelis Tagebuchseiten erneut das Drei-Bücher-Konstrukt und den Plan des damaligen Königs, alle drei Bücher zur Machtakkumulation zu vereinen.
 - In **[[Session 13]]** erkennen [[Berta]] und [[Khirin]] das **[[Wappen des alten Kalineon]]** an einer Brosche des toten [[Spymaster|Spymasters]] — sie kennen es aus einem von Wilhelms Tagebüchern. Dies stützt die Verbindung zwischen Wilhelms Forschungsverbund und der königshausnahen Vergangenheit, die jetzt als Royalisten-Faktion aktiv sein könnte ([[Kalineon-Royalisten]]).
+- **[[Session 17]]**:
+  - Sein Foliant heißt kanonisch **Buch der Schwellen** (Raummagie *„öffnet den Raum"*; siehe [[Drei Bücher]]). In der **[[Gruft des Buches]]** ist es das **erste** der drei Bücher in der Lösungsreihenfolge — passend dazu, dass Wilhelm *„sein Buch als Erster erhielt"* und seins zuerst eingefordert wurde.
+  - **Korrektur**: [[Berta]]s Pergament-Seite stammt aus **Wilhelms Buch der Schwellen** (nicht aus Lysantirs Essenz-Buch). Sie wurde benutzt, um *„einen Mann für zehn Jahre in einem Wald einzukerkern"*. → siehe [[Drei Bücher]]. (Offene Frage: Bezug zu [[Elliot]], der >10 Jahre als vermisst galt?)
 
 ## Verknüpfungen
 
@@ -52,6 +56,8 @@ status: developing
 - [[Session 7]]
 - [[Session 11]]
 - [[Session 13]]
+- [[Session 17]]
+- [[Gruft des Buches]]
 - [[Wappen des alten Kalineon]]
 - [[Kalineon-Royalisten]]
 - [[das Nichts]]

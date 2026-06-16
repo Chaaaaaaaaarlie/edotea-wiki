@@ -82,6 +82,11 @@ status: developing
 - Half, niedergegangene Verbündete wieder hochzuheilen.
 - Sprach (Common) mit dem **[[Treant]]** über die gesuchte Elfe **[[Aalafiel]]** und die Artefakt-Suche.
 
+## [[Session 17]] — abwesend
+
+- **Nicht dabei**: ruht weiterhin auf dem Pilz im **Hain der Heilung** (von Pixies/Druade dorthin gelegt). Im Transkript *„ohne Hansi"*.
+- Der DM plant, ihn narrativ wieder einzubinden — er sei *„stark genug, die Tür aufzubrechen"* und könnte zur Gruppe in die **[[Gruft des Buches]]** stoßen.
+
 ## Verknüpfungen
 
 - [[Berta]]
@@ -109,3 +114,7 @@ status: developing
 - [[Sophie Marie]]
 - [[Elfaria Albis von Sylphid]]
 - [[Jack]]
+- [[Session 16]]
+- [[Session 17]]
+- [[Aalafiel]]
+- [[Gruft des Buches]]

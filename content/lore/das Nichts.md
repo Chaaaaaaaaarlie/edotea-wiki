@@ -96,6 +96,13 @@ In [[Session 14]] öffnet [[Berta]] mit dem [[Magischer Schluessel|Schlüssel de
 
 Möglicherweise: ein vom Nichts geschenkter **Rückzugsort** für Berta? Oder eine andere Verbindung zum Nichts-Reich?
 
+## [[Session 17]] — Das vierte Buch & Aalafiels Fluch
+
+[[Aalafiel]] erzählt: der goldene Drache [[Palamedis]] nutzte die **drei Bücher**, um *„Kontakt zu diesem ominösen Wesen"* aufzunehmen, und bat es, **etwas zu erschaffen, das die Bücher vernichtet**. Das Wesen erklärte, es könne **nicht zerstören, was es einmal erzeugt hat** (*„außerhalb seines Reichs"*), und gab Palamedis stattdessen ein **viertes Buch** (Buch der Versiegelung). → bestätigt das Nichts als **Schöpfer der drei Bücher** und Quelle des Siegel-Buchs (siehe [[Drei Bücher#Das vierte Buch]]).
+
+> [!warning] Möglich: das Nichts = Aalafiels Fluch-Wesen?
+> [[Aalafiel]] wurde von einem **gestaltwandelnden, chimärenhaften Wesen** verflucht, das im **[[Verhängnisturm]]** lebt und älter ist als sie (~3200 J.). Beide Wesen sind uralt und entziehen sich gewöhnlicher Gestalt. **Aber**: das Nichts wird als *formlose Leere* wahrgenommen, das Fluch-Wesen als *chimärenhafter Gestaltwandler mit wechselnden Tierteilen*. Identität **nicht bestätigt** — könnte ein eigenständiges Wesen sein.
+
 ## Offene Fragen
 
 > [!warning] **Spoiler-Risiko**: Bertas Pakt-Details sind PC-only / spielerseitig.
@@ -110,6 +117,6 @@ Möglicherweise: ein vom Nichts geschenkter **Rückzugsort** für Berta? Oder ei
 
 ## Verknüpfungen
 - [[Berta]] · [[Magischer Schluessel]] · [[Isolationsraum]] · [[Berthas Bohnen]]
-- [[Session 12]] · [[Session 14]]
+- [[Session 12]] · [[Session 14]] · [[Session 17]]
 - [[Drei Bücher]] · [[Wilhelm Casterwill]] · [[Tagebücher Wilhelm Casterwill]]
-- [[Magolor]] · [[Risse]]
+- [[Magolor]] · [[Risse]] · [[Palamedis]] · [[Aalafiel]] · [[Verhängnisturm]]

@@ -7,18 +7,34 @@ aliases:
 tags:
   - character
   - npc
-related: []
+related:
+  - Drei Bücher
+  - das Nichts
+  - Aalafiel
+  - Eiswueste-Vulkan-Riss
 sources:
   - Tagebücher Wilhelm Casterwill
+  - Session 17 transcript
 created: 2026-05-11
-updated: 2026-05-25
+updated: 2026-06-16
 status: developing
 ---
 # Palamedis
 
 ## Überblick
-- **Goldener Drache.** Schreibvariante *Palamedes* in älteren Notizen. Hüter uralten Wissens; existierte laut alten Schriften lange vor den heutigen Reichen.
+- **Goldener Drache** (in [[Session 17]] von [[Aalafiel]] bestätigt). Schreibvariante *Palamedes* in Transkripten/älteren Notizen. Hüter uralten Wissens; existierte laut alten Schriften lange vor den heutigen Reichen — laut Aalafiel **älter als sie selbst** (>3200 Jahre); nur das Wesen aus dem [[Verhängnisturm]] ist ebenfalls älter.
 - Wurde von [[Wilhelm Casterwill]], [[Lysanthiriel Vaelora]] und [[Borgrim Runenbrecher]] aufgesucht, als die drei die Gefahr ihrer Bücher erkannten.
+
+## [[Session 17]] — Das vierte Buch (Schlüssel-Lore)
+[[Aalafiel]] enthüllt Palamedis' Rolle:
+- Palamedis nutzte die **drei Bücher**, um Kontakt zu dem ominösen Wesen ([[das Nichts]]) aufzunehmen, und **bat es, etwas zu erschaffen, das die Bücher vernichtet**.
+- Das Wesen erklärte, es könne **nicht zerstören, was es einmal erschaffen hat** (das liege *„außerhalb seines Reichs"*) — gab Palamedis stattdessen ein **viertes Buch**.
+- Dieses **Buch der Versiegelung** kann **jede Art von Magie versiegeln**. Allen drei Büchern wurde damit ein mächtiges Siegel auferlegt, das **unbrechbar ist, solange das vierte Buch in Palamedis' Händen bleibt**. Versiegelt sind die Bücher *„nicht mehr wirksam als ein Papiergewicht"*.
+- **Standort**: zuletzt vor **~1000 Jahren** gesehen, **schlafend in einem Vulkan auf dem Nordkontinent** — möglicherweise der [[Eiswueste-Vulkan-Riss]] (einziger bekannter dauerhafter [[Risse|Riss]] in einem Nordvulkan).
+- In der **[[Gruft des Buches]]** tritt Palamedis als **Drachenstatue** in Erscheinung (mechanisches Finale-Rätsel) — kein lebender Auftritt.
+
+> [!warning] Implikation
+> Das **Siegel der [[Gruft des Buches]] ist gebrochen** (S17). Das bedeutet entweder, dass das vierte Buch **nicht mehr in Palamedis' Händen** ist, oder dass jemand das Siegel anderweitig gelöst hat. Aalafiel will Palamedis kontaktieren, um Erlaubnis zur Buch-Übergabe zu erhalten.
 
 ## Notizen
 - Laut [[Session 7]] stellte [[Palamedis]] den Forschern eine Armee von Gläubigen oder Verbündeten zur Seite.
@@ -35,6 +51,12 @@ status: developing
 - [[Lysanthiriel Vaelora]]
 - [[Session 7]]
 - [[Session 11]]
+- [[Session 17]]
 - [[Wilhelm Casterwill]]
 - [[Drei Bücher]]
+- [[das Nichts]]
+- [[Aalafiel]]
+- [[Verhängnisturm]]
+- [[Gruft des Buches]]
+- [[Eiswueste-Vulkan-Riss]]
 - [[Tagebücher Wilhelm Casterwill]]

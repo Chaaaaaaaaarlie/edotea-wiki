@@ -87,7 +87,7 @@ Per [[Berta]]s **Detect Thoughts** auf [[Sophie Marie]]:
 
 ## Hypothesen
 - Magolor versucht, **alle drei Bücher zu sammeln** und den Plan des alten Königs zu vollenden: [[das Nichts]] über **Raum-Schwelle / Essenz-Form / Seelen-Bindung** an die materielle Ebene binden.
-- Bertas Pergament-Seite ist eine **abgerissene Seite eines der Bücher** — vermutlich Lysantirs Essenz-Buch.
+- Bertas Pergament-Seite ist eine **abgerissene Seite eines der Bücher** — ~~vermutlich Lysantirs Essenz-Buch~~ → **Korrektur [[Session 17]]**: aus dem **Buch der Schwellen** ([[Wilhelm Casterwill|Wilhelms]] Raummagie). Siehe [[Drei Bücher]].
 - Magolors **eigenes Zauberbuch** in der linken Hand ist *nicht* eines der drei Bücher (die hängen am Gürtel) — er ist als Wizard zusätzlich klassisch ausgerüstet.
 
 ## Verdacht: Besuch auf der östlichen Garnison (Session 10)

@@ -32,6 +32,10 @@ status: developing
 - Ebenfalls in [[Session 7]] entlohnt er die Gruppe mit Gegenständen aus seiner Kuriositätenkammer und einem Bag of Holding.
 - In [[Cadnix]] zeigt sich, dass er seit über zehn Jahren als vermisst gilt und später sogar offiziell für tot erklärt wurde.
 - Bricht in [[Session 8]] zusammen mit [[Fürst Alator]] nach [[Kalineon]] auf, um seinen Namen und Status offiziell wiederherzustellen.
+- Aus seiner Kuriositätenkammer stammt der **[[Dis-Enchanter]]** ([[Session 7]]); in [[Session 17]] benannt und im Kampf gegen Stein-Golems eingesetzt.
+
+> [!question] Bezug zu den [[Drei Bücher|Büchern]]?
+> In [[Session 17]] wird bekannt, dass [[Berta]]s Pergament aus dem **Buch der Schwellen** ([[Wilhelm Casterwill|Wilhelms]] Raummagie) benutzt wurde, um *„einen Mann für zehn Jahre in einem Wald einzukerkern"*. Elliot galt **über zehn Jahre als vermisst** und wurde am [[Anwesen]] im [[Nebelwald]] gefunden — möglicher Zusammenhang? Unbestätigt.
 
 ## Verknüpfungen
 
@@ -51,4 +55,7 @@ status: developing
 - [[Session 6]]
 - [[Session 7]]
 - [[Session 8]]
+- [[Session 17]]
+- [[Dis-Enchanter]]
+- [[Drei Bücher]]
 - [[Wilhelm Casterwill]]

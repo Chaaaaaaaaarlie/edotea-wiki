@@ -20,6 +20,9 @@ status: developing
 ## Überblick
 Ein **Abscheu-Trank**, den die [[Treant|Treants]] des Hains der Heilung der Gruppe in [[Session 16]] übergaben. Ursprünglich erhielten die Treants ein Paar dieser Tränke von **[[Aalafiel]]** selbst.
 
+> [!note] Aus Aalafiels Blut ([[Session 17]])
+> Der Trank besteht aus **[[Aalafiel]]s Blut** — daher der **Eisen-/Blut-Geschmack**. Wer ihn trinkt, übernimmt temporär ihre Abscheu-Aura. [[Berta]] trank ihn **nicht** und hielt Aalafiels Aura dennoch aus (sie muss nicht atmen / ist gegen vieles resistent), was Aalafiel überraschte.
+
 ## Wirkung
 - Verleiht dem Trinkenden **temporär dieselbe Eigenschaft wie [[Aalafiel]]**: die instinktive **Abscheu-/Angst-Aura**.
 - Dadurch wird man **immun gegen Aalafiels Aura** → man kann sich ihr nähern und mit ihr sprechen.
@@ -34,3 +37,4 @@ Einziges bekanntes Mittel, um mit **[[Aalafiel]]** (dem *"Monster vom Erlior"*) 
 - [[Treant]]
 - [[Erliorwald]]
 - [[Session 16]]
+- [[Session 17]]

@@ -2,14 +2,14 @@
 type: meta
 title: "Items Index"
 created: 2026-05-11
-updated: 2026-06-09
+updated: 2026-06-16
 tags:
   - meta
   - items
 status: developing
 ---
 
-# Items (8)
+# Items (9)
 
 ## Tränke
 - [[Aalafiels Trank]] *(neu, Session 16)* — Abscheu-Aura-Trank der Treants; 10 Min./Schluck (größenabhängig); Voraussetzung, um mit [[Aalafiel]] zu sprechen
@@ -25,6 +25,9 @@ status: developing
 - [[Spell-Slot-Anhänger]] *(neu, Session 14)* — Khirins Bestellung bei Magilanika, speichert Spell-Slot bis Stufe 3
 - [[Lady Günthers Flasche]] *(neu, Session 14)* — Pferdeflasche, Lady Günther einsperren/freilassen
 - [[Krone des Hohen Rates]] *(neu, Session 14)* — von Khirin im Adelsviertel-Ratssaal vom Thron geklaut
+
+## Werkzeuge
+- [[Dis-Enchanter]] *(benannt Session 17)* — Hämmerchen aus [[Elliot]]s Kuriositätenkammer ([[Session 7]]); zerstört Enchantments/Konstrukte, ladungsbegrenzt
 
 ## Insignien
 - [[Wappen des alten Kalineon]] *(Session 13)* — Brosche vom toten [[Spymaster]]; Indiz für [[Kalineon-Royalisten]]

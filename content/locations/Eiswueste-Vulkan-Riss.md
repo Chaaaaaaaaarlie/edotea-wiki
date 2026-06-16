@@ -26,6 +26,10 @@ Persistenter **[[Risse|Riss]]** in einem **Vulkan inmitten der Eiswüste** auf d
 - [[Naeli]] kannte **diesen konkreten Riss nicht**, obwohl er in ihrer Heimat ist — ihr Zirkel hatte sie damals südwärts geschickt, *"weil Schlimmes im Süden vorgeht."*
 - Bestätigt durch [[Fohlen]] aus Akademie-Quellen.
 
+## Möglicher Aufenthaltsort von [[Palamedis]] ([[Session 17]])
+- [[Aalafiel]]: Sie sah den goldenen Drachen [[Palamedis]] zuletzt vor **~1000 Jahren** — *„irgendwo auf dem Nordkontinent, schlafend in einem Vulkan."*
+- [[Berta]] verbindet dies sofort mit dem **einzigen bekannten dauerhaften Riss** in einem Nordvulkan = dieser Ort. → Hypothese: **Palamedis (und damit das vierte [[Drei Bücher|Buch]]) könnten hier sein.** Nicht bestätigt; Aalafiel kennt die Risse nicht.
+
 ## Strategische Relevanz
 - Reise nach Norden ohne Teleport: **1–2 Monate**.
 - Ein **Teleportationszirkel** in Lunovar existiert, aber Erlaubnis + genaues Ziel werden benötigt; auch der nächste Naeli-Zirkel liegt nicht direkt am Vulkan.
@@ -39,4 +43,7 @@ Persistenter **[[Risse|Riss]]** in einem **Vulkan inmitten der Eiswüste** auf d
 ## Verknüpfungen
 - [[Risse]]
 - [[Naeli]]
+- [[Palamedis]]
+- [[Drei Bücher]]
 - [[Session 12]]
+- [[Session 17]]

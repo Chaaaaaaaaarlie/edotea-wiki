@@ -79,6 +79,15 @@ status: developing
 - Schnitzte eine **Tür mit Seil-Scharnieren**, um den **[[Magischer Schluessel|Schlüssel des Nichts]]** im Wald zu testen → funktioniert.
 - Spürte (wie [[Naeli]]) den Sog der **Feenlichter** nicht; blieb die *"Stimme der Vernunft"*.
 
+## [[Session 17]]
+
+- **Leiht [[Aalafiel]]s nie verfehlenden Bogen** (in [[Lunovar]] gefertigt, verzaubert) — *„kann sein Ziel niemals verfehlen"*.
+- **Löst das Stein-Alphabet-Rätsel** der **[[Gruft des Buches]]**: erkennt, dass die 26 Steine für Buchstaben stehen (A=Amethyst …) und die 11 Slots **L-Y-S-A-N-D-R-I-L** buchstabieren.
+- **Knackt das Vorhängeschloss** der Truhe (Thieves' Tools) → drei Eisenketten; hängt die Statuen-Ketten an die Hand des Königs.
+- **Trägt das aufgehebelte Obsidian-Tor** auf dem Rücken (50/50-Wurf geschafft) als möglichen Türersatz.
+- Haupt-Nahkämpfer gegen die **Stein-Golems**: Kampfstab (Quarterstaff, 5 ft), **Topple/Pushing Attack** (Prone), **Action Surge**, vier Angriffe/Runde.
+- Im Finale: findet den **Docht im Maul der Drachenstatue** und kippt mit dem **Waterskin** Wasser in die Kopfschalen der Magier-Statuen → löst den Raum.
+
 ## Verknüpfungen
 
 - [[Cadnix]]
@@ -110,3 +119,7 @@ status: developing
 - [[Nebelwald]]
 - [[Elfaria Albis von Sylphid]]
 - [[Jack]]
+- [[Session 16]]
+- [[Session 17]]
+- [[Aalafiel]]
+- [[Gruft des Buches]]

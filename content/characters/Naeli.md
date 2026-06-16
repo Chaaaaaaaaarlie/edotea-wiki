@@ -8,8 +8,9 @@ tags:
 related: []
 sources:
   - Tagebücher Wilhelm Casterwill
+  - Session 17 transcript
 created: 2026-05-11
-updated: 2026-06-09
+updated: 2026-06-16
 status: developing
 ---
 ![[Naeli.png|496]]
@@ -86,6 +87,12 @@ status: developing
   - Erkannte (Nature) das **von Feuer verbrannte** Gras der Senke; erkannte die Magie des **[[Spinnenwesen]]s**: *"Das ist die Magie vom [[Borgrim Runenbrecher|Runenbrecher]]."*
   - Im Kampf gegen die **[[Worg|Worge]]**: **Wild Shape → Schwarzbär**, **Gewitter/Call Lightning**, **Healing Word**, Savory/Vicious Barbs.
   - Spürte (wie [[Sim]]) den Sog der **Feenlichter (Pixies)** nicht; brach im **Hain der Heilung** erschöpft auf Blütenblättern zusammen.
+- **[[Session 17]]**:
+  - **Erstkontakt** mit [[Aalafiel]] (als „Nelly") — wurde herumgewirbelt; baute die Beziehung auf.
+  - **Offenbarte ihren Fluch** ([[Berta]] erklärte die Details): Naeli ist Opfer eines **Wish-Spells + Modify-Memory-Spells**, wurde **in etwas anderes verwandelt** (ursprüngliche Form unbekannt), und ihre **Erinnerungen ab dem 16. Lebensjahr rückwärts** fehlen.
+  - **[[Aalafiel]]s Heilwege**: das **Buch der Essenzmagie** gegen die Verwandlung, das **Buch der Seelen** gegen den Gedächtnisverlust — nur bei gebrochenem Siegel ([[Drei Bücher]]).
+  - In der **[[Gruft des Buches]]**: las die elfische Inschrift; **Windwall** schützte die Gruppe vor dem Giftgas; **Moonbeam** zerlegte einen Stein-Golem; Natural Recovery / Heilung am Ende.
+  - Musste die Session früh beenden (Abschlussprüfung am Morgen) → Cut mitten im Dungeon.
 
 ## Verknüpfungen
 
@@ -118,3 +125,9 @@ status: developing
 - [[Wilhelm Casterwill]]
 - [[Tagebücher Wilhelm Casterwill]]
 - [[Elfaria Albis von Sylphid]]
+- [[Session 16]]
+- [[Session 17]]
+- [[Aalafiel]]
+- [[Drei Bücher]]
+- [[Gruft des Buches]]
+- [[Palamedis]]

@@ -2,7 +2,7 @@
 type: meta
 title: "Characters Index"
 created: 2026-05-11
-updated: 2026-06-09
+updated: 2026-06-16
 tags:
   - meta
   - characters
@@ -21,7 +21,7 @@ status: evergreen
 
 ## NPCs (28)
 
-- [[Aalafiel]] *(neu, Session 16 — „Monster vom Erlior", Beschützerin-Elfe im [[Erliorwald]])*
+- [[Aalafiel]] — *(Session 17 persönlich getroffen: ~3200 J., verflucht; Lysantirs Freundin; Trank aus ihrem Blut)*
 - [[Borgrim Runenbrecher]]
 - [[Crucellus]]
 - [[Edgar Thorne]] *(neu, Session 14 — Kopfgeldgeber in Carbus, ungesehen)*
@@ -38,7 +38,7 @@ status: evergreen
 - [[Magolor]] — Aussehen erstmals enthüllt in [[Session 14]]
 - [[Markus L. Kalinion]]
 - [[Nora]]
-- [[Palamedis]]
+- [[Palamedis]] — *(Session 17: goldener Drache; hält das vierte Buch der Versiegelung; schläft im Nordvulkan)*
 - [[Scale Piercer]]
 - [[Sophie Marie]] *(neu, Session 14 — Magolor-Agentin, wahrscheinlich tot)*
 - [[Spymaster]] *(Session 13 — tot)*

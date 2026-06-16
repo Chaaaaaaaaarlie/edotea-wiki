@@ -11,8 +11,9 @@ tags:
 related: []
 sources:
   - Tagebücher Wilhelm Casterwill
+  - Session 17 transcript
 created: 2026-05-11
-updated: 2026-05-26
+updated: 2026-06-16
 status: developing
 ---
 # Lysanthiriel Vaelora
@@ -48,6 +49,11 @@ status: developing
   - Familie **Sylphid** wacht über ihr Buch in einem **Tempel** in Lunovar, *"der nicht zu finden ist, es sei denn, man weiß bereits, wo er ist."*
 - **[[Session 15]]**: [[Fohlen]] berichtet, dass ein **alter Freund/eine alte Freundin von Lysanthiriel** noch im [[Erliorwald]] lebt — sehr langlebig, dort seit Jahrhunderten. Wahrscheinlich Zeuge oder Kenner ihrer Geschichte.
 - **[[Session 16]]**: Im [[Erliorwald]] erfährt die Gruppe vom [[Treant]] von **[[Aalafiel]]**, dem *"Monster vom Erlior"* — einer jahrhundertelang dort lebenden Elfe. **Wahrscheinlich** ist dies die in Session 15 genannte Freundin Lysanthiriels (nicht wörtlich bestätigt; die Gruppe sucht sie aufgrund von Fohlens Hinweis). Außerdem trägt ein verbranntes [[Spinnenwesen]] in der Senke die Magiesignatur von [[Borgrim Runenbrecher]] (Seelenmagie) — ein Hinweis auf aktive Magier-Trinitaet-Magie im Erliorwald.
+- **[[Session 17]]**:
+  - **Bestätigt**: [[Aalafiel]] **ist** Lysantirs alte Freundin. Aalafiel sah sie zuletzt vor *„200 oder 300 Jahren"*, davor regelmäßige Besuche, *„vor ~400 Jahren irgendwann dann nicht mehr"*.
+  - [[Aalafiel]] **befreite Lysandriel einst „aus dem Joch des alten Königs"** und schenkte ihr danach einen **nie verfehlenden Bogen** (in [[Lunovar]] gefertigt). → Lysandriel war aktiv in die Sturz-Ära des alten [[Kalineon]]-Königs verwickelt.
+  - Ihr Buch = **Buch der Essenzmagie** ([[Drei Bücher]]); verwahrt in der **[[Gruft des Buches]]** im [[Erliorwald]], die die **Elfen von [[Lunovar]]** vor ~800 Jahren errichteten. Inschrift dort (Elfisch) in **Ich-Form** ist vermutlich von Lysandriel selbst: *„Ich war töricht genug, es zu erschaffen, und schwach genug, es nicht zu vernichten. Darum begrub ich es hier."* Aalafiel: Lysandriel *„hatte einen sehr schrägen Sinn für Humor"* (Rätsel-Fallen).
+  > [!contradiction] **Todeszeitpunkt unklar.** Diese Seite (und S15/Elfaria) deuten auf einen Tod vor **200–300 Jahren** (passt zu Aalafiels Aussage). In S17 behauptet [[Khirin]] beiläufig, Lysandriel sei *„seit ein paar Jahren tot"* — möglicher Spieler-Irrtum oder neue Info. Nicht aufgelöst.
 
 ## Verknüpfungen
 
@@ -75,5 +81,7 @@ status: developing
 - [[Erliorwald]]
 - [[Aalafiel]]
 - [[Spinnenwesen]]
+- [[Gruft des Buches]]
 - [[Session 15]]
 - [[Session 16]]
+- [[Session 17]]

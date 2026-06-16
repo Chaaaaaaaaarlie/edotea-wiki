@@ -2,14 +2,14 @@
 type: meta
 title: "Locations Index"
 created: 2026-05-11
-updated: 2026-06-01
+updated: 2026-06-16
 tags:
   - meta
   - locations
 status: evergreen
 ---
 
-# Orte (30)
+# Orte (32)
 
 ## Kontinent
 - [[Cloud Fang]]
@@ -47,6 +47,10 @@ status: evergreen
 - [[Anwesen]]
 - [[Mondschleiersee]]
 
+## Unter [[Erliorwald]]
+
+- [[Gruft des Buches]] *(neu, Session 17)* — versiegelter Elfen-Tempel; verwahrt [[Lysanthiriel Vaelora|Lysandriels]] Buch der Essenzmagie; Siegel gebrochen
+
 ## Unter [[Cadnix]]
 
 - [[Oestliche Garnison von Cadnix]]
@@ -62,6 +66,7 @@ status: evergreen
 
 - [[Carbus]] — = [[gesetzlose Stadt|gesetzlose Stadt]] (bestätigt in [[Session 14]]); Heimat von [[Jack]], [[Edgar Thorne]], und den Spymaster-Söldnern
 - [[Berthas Bohnen]] *(neu, Session 14)* — Kaffeebar an unbekannter Ebene, erreichbar via [[Magischer Schluessel|Schlüssel des Nichts]]
+- [[Verhängnisturm]] *(neu, Session 17)* — mythischer Turm, in jedem Realm am selben Ort; hier mitten im Meer; Heimat von [[Aalafiel]]s Fluch-Wesen
 
 ## Riss-Standorte
 

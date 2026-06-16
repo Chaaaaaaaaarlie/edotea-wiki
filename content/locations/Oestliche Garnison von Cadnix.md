@@ -6,9 +6,10 @@ parent_location: "[[Cadnix]]"
 tags:
   - location
 related: []
-sources: []
+sources:
+  - Session 17 transcript
 created: 2026-05-11
-updated: 2026-05-11
+updated: 2026-06-16
 status: developing
 ---
 # Oestliche Garnison von Cadnix
@@ -35,6 +36,7 @@ status: developing
 - Im Süden der Anlage wächst ein **blauer Treant** (Baum mit blauen Blättern); an seinen Wurzeln wachsen riesige, magisch übersättigte Pilze (ca. 1,5 m gross).
   - Die Pilze sind nur wegen der Mana-Überladung am Leben; sie implodierten nach kurzem Kampf spontan.
 - Im Nordturm findet [[Khirin]] ein handgezeichnetes oder eingraviertes **Symbol/Zeichen**; sowohl er als auch [[Berta]] erkennen eine ähnliche Variante, können es aber nicht zuordnen. Khirin kopiert es in sein Buch.
+  > [!success] Aufgelöst in [[Session 17]]: Dieses (unvollständige) **schmetterlingsartige Zeichen** ist das **Siegel des Buches der Versiegelung** ([[Drei Bücher#Das vierte Buch]]). [[Aalafiel]] erkennt es wieder, als die Gruppe es ihr per Illusion zeigt — *„genau dies das Zeichen, jedoch unvollständig."* An der **[[Gruft des Buches]]** fehlt dasselbe Siegel ganz (gebrochen). → Hinweis, dass hier ein Buch-/Siegel-Vorgang stattfand.
 - Eine weibliche **[[Eulenbärin]] „Euli"** lebt in Küche/Baracken der Anlage.
   - Sie fürchtet sich vor Magierende-Roben (ähnelt der Robe des geheimnisvollen Besuchers).
   - Bestätigt: Ein Robenträger erschien, als ein Spalt aufging, verschwand danach, und der Wald wurde schlimmer.
@@ -65,4 +67,7 @@ status: developing
 - [[Session 8]]
 - [[Session 9]]
 - [[Session 10]]
+- [[Session 17]]
 - [[Treant]]
+- [[Drei Bücher]]
+- [[Gruft des Buches]]

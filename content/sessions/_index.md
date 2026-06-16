@@ -2,16 +2,17 @@
 type: meta
 title: "Sessions Index"
 created: 2026-05-11
-updated: 2026-06-09
+updated: 2026-06-16
 tags:
   - meta
   - sessions
 status: evergreen
 ---
 
-# Sessions (17)
+# Sessions (18)
 
 Neueste oben.
+- [[Session 17]]
 - [[Session 16]]
 - [[Session 15]]
 - [[Session 14]]
@@ -30,6 +31,7 @@ Neueste oben.
 - [[Session 1]]
 - [[Session 0]]
 
+> [!note] [[Session 17]] wurde am 2026-06-16 aus dem Whisper-Transkript `full_whisper_raw.txt` (3488 Zeilen, Modell *medium*) ingestiert; gespielt 2026-06-15. Siehe [[Session 17 transcript]] für Sprecher-Mapping (wieder neue Labels) und die vollständige Transkriptionsfehler-Tabelle. [[Hrímnir]] war abwesend.
 > [!note] [[Session 16]] wurde am 2026-06-09 aus dem WhisperX-Transkript `session16_transcript_raw.md` / `session16_transcript_corrected.md` ingestiert (~2h47min). Siehe [[Session 16 transcript]] für Sprecher-Mapping (neue Labels!) und Korrektur-Hinweise.
 > [!note] [[Session 15]] wurde am 2026-06-01 aus dem WhisperX-Transkript `Session_15_transcript.md` ingestiert (5098 Zeilen, ~3h10min). Siehe [[Session 15 transcript]] für Sprecher-Mapping.
 > [!note] [[Session 14]] wurde am 2026-05-26 aus dem WhisperX-Transkript `Edotea_Session_14_transcript.txt` ingestiert (8108 Zeilen, ~5h10min). Siehe [[Session 14 transcript]] für Sprecher-Mapping und Whisper-Caveats.

@@ -5,11 +5,16 @@ lore_category: concept
 tags:
   - lore
   - concept
-related: []
+related:
+  - Palamedis
+  - das Nichts
+  - Aalafiel
+  - Gruft des Buches
 sources:
   - Tagebücher Wilhelm Casterwill
+  - Session 17 transcript
 created: 2026-05-11
-updated: 2026-05-26
+updated: 2026-06-16
 status: developing
 ---
 # Die drei Bücher
@@ -18,11 +23,24 @@ status: developing
 
 ## Überblick
 
-- Drei gefährliche Bücher, verbunden mit Raum-, Essenz- und Seelenmagie.
-- Sie gehörten den drei Hofmagiern des alten Königs von [[Kalineon]]:
-  - [[Wilhelm Casterwill]] – Raummagie
-  - [[Lysanthiriel Vaelora]] – Essenzmagie
-  - [[Borgrim Runenbrecher]] – Seelenmagie
+- Drei gefährliche Bücher, verbunden mit Raum-, Essenz- und Seelenmagie. **Kanonische Titel** (bestätigt [[Session 17]]):
+  - [[Wilhelm Casterwill]] – Raummagie → **Buch der Schwellen** *(„Schwelle öffnet den Raum")*
+  - [[Lysanthiriel Vaelora]] – Essenzmagie → **Buch der Essenzmagie** *(„Essenz gibt ihm Form")*
+  - [[Borgrim Runenbrecher]] – Seelenmagie → **Buch der Seelen** *(„Seele bindet")*
+- Es gibt zudem ein **viertes Buch** → siehe unten.
+
+## Das vierte Buch ([[Session 17]])
+
+- **Buch der Versiegelung**, im Besitz des goldenen Drachen [[Palamedis]].
+- Entstehung: Palamedis kontaktierte über die drei Bücher [[das Nichts]] und bat um deren **Vernichtung**. Das Nichts kann **Eigengeschaffenes nicht zerstören** (*„außerhalb seines Reichs"*) und gab ihm stattdessen dieses vierte Buch, das **jede Magie versiegeln** kann.
+- Es legte allen drei Büchern ein **unbrechbares Siegel** auf — wirksam, **solange das vierte Buch in [[Palamedis]]' Händen bleibt**. Versiegelt sind die Bücher *„nicht mehr wirksam als ein Papiergewicht"*.
+- Siegel-Zeichen: **schmetterlingsartig** (vgl. [[Berta]]: *„sieht aus wie der Schmetterling, den wir gesehen haben"*).
+
+> [!warning] Siegel gebrochen
+> In [[Session 17]] fehlt das Siegel an der **[[Gruft des Buches]]** ([[Lysanthiriel Vaelora|Lysandriels]] Essenz-Buch). [[Aalafiel]] ist schockiert. Dasselbe (unvollständige) Zeichen sah die Gruppe zuvor in der [[Oestliche Garnison von Cadnix|Garnison bei Cadnix]]. → Entweder ist das vierte Buch **nicht mehr in [[Palamedis]]' Händen**, oder das Siegel wurde anderweitig gelöst.
+
+> [!note] Heilwege für [[Naeli]] ([[Session 17]])
+> [[Aalafiel]]: das **Buch der Essenzmagie** könnte Naelis **Verwandlung** rückgängig machen, das **Buch der Seelen** ihren **Gedächtnisverlust** — beides nur, **solange das Siegel gebrochen ist**. [[Palamedis]] wüsste vermutlich mehr.
 
 ## Notizen
 
@@ -48,7 +66,7 @@ Per [[Berta]]s Detect Thoughts auf [[Sophie Marie]]: die zwei Folianten, die [[M
 ### Magolor hat zwei Bücher
 - Bestätigt durch Sophies Erinnerung: Sie sah Magolor mit **beiden** Folianten am Gürtel.
 - Magolor hat Sophie *"mit Hilfe von dem einen Buch das Leben gerettet"* — Sophies Erinnerung: **grüne Magie um sich herum, das Buch mit der grünen Perle aufgeschlagen**.
-- Bertas Pergament-Seite ist eine **abgerissene Seite** eines der drei Bücher — vermutlich Lysantirs Essenz-Buch (Magolor will sie zurück).
+- Bertas Pergament-Seite ist eine **abgerissene Seite** eines der drei Bücher. ~~vermutlich Lysantirs Essenz-Buch~~ → **Korrektur [[Session 17]]**: Die Seite stammt aus dem **Buch der Schwellen** ([[Wilhelm Casterwill|Wilhelms]] Raummagie). [[Berta]]: sie wurde benutzt, um *„einen Mann für zehn Jahre in einem Wald einzukerkern"*; [[Aalafiel]] bestätigt die Echtheit (unverbrennbar). ([[Magolor]] will sie zurück.)
 
 ### Elfaria-Aussage ([[Session 14]])
 - *"Diese Bücher wurden in drei verschiedenen Orten versteckt. Ganz Lunovar hat damals unter höchsten Sicherheitsmaßnahmen dafür gesorgt, dass ein Tempel errichtet wurde."*
@@ -65,9 +83,12 @@ Per [[Berta]]s Detect Thoughts auf [[Sophie Marie]]: die zwei Folianten, die [[M
 - [[Palamedis]]
 - [[Sophie Marie]]
 - [[Elfaria Albis von Sylphid]]
+- [[Aalafiel]]
+- [[Gruft des Buches]]
 - [[Session 7]]
 - [[Session 11]]
 - [[Session 14]]
+- [[Session 17]]
 - [[Wilhelm Casterwill]]
 - [[das Nichts]]
 - [[Tagebücher Wilhelm Casterwill]]

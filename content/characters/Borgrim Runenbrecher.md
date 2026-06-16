@@ -11,8 +11,9 @@ tags:
 related: []
 sources:
   - Tagebücher Wilhelm Casterwill
+  - Session 17 transcript
 created: 2026-05-11
-updated: 2026-05-25
+updated: 2026-06-16
 status: developing
 ---
 # Borgrim Runenbrecher
@@ -40,6 +41,11 @@ status: developing
 - [[Naeli]] erkennt: *"Das ist die Magie vom Runenbrecher."* — erste Spur, dass Borgrims Seelenmagie im Erliorwald aktiv gewirkt hat (oder von jemandem nachgeahmt/eingesetzt wird).
 - Wer das Wesen geschaffen und wer es verbrannt hat, ist offen.
 
+## [[Session 17]] — Buch der Seelen
+- Borgrims Foliant heißt kanonisch **Buch der Seelen** (Seelenmagie *„bindet"*; siehe [[Drei Bücher]]). In der **[[Gruft des Buches]]** ist die korrekte Reihenfolge der drei Steintafel-Bücher **Schwelle → Essenz → Seele** — Borgrims als letztes.
+- Laut [[Aalafiel]] könnte das **Buch der Seelen** [[Naeli]]s **Gedächtnisverlust** heilen (nur bei gebrochenem Siegel).
+- In den Statuen der Gruft ist Borgrim als **kniender Zwerg** vor dem König dargestellt (mit Halseisen + Steintafel-Buch).
+
 ## Verknüpfungen
 
 - [[Kalineon]]
@@ -53,4 +59,7 @@ status: developing
 - [[Tagebücher Wilhelm Casterwill]]
 - [[Erliorwald]]
 - [[Spinnenwesen]]
+- [[Gruft des Buches]]
+- [[Aalafiel]]
 - [[Session 16]]
+- [[Session 17]]

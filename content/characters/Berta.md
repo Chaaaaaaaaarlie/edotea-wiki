@@ -100,6 +100,14 @@ status: developing
 - Bot dem Treant **magisches Brunnenwasser** an (höflich abgelehnt).
 - Steckte den **[[Magischer Schluessel|Schlüssel]]** in Sims geschnitzte Tür → Test erfolgreich.
 
+## [[Session 17]]
+
+- **Trank den [[Aalafiels Trank|Trank]] nicht** (Test einer Vermutung) und hielt [[Aalafiel]]s Abscheu-Aura **trotzdem aus** — sie muss nicht atmen / ist resistent (Folge von [[Y'Chak]]s Experimenten). Aalafiel war überrascht; der Trank besteht aus ihrem Blut.
+- **Zeigte Aalafiel die Pergament-Seite**; Aalafiel testete sie mit einer Flammensäule (unverbrennbar = echt). → **Korrektur**: die Seite stammt aus dem **Buch der Schwellen** (siehe [[Drei Bücher]]).
+- **Illusion** von [[Magolor]] + den Folianten für Aalafiel (kennt ihn nicht).
+- In der **[[Gruft des Buches]]**: setzt die Steine/Steintafel-Bücher; nutzt im Golem-Kampf den **[[Dis-Enchanter]]** (ein Treffer zerstäubt einen Golem, dann **ladungsleer**), **Silvery Barbs**, **Shatter** (Disadvantage gegen Konstrukte), **Shocking Grasp**.
+- **Heilt** [[Khirin]] per Medicine-Check und gibt ihm/sich Heilung; trinkt aus ihrer **[[Lady Günthers Flasche|magischen Flasche]]** (magisches Wasser, heilt — Nat 20 → 8 Leben).
+
 ## Verknüpfungen
 
 - [[Cadnix]]
@@ -131,3 +139,10 @@ status: developing
 - [[Kalineon-Royalisten]]
 - [[Will o Wisp]]
 - [[Y'Chak]]
+- [[Session 16]]
+- [[Session 17]]
+- [[Aalafiel]]
+- [[Gruft des Buches]]
+- [[Dis-Enchanter]]
+- [[Lady Günthers Flasche]]
+- [[Drei Bücher]]

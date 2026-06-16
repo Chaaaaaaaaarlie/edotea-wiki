@@ -13,11 +13,14 @@ related:
   - Treant
   - Feenwildnis
   - Worg
+  - Gruft des Buches
+  - Aalafiel
 sources:
   - Session 15 transcript
   - Session 16 transcript
+  - Session 17 transcript
 created: 2026-05-11
-updated: 2026-06-09
+updated: 2026-06-16
 status: developing
 ---
 # Erliorwald
@@ -55,8 +58,12 @@ Geheimnisvoller Wald in der Nähe von [[Lunovar]], etwa 3 Stunden Fußmarsch ent
 - **[[Aalafiel]]** = das **„Monster vom Erlior"** = mit hoher Wahrscheinlichkeit die in [[Session 15]] erwähnte **Freundin von [[Lysanthiriel Vaelora]]**. Beschützerin des Waldes mit Abscheu-Aura; Lager im **Norden** (dem Fluss folgen). Vor 4–5 Monden kamen gepanzerte Elfen, um sie zu vernichten.
 - **[[Treant|Treants]]**: Wächter des Hains der Heilung und des Feenwildnis-Portals; geben der Gruppe **[[Aalafiels Trank|Abscheu-Tränke]]** und Früchte.
 
+## [[Session 17]] — Aalafiels Lager & die Gruft
+- **[[Aalafiel]]s Lager**: in einer **Senke** im Norden (dem Fluss folgen), nahe einem Fluss; Laubhaufen, Feuerstelle, Korb mit Äpfeln, ihr Bogen. Der illusionäre Nebel klart hier auf.
+- **[[Gruft des Buches]]**: versteckter **Elfen-Tempel** tief im Norden, von [[Lunovar|Lunovars]] Elfen vor ~800 Jahren errichtet; verwahrt [[Lysanthiriel Vaelora|Lysandriels]] **Buch der Essenzmagie** ([[Drei Bücher]]). Eingang aus mattem Obsidian, überwuchert; **Siegel gebrochen** (Detail-Seite).
+
 ## Offene Fragen
-- Wer ist Lysantirs Freundin — welche Rasse, welche Geschichte?
+- ~~Wer ist Lysantirs Freundin?~~ → **[[Aalafiel]]** (S17 bestätigt).
 - Was ist das Wesen in der Böschung (Drache? Urtier? Dämon)?
 - Können die glühwürmchenartigen Lichter kommunizieren oder führen?
 - Welche Rolle spielen die Stolperdrähte — Schutz oder Alarm?
@@ -74,5 +81,7 @@ Geheimnisvoller Wald in der Nähe von [[Lunovar]], etwa 3 Stunden Fußmarsch ent
 - [[Worg]]
 - [[Spinnenwesen]]
 - [[Aalafiels Trank]]
+- [[Gruft des Buches]]
 - [[Session 15]]
 - [[Session 16]]
+- [[Session 17]]

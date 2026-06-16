@@ -2,7 +2,7 @@
 type: meta
 title: "Wiki Log"
 created: 2026-05-11
-updated: 2026-06-01
+updated: 2026-06-16
 tags:
   - meta
 status: evergreen
@@ -11,6 +11,24 @@ status: evergreen
 # Wiki Log
 
 Append-only. New entries at the **TOP**. Never edit past entries.
+
+## [2026-06-16] ingest | Session 17 (gespielt 2026-06-15) aus Whisper-Transkript
+
+- **Quelle**: `D:\Documents\DnD\Transkriptionen\full_whisper_raw.txt` (3488 Zeilen, Whisper-Modell *medium*, de). [[Hrímnir]] **abwesend** (ruht seit S16 auf dem Pilz).
+- **Sprecher-Mapping** (wieder neue Labels): `nightcore0302`=DM, `mep0510`=[[Sim]], `drore`=[[Berta]], `feeminin`=[[Naeli]], `luke_234`=[[Khirin]].
+- **Transkriptionsfehler** (Eigennamen, vollständige Tabelle in [[Session 17 transcript]]): Himmler/Rimni/Hansi→[[Hrímnir]]; Alaphiel/Adam Alaphiel/Allafir→[[Aalafiel]]; Lysandril/Lisan Tril→[[Lysanthiriel Vaelora]]; Palamedes→[[Palamedis]]; Magulu/Margul→[[Magolor]]; Casterell/Castorl/William→[[Wilhelm Casterwill]]; Borgri→[[Borgrim Runenbrecher]]; Walks/Vorks→[[Worg|Worge]]; Lunova→[[Lunovar]]; „Kein Nix"→[[Cadnix]]; „Frank Singular"→„Trank, Singular". Whisper-Halluzinationen markiert (ZDF/WDR-Untertitel, „Vielen Dank für's Zuschauen", „Abonnieren").
+- **Neue Seiten**:
+  - **Sessions**: [[Session 17]]. **Sources**: [[Session 17 transcript]].
+  - **Locations**: [[Gruft des Buches]] (versiegelter Elfen-Tempel im Erliorwald), [[Verhängnisturm]] (mythischer Turm, Heimat von Aalafiels Fluch-Wesen).
+  - **Items**: [[Dis-Enchanter]] (Elliots Hämmerchen, S7 benannt).
+- **Aktualisierte Seiten**: [[Aalafiel]] (persönlich getroffen, ~3200 J., verflucht, Trank aus Blut), [[Palamedis]] (goldener Drache, viertes Buch der Versiegelung, Nordvulkan), [[Drei Bücher]] (Titel + viertes Buch + Page-Korrektur), [[Lysanthiriel Vaelora]] (Aalafiel = ihre Freundin, Bogen, Essenz-Buch), [[Naeli]] (Fluch-Heilwege), [[Borgrim Runenbrecher]], [[Wilhelm Casterwill]], [[Magolor]], [[Erliorwald]], [[Elliot]], [[das Nichts]], [[Eiswueste-Vulkan-Riss]], [[Aalafiels Trank]], [[Oestliche Garnison von Cadnix]], alle 4 anwesenden PCs. Zähler: Locations 30→32, Items 8→9, Sessions 17→18, Sources 6→7. `index.md`, alle Sub-Indizes, `hot.md`.
+- **Schlüssel-Erkenntnisse**:
+  - **[[Aalafiel]]** = Lysantirs Freundin (bestätigt); ~3200 J.; von einem Gestaltwandler aus dem [[Verhängnisturm]] **verflucht** (Abscheu-Aura + Unsterblichkeit); [[Aalafiels Trank|Trank]] aus ihrem **Blut**. Sie befreite einst [[Lysanthiriel Vaelora]] vom alten König und schenkte ihr den nie verfehlenden Bogen ([[Sim]] leiht ihn).
+  - **Vier Bücher**: Buch der Schwellen (Wilhelm), Essenzmagie (Lysandriel), Seelen (Borgrim) + **Buch der Versiegelung** ([[Palamedis]], vom [[das Nichts]]). Siegel **gebrochen** — gleiches Zeichen wie in der [[Oestliche Garnison von Cadnix|Garnison]].
+  - **[[Palamedis]]** = goldener Drache, schläft im Nordvulkan ([[Eiswueste-Vulkan-Riss]]?).
+  - **[[Naeli]]s Fluch** (Wish + Modify Memory): heilbar via Essenz-/Seelen-Buch bei gebrochenem Siegel.
+  - **Korrektur**: Bertas Pergament = aus dem **Buch der Schwellen** (nicht Essenz).
+  - **[[Gruft des Buches]]**-Dungeon: 3 Rätsel-/Kampfräume gelöst, Drachenstatue-Finale, **Cut mitten im Dungeon**.
 
 ## [2026-06-09] ingest | Session 16 (gespielt 2026-06-08) aus WhisperX-Transkript
 
