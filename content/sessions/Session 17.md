@@ -53,7 +53,7 @@ Aalafiel erzählte von ihrem **eigenen Fluch** und führte die Gruppe schließli
 - [[Palamedis]] — nur als **Drachenstatue** in der Gruft (kein lebender Auftritt).
 
 ## Loot & Gains
-- [[Sim]] **leiht** [[Aalafiel]]s **nie verfehlenden Bogen** (in [[Lunovar]] gefertigt, verzaubert).
+- [[Sim]] **begutachtet** [[Aalafiel]]s **nie verfehlenden Bogen** (in [[Lunovar]] gefertigt, verzaubert) — hätte gern selbst so einen, **leiht ihn aber nicht**; Bogen bleibt bei [[Aalafiel]].
 - Bestätigte Funktion des **[[Dis-Enchanter]]s** (Elliots Hämmerchen, [[Session 7]]): zerstört Enchantments, **ladungsbegrenzt**.
 - Aus der Truhe der Gruft: **drei eiserne Ketten mit Karabinern** (Statuen-Rätsel).
 - Lore: vollständige Geschichte der vier Bücher; zwei konkrete Heilwege für [[Naeli]].

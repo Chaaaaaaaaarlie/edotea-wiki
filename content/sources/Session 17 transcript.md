@@ -74,7 +74,7 @@ Die Gruppe (ohne [[Hrímnir]]) trinkt den **[[Aalafiels Trank|Abscheu-Trank]]** 
 
 ## Key Claims
 - [[Aalafiel]] ist **~3200 Jahre alt**, von einem gestaltwandelnden Wesen aus dem [[Verhängnisturm]] **verflucht** (Einsamkeit/Abscheu-Aura/Unsterblichkeit); der [[Aalafiels Trank|Trank]] besteht aus **ihrem Blut**.
-- [[Aalafiel]] befreite [[Lysanthiriel Vaelora]] einst „aus dem Joch des alten Königs" und schenkte ihr einen **nie verfehlenden Bogen** (in [[Lunovar]] gefertigt) — den [[Sim]] nun leiht.
+- [[Aalafiel]] befreite [[Lysanthiriel Vaelora]] einst „aus dem Joch des alten Königs" und schenkte ihr einen **nie verfehlenden Bogen** (in [[Lunovar]] gefertigt) — den [[Sim]] nur begutachtete (nicht geliehen).
 - [[Palamedis]] ist ein **goldener Drache**; er kontaktierte über die drei Bücher [[das Nichts]] und erhielt von ihm ein **viertes Buch (Buch der Versiegelung)**, das die anderen drei versiegelt — solange es in seinen Händen bleibt.
 - Die drei Bücher: **Buch der Schwellen** (Wilhelm/Raum), **Buch der Essenzmagie** (Lysandriel), **Buch der Seelen** (Borgrim). Das Siegel der Gruft ist **gebrochen**.
 - [[Naeli]]s Verwandlung könnte das **Buch der Essenzmagie** heilen, ihr Gedächtnis das **Buch der Seelen** — nur bei gebrochenem Siegel.

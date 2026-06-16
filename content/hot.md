@@ -32,7 +32,7 @@ Die Gruppe steckt **mitten in der [[Gruft des Buches]]** (Long Rest drinnen gema
 8. **[[Feenwildnis]]-Portal** im Erliorwald (Treant-bewacht); **[[Gurde]]** bei Virion; Mordvorwürfe fallen gelassen (Cassomir, S15); Kopfgeldjäger in [[Lunovar]]; Folianten-Auftrag für [[Khirin]].
 
 ## Key Facts
-- **[[Aalafiel]]** (persönlich getroffen, S17): Elfe, ~**3200 Jahre**, von einem Gestaltwandler aus dem [[Verhängnisturm]] **verflucht** (Abscheu-Aura + Unsterblichkeit; *nicht* aura-frei wie S16 vermutet). **= Lysantirs Freundin** (bestätigt). Befreite Lysandriel einst vom alten König, schenkte ihr den **nie verfehlenden Bogen** (jetzt von [[Sim]] geliehen). Der [[Aalafiels Trank|Trank]] besteht aus **ihrem Blut**.
+- **[[Aalafiel]]** (persönlich getroffen, S17): Elfe, ~**3200 Jahre**, von einem Gestaltwandler aus dem [[Verhängnisturm]] **verflucht** (Abscheu-Aura + Unsterblichkeit; *nicht* aura-frei wie S16 vermutet). **= Lysantirs Freundin** (bestätigt). Befreite Lysandriel einst vom alten König, schenkte ihr den **nie verfehlenden Bogen** (von [[Sim]] nur begutachtet, nicht geliehen). Der [[Aalafiels Trank|Trank]] besteht aus **ihrem Blut**.
 - **Vier Bücher** ([[Drei Bücher]]): **Buch der Schwellen** (Wilhelm/Raum), **Buch der Essenzmagie** (Lysandriel), **Buch der Seelen** (Borgrim) + **Buch der Versiegelung** ([[Palamedis]], vom [[das Nichts]] erhalten). Solange das 4. Buch bei Palamedis ist, sind die anderen versiegelt = wirkungslos.
 - **[[Palamedis]]** = goldener Drache, älter als Aalafiel; kontaktierte das Nichts über die drei Bücher; schläft im Nordvulkan.
 - **Korrektur**: Bertas Pergament-Seite = aus dem **Buch der Schwellen** (nicht Lysantirs Essenz-Buch); benutzt, um *„einen Mann 10 Jahre in einem Wald einzukerkern"* (Bezug zu [[Elliot]]?).

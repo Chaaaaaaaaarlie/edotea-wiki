@@ -63,7 +63,7 @@ Ihr Beiname *„Monster vom Erlior"* rührt von ihrer **Aura**: jedes Wesen empf
 ## [[Session 17]] — Persönliches Treffen
 **Gespräch** (Naeli als „Nelly" voran; [[Berta]] ohne Trank, da resistent):
 - **Kannte [[Lysanthiriel Vaelora]]** persönlich — *„Es ist bestimmt 200 oder 300 Jahre her, dass ich sie gesehen habe."* Lysandriel besuchte sie regelmäßig, *„nur vor ~400 Jahren irgendwann dann nicht mehr."* → **bestätigt die S15/S16-Vermutung**, dass Aalafiel = Lysantirs alte Freundin.
-- **Befreite Lysandriel einst „aus dem Joch des alten Königs"** und schenkte ihr danach einen **nie verfehlenden Bogen** (in [[Lunovar]] gefertigt, *„das Feinste, was die Stadt zu bieten hatte"*). Aalafiel besitzt ihn jetzt; [[Sim]] leiht ihn (siehe [[Session 17]]). → bindet Aalafiel an die **[[Kalineon]]-Sturz-Ära**.
+- **Befreite Lysandriel einst „aus dem Joch des alten Königs"** und schenkte ihr danach einen **nie verfehlenden Bogen** (in [[Lunovar]] gefertigt, *„das Feinste, was die Stadt zu bieten hatte"*). Aalafiel besitzt ihn jetzt; [[Sim]] hat ihn nur begutachtet (nicht geliehen, siehe [[Session 17]]). → bindet Aalafiel an die **[[Kalineon]]-Sturz-Ära**.
 - Erzählte die ganze Geschichte der **[[Drei Bücher]]**, des **vierten Buches** und des goldenen Drachen **[[Palamedis]]** (Details auf den jeweiligen Seiten).
 - Erkannte **[[Magolor]]s Gesicht nicht** (*„nicht gut, was aktuelle weltliche Geschehnisse angeht"*).
 - Bot [[Naeli]] zwei **Heilwege** für ihren Fluch an: **Buch der Essenzmagie** gegen die Verwandlung, **Buch der Seelen** gegen den Gedächtnisverlust — *nur bei gebrochenem Siegel*.

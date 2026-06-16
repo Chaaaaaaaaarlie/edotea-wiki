@@ -81,7 +81,7 @@ status: developing
 
 ## [[Session 17]]
 
-- **Leiht [[Aalafiel]]s nie verfehlenden Bogen** (in [[Lunovar]] gefertigt, verzaubert) — *„kann sein Ziel niemals verfehlen"*.
+- **Begutachtet [[Aalafiel]]s nie verfehlenden Bogen** (in [[Lunovar]] gefertigt, verzaubert) — *„kann sein Ziel niemals verfehlen"*; hätte gern selbst so einen, **leiht ihn aber nicht**.
 - **Löst das Stein-Alphabet-Rätsel** der **[[Gruft des Buches]]**: erkennt, dass die 26 Steine für Buchstaben stehen (A=Amethyst …) und die 11 Slots **L-Y-S-A-N-D-R-I-L** buchstabieren.
 - **Knackt das Vorhängeschloss** der Truhe (Thieves' Tools) → drei Eisenketten; hängt die Statuen-Ketten an die Hand des Königs.
 - **Trägt das aufgehebelte Obsidian-Tor** auf dem Rücken (50/50-Wurf geschafft) als möglichen Türersatz.

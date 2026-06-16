@@ -12,6 +12,11 @@ status: evergreen
 
 Append-only. New entries at the **TOP**. Never edit past entries.
 
+## [2026-06-16] correction | Session 17 Loot: Sim leiht Bogen NICHT
+
+- **DM-Korrektur** (Blestem, 2026-06-15 Discord): Loot-Eintrag „Sim leiht Aalafiels nie verfehlenden Bogen" war **falsch**. [[Sim]] hat den Bogen nur **begutachtet** und hätte gern selbst so einen — leiht ihn aber nicht. Bogen bleibt bei [[Aalafiel]].
+- **Geändert**: [[Session 17]] (Loot), [[Sim]], [[Aalafiel]], [[Session 17 transcript]], `hot.md`.
+
 ## [2026-06-16] ingest | Session 17 (gespielt 2026-06-15) aus Whisper-Transkript
 
 - **Quelle**: `D:\Documents\DnD\Transkriptionen\full_whisper_raw.txt` (3488 Zeilen, Whisper-Modell *medium*, de). [[Hrímnir]] **abwesend** (ruht seit S16 auf dem Pilz).
