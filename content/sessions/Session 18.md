@@ -34,7 +34,7 @@ Die Gruppe setzt den **[[Gruft des Buches]]-Dungeon** fort. Fünf weitere Rätse
 ## Recap
 
 ### Hrímnir kehrt zurück
-[[Hrímnir]] fand eine Lücke in der Leere und stieß wieder zur Gruppe. Die Gruppe nahm eine Long Rest im Dungeon.
+[[Hrímnir]] fand eine Lücke in der Lianenwand und stieß wieder zur Gruppe. Die Gruppe nahm eine Long Rest im Dungeon.
 
 ---
 
@@ -56,13 +56,13 @@ König-Statue am Guillotinen-Block, umringt von Helden-Statuen; eine Heroin-Stat
 
 Als Hrímnir den Kopf wieder aufsetzte, sprühten die Fackeln Funken — **Kampf**.
 
-**Encounter**: 3× Schwarm hellblau flammender Totenköpfe (CR 7 je, ~90 HP, immun gegen physischen Schaden, verwundbar gegen Wasser/Kälte/Kraft, AOE *Frightening Visage*).
-- Wasser aus dem Wasserfeld: 8 Schaden.
+**Encounter**: 3× Schwarm hellblau flammender Totenköpfe (CR 7 je, ~90 HP, resistent gegen physischen Schaden, verwundbar gegen Wasser/Kälte/Kraft, AOE *Frightening Visage*).
+- Wasser aus dem Wasserfeld: 1d10 Schaden.
 - [[Naeli]]: Ray of Frost, Snowball Swarm.
 - [[Khirin]]: Kältezauber.
-- [[Hrímnir]]: stopfte zwei Schwärme in den **Bag of Holding**, versiegelte ihn mit Wasser — beide vernichtet.
+- [[Hrímnir]]: stopfte drei Schwärme in den **Bag of Holding**, versiegelte ihn mit Wasser — alle vernichtet.
 
-Nach dem Kampf zog [[Naeli]] mit Thorn Whip den Königskopf heran; [[Sim]] entnahm die Magnetscheibe und führte sie in eine kreisförmige Vertiefung in der Tür ein — die Tür öffnete sich.
+Während des Kampfes zog [[Naeli]] mit Thorn Whip den Königskopf heran; [[Sim]] entnahm die Magnetscheibe und führte sie in eine kreisförmige Vertiefung in der Tür ein — die Tür öffnete sich.
 
 ---
 
@@ -127,9 +127,8 @@ Zwei verschlossene Türen (links/rechts, keine Schlüssellöcher); vier Fenster 
 - Frost → [[Naeli]] unverletzt, wunderbares Gefühl (kälteangepasst); würfelte auf ihrer D100-Flavor-Tabelle ✓
 - Feuer → [[Hrímnir]] unverletzt ✓
 - Säureschleim → [[Berta]] erlitt 3d10 Säureschaden ✗
-- Goldmünzen → Gruppe sammelte Gold (Hrímnir: Giant Size + Blanket; Khirin: Mage Hand + Schlafsack + Tasche [8d100 = 800 GP]; Naeli: Eisentopf + Kleidung + Wind Wall [8d100]; Sim: Umhang + Pouch + Sack [4d100 ≈ 399 GP]; Berta: Hut + Stab + Beutel [4d100])
+- Goldmünzen → Gruppe sammelte Gold (Hrímnir: Giant Size + Blanket [4d100]; Khirin: Mage Hand + Schlafsack + Tasche [8d100]; Naeli: Eisentopf + Kleidung + Wind Wall [8d100]; Sim: Umhang + Pouch + Sack [4d100]; Berta: Hut + Stab + Beutel [4d100])
 
-Der DM verkündete: *„Sobald ihr den Dungeon verlasst, verschwindet alles in Rauch und Asche."* — das Gold war vergänglich.
 
 ---
 
@@ -168,6 +167,6 @@ Nach Session 18 steigen alle Charaktere eine Stufe auf.
 - [[Naeli]]s Fluch-Heilung: Bücher der Essenzmagie und Seelen noch zu bergen.
 
 ## DM Notes
-- Gold-Sammeln (Kristall-Raum): Buff-System — jede nutzbare Fläche = +1 Buff, Basiswurf 1d100, je Buff ×2. Maximum war 1600 GP (4 Buffs); das Geld verschwindet beim Verlassen des Dungeons.
+- Gold-Sammeln (Kristall-Raum): Buff-System — jede nutzbare Fläche = +1 Buff, Basiswurf 1d100, je Buff ×2. Maximum war 1600 GP (4 Buffs).
 - Hrímnirs Giant-Size-Buff half beim Gold-Sammeln wenig (Münzen fielen durch).
 - *„Jede kurze Zuruf-Aktion pro Runde"* (Hausregel aus Session 17) weiter in Kraft.
