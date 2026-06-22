@@ -13,7 +13,7 @@ sources:
   - Tagebücher Wilhelm Casterwill
   - Session 17 transcript
 created: 2026-05-11
-updated: 2026-06-16
+updated: 2026-06-22
 status: developing
 ---
 # Lysanthiriel Vaelora
@@ -54,6 +54,18 @@ status: developing
   - [[Aalafiel]] **befreite Lysandriel einst „aus dem Joch des alten Königs"** und schenkte ihr danach einen **nie verfehlenden Bogen** (in [[Lunovar]] gefertigt). → Lysandriel war aktiv in die Sturz-Ära des alten [[Kalineon]]-Königs verwickelt.
   - Ihr Buch = **Buch der Essenzmagie** ([[Drei Bücher]]); verwahrt in der **[[Gruft des Buches]]** im [[Erliorwald]], die die **Elfen von [[Lunovar]]** vor ~800 Jahren errichteten. Inschrift dort (Elfisch) in **Ich-Form** ist vermutlich von Lysandriel selbst: *„Ich war töricht genug, es zu erschaffen, und schwach genug, es nicht zu vernichten. Darum begrub ich es hier."* Aalafiel: Lysandriel *„hatte einen sehr schrägen Sinn für Humor"* (Rätsel-Fallen).
   > [!contradiction] **Todeszeitpunkt unklar.** Diese Seite (und S15/Elfaria) deuten auf einen Tod vor **200–300 Jahren** (passt zu Aalafiels Aussage). In S17 behauptet [[Khirin]] beiläufig, Lysandriel sei *„seit ein paar Jahren tot"* — möglicher Spieler-Irrtum oder neue Info. Nicht aufgelöst.
+- **[[Session 18]]**:
+  - Im **Siegel-Raum (Raum 3)** der [[Gruft des Buches]] findet die Gruppe eine elfische **Inschrift auf der sich öffnenden Steintür**, die [[Khirin]] übersetzt und die mit *Lysanthriel* signiert ist:
+    > „Du, der du verstanden hast, was wir einst nicht begreifen konnten – geh.
+    > Das Wissen, das hier ruht, darf nicht getragen werden. Nicht von dir. Von niemandem.
+    > Jeder Schritt weiter ist kein Sieg, sondern ein Urteil.
+    > Denn das, was du zu verstehen glaubst, wird dich vernichten."
+    > — *Lysanthriel*
+  - Die Inschrift ist eine **persönliche Warnung von ihr selbst** — keine Schmuckdekoration. Inhalt und Ton stehen im Einklang mit der bekannten Eingangsinschrift (*„Ich war töricht genug, es zu erschaffen"*).
+  - Die **Steintafeln in Raum 4 und 5** sind ebenfalls mit *Lysanthriel* signiert — sie verfasste alle drei Rätsel-Inschriften der Gruft persönlich:
+    - Raum 4: *„Dies ist Wasser nur dem Namen nach. Es kennt weder Auftrieb noch Erbarmen. Wer sich ihm überlässt, wird sinken. Wer seine Natur hinterfragt, wird weitergehen."*
+    - Raum 5: *„Hier endet die Gewissheit. Die Materie gehorcht nicht länger ihrer Natur. Das Kalte mag schützen, das Warme mag töten. Das Sanfte mag vernichten, das Wilde mag bewahren. Lege ab, was du über die Welt zu wissen glaubst, oder werde von ihr verschlungen."*
+  - **Signaturform**: Auf allen Gruft-Inschriften zeichnet sie mit *Lysanthriel* (Kurzform), nicht mit dem vollen Namen.
 
 ## Verknüpfungen
 
@@ -85,3 +97,4 @@ status: developing
 - [[Session 15]]
 - [[Session 16]]
 - [[Session 17]]
+- [[Session 18]]

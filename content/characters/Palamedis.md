@@ -16,7 +16,7 @@ sources:
   - Tagebücher Wilhelm Casterwill
   - Session 17 transcript
 created: 2026-05-11
-updated: 2026-06-16
+updated: 2026-06-22
 status: developing
 ---
 # Palamedis
@@ -36,6 +36,11 @@ status: developing
 > [!warning] Implikation
 > Das **Siegel der [[Gruft des Buches]] ist gebrochen** (S17). Das bedeutet entweder, dass das vierte Buch **nicht mehr in Palamedis' Händen** ist, oder dass jemand das Siegel anderweitig gelöst hat. Aalafiel will Palamedis kontaktieren, um Erlaubnis zur Buch-Übergabe zu erhalten.
 
+## [[Session 18]] — Blut als Ritual-Schlüssel
+Im **Siegel-Raum (Raum 3)** der [[Gruft des Buches]] zeigt sich, dass die **Palamedis-Drachen-Statue** einen Kelch unterhalb ihrer Klaue hält, in den im Rhythmus von einem Tropfen pro Stunde **rotes Blut** tropft. Dieses Blut dient als **Ritual-Schlüssel**: [[Berta]] taucht einen Finger hinein und zeichnet damit das vollständige Siegel-Symbol auf das Altar-Buch → Symbol glüht rot und brennt sich in den Stein. Die Folianten werden anschließend mit demselben Prozess **violett** versiegelt, woraufhin die Steintür aufgeht.
+
+Implikation: Palamedis (oder die Elfen, die die Gruft bauten) hat seine Drachenstatue als lebendigen Ritualschlüssel integriert — sein Blut ist Teil des Sicherheitssystems der Gruft, nicht nur Dekoration.
+
 ## Notizen
 - Laut [[Session 7]] stellte [[Palamedis]] den Forschern eine Armee von Gläubigen oder Verbündeten zur Seite.
 - **Tagebuch VIII** ([[Tagebücher Wilhelm Casterwill]]) präzisiert: Palamedis griff nicht offen ein, sondern **versammelte die religiösen Führer des Landes** — Priester, Gelehrte, einige Adlige, Generäle, deren Loyalität dem Reich statt der Krone galt.
@@ -52,6 +57,7 @@ status: developing
 - [[Session 7]]
 - [[Session 11]]
 - [[Session 17]]
+- [[Session 18]]
 - [[Wilhelm Casterwill]]
 - [[Drei Bücher]]
 - [[das Nichts]]

@@ -8,7 +8,7 @@ tags:
 related: []
 sources: []
 created: 2026-05-11
-updated: 2026-06-09
+updated: 2026-06-22
 status: developing
 ---
 ![[Hrimnir.png|533]]
@@ -85,7 +85,13 @@ status: developing
 ## [[Session 17]] — abwesend
 
 - **Nicht dabei**: ruht weiterhin auf dem Pilz im **Hain der Heilung** (von Pixies/Druade dorthin gelegt). Im Transkript *„ohne Hansi"*.
-- Der DM plant, ihn narrativ wieder einzubinden — er sei *„stark genug, die Tür aufzubrechen"* und könnte zur Gruppe in die **[[Gruft des Buches]]** stoßen.
+
+## [[Session 18]] — Rückkehr
+
+- **Kehrt zurück**: fand eine Lücke in der Leere und stieß wieder zur Gruppe in der **[[Gruft des Buches]]**. Alle fünf PCs vereint.
+- **Guillotinen-Raum**: entfernte die Eisenkrone vom König und setzte sie auf die Heroin-Statue → löste Mechanismus aus. Reattachierte den Königskopf → löste Kampf mit Totenkopf-Schwärmen aus. **Stopfte zwei Schwärme ins Bag of Holding**, versiegelte es mit Wasser → beide Schwärme vernichtet. Bewährtes Taktik-Prinzip: Bag of Holding als Falle.
+- **Gold-Sammeln (Natur-Raum)**: nutzte **Giant Size** + großes Blanket als Buffs → 4d100 Würfe; trotz Riesengröße rutschten die Münzen durch (155 GP, schlechtestes Ergebnis der Gruppe). Das Gold löst sich beim Dungeon-Verlassen auf.
+- **Level Up** nach Session 18.
 
 ## Verknüpfungen
 
@@ -116,5 +122,6 @@ status: developing
 - [[Jack]]
 - [[Session 16]]
 - [[Session 17]]
+- [[Session 18]]
 - [[Aalafiel]]
 - [[Gruft des Buches]]

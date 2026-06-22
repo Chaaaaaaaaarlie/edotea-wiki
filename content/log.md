@@ -2,7 +2,7 @@
 type: meta
 title: "Wiki Log"
 created: 2026-05-11
-updated: 2026-06-16
+updated: 2026-06-22
 tags:
   - meta
 status: evergreen
@@ -11,6 +11,21 @@ status: evergreen
 # Wiki Log
 
 Append-only. New entries at the **TOP**. Never edit past entries.
+
+## [2026-06-22] ingest | Session 18 (gespielt 2026-06-22) aus WhisperX-Transkript
+
+- **Quelle**: `craig-vuBILiUp3OIZ-gUyy4ViC72sg8l-_20260622_223044\corrected_obsidian.md` (WhisperX large-v3, de, 202 Korrekturen). Dauer: 3h 2min. Alle fünf PCs anwesend ([[Hrímnir]] kehrt zurück).
+- **Sprecher-Mapping**: `nightcore0302`=DM, `luke_234`=[[Khirin]], `feeminin`=[[Naeli]], `mep0510`=[[Sim]], `hansmeier`=[[Hrímnir]], `drore`=[[Berta]].
+- **Neue Seiten**: [[Session 18]].
+- **Neue Lore**:
+  - **Raum 1** (Folianten-Raum): Foliant-Statuen-Puzzle; Reihenfolge Raum→Essenz→Seele öffnet Tür ohne Kampf.
+  - **Raum 2** (Guillotinen-Raum): Eisenkrone auf Heroin → Guillotine → Totenkopf-Schwärme; Magnetscheibe = Türschlüssel.
+  - **Raum 3** (Siegel-Raum): [[Palamedis]]-Blut + vollständiges Siegel = Ritual-Schlüssel; Folianten violett versiegelt; [[Lysanthiriel Vaelora|Lysandriels]] Warninschrift (*„Jeder Schritt weiter ist kein Sieg, sondern ein Urteil"*, signiert *Lysandreel*).
+  - **Raum 4** (Wasser-Raum): Null-Auftrieb-Wasser (kein Schwimmen); [[Berta]] taucht zu Fuß; Eissäule als Übergang.
+  - **Raum 5** (Natur-Raum): Kristall-Puzzle, 4 Kombinationen (blau/violett × links/rechts); Kälte = sicher (Khirin/Naeli/Hrímnir); Säure = schädlich (Berta); Gold = vergänglich (löst sich beim Dungeon-Verlassen auf).
+  - **Glühendes Kristallfragment** aus dem Wasser-Raum geborgen (Berta).
+  - **Cliffhanger**: runder Raum wie eine Grabkammer am Ende des langen Ganges.
+  - **Level Up!**
 
 ## [2026-06-16] correction | Session 17 Loot: Sim leiht Bogen NICHT
 
