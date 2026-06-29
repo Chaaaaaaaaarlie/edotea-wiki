@@ -2,7 +2,7 @@
 type: meta
 title: "Wiki Log"
 created: 2026-05-11
-updated: 2026-06-22
+updated: 2026-06-29
 tags:
   - meta
 status: evergreen
@@ -11,6 +11,24 @@ status: evergreen
 # Wiki Log
 
 Append-only. New entries at the **TOP**. Never edit past entries.
+
+## [2026-06-29] ingest | Session 19 (gespielt 2026-06-29) aus WhisperX-Transkript
+
+- **Quelle**: `craig-5v6ONGOSCCqj-cYVN_EopeLoHj5p_20260629_221904\corrected_obsidian.md` (WhisperX large-v3, de, 191 Korrekturen). Dauer: ~2h 45min. Alle fünf PCs anwesend.
+- **Sprecher-Mapping**: `nightcore0302`=DM, `luke_234`=[[Khirin]], `feeminin`=[[Naeli]], `mep0510`=[[Sim]], `hansmeier`=[[Hrímnir]], `drore`=[[Berta]].
+- **Transkriptionsfehler (Eigennamen)**: Nelly/Naily/Neli→[[Naeli]]; Rimnir/Remnir/Imnir/Remnick→[[Hrímnir]]; Kirin→[[Khirin]]; Simeon/Simian→[[Sim]]; Börte/Börter→[[Berta]]; Lunova/Luno→[[Lunovar]]; Margolor→[[Magolor]]; Kalinion/Kalininon→[[Kalineon]]; Lysandrie/Lysandril→[[Lysanthiriel Vaelora]]; Caster Will/Castorwell→[[Wilhelm Casterwill]].
+- **Rohdatei kopiert**: `.raw/session-transcripts/Session 19 - 29.06.2026.md`.
+- **Neue Seiten**: [[Session 19]], [[Akronisjuwel]], [[Lysandriels Ring]], [[Goldene Drachenschuppe]], [[Blaue Metallbarren]], [[Session 19 transcript]].
+- **Aktualisierte Seiten**: [[Aalafiel]], [[Lysanthiriel Vaelora]], [[Gruft des Buches]], [[Drei Bücher]].
+- **Schlüssel-Erkenntnisse**:
+  - **[[Gruft des Buches]] abgeschlossen**: Grabkammer (Raum 10) → Kampf gegen 3 Ton-Drachen-Golems (AC 17; Death Burst) → Truhe mit Lysandriels Erbe → [[Lysandriels Ring]] öffnet Sarkophag.
+  - **[[Lysanthiriel Vaelora|Lysandriels]] Abschiedsbrief**: wusste von ihrem Ende; bat Lunovar-Elfen, Besitztümer + Buch einzuschließen; entschuldigt sich bei [[Aalafiel]].
+  - **[[Buch der Essenzmagie]] gestohlen**: Zwerge bohrten Deckenloch; Buch weg. Dritte Kristallkugel zeigt Zwerg bei Metallarbeiten nahe [[Carbus]].
+  - **Buchverteilung bestätigt**: [[Magolor]] hat Raum (Wilhelm) + Seele (Borgrim); Zwergengruppe hat Essenz (Lysandriel); Versiegelungs-Buch ([[Palamedis]]) Verbleib unbekannt.
+  - **[[Aalafiel]]** erhält Lysandriels Kristallkugel → Kontakt über Lunovar-Akademie möglich. Gibt Gruppe [[Goldene Drachenschuppe]] von [[Palamedis]]. Geht allein [[Palamedis]] suchen.
+  - **Nächstes Ziel**: [[Lunovar]] (Resupply + Rektor) → [[Carbus]] (Zwerg mit Kristallkugel).
+  - **Warnung**: [[Berta]] hat 5.000-GP-Kopfgeld in [[Carbus]] (bei [[Edgar Thorne]]).
+- **Zähler-Updates**: Sessions 18→19, Items 9→13, Sources 7→8. Charaktere 33 unverändert. `index.md`, `hot.md` aktualisiert.
 
 ## [2026-06-22] ingest | Session 18 (gespielt 2026-06-22) aus WhisperX-Transkript
 

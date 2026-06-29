@@ -16,8 +16,9 @@ related:
 sources:
   - Session 17 transcript
   - Session 18 transcript
+  - Session 19 transcript
 created: 2026-06-16
-updated: 2026-06-22
+updated: 2026-06-29
 status: developing
 ---
 
@@ -48,11 +49,25 @@ Versteckter **Elfen-Tempel** tief im nördlichen [[Erliorwald]], in dem das **Bu
 8. **Wasser-Raum (Null-Auftrieb-Becken)**: 5 m tiefes Becken, glatte Wände, blaues Kristalllicht. Das Wasser hat **null Auftrieb** — alles sinkt sofort, kein Schwimmen möglich. Steintafel (signiert *Lysanthriel*): *„Dies ist Wasser nur dem Namen nach. Es kennt weder Auftrieb noch Erbarmen. Wer sich ihm überlässt, wird sinken. Wer seine Natur hinterfragt, wird weitergehen."* Detect Magic: das Wasser selbst **nicht magisch**. [[Berta]] (kein Atemzwang) läuft über den Beckenboden, birgt ein **glühendes Kristallfragment**. Lösung: Kältezauber-Eissäule (~15 Minuten bauen); Gruppe überquert am Seil.
 9. **Natur-Raum (Kristall-Puzzle)**: Zwei Türen (links/rechts), Zentralkristall leuchtet **blau oder violett** → aktiviert unterschiedliche Elementarkräfte. Steintafel (signiert *Lysanthriel*): *„Hier endet die Gewissheit. Die Materie gehorcht nicht länger ihrer Natur. Das Kalte mag schützen, das Warme mag töten. Das Sanfte mag vernichten, das Wilde mag bewahren. Lege ab, was du über die Welt zu wissen glaubst, oder werde von ihr verschlungen."* Erkannte Kombinationen: Blau-Links=Feuer, Blau-Rechts=Wasser; Blau-Links=Leere/Dunkelheit (heilt), Blau-Rechts=Blendlicht; Violett-Links=Lava, Violett-Rechts=Frost; Violett-Links=Säureschleim (schädlich), Violett-Rechts=Goldmünzen (vergänglich — löst sich beim Verlassen des Dungeons auf). Am Ende des Ganges: **Grabkammer — Cliffhanger**.
 
+## Räume / Rätsel ([[Session 19]])
+10. **Grabkammer** (Letzter Raum): Steingemauerte Kuppel (kein Obsidian mehr). Zentraler **Sarkophag** mit Platin-Zierring auf dem Boden, drei Drachen-Statuen im Gewölbe. Zwei **zwergische Bergmann-Skelette** (Spitzhacke, Axt) und ein **Deckenloch** (Schutt, Seil, Bohrerkopf) — Beweis für geplanten Einbruch. Sarkophag hat **gebrochene Steinfinger**.
+    - **Trigger**: [[Berta]] hebt einen Krugdeckel → Drachen fallen von der Decke, Steinwand versiegelt Eingang → **Kampf gegen 3 riesige Ton-Drachen-Golems** (AC 17; Radiant-Atem; Death Burst letzter Golem). Golems aus merkwürdig fleischlichem Ton — keine Organe.
+    - **Truhe** (von fallendem Golem aufgebrochen): 132 Elektrum, Forschungsnotizen, [[Lysandriels Ring]], [[Akronisjuwel]], [[Blaue Metallbarren]], Kristallkugel. Außerdem 3 Goldweinkrüge (~18 Karat).
+    - **Sarkophag öffnen**: [[Hrímnir]] repariert Steinfinger (**Mending**); rechter Ringfinger hat Kerbe. [[Khirin]] steckt [[Lysandriels Ring]] auf → Deckel öffnet sich, Tempel erschüttert sich, alle Golems zerfallen, alle Türen öffnen. Im Sarkophag: **Elfen-Skelett** mit versiegeltem Brief (nur [[Aalafiel]] kann ihn öffnen).
+
+## Abschluss ([[Session 19]])
+Der Dungeon gilt als **vollständig abgeschlossen** (alle Räume bewältigt, Sarkophag geöffnet, alle Türen offen). Die Gruppe verlässt die Gruft bei Mittagszeit.
+
+> [!warning] **Buch der Essenzmagie fehlt**
+> Trotz Lysandriels Absicht (Brief bestätigt: Buch sollte in der Gruft versiegelt sein) ist das **Buch der Essenzmagie nicht da**. Zwerge haben sich von oben durch die Decke gebohrt und es gestohlen — der Einbruch fand vor der Ankunft der Gruppe statt. Kristallkugel #3 zeigt einen hammernden Zwerg nahe [[Carbus]] als wahrscheinlichem Aufenthaltsort.
+
+> [!info] **Siegel erklärt**
+> Das gebrochene Siegel an der Gruftaußenseite (S17 entdeckt) war wahrscheinlich **Folge des Zwerg-Einbruchs**, nicht vorher. Der Einbruch durch das Deckenloch disrumpierte das Siegel.
+
 ## Offene Fragen
-- Was befindet sich in der **Grabkammer** am Ende des langen Ganges?
-- Ist es das **Buch der Essenzmagie** — und was genau hat [[Lysanthiriel Vaelora|Lysandriel]] dort hinterlassen?
+- ~~Was befindet sich in der **Grabkammer**?~~ Abgeschlossen ([[Session 19]]).
 - Was ist das **glühende Kristallfragment** aus dem Wasser-Raum?
-- Wer hat das **Siegel gebrochen** und wann?
+- ~~Wer hat das **Siegel gebrochen**?~~ Wahrscheinlich die Zwerge beim Einbruch.
 - Hat [[Aalafiel]] inzwischen [[Palamedis]] erreicht?
 
 ## Verknüpfungen
@@ -62,5 +77,10 @@ Versteckter **Elfen-Tempel** tief im nördlichen [[Erliorwald]], in dem das **Bu
 - [[Drei Bücher]]
 - [[Palamedis]]
 - [[Oestliche Garnison von Cadnix]]
+- [[Akronisjuwel]]
+- [[Lysandriels Ring]]
+- [[Blaue Metallbarren]]
+- [[Carbus]]
 - [[Session 17]]
 - [[Session 18]]
+- [[Session 19]]

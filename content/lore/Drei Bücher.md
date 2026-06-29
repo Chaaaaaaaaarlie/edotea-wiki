@@ -14,7 +14,7 @@ sources:
   - Tagebücher Wilhelm Casterwill
   - Session 17 transcript
 created: 2026-05-11
-updated: 2026-06-16
+updated: 2026-06-29
 status: developing
 ---
 # Die drei Bücher
@@ -68,6 +68,18 @@ Per [[Berta]]s Detect Thoughts auf [[Sophie Marie]]: die zwei Folianten, die [[M
 - Magolor hat Sophie *"mit Hilfe von dem einen Buch das Leben gerettet"* — Sophies Erinnerung: **grüne Magie um sich herum, das Buch mit der grünen Perle aufgeschlagen**.
 - Bertas Pergament-Seite ist eine **abgerissene Seite** eines der drei Bücher. ~~vermutlich Lysantirs Essenz-Buch~~ → **Korrektur [[Session 17]]**: Die Seite stammt aus dem **Buch der Schwellen** ([[Wilhelm Casterwill|Wilhelms]] Raummagie). [[Berta]]: sie wurde benutzt, um *„einen Mann für zehn Jahre in einem Wald einzukerkern"*; [[Aalafiel]] bestätigt die Echtheit (unverbrennbar). ([[Magolor]] will sie zurück.)
 
+### Buchverteilung (bestätigt [[Session 19]])
+
+| Buch | Magier | Aktueller Besitzer |
+|------|--------|--------------------|
+| **Buch der Schwellen** (Raum) | [[Wilhelm Casterwill]] | [[Magolor]] |
+| **Buch der Essenzmagie** (Essenz) | [[Lysanthiriel Vaelora]] | **Unbekannte Zwergengruppe** (gestohlen aus [[Gruft des Buches]]) |
+| **Buch der Seelen** (Seele) | [[Borgrim Runenbrecher]] | [[Magolor]] |
+| **Buch der Versiegelung** | [[Palamedis]] | Unbekannt (Siegel gebrochen) |
+
+- **Magolors Bücher** ([[Session 19]] bestätigt): Er besitzt **Buch der Schwellen** (Raum/Wilhelm) und **Buch der Seelen** (Seele/Borgrim) — die zwei Folianten mit roten und grünen Perlen aus S14. Zuordnung Farbe→Magier: weiterhin unklar.
+- **Essenz-Buch gestohlen**: Zwerge bohrten sich von oben durch die Decke der [[Gruft des Buches]] und stahlen das Buch ([[Session 19]]). Einbruchsbeweis: Deckenloch, Seil, Bohrerkopf, zwei Bergmann-Skelette. Dritte Kristallkugel zeigt Zwerg bei Metallarbeiten, Ort: vermutlich [[Carbus]]-Gebiet.
+
 ### Elfaria-Aussage ([[Session 14]])
 - *"Diese Bücher wurden in drei verschiedenen Orten versteckt. Ganz Lunovar hat damals unter höchsten Sicherheitsmaßnahmen dafür gesorgt, dass ein Tempel errichtet wurde."*
 - *"Ein Tempel, der nicht zu finden ist — es sei denn, man weiß bereits, wo er ist."*
@@ -89,6 +101,8 @@ Per [[Berta]]s Detect Thoughts auf [[Sophie Marie]]: die zwei Folianten, die [[M
 - [[Session 11]]
 - [[Session 14]]
 - [[Session 17]]
+- [[Session 19]]
 - [[Wilhelm Casterwill]]
 - [[das Nichts]]
 - [[Tagebücher Wilhelm Casterwill]]
+- [[Carbus]]

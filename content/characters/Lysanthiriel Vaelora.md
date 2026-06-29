@@ -12,8 +12,9 @@ related: []
 sources:
   - Tagebücher Wilhelm Casterwill
   - Session 17 transcript
+  - Session 19 transcript
 created: 2026-05-11
-updated: 2026-06-22
+updated: 2026-06-29
 status: developing
 ---
 # Lysanthiriel Vaelora
@@ -66,6 +67,13 @@ status: developing
     - Raum 4: *„Dies ist Wasser nur dem Namen nach. Es kennt weder Auftrieb noch Erbarmen. Wer sich ihm überlässt, wird sinken. Wer seine Natur hinterfragt, wird weitergehen."*
     - Raum 5: *„Hier endet die Gewissheit. Die Materie gehorcht nicht länger ihrer Natur. Das Kalte mag schützen, das Warme mag töten. Das Sanfte mag vernichten, das Wilde mag bewahren. Lege ab, was du über die Welt zu wissen glaubst, oder werde von ihr verschlungen."*
   - **Signaturform**: Auf allen Gruft-Inschriften zeichnet sie mit *Lysanthriel* (Kurzform), nicht mit dem vollen Namen.
+- **[[Session 19]]**:
+  - **Bestätigt tot**: Im Sarkophag der Grabkammer liegt ihr **Elfen-Skelett**. Gebrochene Steinfinger am Sarkophag; **[[Lysandriels Ring]]** (= Schlüsselring mit ihrem Symbol) passt in die Kerbe am reparierten rechten Ringfinger und öffnet den Deckel.
+  - **Abschiedsbrief** im Sarkophag, versiegelt mit dem gleichen Zeichen wie ihr Ring; nur [[Aalafiel]] konnte ihn öffnen (sie war die Empfängerin). Inhalt: Lysandriel wusste, dass ihr Ende nahe war; bat die Elfen von [[Lunovar]], ihre Besitztümer und *„das verfluchte Buch"* in der Gruft zu versiegeln; entschuldigte sich bei Aalafiel für die Last.
+  - **Forschungsnotizen** in der Truhe: beschreiben das **[[Akronisjuwel]]** (Materialeigenschafts-Transfer, Erde ↔ Gold) und eine **neue Metalllegierung** ([[Blaue Metallbarren]]).
+  - **Kristallkugel** in der Truhe der Grabkammer — verbindet sich mit [[Khirin]]s Kugel und einer dritten Kugel (Zwerg bei [[Carbus]]). An [[Aalafiel]] übergeben.
+  > [!contradiction] **Elfarias Behauptung vs. Fund.** [[Elfaria Albis von Sylphid]] behauptete in [[Session 14]]: *„Die Kugel, welche Lysantir verwendet hat … die haben wir zerstört."* Dennoch liegt in der Grabkammer eine funktionierende Kristallkugel. Möglich: Elfaria kannte diese private Kugel nicht, oder es ist eine andere. Nicht aufgelöst.
+  - **Buch der Essenzmagie gestohlen**: Das Buch war in der Gruft eingesiegelt — aber Zwerge bohrten sich durch die Decke und stahlen es (Einbruchsspur: Loch, Seil, Bohrerkopf, zwei Bergmann-Skelette). Buch jetzt in Zwergenbesitz, vermutlich nahe [[Carbus]].
 
 ## Verknüpfungen
 
@@ -98,3 +106,8 @@ status: developing
 - [[Session 16]]
 - [[Session 17]]
 - [[Session 18]]
+- [[Session 19]]
+- [[Akronisjuwel]]
+- [[Blaue Metallbarren]]
+- [[Lysandriels Ring]]
+- [[Carbus]]

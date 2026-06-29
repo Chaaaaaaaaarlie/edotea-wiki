@@ -2,14 +2,14 @@
 type: meta
 title: "Items Index"
 created: 2026-05-11
-updated: 2026-06-16
+updated: 2026-06-29
 tags:
   - meta
   - items
 status: developing
 ---
 
-# Items (9)
+# Items (13)
 
 ## Tränke
 - [[Aalafiels Trank]] *(neu, Session 16)* — Abscheu-Aura-Trank der Treants; 10 Min./Schluck (größenabhängig); Voraussetzung, um mit [[Aalafiel]] zu sprechen
@@ -31,5 +31,11 @@ status: developing
 
 ## Insignien
 - [[Wappen des alten Kalineon]] *(Session 13)* — Brosche vom toten [[Spymaster]]; Indiz für [[Kalineon-Royalisten]]
+
+## Lysandriels Erbe *(Session 19)*
+- [[Akronisjuwel]] — ungeschliffener grün leuchtender Stein; in Waffen einbaubar → +Donner/Säure/Nekrotisch per Spell Slot
+- [[Lysandriels Ring]] — Schlüsselring (öffnet Sarkophag); an [[Aalafiel]] übergeben
+- [[Blaue Metallbarren]] — neue sehr leichte Legierung aus Essenzmagie-Forschung
+- [[Goldene Drachenschuppe]] — von [[Palamedis]] via [[Aalafiel]]; Glücksbringer (Funktion offen)
 
 > [!gap] Andere Gegenstände der Gruppe (Bertas Pergament, Khirins Kristallkugel + goldene Rose, Hrímnirs Bag of Holding, Naelis Froststab, Lucien-Münze, **Magolors Loyalitäts-Brosche** im Bag of Holding) haben noch keine eigenen Item-Seiten — bei Bedarf ergänzen.

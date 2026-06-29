@@ -22,8 +22,9 @@ related:
 sources:
   - Session 16 transcript
   - Session 17 transcript
+  - Session 19 transcript
 created: 2026-06-09
-updated: 2026-06-16
+updated: 2026-06-29
 status: developing
 ---
 
@@ -76,12 +77,26 @@ Ihr Beiname *„Monster vom Erlior"* rührt von ihrer **Aura**: jedes Wesen empf
 - Der Fluch **kann weitergegeben werden**. Aalafiel **übernahm ihn freiwillig** von einem alten Mann, der sich einst im Wald verlief — und wurde daraufhin **aus ihrem Zirkel ausgestoßen**.
 - Das **verfluchende Wesen** sah sie nur einmal: es **befreite sie aus gegossenem Eisen**, in das man sie einst zu töten versuchte. Es ist ein **Gestaltwandler** (chimärenhaft: Hände aus Schlangen, Ziegenkopf, mal ein Baum) und lebt im **[[Verhängnisturm]]**.
 
+## [[Session 19]] — Abschied nach der Gruft
+[[Aalafiel]] wartete vor der [[Gruft des Buches]], bis die Gruppe die Grabkammer abschloss. Beim Wiedersehen brach sie in **Tränen** aus.
+
+**Lysandriels Brief**: Die Gruppe übergab ihr [[Lysandriels Ring]] und den versiegelten Brief aus dem Sarkophag. Aalafiel **konnte den Brief öffnen** (sie war die Empfängerin); las ihn vor (Elfisch): Lysandriel wusste, dass ihr Ende nahe war; bat die Elfen von Lunovar, ihre Besitztümer und das Buch einzuschließen; entschuldigte sich bei Aalafiel für die Last. → Buch wurde gestohlen — Zwerge hatten sich durch die Decke gebohrt.
+
+**Gegeben und empfangen**:
+- Gruppe → Aalafiel: **Kristallkugel** (Lysandriels, aus der Truhe), damit sie via Rektor/Vizerektor der [[Magische Akademie Lunovar|Magischen Akademie Lunovar]] Kontakt halten kann.
+- Aalafiel → Gruppe: **[[Goldene Drachenschuppe]]** von [[Palamedis]] (*„Er gab sie mir für Glück; ihr braucht sie mehr als ich."*)
+
+**Neue Mission**: [[Palamedis]] finden. Aalafiel kann der Gruppe nicht folgen — der [[Aalafiels Trank|Trank]] verliert mit der Zeit seine Wirksamkeit und zwingt sie, Abstand zu anderen zu halten.
+
+**Letzter Kontakt**: [[Session 19]]. Aalafiel trennte sich von der Gruppe und machte sich auf den Weg zu Palamedis.
+
 ## Offene Fragen
 - ~~Ist sie wirklich Lysantirs Freundin?~~ **Ja** (S17).
 - Wer versuchte sie einst **in gegossenem Eisen zu töten** — und warum? (Verbindung zu den **gepanzerten Elfen**, die sie vor 4–5 Monden vernichten wollten — [[Elfaria Albis von Sylphid|Sylphid]]? [[Cassomir]]?)
 - Ist das **Fluch-Wesen** im [[Verhängnisturm]] identisch mit **[[das Nichts]]**?
 - Was war ihr **„Zirkel"**, aus dem sie ausgestoßen wurde?
 - Was weiß sie über [[Borgrim Runenbrecher|Seelenmagie]] und das verbrannte [[Spinnenwesen]]? (in S17 nicht weiter vertieft)
+- Hat sie [[Palamedis]] erreicht? (nach S19 offen)
 
 ## Verknüpfungen
 - [[Erliorwald]]
@@ -96,5 +111,8 @@ Ihr Beiname *„Monster vom Erlior"* rührt von ihrer **Aura**: jedes Wesen empf
 - [[Verhängnisturm]]
 - [[Gruft des Buches]]
 - [[das Nichts]]
+- [[Goldene Drachenschuppe]]
+- [[Lysandriels Ring]]
 - [[Session 16]]
 - [[Session 17]]
+- [[Session 19]]
