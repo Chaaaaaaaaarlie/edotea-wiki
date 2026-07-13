@@ -2,7 +2,7 @@
 type: meta
 title: "Wiki Index"
 created: 2026-05-11
-updated: 2026-06-29
+updated: 2026-07-13
 tags:
   - meta
 status: mature
@@ -48,11 +48,11 @@ Master catalog. Updated on every ingest.
 ## Items (13) — see [[_index|Items Index]]
 - [[Aalafiels Trank]] · [[Akronisjuwel]] · [[Blaue Metallbarren]] · [[Dis-Enchanter]] · [[Goldene Drachenschuppe]] · [[Gurde]] · [[Krone des Hohen Rates]] · [[Lady Günthers Flasche]] · [[Lysandriels Ring]] · [[Magischer Schluessel]] · [[Spell-Slot-Anhänger]] · [[Staff of Fire]] · [[Wappen des alten Kalineon]]
 
-## Sessions (20) — see [[_index|Sessions Index]]
-- [[Session 19]] · [[Session 18]] · [[Session 17]] · [[Session 16]] · [[Session 15]] · [[Session 14]] · [[Session 13]] · [[Session 12]] · [[Session 11]] · [[Session 10]] · [[Session 9]] · [[Session 8]] · [[Session 7]] · [[Session 6]] · [[Session 5]] · [[Session 4]] · [[Session 3]] · [[Session 2]] · [[Session 1]] · [[Session 0]]
+## Sessions (21) — see [[_index|Sessions Index]]
+- [[Session 20]] · [[Session 19]] · [[Session 18]] · [[Session 17]] · [[Session 16]] · [[Session 15]] · [[Session 14]] · [[Session 13]] · [[Session 12]] · [[Session 11]] · [[Session 10]] · [[Session 9]] · [[Session 8]] · [[Session 7]] · [[Session 6]] · [[Session 5]] · [[Session 4]] · [[Session 3]] · [[Session 2]] · [[Session 1]] · [[Session 0]]
 
-## Sources (8) — see [[_index|Sources Index]]
-- [[Session 19 transcript]] · [[Session 17 transcript]] · [[Session 16 transcript]] · [[Session 15 transcript]] · [[Session 12 transcript]] · [[Session 13 transcript]] · [[Session 14 transcript]] · [[Tagebücher Wilhelm Casterwill]]
+## Sources (9) — see [[_index|Sources Index]]
+- [[Session 20 transcript]] · [[Session 19 transcript]] · [[Session 17 transcript]] · [[Session 16 transcript]] · [[Session 15 transcript]] · [[Session 12 transcript]] · [[Session 13 transcript]] · [[Session 14 transcript]] · [[Tagebücher Wilhelm Casterwill]]
 
 ## Factions (1) — see [[_index|Factions Index]]
 - [[Kalineon-Royalisten]]
@@ -70,6 +70,8 @@ Master catalog. Updated on every ingest.
 - [[hot|Hot Cache]] — recent context
 
 ## Bekannte Lücken
+
+> [!gap] **Session 20 — Unbekannte Angreifer-Kreaturen**: Drei Kreaturen griffen in [[Session 20]] den Akademie-Garten an — Riesenspinne (mobil, schwer zu treffen), Bohnenstangen-Wesen (lange Gliedmaßen, riesige Mäuler), Auge-Orb (Schleim + zentrales Auge). Feuer wirksam, Kälte nicht. Noch keine Bestiarium-Seiten angelegt — Namen/Identität nicht bestätigt.
 
 > [!gap] **[[Delora]]** — als NPC in [[Session 9]], [[Lucien]], [[Marcosias]] erwähnt (Marcosias-Diener, Tiefling-artig, zerfiel beim Tod zu Schatten). DM-Frage offen: soll eigene NPC-Seite angelegt werden?
 

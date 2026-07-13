@@ -2,7 +2,7 @@
 type: meta
 title: "Hot Cache"
 created: 2026-05-11
-updated: 2026-06-29
+updated: 2026-07-13
 tags:
   - meta
 status: evergreen
@@ -11,43 +11,46 @@ status: evergreen
 # Recent Context
 
 ## Last Updated
-2026-06-29 — **Session 19** ingestiert (gespielt 2026-06-29). Die Gruppe schloss die **[[Gruft des Buches]]** ab (Grabkammer + 3 Ton-Drachen-Golems), fand Lysandriels Erbe, öffnete ihren Sarkophag und traf an der Oberfläche **[[Aalafiel]]**. Das **[[Buch der Essenzmagie]] ist verschwunden** — von Zwergen durch ein Deckenloch gestohlen. Eine dritte Kristallkugel zeigt einen Zwerg nahe **[[Carbus]]**. [[Aalafiel]] trennte sich und geht [[Palamedis]] suchen. Nächstes Ziel: **[[Lunovar]]**, dann **[[Carbus]]**.
+2026-07-13 — **Session 20** ingestiert (gespielt 2026-07-13). Die Gruppe (ohne [[Khirin]]) kehrt nach **[[Lunovar]]** zurück. [[Fohlen]] offenbart eine **Divinations-Prophezeiung**: Er wusste vom Angriff und hielt die Gruppe bewusst in der Stadt. Eine **blaue Glasglocken-Barriere** schließt Lunovar ab. Im Akademie-Garten kommt es zu einem Kampf gegen unbekannte Kreaturen (Riesenspinne, Bohnenstangen-Wesen, Auge-Orb). **Session endet mid-combat — Cliffhanger.**
 
-*(Davor: 2026-06-22 — Session 18; 2026-06-16 — Session 17.)*
+*(Davor: 2026-06-29 — Session 19; 2026-06-22 — Session 18.)*
 
 ## Campaign Snapshot
-**Edotea** ist eine D&D-Kampagne auf dem [[Kontinent Edotea]]. PCs: [[Berta]] (Sorcerer/Warlock), [[Hrímnir]] ([[Goliath]] Cleric/Monk), [[Khirin]] (Halbelf Wizard), [[Naeli]] (Halbling Druidin, Schneeeule **Nyra**), [[Sim]] (Simian Fighter/Ranger). Gerade aus der **[[Gruft des Buches]]** im nördlichen [[Erliorwald]] zurückgekehrt. Letzte Session: [[Session 19]].
+**Edotea** ist eine D&D-Kampagne auf dem [[Kontinent Edotea]]. PCs: [[Berta]] (Sorcerer/Warlock), [[Hrímnir]] ([[Goliath]] Cleric/Monk), [[Khirin]] (Halbelf Wizard, **abwesend S20**), [[Naeli]] (Halbling Druidin, Schneeeule **Nyra**), [[Sim]] (Simian Fighter/Ranger). Aktuell: **[[Magische Akademie Lunovar]]** — Kampf läuft noch.
 
-## Aktueller Stand nach Session 19
-Die Gruppe ist an der **Oberfläche** (draußen vor der jetzt vollständig offenen Gruft). [[Aalafiel]] hat sich verabschiedet. Die Gruppe hat [[Lysanthiriel Vaelora|Lysandriels]] komplettes Erbe geborgen und die Bücher-Situation vollständig verstanden.
+## Aktueller Stand nach Session 20
+Die Gruppe befindet sich im **Akademie-Garten von [[Lunovar]]** und kämpft gegen drei unbekannte Angreifer-Kreaturen. Die Stadt ist von einer **blauen Barriere** eingeschlossen. [[Fohlen]] hat die Gruppe absichtlich hier gehalten — sein Prophezeiungsplan läuft.
 
 ## Aktive Fäden
-1. **Buch der Essenzmagie in Zwergenbesitz** — dritte Kristallkugel zeigt Zwerg bei Metallarbeiten, Ort: nahe [[Carbus]]. Priorität: hoch.
-2. **[[Naeli]]s Fluch heilen**: Buch der Essenzmagie (Verwandlung) + Buch der Seelen (Gedächtnis) — beide gerade unerreichbar.
-3. **[[Magolor]] hat Raum+Seele-Bücher** — aktiver Akteur; hat Bertas Pergament-Seite (aus Buch der Schwellen).
-4. **[[Palamedis]] finden** — [[Aalafiel]] übernimmt. Ist das Versiegelungs-Buch noch bei ihm?
-5. **[[Berta]]s 5.000-GP-Kopfgeld** bei [[Edgar Thorne]] in [[Carbus]] — Komplikation für nächste Destination.
-6. **[[Aalafiel]]s Fluch-Wesen** im [[Verhängnisturm]] — identisch mit [[das Nichts]]?
-7. **Glühendes Kristallfragment** (S18, [[Berta]], Wasser-Raum) — weiterhin unidentifiziert.
-8. **[[Gurde]]** bei [[Virion Loramis]]; Folianten-Auftrag für [[Khirin]]; [[Feenwildnis]]-Portal im Erliorwald.
+1. **Kampf läuft — Cliffhanger S20**: Riesenspinne, Bohnenstangen-Wesen, Auge-Orb im Akademie-Garten. Feuer wirksam, Kälte nicht.
+2. **Lunovar unter Angriff** von innen + außen — blaue Glasglocke aktiv. Wer greift an?
+3. **[[Verhängnisturm]]** — [[Naeli]] will dorthin (Fluchheilung). Mitten im Meer, Wunschgewährung, niemand zurückgekehrt.
+4. **Buch der Essenzmagie in Zwergenbesitz** — Zwerg nahe [[Carbus]]; dritte Kristallkugel zeigt ihn bei Metallarbeiten.
+5. **[[Naeli]]s Fluch heilen**: Buch der Essenzmagie (Verwandlung) + Buch der Seelen (Gedächtnis) — beide unerreichbar.
+6. **[[Magolor]] hat Raum+Seele-Bücher** — aktiver Akteur; hat Bertas Pergament-Seite.
+7. **[[Palamedis]] finden** — [[Aalafiel]] übernimmt. Ist das Versiegelungs-Buch noch bei ihm?
+8. **[[Berta]]s 5.000-GP-Kopfgeld** bei [[Edgar Thorne]] in [[Carbus]] — Komplikation.
+9. **Glühendes Kristallfragment** (S18, [[Berta]]) — weiterhin unidentifiziert.
 
 ## Key Facts
 - **Buchverteilung (S19 bestätigt)**:
   - [[Magolor]]: **Buch der Schwellen** (Raum/Wilhelm) + **Buch der Seelen** (Seele/Borgrim) — grüne + rote Perle.
   - **Unbekannte Zwergengruppe**: **Buch der Essenzmagie** (Essenz/Lysandriel) — gestohlen aus der Gruft.
   - [[Palamedis]]: **Buch der Versiegelung** — Verbleib unbekannt; Siegel bereits gebrochen.
-- **Drei Kristallkugeln** im Kommunikationsnetz:
-  - [[Khirin]]s Kugel — seit früheren Sessions bei der Gruppe.
-  - Lysandriels Kugel → an [[Aalafiel]] übergeben; Kontakt via Rektor/Vizerektor [[Magische Akademie Lunovar]].
+- **Drei Kristallkugeln**:
+  - [[Khirin]]s Kugel — bei der Gruppe.
+  - Lysandriels Kugel → an [[Aalafiel]] übergeben; Kontakt via Akademie Lunovar.
   - Zwerg-Kugel — zeigt Zwerg bei Metallarbeiten nahe [[Carbus]].
-- **[[Aalafiel]]** (seit S19 getrennt): ~3200 J., verflucht (Abscheu-Aura + Unsterblichkeit), [[Aalafiels Trank|Trank]] = ihr Blut. Mission: [[Palamedis]] finden. Letzte [[Goldene Drachenschuppe]] weitergegeben.
-- **[[Lysanthiriel Vaelora]]** (S19 bestätigt): Skelett im Sarkophag der Grabkammer; ihr Ring = Sarkophag-Schlüssel; Brief von ihr bestätigt Absicht, Buch + Hinterlassenschaft zu versiegeln; Forschungsnotizen und [[Akronisjuwel]] hinterlassen.
-- **[[Gruft des Buches]]** (S19 abgeschlossen): 10 Räume fertig; Deckenloch = Zwerg-Einbruch; erklärt retroaktiv gebrochenes Siegel.
-- **[[Palamedis]]** = goldener Drache, älter als [[Aalafiel]]; schläft im Nordvulkan ([[Eiswueste-Vulkan-Riss]]?). Sein Blut in der Gruft diente als Ritual-Schlüssel.
-- **[[Naeli]]s Fluch-Heilweg**: Essenz-Buch (Verwandlung) + Seelen-Buch (Gedächtnis), nur bei gebrochenem Siegel.
-- **Level Up** nach Session 18 (bleibt aktuell für Session 19).
+- **Zwergensiedlungen (S20)**: Nord=Pharmas (Ost von Lögress); Berg=lokal (vor ~800–900 Jahren eingewandert); Süd.
+- **[[Borgrim Runenbrecher]]** (S20 bestätigt): aus Pharmas, Hofmagier/Runenschmied des alten Königs, Paria nach Königssturz.
+- **[[Verhängnisturm]]** (S20 Bibliothek): mitten im Meer; Legende: Wunsch an der Spitze; niemand zurückgekehrt; Verbindung zu [[das Nichts]] möglich (offen).
+- **[[Fohlen]]** (S20): Hat via Observatorium-Kristall in die Zukunft gesehen; hielt Gruppe absichtlich in Lunovar; aktivierte blaue Glasglocken-Barriere.
+- **[[Elfaria Albis von Sylphid]]** (S20): Unter Hausarrest von [[Cassomir]]; kooperiert nicht.
+- **[[Lady Günthers Flasche]]** (S20): Von Fohlen repariert zurückgegeben — goldener Lack, Runen erneuert, noch leer.
+- **[[Aalafiel]]** (seit S19 getrennt): ~3200 J., verflucht. Mission: [[Palamedis]] finden.
+- **Level Up** nach Session 18 (weiterhin aktuell).
 
-## Loot aus Session 19 (unveräußert)
+## Loot aus Session 19–20 (unveräußert)
 - **[[Akronisjuwel]]** (ungeschliffen; Waffen-Einbau; +Donner/Säure/Nekrotisch per Spell Slot)
 - **[[Blaue Metallbarren]]** (neue sehr leichte Legierung)
 - **Lysandriels Forschungsnotizen**
@@ -55,17 +58,18 @@ Die Gruppe ist an der **Oberfläche** (draußen vor der jetzt vollständig offen
 - **3 Goldweinkrüge** (~18 Karat Gold + Wein)
 - **Dekorierte Zwergenaxt** ([[Sim]])
 - **[[Goldene Drachenschuppe]]** (von [[Palamedis]] via [[Aalafiel]]; Funktion: Glück — Details offen)
+- **[[Lady Günthers Flasche]]** (repariert; goldener Lack, Runen erneuert; leer)
 
 ## Recent Changes
-- 2026-06-29 (Ingest): [[Session 19]]. Gruft abgeschlossen. Neue Items: [[Akronisjuwel]], [[Lysandriels Ring]], [[Goldene Drachenschuppe]], [[Blaue Metallbarren]]. Buchverteilung bestätigt. [[Aalafiel]] verabschiedet. Nächste Destination: Lunovar → Carbus.
-- 2026-06-22 (Ingest): [[Session 18]] — Foliant-Puzzle, Guillotine-Kampf, Blut-Siegel-Ritual, Null-Auftrieb-Wasser, Kristall-Naturkräfte-Puzzle. [[Hrímnir]] zurück. Level Up!
-- 2026-06-16 (Ingest): [[Session 17]] — [[Aalafiel]], [[Palamedis]], [[Drei Bücher]], [[Gruft des Buches]], [[Verhängnisturm]].
+- 2026-07-13 (Ingest): [[Session 20]]. Lunovar unter Angriff. Glasglocke aktiv. Fohlen-Prophezeiung. Neue Lore: [[Verhängnisturm]], Zwergensiedlungen. [[Elfaria]] unter Hausarrest. Lady Günthers Flasche repariert. Cliffhanger mid-combat.
+- 2026-06-29 (Ingest): [[Session 19]]. Gruft abgeschlossen. Neue Items: [[Akronisjuwel]], [[Lysandriels Ring]], [[Goldene Drachenschuppe]], [[Blaue Metallbarren]]. Buchverteilung bestätigt. [[Aalafiel]] verabschiedet.
+- 2026-06-22 (Ingest): [[Session 18]] — Foliant-Puzzle, Guillotine-Kampf, Level Up.
 
 ## Open Loops
-- Wer ist der **Zwerg mit der dritten Kristallkugel** nahe [[Carbus]]?
-- Welche Gruppe von Zwergen stahl das **Essenz-Buch** und warum?
-- Hat **[[Aalafiel]]** [[Palamedis]] erreicht? Was weiß er über das gebrochene Siegel?
+- Wer steckt hinter dem **Angriff auf Lunovar** von innen + außen?
+- Was sind die **unbekannten Kreaturen** (Spinne, Bohnenstangen, Auge-Orb) genau?
+- Wie endet der **Kampf im Akademie-Garten**?
+- Ist [[Verhängnisturm]] wirklich lösbar — und ist das Wesen dort = [[das Nichts]]?
 - Was ist das **glühende Kristallfragment** aus Raum 4 der Gruft?
-- Ist [[Aalafiel]]s Fluch-Wesen ([[Verhängnisturm]]) = [[das Nichts]]?
-- Wer versuchte [[Aalafiel]] einst in gegossenem Eisen zu töten?
+- Hat [[Aalafiel]] [[Palamedis]] erreicht?
 - **[[Goldene Drachenschuppe]]** — genaue mechanische Funktion?

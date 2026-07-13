@@ -12,6 +12,22 @@ status: evergreen
 
 Append-only. New entries at the **TOP**. Never edit past entries.
 
+## [2026-07-13] ingest | Session 20 (gespielt 2026-07-13) aus WhisperX-Transkript
+
+- **Quelle**: `craig-2pJg2zY5d0Sx\corrected_obsidian.md` (WhisperX large-v3, de, 162 Korrekturen). Dauer: ~2h 56min. **[[Khirin]] abwesend** — 4 PCs (Berta, Hrímnir, Naeli, Sim).
+- **Sprecher-Mapping**: `nightcore0302`=DM, `feeminin`=[[Naeli]], `mep0510`=[[Sim]], `hansmeier`=[[Hrímnir]], `drore`=[[Berta]].
+- **Rohdatei kopiert**: `.raw/session-transcripts/Session 20 - 13.07.2026.md`.
+- **Neue Seiten**: [[Session 20]], [[Session 20 transcript]].
+- **Aktualisierte Seiten**: [[Fohlen]], [[Elfaria Albis von Sylphid]], [[Lady Günthers Flasche]], [[Verhängnisturm]], [[hot|Hot Cache]].
+- **Schlüssel-Erkenntnisse**:
+  - **[[Fohlen]] offenbart Prophezeiung**: sah den Angriff via Observatorium-Kristall voraus; hielt die Gruppe absichtlich in Lunovar.
+  - **Lunovar unter Angriff** von innen + außen. Blaue **Glasglocken-Barriere** über der Stadt aktiviert.
+  - **[[Verhängnisturm]]** (Bibliotheksrecherche S20): mitten im Meer; Legende: Wunschgewährung an der Spitze; niemand zurückgekehrt. [[Naeli]] will dorthin (Fluchheilung).
+  - **Zwergensiedlungen kartiert**: Nord=Pharmas (Ost Lögress); Berg=lokal (vor ~800–900 J. aus Pharmas); Süd. [[Borgrim Runenbrecher|Borgrims]] Herkunft bestätigt (Pharmas, Paria nach Königssturz).
+  - **[[Elfaria Albis von Sylphid]]** unter Hausarrest (Cassomir).
+  - **[[Lady Günthers Flasche]]** repariert (goldener Lack, Runen erneuert) von Fohlen zurückgegeben.
+  - **Kampf-Cliffhanger**: Drei unbekannte Kreaturen im Akademie-Garten (Riesenspinne, Bohnenstangen-Wesen, Auge-Orb). Feuer=wirksam, Kälte=nicht. Session endet mid-combat (~22:47).
+
 ## [2026-06-29] ingest | Session 19 (gespielt 2026-06-29) aus WhisperX-Transkript
 
 - **Quelle**: `craig-5v6ONGOSCCqj-cYVN_EopeLoHj5p_20260629_221904\corrected_obsidian.md` (WhisperX large-v3, de, 191 Korrekturen). Dauer: ~2h 45min. Alle fünf PCs anwesend.

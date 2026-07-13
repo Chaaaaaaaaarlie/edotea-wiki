@@ -14,14 +14,22 @@ related:
 sources:
   - Session 17 transcript
 created: 2026-06-16
-updated: 2026-06-16
-status: stub
+updated: 2026-07-13
+status: developing
 ---
 
 # Verhängnisturm
 
 ## Überblick
 Ein sagenumwobener Turm, von dem [[Aalafiel]] in [[Session 17]] berichtet. Heimat des **gestaltwandelnden Wesens**, das sie verflucht hat.
+
+## Neue Erkenntnisse ([[Session 20]] — Bibliotheksrecherche)
+- Akademie-Bibliothek bestätigt: **liegt mitten im Meer**.
+- **Legende**: Wer die Spitze des Turms erreicht, bekommt einen **Wunsch erfüllt**.
+- **Niemand ist je zurückgekehrt** — bestätigt durch schriftliche Quellen.
+- [[Naeli]] möchte den Turm aufsuchen — hofft, ihren **Fluch** dort heilen zu lassen.
+
+> [!key-insight] Die Wunsch-Legende macht den Turm zu einem aktiven Ziel für [[Naeli]]s Fluchheilung — unabhängig vom Bewohner.
 
 ## Bekannte Fakten ([[Session 17]])
 - **Existiert in jedem Realm an derselben Stelle** — eine über die Ebenen/Dimensionen hinweg fixierte Struktur.

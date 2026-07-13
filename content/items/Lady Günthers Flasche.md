@@ -20,7 +20,7 @@ sources:
   - Session 14
   - Session 14 transcript
 created: 2026-05-25
-updated: 2026-06-01
+updated: 2026-07-13
 status: developing
 ---
 
@@ -50,6 +50,12 @@ status: developing
 ## Einschränkungen
 - Kompatibel mit **pferdeähnlichen Alchemiewesen** — nicht nur Lady Günther. Normale nicht-alchemische Pferde unklar.
 - Kein bestätigtes Maximalgewicht.
+
+## [[Session 20]] — Reparatur & Rückgabe
+
+- [[Fohlen]] übergibt [[Sim]] die Flasche **repariert**: goldener Lack erneuert, Runen wieder intakt.
+- Flasche ist **noch leer** (kein Pony/Inhalt).
+- Vorherige Beschädigung der Flasche nicht im Vault dokumentiert — möglicherweise Schaden aus S18/S19 Gruft-Ereignissen.
 
 ## Offene Fragen
 - Was passiert, wenn die Flasche **zerbricht** während das Pony drin ist? Hrímnir-OOC-Tipp: *"Eine Flasche zertrümmern und reparieren mit Mending."*

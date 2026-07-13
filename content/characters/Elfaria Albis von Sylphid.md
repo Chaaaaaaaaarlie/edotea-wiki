@@ -21,7 +21,7 @@ sources:
   - Session 14
   - Session 14 transcript
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-07-13
 status: developing
 ---
 
@@ -76,6 +76,14 @@ status: developing
 - Reagiert während des Combat-Anfangs ausschließlich **defensiv** — keine eigenen Angriffe, vertraut den Wachen, zieht sich zurück.
 - **Hat die Krone vom Thron nicht bemerkt**, als Khirin sie via Misty Step + Dash klaut (sie war hinter dem Thron).
 - Nach der Flucht: *"Wartet nur ab, ihr Vagabunden."* — Verfolgung wird folgen.
+
+## [[Session 20]] — Hausarrest
+
+- **Elfaria steht unter Hausarrest**, angeordnet von [[Cassomir]].
+- **Kooperiert nicht** — direkte Auskunft über ihr Verhalten gemäß Fohlen.
+- Nicht direkt getroffen in dieser Session; Information über Fohlen.
+
+> [!stale] Elfarias Reaktion auf Khirins Krone-Diebstahl und den Hausarrest ist noch unbekannt — Verfolgung oder Eskalation bislang nicht eingetreten (oder intern gebremst durch Hausarrest?).
 
 ## Offene Fragen
 - Wie alt? *"Ein bisschen älter"* als andere Elfen vielleicht.

@@ -13,7 +13,7 @@ sources:
   - Tagebücher Wilhelm Casterwill
   - Session 17 transcript
 created: 2026-05-11
-updated: 2026-06-16
+updated: 2026-07-13
 status: developing
 ---
 # Borgrim Runenbrecher
@@ -45,6 +45,17 @@ status: developing
 - Borgrims Foliant heißt kanonisch **Buch der Seelen** (Seelenmagie *„bindet"*; siehe [[Drei Bücher]]). In der **[[Gruft des Buches]]** ist die korrekte Reihenfolge der drei Steintafel-Bücher **Schwelle → Essenz → Seele** — Borgrims als letztes.
 - Laut [[Aalafiel]] könnte das **Buch der Seelen** [[Naeli]]s **Gedächtnisverlust** heilen (nur bei gebrochenem Siegel).
 - In den Statuen der Gruft ist Borgrim als **kniender Zwerg** vor dem König dargestellt (mit Halseisen + Steintafel-Buch).
+
+## [[Session 20]] — Bibliotheksrecherche: Herkunft bestätigt
+
+Akademie-Bibliothek ([[Lunovar]]) liefert neue Fakten über Borgrim:
+
+- Stammt aus **Pharmas** — der nördlichen Zwergensiedlung östlich von [[Lögress]].
+- Diente dem alten König von [[Kalineon]] als **Hofmagier und Runenschmied**.
+- Wurde nach dem **Königssturz** zum **Paria** (Ausgestoßener).
+- Kontext: Die Pharmas-Zwerge haben sich vor ~800–900 Jahren in die lokalen Berge aufgeteilt; Borgrim gehört zur Ursprungslinie.
+
+> [!key-insight] Borgrims Paria-Status nach dem Königssturz erklärt möglicherweise, warum sein Buch der Seelen an [[Magolor]] gelangte — kein Schützer, keine Familie die es bewacht.
 
 ## Verknüpfungen
 

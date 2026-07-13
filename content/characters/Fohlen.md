@@ -17,7 +17,7 @@ related:
 sources:
   - Session 12 transcript
 created: 2026-05-12
-updated: 2026-06-01
+updated: 2026-07-13
 status: developing
 ---
 
@@ -100,6 +100,19 @@ Nobel auftretender Elf, freundlich-verspielt-warm, lacht leicht. Gibt offen zu, 
 - Empfängt **Brunnenwasser** von der Gruppe (nach der Cassomir-Anhörung).
 - Ist **Notfallkontakt** — [[Naeli]]s Eule Nyra wird zu ihm entsandt, falls die Gruppe im Erliorwald Hilfe braucht.
 - Übernimmt bei der **Cassomir-Anhörung** Verantwortung für die Leichen-Situation.
+
+## [[Session 20]] — Prophezeiung & Glasglocke
+
+- **Empfängt Bericht** der Gruppe über das gestohlene [[Buch der Essenzmagie]].
+- Informiert über **[[Elfaria Albis von Sylphid]]**: steht unter Hausarrest (angeordnet von [[Cassomir]]), kooperiert nicht.
+- Gibt [[Sim]] die **reparierte [[Lady Günthers Flasche]]** zurück: goldener Lack, Runen erneuert, noch leer.
+- **Wirkt angespannt** — [[Berta]] (Insight): *"Noch nicht fertig."*
+- **Frühstück mit der Gruppe am nächsten Morgen**: Offenbart, dass er durch den **Kristall des Rektors im Observatorium** in die Zukunft gesehen hat.
+- Hielt die Gruppe **absichtlich in Lunovar**: er wusste, dass die Stadt angegriffen werden würde und benötigte die Gruppe dort.
+- Lunovar wird **von innen und außen gleichzeitig angegriffen**.
+- Aktiviert eine **blaue Glasglocken-Barriere** über der Stadt (via Kristall).
+
+> [!key-insight] Fohlen setzt seine Divination erneut strategisch ein — dieses Mal nicht nur reaktiv, sondern als aktiver Plan: die Gruppe als Teil seiner Vorbereitung.
 
 ## Offene Fragen
 - Wie kam er zu seinem Cloak of Archmage?
