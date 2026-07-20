@@ -10,7 +10,7 @@ sources:
   - Tagebücher Wilhelm Casterwill
   - Session 17 transcript
 created: 2026-05-11
-updated: 2026-06-16
+updated: 2026-07-20
 status: developing
 ---
 ![[Naeli.png|496]]
@@ -94,6 +94,14 @@ status: developing
   - In der **[[Gruft des Buches]]**: las die elfische Inschrift; **Windwall** schützte die Gruppe vor dem Giftgas; **Moonbeam** zerlegte einen Stein-Golem; Natural Recovery / Heilung am Ende.
   - Musste die Session früh beenden (Abschlussprüfung am Morgen) → Cut mitten im Dungeon.
 
+## [[Session 21]]
+
+- Castet zum ersten Mal **Holy Word** im Abschluss-Kampf gegen die [[Session 20]]-Kreaturen im Akademie-Garten.
+- Ihre **Moonbeam** tötet die Riesenspinne.
+- Belauscht mit [[Berta]] (Perception) zwei Wachen und einen vermummten Magier, der die Jagd auf eine Zielperson im Adelsviertel befiehlt.
+- Entdeckt im Bad von [[Cassomir]]s Anwesen die zweite Kanalisationsklappe unter der Toilette.
+- Überzeugt (**Persuasion mit Vorteil**) die misstrauischen Wachen von Cassomirs Anwesen, die Hilfe der Gruppe anzunehmen.
+
 ## Verknüpfungen
 
 - [[Anwesen]]
@@ -131,3 +139,6 @@ status: developing
 - [[Drei Bücher]]
 - [[Gruft des Buches]]
 - [[Palamedis]]
+- [[Cassomir]]
+- [[Session 20]]
+- [[Session 21]]

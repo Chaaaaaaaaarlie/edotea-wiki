@@ -21,7 +21,7 @@ sources:
   - Session 14
   - Session 14 transcript
 created: 2026-05-25
-updated: 2026-07-13
+updated: 2026-07-20
 status: developing
 ---
 
@@ -85,6 +85,15 @@ status: developing
 
 > [!stale] Elfarias Reaktion auf Khirins Krone-Diebstahl und den Hausarrest ist noch unbekannt — Verfolgung oder Eskalation bislang nicht eingetreten (oder intern gebremst durch Hausarrest?).
 
+## [[Session 21]] — Vermutlich Ziel der Belagerung
+
+- Während des Angriffs auf [[Lunovar]] wird [[Cassomir]]s Anwesen (wo Elfaria unter Hausarrest steht) von Kreaturen und abtrünnigen Wachen **belagert**.
+- Wachen, die Elfarias Symbol tragen, werden von den Kreaturen **verschont** — während Wachen mit Cassomirs Insignie gezielt gefressen werden.
+- Die Gruppe schließt aus dem Gespräch mit Cassomirs Wachen (namentlich nicht bestätigt, nur über die Anspielung "vorher noch mit der Trulla reden") dass **Elfaria die im Anwesen festgehaltene Gefangene** ist, die von der abtrünnigen Fraktion gesucht wird.
+- Elfaria selbst wird in dieser Session **nicht direkt gesehen** — alles erschlossen. Cliffhanger vor dem Kampf um das Anwesen.
+
+> [!gap] Ist Elfaria Ziel einer Befreiung, einer Entführung, oder in Wahrheit Drahtzieherin der Belagerung (durch ihre Verschonung durch die Kreaturen naheliegend)? Ungeklärt.
+
 ## Offene Fragen
 - Wie alt? *"Ein bisschen älter"* als andere Elfen vielleicht.
 - Wer sind die anderen zwei Wächter-Familien (für Wilhelms und Borgrims Bücher)?
@@ -96,3 +105,4 @@ status: developing
 ## Verknüpfungen
 - [[Lunovar]] · [[Fohlen]] · [[Lysanthiriel Vaelora]] · [[Drei Bücher]] · [[Magische Akademie Lunovar]]
 - [[Krone des Hohen Rates]] (geklaut von [[Khirin]])
+- [[Cassomir]] · [[Session 20]] · [[Session 21]]

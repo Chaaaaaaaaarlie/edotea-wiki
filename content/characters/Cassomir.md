@@ -15,7 +15,7 @@ related:
 sources:
   - Session 15 transcript
 created: 2026-06-01
-updated: 2026-06-02
+updated: 2026-07-20
 status: developing
 ---
 
@@ -66,10 +66,21 @@ Die Gruppe wurde nach der Kronenklaue-Eskalation aus [[Session 14]] vor Cassomir
 ## Lunovar-Geschichte (laut Cassomir)
 *"Lunowa ist als Grundmauer der Gerechtigkeit im Krieg gegen den alten König erbaut worden."* — Lunovar wurde in einem Krieg gegen **"den alten König"** gegründet. Cassomir findet es betrüblich, dass die Stadt diese Gründungswerte nicht mehr vollständig lebt.
 
+## [[Session 21]] — Anwesen belagert
+
+- Während des Angriffs auf [[Lunovar]] befindet sich **Cassomir selbst nicht in seinem Anwesen** — laut seinen Wachen kämpft er anderswo in der Stadt gegen die Kreaturen.
+- Sein **Anwesen im Adelsviertel wird belagert** — sowohl von den unbekannten Kreaturen als auch von abtrünnigen Lunovar-Wachen, die offenbar eine dort festgehaltene **Gefangene** erbeuten wollen.
+- Die Gefangene wird von der Gruppe als vermutlich **[[Elfaria Albis von Sylphid]]** identifiziert (unter Hausarrest seit [[Session 20]], von Cassomirs Leuten bewacht).
+- Cassomirs Wachen (mit seiner Insignie) werden von den Kreaturen **gezielt angegriffen und gefressen** — im Gegensatz zu Wachen mit Elfarias Symbol, die verschont bleiben. Deutet auf eine gegen Cassomir bzw. seine Bewachung gerichtete Verschwörung hin.
+- Die Gruppe dringt über die Kanalisation ins Anwesen ein, wird von seinen Wachen zunächst bedroht, aber nach Persuasion als Verstärkung akzeptiert (keine Überlebensgarantie).
+
+> [!gap] Warum genau werden Cassomirs Wachen gezielt angegriffen, während Elfarias verschont bleiben? Steckt die Belagerung hinter der Absicht, Elfaria zu befreien — oder sie zu entführen?
+
 ## Offene Fragen
 - **Wer ist "der alte König"**, gegen den Lunovar gegründet wurde?
 - Welche Konsequenzen drohen [[Elfaria Albis von Sylphid]] konkret?
 - Wozu wird die Magolor-Skizze verwendet — hat Cassomir Interesse an Magolor?
+- Wer belagert sein Anwesen und warum genau ist Elfaria das Ziel?
 
 ## Verknüpfungen
 - [[Elfaria Albis von Sylphid]]
@@ -79,3 +90,5 @@ Die Gruppe wurde nach der Kronenklaue-Eskalation aus [[Session 14]] vor Cassomir
 - [[Berta]]
 - [[Magolor]]
 - [[Session 15]]
+- [[Session 20]]
+- [[Session 21]]

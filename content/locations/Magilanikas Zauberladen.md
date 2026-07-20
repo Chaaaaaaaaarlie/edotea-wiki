@@ -11,7 +11,7 @@ related:
 sources:
   - Session 12 transcript
 created: 2026-05-11
-updated: 2026-05-12
+updated: 2026-07-20
 status: developing
 ---
 # Magilanikas Zauberladen
@@ -45,6 +45,9 @@ Eine spezialisierte Zauberboutique, die von der exzentrischen Magierin [[Magilan
 - Staff of Power (~40.000 Gold)
 - Grüner verzauberter Bogen (leuchtet bei maximaler Spannung)
 - Diverse Kuriositäten und glänzende Gegenstände
+
+## [[Session 21]]
+- Während des Angriffs auf [[Lunovar]] weitgehend unversehrt geblieben; [[Khirin]] bringt seine Eltern hierher in Sicherheit, bewacht von Akademie-Wachen.
 
 ## Erste Begegnung
 - [[Session 12]]

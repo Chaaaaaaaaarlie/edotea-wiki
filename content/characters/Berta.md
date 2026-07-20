@@ -8,7 +8,7 @@ tags:
 related: []
 sources: []
 created: 2026-05-11
-updated: 2026-06-09
+updated: 2026-07-20
 status: developing
 ---
 # Berta
@@ -74,6 +74,7 @@ status: developing
 - Magie im Wasser vom Brunnen der östlichen Garnison wird von der Seite vollständig absorbiert.
 - Nachdem [[Berta]] die Seite in den Brunnen tauchte, wurde das gesamte Brunnenwasser seiner Magie entleert; die Seite hat danach ca. 3 Tage Kraft.
 - In [[Session 11]] testet [[Berta]], eigene Magie in das Pergament zu kanalisieren; ein Warlock-Slot der Stufe 2 erhöht die Restdauer leicht auf etwa 2,5 Tage.
+- **[[Session 21]]**: Die Seite reagiert wie von leichtem Wind erfasst, wenn Berta sie freihält, und **zieht in eine bestimmte Richtung** — führt die Gruppe zielsicher durch das brennende Adelsviertel direkt zum belagerten Anwesen von [[Cassomir]]. Vermutung der Gruppe: die Seite reagiert auf die Nähe zu ihrem Ursprung bzw. zu wer auch immer mit den [[Drei Bücher|Büchern]] agiert (unbestätigt).
 
 ### Pakt mit dem Erschaffer der Seite / [[das Nichts]]
 
@@ -107,6 +108,13 @@ status: developing
 - **Illusion** von [[Magolor]] + den Folianten für Aalafiel (kennt ihn nicht).
 - In der **[[Gruft des Buches]]**: setzt die Steine/Steintafel-Bücher; nutzt im Golem-Kampf den **[[Dis-Enchanter]]** (ein Treffer zerstäubt einen Golem, dann **ladungsleer**), **Silvery Barbs**, **Shatter** (Disadvantage gegen Konstrukte), **Shocking Grasp**.
 - **Heilt** [[Khirin]] per Medicine-Check und gibt ihm/sich Heilung; trinkt aus ihrer **[[Lady Günthers Flasche|magischen Flasche]]** (magisches Wasser, heilt — Nat 20 → 8 Leben).
+
+## [[Session 21]]
+
+- Macht [[Hrímnir]] unsichtbar (**Invisibility**), damit er den Leichenhaufen der Kreaturen sabotieren kann.
+- Bringt die Gruppe per **Shatter** durch die Betonabdeckung des zweiten Kanalisationsschachts.
+- Reinigt die Gruppe nach dem Kanalisations-Marsch mit **Prestidigitation** (auf Hrímnirs Bitte, da er selbst keine Zauber mehr frei hatte).
+- Ihre magische Pergamentseite führt die Gruppe zum belagerten Anwesen von [[Cassomir]] (siehe „Die Seite" oben).
 
 ## Verknüpfungen
 
@@ -146,3 +154,6 @@ status: developing
 - [[Dis-Enchanter]]
 - [[Lady Günthers Flasche]]
 - [[Drei Bücher]]
+- [[Cassomir]]
+- [[Session 20]]
+- [[Session 21]]

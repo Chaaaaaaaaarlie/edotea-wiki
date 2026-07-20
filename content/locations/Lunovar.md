@@ -9,7 +9,7 @@ related: []
 sources:
   - Session 14
 created: 2026-05-11
-updated: 2026-05-26
+updated: 2026-07-20
 status: developing
 ---
 # Lunovar
@@ -61,6 +61,17 @@ status: developing
 - Zwischen Adelsfamilien herrschen Spannungen.
 - Elektrum-Besitz ist strafbar.
 - Lunovar ist kommunikativ und politisch zunehmend von [[Kalineon]] abgeschnitten.
+
+## Angriff auf Lunovar ([[Session 20]]–[[Session 21]])
+
+Eine blaue **Glasglocken-Barriere** ([[Session 20]]) schließt die Stadt ab, während sie von unbekannten menschenfressenden Kreaturen und zwei kreisenden chromatischen Drachen (rot/Feuer, blau/Donner) angegriffen wird.
+
+- **Adelsviertel großflächig in Flammen** — die große Ratshalle (Sitz des Hohen Rates) wird belagert, niemand kommt heraus.
+- **Stadtwache gespalten**: Wachen mit [[Elfaria Albis von Sylphid|Elfarias]] Symbol werden von den Kreaturen verschont, Wachen mit [[Cassomir]]s Insignie gezielt angegriffen — deutet auf gesteuerte Sabotage/Verschwörung hin.
+- Ein unbekannter, vermummter alter Magier (braunes Haar) befehligt Wachen und Kreaturen bei der Jagd auf eine Zielperson im Adelsviertel — vermutlich [[Elfaria Albis von Sylphid]], die in [[Cassomir]]s belagertem Anwesen festgehalten wird.
+- Die Kreaturen stapeln getötete Wachen zu einem Leichenhaufen (Zweck unbekannt) — von der Gruppe niedergebrannt.
+
+> [!gap] Wer steuert die gespaltene Stadtwache und die Kreaturen? Wer ist der vermummte Magier? Sind die zwei Drachen Verbündete oder Angreifer?
 
 ## Stadtviertel
 
@@ -119,3 +130,6 @@ Nach Audienz mit [[Elfaria Albis von Sylphid]]:
 - [[Elfaria Albis von Sylphid]]
 - [[Krone des Hohen Rates]]
 - [[Berthas Bohnen]]
+- [[Cassomir]]
+- [[Session 20]]
+- [[Session 21]]

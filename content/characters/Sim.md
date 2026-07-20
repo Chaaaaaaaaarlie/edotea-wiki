@@ -8,7 +8,7 @@ tags:
 related: []
 sources: []
 created: 2026-05-11
-updated: 2026-06-09
+updated: 2026-07-20
 status: developing
 ---
 # Sim
@@ -88,6 +88,12 @@ status: developing
 - Haupt-Nahkämpfer gegen die **Stein-Golems**: Kampfstab (Quarterstaff, 5 ft), **Topple/Pushing Attack** (Prone), **Action Surge**, vier Angriffe/Runde.
 - Im Finale: findet den **Docht im Maul der Drachenstatue** und kippt mit dem **Waterskin** Wasser in die Kopfschalen der Magier-Statuen → löst den Raum.
 
+## [[Session 21]]
+
+- Klettert als Erster über die 15-Meter-Stadtmauer zum Adelsviertel (via Haus mit offenem Eingang) und lässt ein Seil für die Gruppe herunter.
+- Scoutet mehrfach per Perception vom Mauerabschnitt aus, entdeckt den Leichenhaufen der Kreaturen und schlägt die Sabotage vor.
+- Springt mit [[Berta]] in ein Loch der zerschlagenen Kanalisationsabdeckung hinunter (D6-Fallschaden).
+
 ## Verknüpfungen
 
 - [[Cadnix]]
@@ -123,3 +129,6 @@ status: developing
 - [[Session 17]]
 - [[Aalafiel]]
 - [[Gruft des Buches]]
+- [[Cassomir]]
+- [[Session 20]]
+- [[Session 21]]

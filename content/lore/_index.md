@@ -2,14 +2,14 @@
 type: meta
 title: "Lore Index"
 created: 2026-05-11
-updated: 2026-06-09
+updated: 2026-07-20
 tags:
   - meta
   - lore
 status: evergreen
 ---
 
-# Lore (17 + Bestiarium 13)
+# Lore (17 + Bestiarium 14)
 
 ## Götter & Höllenfürsten
 - [[Corellon]]
@@ -48,6 +48,7 @@ status: evergreen
 - [[Gedankenschaender]] *(neu, Session 12 — Mind Flayer)*
 - [[Geist]]
 - [[Revenant]]
+- [[Rictus Mors]] *(neu, Session 21 — menschenfressende Kreaturen, Angriff auf Lunovar, immun gegen Piercing)*
 - [[Shadow]]
 - [[Skelett]]
 - [[Spectre]]

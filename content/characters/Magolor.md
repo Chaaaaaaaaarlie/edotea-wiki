@@ -28,7 +28,7 @@ sources:
   - Session 14
   - Session 14 transcript
 created: 2026-05-11
-updated: 2026-05-26
+updated: 2026-07-20
 status: mature
 ---
 # Magolor
@@ -104,6 +104,12 @@ Per [[Berta]]s **Detect Thoughts** auf [[Sophie Marie]]:
 - [[Crucellus]] kennt den Namen [[Magolor]] nicht.
 - In einem Buch der Akademie-Bibliothek über berüchtigte Magier taucht [[Magolor]] ebenfalls nicht auf.
 
+## [[Session 21]] — Verdacht beim Angriff auf Lunovar (unbestätigt)
+
+- Während des Angriffs auf [[Lunovar]] belauscht die Gruppe einen **vermummten, alten Magier mit braunem Haar**, der Wachen zur Jagd auf eine Zielperson befiehlt.
+- Die Gruppe vermutet spekulativ eine Magolor-Verbindung ("stinkt alles nach Magolor"), aber das **Haar passt nicht** (Magolor: schwarzes Haar, [[Session 14]] bestätigt) — **keine Bestätigung**, eher ein neuer/anderer Akteur.
+- [[Berta]]s Pergamentseite (aus Magolors Buch der Schwellen) zieht während der Session Richtung Cassomirs belagertem Anwesen — könnte auf Magolors Nähe hindeuten, ist aber nicht eindeutig.
+
 ## Offene Fragen
 - Welche zwei Bücher hat er konkret (Raum/Essenz/Seele zu grün/rot)?
 - Wie viele Helfer hat sein Kreis?
@@ -115,4 +121,5 @@ Per [[Berta]]s **Detect Thoughts** auf [[Sophie Marie]]:
 - [[Anwesen]] · [[Elliot]] · [[Lysanthiriel Vaelora]] · [[Oestliche Garnison von Cadnix]] · [[Wilhelm Casterwill]] · [[Borgrim Runenbrecher]]
 - [[Drei Bücher]] · [[das Nichts]] · [[Risse]] · [[Tagebücher Wilhelm Casterwill]]
 - [[Sophie Marie]] · [[Spymaster]]
-- [[Session 4]] · [[Session 5]] · [[Session 6]] · [[Session 7]] · [[Session 10]] · [[Session 11]] · [[Session 14]]
+- [[Session 4]] · [[Session 5]] · [[Session 6]] · [[Session 7]] · [[Session 10]] · [[Session 11]] · [[Session 14]] · [[Session 21]]
+- [[Cassomir]] · [[Lunovar]]

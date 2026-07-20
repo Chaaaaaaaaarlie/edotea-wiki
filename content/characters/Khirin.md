@@ -8,7 +8,7 @@ tags:
 related: []
 sources: []
 created: 2026-05-11
-updated: 2026-06-09
+updated: 2026-07-20
 status: developing
 ---
 # Khirin
@@ -90,6 +90,23 @@ status: developing
 - Bleibt der neugierige **Looter** der Gruppe — Reibung mit [[Naeli]] (*„fui Edelsteine!"*).
 - Kann **Draconisch lesen** → entziffert [[Aalafiel]]s Fluch-Text (in den Chat geschickt).
 
+## [[Session 21]] — Abwesend in Session 20, zurück im Angriff
+
+- War in [[Session 20]] abwesend; die Session öffnet mit seiner **Solo-Szene** zu Hause bei seinen Eltern in [[Lunovar]], während der Angriff aus Session 20 die Stadt erreicht.
+- Castet **Shatter** auf die Dachbalken über einer eindringenden Kreatur — das einstürzende Dach begräbt sie und verschafft Zeit zur Flucht.
+- Lenkt die Kreaturen bewusst auf sich, damit seine Eltern fliehen können; wird dabei von einer Kreatur **in Hals/Seite gebissen (30 Schaden)** — beinahe tödlich.
+- Rettet seine Mutter per **Dimensionstor** (500 ft); sein Vater flieht separat per Disengage — **beide Eltern überleben**.
+- Kämpft sich schwer verwundet durch die von Toten übersäten Straßen zur Akademie und trifft auf [[Hrímnir]], der mitten im [[Session 20]]-Cliffhanger-Kampf steckt.
+- Wird von [[Hrímnir]] geheilt; nimmt am Ende des Kampfes mit **Fireball** die letzten Kreaturen aus.
+- Bringt seine Eltern in Sicherheit in den **[[Magilanikas Zauberladen]]**, bewacht von Akademie-Wachen.
+- Bestätigt per **Nature-Check**, dass zwei über der Glasglocken-Barriere kreisende Drachen (rot/Feuer, blau/Donner) echt und natürlich sind.
+- Beschwört eine unsichtbare **Trixie-Fay** (Amulett-Spellslot), um einen verdächtigen vermummten Magier zu observieren — ohne neue Erkenntnisse.
+- Erinnert sich (History) an die zentrale Kanalisation des Adelsviertels, die außerhalb des Viertels zugänglich ist, und führt die Gruppe dorthin.
+- Bedroht (schauspielernd, missglückte Intimidation) zwei Adelige, um Zugang zum Kanalisationsschacht zu erzwingen.
+
+> [!warning] DM-Only — Elternnamen
+> Die Eltern-Tokens wurden vom DM scherzhaft "Geralt von Riva" und "Rita von Riva" genannt (Witcher-Referenz) — vermutlich kein In-Game-Name, nicht als Kanon übernommen.
+
 ## Verknüpfungen
 
 - [[Carbus]]
@@ -120,3 +137,7 @@ status: developing
 - [[Session 17]]
 - [[Aalafiel]]
 - [[Gruft des Buches]]
+- [[Magilanikas Zauberladen]]
+- [[Cassomir]]
+- [[Session 20]]
+- [[Session 21]]

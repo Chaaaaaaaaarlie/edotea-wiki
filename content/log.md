@@ -2,7 +2,7 @@
 type: meta
 title: "Wiki Log"
 created: 2026-05-11
-updated: 2026-06-29
+updated: 2026-07-20
 tags:
   - meta
 status: evergreen
@@ -11,6 +11,24 @@ status: evergreen
 # Wiki Log
 
 Append-only. New entries at the **TOP**. Never edit past entries.
+
+## [2026-07-20] ingest | Session 21 (gespielt 2026-07-20) aus WhisperX-Transkript
+
+- **Quelle**: `craig-AZnuCnr7sjCm-2ws5TiuHzUV3fZR_20260720_222522\corrected_obsidian.md` (WhisperX large-v3, de, 234 Korrekturen). Dauer: ~3h 5min. **Alle fünf PCs anwesend** ([[Khirin]] kehrt nach Abwesenheit in [[Session 20]] zurück).
+- **Sprecher-Mapping**: `nightcore0302`=DM, `luke_234`=[[Khirin]], `feeminin`=[[Naeli]], `mep0510`=[[Sim]], `hansmeier`=[[Hrímnir]], `drore`=[[Berta]].
+- **Rohdatei kopiert**: `.raw/session-transcripts/Session 21 - 20.07.2026.md`.
+- **Neue Seiten**: [[Session 21]], [[Session 21 transcript]], [[Rictus Mors]] (Bestiarium-Eintrag).
+- **Aktualisierte Seiten**: [[Khirin]], [[Naeli]], [[Hrímnir]], [[Sim]], [[Berta]], [[Cassomir]], [[Elfaria Albis von Sylphid]], [[Lunovar]], [[Magilanikas Zauberladen]], [[Drei Bücher]], [[Magolor]], [[hot|Hot Cache]].
+- **Schlüssel-Erkenntnisse**:
+  - **[[Khirin]] überlebt Solo-Angriff** auf sein Elternhaus in [[Lunovar]]; rettet beide Eltern (Dimensionstor + Disengage), wird schwer verwundet (30 Schaden Halsbiss), schließt sich der Gruppe im [[Session 20]]-Cliffhanger-Kampf an. Eltern in [[Magilanikas Zauberladen]] in Sicherheit.
+  - **Kampf aus [[Session 20]] abgeschlossen** — neue Kampfdaten: die Angreifer-Kreaturen sind **immun gegen Piercing-Schaden**. Neuer Bestiarium-Eintrag [[Rictus Mors]] (DM-Ad-hoc-Name, vermutlich = "Bohnenstangen-Wesen" aus S20).
+  - **Zwei chromatische Drachen** (rot/Feuer, blau/Donner) kreisen über der Glasglocken-Barriere — Rolle unklar.
+  - **Lunovar-Stadtwache gespalten**: Wachen mit [[Elfaria Albis von Sylphid|Elfarias]] Symbol verschont, Wachen mit [[Cassomir]]s Insignie von den Kreaturen gezielt angegriffen. Ein unbekannter vermummter Magier (braunes Haar, **nicht** [[Magolor]] laut Haarfarbe) befehligt die Jagd auf eine Zielperson im Adelsviertel.
+  - **Adelsviertel großflächig in Flammen**; große Ratshalle belagert, niemand kommt raus (~400 Kreaturen vs. ~700 Verteidiger, DM-Schätzung).
+  - **Ritueller Leichenhaufen** der Kreaturen von [[Hrímnir]] (unsichtbar) niedergebrannt — Zweck unbekannt.
+  - **[[Berta]]s Pergamentseite** (Buch der Schwellen) zieht richtungsweisend zum belagerten Anwesen von [[Cassomir]] — dort vermutlich **[[Elfaria Albis von Sylphid]]** als Gefangene festgehalten.
+  - Gruppe dringt via Kanalisation in Cassomirs Anwesen ein, überzeugt dessen Wachen (Persuasion) von ihrer Hilfe. **Cliffhanger**: Gruppe steht kurz vor dem Entscheidungskampf um das Anwesen.
+- **Zähler-Updates**: Sessions 20→21, Sources 9→10, Bestiarium 13→14. Charaktere/Locations/Factions unverändert (keine neuen benannten Entitäten außer dem Bestiarium-Eintrag). `index.md`, `hot.md` aktualisiert.
 
 ## [2026-07-13] ingest | Session 20 (gespielt 2026-07-13) aus WhisperX-Transkript
 

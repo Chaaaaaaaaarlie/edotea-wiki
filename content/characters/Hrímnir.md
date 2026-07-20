@@ -8,7 +8,7 @@ tags:
 related: []
 sources: []
 created: 2026-05-11
-updated: 2026-06-22
+updated: 2026-07-20
 status: developing
 ---
 ![[Hrimnir.png|533]]
@@ -93,6 +93,15 @@ status: developing
 - **Gold-Sammeln (Natur-Raum)**: nutzte **Giant Size** + großes Blanket als Buffs → 4d100 Würfe; trotz Riesengröße rutschten die Münzen durch (155 GP, schlechtestes Ergebnis der Gruppe). Das Gold löst sich beim Dungeon-Verlassen auf.
 - **Level Up** nach Session 18.
 
+## [[Session 21]]
+
+- Kämpft bereits mitten im [[Session 20]]-Cliffhanger, als [[Khirin]] zu ihm stößt; nutzt **Step of the Wind**, um sich schützend vor Khirin zu stellen, heilt ihn danach.
+- Schleicht sich (von [[Berta]] unsichtbar gemacht) zu einem von den Kreaturen aufgehäuften Leichenhaufen, übergießt ihn mit Naelis Öl und entzündet ihn per **Elemental-Monk**-Feuerhandfläche (kein Zauber) — sabotiert damit ein unbekanntes Ritual.
+- Schlägt einen überheblichen Adligen zu Boden (Unarmed Attack), um Zugang zur Kanalisation zu erzwingen.
+- Findet im Bad des ersten Hauses ein **"Pfundstück"** (elfisches Sexspielzeug) und nimmt es mit.
+- Tritt mit erhobenen Händen aus dem Bad von [[Cassomir]]s Anwesen und verhandelt mit den dortigen Wachen um Hilfe für die Verteidigung.
+- Reinigt die Gruppe per **Prestidigitation** (über [[Berta]] geliehen, da er selbst keine Zauber mehr frei hatte) nach dem Kanalisations-Marsch.
+
 ## Verknüpfungen
 
 - [[Berta]]
@@ -125,3 +134,6 @@ status: developing
 - [[Session 18]]
 - [[Aalafiel]]
 - [[Gruft des Buches]]
+- [[Cassomir]]
+- [[Session 20]]
+- [[Session 21]]
