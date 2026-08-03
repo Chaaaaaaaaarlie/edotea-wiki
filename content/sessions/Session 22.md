@@ -30,7 +30,7 @@ sources:
 # Session 22 — Der Erbe des alten Königs
 
 ## TL;DR
-Die Gruppe schließt das Verhör der gefangenen "[[Elfaria Albis von Sylphid|Elfaria]]" ab — sie ist in Wahrheit **Evelyn**, eine Menschenseele in einem per Seelenmagie gekaperten Elfenkörper, im Dienst von **[[Magolor]]**. Evelyn enthüllt Magolors Ziel: Er erhebt Anspruch als **Erbe des alten, vor ~750 Jahren gestürzten Königshauses von [[Kalineon]]**. Die Gruppe erhält drei magische Gegenstände von Cassomirs Verteidigern, kehrt via Kanalisation zurück und dringt in die belagerte **Zitadelle** (Ratssaal) ein, wo **[[Cassomir]]** gegen eine Kreaturenhorde und die feindliche Hochelf-Wache **Eli** in die Enge getrieben kämpft. **Kein erzählerischer Cliffhanger**: Die Session endet mitten im Rettungskampf durch anhaltenden Foundry-VTT-Serverausfall.
+Die Gruppe schließt das Verhör der gefangenen "[[Elfaria Albis von Sylphid|Elfaria]]" ab — sie ist in Wahrheit **Evelyn**, eine Menschenseele in einem per Seelenmagie gekaperten Elfenkörper, im Dienst von **[[Magolor]]**. Evelyn enthüllt Magolors Ziel: Er erhebt Anspruch als **Erbe des alten, vor ~750 Jahren gestürzten Königshauses von [[Kalineon]]**. Die Gruppe erhält drei magische Gegenstände von Cassomirs Verteidigern, kehrt via Kanalisation zurück und dringt in die belagerte **Zitadelle** (Ratssaal) ein, wo **[[Cassomir]]** und die verbündete Hochelf-Schwertwache **Eli** gegen eine Kreaturenhorde in die Enge getrieben kämpfen. **Kein erzählerischer Cliffhanger**: Die Session endet mitten im Rettungskampf durch anhaltenden Foundry-VTT-Serverausfall.
 
 ## Recap
 
@@ -68,14 +68,14 @@ Die Gruppe entscheidet: nächstes Ziel ist **[[Cassomir]] an der Zitadelle**. Zu
 Um den Nachschub der Horde durch das Haupttor zu blockieren, verwirft die Gruppe eine Fireball-Einsturz-Idee (*"großes Holztor, schlechte Idee"*) sowie eine Schutt-Barrikade (Spinnenwesen könnten drüberklettern). Stattdessen castet [[Naeli]] ihren vorbereiteten Sturm-/Gewitter-Zauber; [[Hrímnir]], [[Khirin]] und [[Sim]] verstärken ihn per **Zirkelmagie** (gemeinsames Casting, jeder investiert einen Spell Slot) — Reichweite und Dauer (bis zu einer Stunde) werden deutlich erhöht, um das Haupttor zu versiegeln.
 
 ### Rettung im Ratssaal
-Über die Zuschauertribünen (normalerweise für Geschworene) kämpft sich die Gruppe in den Hauptsaal vor und erkennt **[[Cassomir]]**, mit dem Rücken zur Wand, nur noch begleitet von zwei einfachen Wachen — in denkbar schlechter Position gegen mehrere **riesige Spinnenwesen**, mindestens eine weitere Kreatur (immun gegen Donner, nicht gegen Kälte) sowie eine namentlich neue, feindliche **Hochelf-Schwertwache: Eli**.
+Über die Zuschauertribünen (normalerweise für Geschworene) kämpft sich die Gruppe in den Hauptsaal vor und erkennt **[[Cassomir]]**, mit dem Rücken zur Wand, nur noch begleitet von zwei einfachen Wachen und der namentlich neuen, verbündeten **Hochelf-Schwertwache Eli** — in denkbar schlechter Position gegen mehrere **riesige Spinnenwesen** und mindestens eine weitere Kreatur (immun gegen Donner, nicht gegen Kälte).
 
-> [!gap] Ist Eli eine abtrünnige Lunovar-Wache?
-> Die Stadtwache ist seit [[Session 21]] bekanntermaßen gespalten (Elfaria-loyal vs. Cassomir-loyal). Eli kämpft aktiv **gegen** Cassomir — passt zum Muster der abtrünnigen Fraktion, ist aber nicht bestätigt.
+> [!note] Korrektur zu Eli
+> Eli ist **nicht feindlich**, sondern eine verbündete Hochelf-Schwertwache auf Cassomirs Seite.
 
 Der Kampf beginnt:
 - **[[Hrímnir]]** (bestätigt: **Goliath Monk/Cleric-Multiclass**) stürmt vor, verteilt Donnerschaden (nicht bei allen Gegnern wirksam), nutzt eine Monk-Fähigkeit, um einen Gegner 10 Fuß weg und nach oben zu stoßen und zu Boden zu werfen, heilt sich per Cleric-Feature um 12 TP, gerät jedoch in das Maul eines Riesenspinnenwesens (gegrappelt) — kritische Situation.
-- **[[Berta]]** stellt sich Eli direkt entgegen, trifft kritisch (~22 to-hit), verursacht schwere Blutungsschäden; strahlender Schaden zeigt bei Eli keine zusätzliche Wirkung.
+- **[[Berta]]** trifft im Kampf kritisch (~22 to-hit), verursacht schwere Blutungsschäden; strahlender Schaden zeigt beim getroffenen Gegner keine zusätzliche Wirkung.
 - **[[Khirin]]** hält aufgrund einer bislang unbekannten, *"mittelmäßigen"* Vorgeschichte mit Spinnen Abstand, schließt eine Tür (freie Interaktion), weicht per Dash aus und landet schließlich einen Fernkampf-Zauber (Trefferwurf 19, nach einem missglückten ersten Versuch).
 - **[[Sim]]** hilft [[Naeli]] eine Tribünenwand hochzuklettern; sein Affen-Gefährte ("Äffchen") landet nach mehreren wirkungslosen (vermutlich resistierten) Angriffen einen **kritischen Treffer für 41 Schaden**, der eines der Riesenspinnenwesen tötet.
 
@@ -89,13 +89,13 @@ Der Kampf beginnt:
 - Gruppe erhält **drei magische Gegenstände** von Cassomirs Wachen: Stab (identifiziert als **Staff of Warning**), **Bogen +2**, **Staff of Charming** (an [[Naeli]]).
 - Rückweg via Kanalisation (deutlich höherer Wasserstand) direkt in die belagerte **Zitadelle** (Ratssaal aus [[Session 14]]/[[Session 15]]).
 - Gruppe versiegelt das Haupttor der Zitadelle gegen Nachschub mittels **Zirkelmagie**-verstärktem Sturmzauber ([[Naeli]] + drei Mitcaster).
-- **[[Cassomir]] gefunden** — in die Enge getrieben, kämpft gegen Riesenspinnenwesen, eine weitere Kreatur und die neue, namentlich bekannte feindliche Hochelf-Wache **Eli** (mögliche Verräterin aus der gespaltenen Stadtwache).
+- **[[Cassomir]] gefunden** — in die Enge getrieben, kämpft gemeinsam mit der neuen, namentlich bekannten verbündeten Hochelf-Schwertwache **Eli** gegen Riesenspinnenwesen und eine weitere Kreatur.
 - Rettungskampf beginnt, bleibt **unentschieden** — Session endet durch technischen Abbruch, nicht durch Story-Cliffhanger.
 
 ## NPCs Encountered
 - **Evelyn** (in [[Elfaria Albis von Sylphid]]s Körper) — enthüllt ihre wahre Identität und Magolors Kalineon-Anspruch; bleibt gefangen in der Villa.
 - **[[Cassomir]]** — in der Zitadelle aufgefunden, in die Enge getrieben, nur noch zwei Wachen übrig; Rettung im Gange.
-- **Eli** — neue, namentlich bekannte feindliche **Hochelf-Schwertwache**; kämpft gegen [[Cassomir]] und die Gruppe (primär gegen [[Berta]]); möglicherweise eine abtrünnige Lunovar-Wache.
+- **Eli** — neue, namentlich bekannte verbündete **Hochelf-Schwertwache**; kämpft auf [[Cassomir]]s Seite.
 - **Villa-Wachen von Cassomirs Anwesen** — bestätigen den reinen Schutzauftrag für Evelyn/"Elfaria"; übergeben der Gruppe drei magische Gegenstände.
 - **Riesenspinnenwesen** (mehrere) — greifen im Ratssaal an; eines von Sims Affen-Gefährten getötet.
 - **Unbenannte Kreatur** — immun gegen Donner, nicht gegen Kälte.
@@ -108,7 +108,7 @@ Der Kampf beginnt:
 
 ## Open Threads
 - **Unentschiedener Rettungskampf** um [[Cassomir]] in der Zitadelle — Fortsetzung nächste Session.
-- **Wer/was ist Eli** — abtrünnige Wache aus der gespaltenen Stadtwache ([[Session 21]]) oder unabhängige Feindin?
+- **Wer/was ist Eli genau?** — verbündete Hochelf-Schwertwache auf [[Cassomir]]s Seite; Rang/Zugehörigkeit innerhalb der Lunovar-Verteidiger noch offen.
 - **Magolors Kalineon-Anspruch** — echter Thronfolger oder Wahn/Propaganda? Verbindung zu den [[Kalineon-Royalisten]] ungeklärt.
 - **Schicksal der echten Elfaria-Seele** — was geschah mit ihr, als Evelyn den Körper übernahm?
 - Hat die Gruppe die Falsch-Info (Tempel-Location) tatsächlich erfolgreich gestreut, und wird Magolors Seite darauf hereinfallen?

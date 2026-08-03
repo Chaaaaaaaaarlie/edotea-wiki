@@ -80,7 +80,7 @@ Die Gruppe wurde nach der Kronenklaue-Eskalation aus [[Session 14]] vor Cassomir
 
 Die Gruppe folgt Hinweisen zur **Zitadelle** (der aus [[Session 14]]/[[Session 15]] bekannte Ratssaal — die *"belagerte Ratshalle"* aus [[Session 21]]), dringt via Kanalisation ein und versiegelt das Haupttor gegen Nachschub (Zirkelmagie-Sturmzauber, siehe [[Session 22]]).
 
-Im Hauptsaal (Krone wieder auf dem Thron) finden sie **Cassomir**, mit dem Rücken zur Wand, nur noch begleitet von zwei einfachen Wachen — bedrängt von mehreren Riesenspinnenwesen, einer weiteren Kreatur und der neuen, namentlich bekannten feindlichen Hochelf-Wache **Eli** (möglicherweise eine Verräterin aus der gespaltenen Stadtwache, siehe [[Session 21]]). Die Gruppe stürzt sich in den Kampf, um ihn zu retten.
+Im Hauptsaal (Krone wieder auf dem Thron) finden sie **Cassomir**, mit dem Rücken zur Wand, nur noch begleitet von zwei einfachen Wachen und der neuen, namentlich bekannten verbündeten Hochelf-Schwertwache **Eli** — bedrängt von mehreren Riesenspinnenwesen und einer weiteren Kreatur. Die Gruppe stürzt sich in den Kampf, um ihn zu retten.
 
 > [!warning] Kein Ausgang bestätigt
 > Der Rettungskampf ist am Ende von [[Session 22]] **nicht abgeschlossen** — die Sitzung endete durch technischen Abbruch (Server-Ausfall), nicht durch Story-Cliffhanger. Cassomir lebt zu diesem Zeitpunkt noch.

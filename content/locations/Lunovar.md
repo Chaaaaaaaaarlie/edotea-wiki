@@ -77,7 +77,7 @@ Eine blaue **Glasglocken-Barriere** ([[Session 20]]) schließt die Stadt ab, wä
 
 Die gefangene "Elfaria" (in Wahrheit **Evelyn**, siehe [[Elfaria Albis von Sylphid]]) enthüllt: **[[Magolor]] beansprucht das Erbe des alten Kalineon-Königshauses**, das vor 800 Jahren von Lunovar (und einer zweiten Macht) entmachtet wurde — sein Feldzug ist ein Rückeroberungsversuch. Deckt sich mit [[Cassomir]]s Aussage, Lunovar sei *"im Krieg gegen den alten König"* gegründet worden (siehe [[Kalineon]]).
 
-Die Gruppe dringt in die **Zitadelle** (der Ratssaal aus [[Session 14]]/[[Session 15]] — die *"belagerte Ratshalle"* aus [[Session 21]]) ein und findet **[[Cassomir]]** dort in die Enge getrieben, verteidigt von nur zwei Wachen gegen Riesenspinnenwesen und die neue feindliche Hochelf-Wache **Eli**. Rettungskampf zum Sitzungsende **unentschieden**.
+Die Gruppe dringt in die **Zitadelle** (der Ratssaal aus [[Session 14]]/[[Session 15]] — die *"belagerte Ratshalle"* aus [[Session 21]]) ein und findet **[[Cassomir]]** dort in die Enge getrieben, verteidigt von nur zwei Wachen und der verbündeten Hochelf-Schwertwache **Eli** gegen Riesenspinnenwesen und weitere Kreaturen. Rettungskampf zum Sitzungsende **unentschieden**.
 
 ## Stadtviertel
 
