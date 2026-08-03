@@ -8,7 +8,7 @@ tags:
 related: []
 sources: []
 created: 2026-05-11
-updated: 2026-07-20
+updated: 2026-08-03
 status: developing
 ---
 # Sim
@@ -94,6 +94,14 @@ status: developing
 - Scoutet mehrfach per Perception vom Mauerabschnitt aus, entdeckt den Leichenhaufen der Kreaturen und schlägt die Sabotage vor.
 - Springt mit [[Berta]] in ein Loch der zerschlagenen Kanalisationsabdeckung hinunter (D6-Fallschaden).
 
+## [[Session 22]]
+
+- Bestätigt als **Hunter (Ranger-Subclass)** mit eigenen Spell Slots — spendet einen davon für die Zirkelmagie-Verstärkung von Naelis Sturmzauber.
+- Erhält von Cassomirs Wachen vermutlich den **Bogen +2** (nicht eindeutig bestätigt).
+- Hilft [[Naeli]] eine Tribünenwand im Ratssaal hochzuklettern (Athletics/Räuberleiter).
+- Sein **Affen-Gefährte ("Äffchen")** landet nach mehreren wirkungslosen Angriffen einen **kritischen Treffer für 41 Schaden**, der ein Riesenspinnenwesen im Rettungskampf um [[Cassomir]] tötet.
+- Nutzt Push-Effekt seines Bogens, um eine Leiche vom Kampffeld zu schleudern.
+
 ## Verknüpfungen
 
 - [[Cadnix]]
@@ -132,3 +140,4 @@ status: developing
 - [[Cassomir]]
 - [[Session 20]]
 - [[Session 21]]
+- [[Session 22]]

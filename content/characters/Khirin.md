@@ -8,7 +8,7 @@ tags:
 related: []
 sources: []
 created: 2026-05-11
-updated: 2026-07-20
+updated: 2026-08-03
 status: developing
 ---
 # Khirin
@@ -107,6 +107,14 @@ status: developing
 > [!warning] DM-Only — Elternnamen
 > Die Eltern-Tokens wurden vom DM scherzhaft "Geralt von Riva" und "Rita von Riva" genannt (Witcher-Referenz) — vermutlich kein In-Game-Name, nicht als Kanon übernommen.
 
+## [[Session 22]]
+
+- Speist [[Elfaria Albis von Sylphid|Evelyn]] bewusst eine **falsche Tempel-Location** unter (Deception 17, ohne Charisma-Bonus) — Sabotage-Versuch gegen Magolors Suche.
+- Navigiert die Gruppe per **History-Check (13, mit Bertas Guidance)** durch die Kanalisation direkt in die Zitadelle — nutzt seine bislang unbekannte **Vorgeschichte als Arbeiter im Untergrund/der Kanalisation**.
+- Im Rettungskampf um [[Cassomir]]: hält aufgrund einer bislang unerzählten, *"mittelmäßigen"* Vorgeschichte mit Riesenspinnen bewusst Abstand, weicht per Dash aus, landet schließlich einen Fernkampf-Zauber (Trefferwurf 19).
+
+> [!gap] Khirins Vorgeschichte mit Riesenspinnen — unerzählt, nicht weiter ausgeführt.
+
 ## Verknüpfungen
 
 - [[Carbus]]
@@ -141,3 +149,5 @@ status: developing
 - [[Cassomir]]
 - [[Session 20]]
 - [[Session 21]]
+- [[Session 22]]
+- [[Kalineon]]

@@ -28,10 +28,13 @@ sources:
   - Session 14
   - Session 14 transcript
 created: 2026-05-11
-updated: 2026-07-20
+updated: 2026-08-03
 status: mature
 ---
 # Magolor
+
+> [!key-insight] Magolor beansprucht das Kalineon-Königserbe ([[Session 22]])
+> Laut **Evelyn** (siehe [[Elfaria Albis von Sylphid]]) ist Magolor der **Erbe des alten, vor ~750–800 Jahren gestürzten Kalineon-Königshauses** (siehe [[Kalineon]]). Sein Feldzug gegen [[Lunovar]] liest sich damit als Rückeroberungsversuch. Deckt sich mit [[Cassomir]]s Aussage aus [[Session 15]], Lunovar sei *"im Krieg gegen den alten König"* gegründet worden.
 
 ## Aussehen (bestätigt in [[Session 14]])
 
@@ -110,6 +113,18 @@ Per [[Berta]]s **Detect Thoughts** auf [[Sophie Marie]]:
 - Die Gruppe vermutet spekulativ eine Magolor-Verbindung ("stinkt alles nach Magolor"), aber das **Haar passt nicht** (Magolor: schwarzes Haar, [[Session 14]] bestätigt) — **keine Bestätigung**, eher ein neuer/anderer Akteur.
 - [[Berta]]s Pergamentseite (aus Magolors Buch der Schwellen) zieht während der Session Richtung Cassomirs belagertem Anwesen — könnte auf Magolors Nähe hindeuten, ist aber nicht eindeutig.
 
+## [[Session 22]] — Evelyns Enthüllung
+
+Verhört von der Gruppe, bestätigt seine Agentin **Evelyn** (siehe [[Elfaria Albis von Sylphid]]):
+- Magolor betreibt aktive **Seelenmagie**-Praxis: übertrug Evelyns menschliche Seele in einen Elfenkörper (Elfarias) — *"nicht leicht zu bekommen"*, aber operativ mäßig erfolgreich.
+- Sein Interesse an [[Lunovar]] gilt **der Stadt selbst**, nicht nur Evelyn/Elfaria — er ist *"zielstrebig"* und sucht das **dritte Buch** (vermutlich [[Drei Bücher|Buch der Essenzmagie]], bei der unbekannten Zwergengruppe).
+- **Zentrale Enthüllung**: Er beansprucht sich als **Erbe des alten Kalineon-Königshauses**, das vor **800 Jahren** von [[Lunovar]] (und einer zweiten, ungenannten Macht) entmachtet wurde. Sein Ziel: *"Kalinion"* (Kalineon) — andernfalls dessen Zerstörung.
+- Bietet der Gruppe Sicherheit, Gesundheit, eine *"Zukunft"* im Tausch gegen Kooperation — Andeutung, seine Seelenmagie könne Krankheit/Tod besiegen. Abgelehnt.
+- Die Gruppe speist Evelyn bewusst eine **falsche Tempel-Location** unter, um Magolors Suche zu sabotieren.
+
+> [!contradiction] Kalineon-Royalisten neu zu bewerten
+> [[Session 13]]: [[Berta]] hielt die [[Kalineon-Royalisten]] für **nicht** mit Magolor verbunden. Diese Enthüllung stellt das infrage — siehe [[Kalineon-Royalisten]].
+
 ## Offene Fragen
 - Welche zwei Bücher hat er konkret (Raum/Essenz/Seele zu grün/rot)?
 - Wie viele Helfer hat sein Kreis?
@@ -121,5 +136,5 @@ Per [[Berta]]s **Detect Thoughts** auf [[Sophie Marie]]:
 - [[Anwesen]] · [[Elliot]] · [[Lysanthiriel Vaelora]] · [[Oestliche Garnison von Cadnix]] · [[Wilhelm Casterwill]] · [[Borgrim Runenbrecher]]
 - [[Drei Bücher]] · [[das Nichts]] · [[Risse]] · [[Tagebücher Wilhelm Casterwill]]
 - [[Sophie Marie]] · [[Spymaster]]
-- [[Session 4]] · [[Session 5]] · [[Session 6]] · [[Session 7]] · [[Session 10]] · [[Session 11]] · [[Session 14]] · [[Session 21]]
-- [[Cassomir]] · [[Lunovar]]
+- [[Session 4]] · [[Session 5]] · [[Session 6]] · [[Session 7]] · [[Session 10]] · [[Session 11]] · [[Session 14]] · [[Session 21]] · [[Session 22]]
+- [[Cassomir]] · [[Lunovar]] · [[Kalineon]] · [[Kalineon-Royalisten]]

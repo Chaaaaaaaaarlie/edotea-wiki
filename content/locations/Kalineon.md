@@ -8,7 +8,7 @@ tags:
 related: []
 sources: []
 created: 2026-05-11
-updated: 2026-05-11
+updated: 2026-08-03
 status: developing
 ---
 # Kalineon
@@ -26,6 +26,9 @@ status: developing
 - Diese Politik führte zu langen Kriegen, hohen Abgaben, Zwangsrekrutierungen und religiösen Spannungen.
 - Auch der [[Erliorwald]] und die Elfen, aus denen später [[Lunovar]] hervorging, litten unter den Überfällen des alten Regimes.
 - Das **Wappen** des alten Königshauses ist in [[Wilhelm Casterwill|Wilhelm Casterwills]] Tagebüchern dokumentiert — siehe [[Wappen des alten Kalineon]]. In [[Session 13]] erkennen [[Berta]] und [[Khirin]] dieses Wappen an einer Brosche des toten **[[Spymaster|Spymasters]]** — Khirins Hypothese: aktive **[[Kalineon-Royalisten]]**, die [[Lysanthiriel Vaelora|Lysantirs]] Pergament begehren.
+
+> [!key-insight] Magolor beansprucht den alten Thron ([[Session 22]])
+> **[[Magolor]]** erhebt laut seiner Agentin Evelyn (siehe [[Elfaria Albis von Sylphid]]) Anspruch als **Erbe des alten, hier gestürzten Königshauses**. [[Lunovar]] sei eine der Mächte, die vor 800 Jahren die Herrschaft entzogen habe — sein Feldzug gegen die Stadt ([[Session 20]]–[[Session 22]]) liest sich als Rückeroberungsversuch. Verbindung zu den [[Kalineon-Royalisten]] (bislang als unabhängig von Magolor eingestuft, [[Session 13]]) ist **neu zu bewerten**.
 
 ## Entstehung des heutigen Kalineon
 
@@ -89,6 +92,8 @@ status: developing
 - [[Session 5]]
 - [[Session 7]]
 - [[Session 13]]
+- [[Session 22]]
+- [[Magolor]]
 - [[Vortigern]]
 - [[Wilhelm Casterwill]]
 - [[Wappen des alten Kalineon]]

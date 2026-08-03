@@ -5,6 +5,7 @@ character_type: npc
 aliases:
   - Elfaria
   - Vertreterin des Rates
+  - Evelyn
 tags:
   - character
   - npc
@@ -21,11 +22,14 @@ sources:
   - Session 14
   - Session 14 transcript
 created: 2026-05-25
-updated: 2026-07-20
+updated: 2026-08-03
 status: developing
 ---
 
 # Elfaria Albis von Sylphid
+
+> [!warning] Identitäts-Reveal ([[Session 22]])
+> Der Körper ist weiterhin die Elfin Elfaria Albis von Sylphid — die Persönlichkeit darin ist jedoch die Menschenfrau **Evelyn**, eine Agentin von [[Magolor]]. Der Körper wurde ihr **per Seelenmagie** übertragen ("nicht leicht zu bekommen"). Das Schicksal der ursprünglichen Elfen-Seele ist ungeklärt. Siehe [[Session 22]]-Abschnitt unten für Details.
 
 ## Kurzprofil
 | Feld | Wert |
@@ -94,6 +98,20 @@ status: developing
 
 > [!gap] Ist Elfaria Ziel einer Befreiung, einer Entführung, oder in Wahrheit Drahtzieherin der Belagerung (durch ihre Verschonung durch die Kreaturen naheliegend)? Ungeklärt.
 
+## [[Session 22]] — Das Geständnis
+
+Die Gruppe schließt das Verhör aus [[Session 21]] ab. Zentrale Enthüllungen:
+
+- **Wahre Identität**: Sie ist keine Elfin, sondern die Menschenseele **Evelyn** in Elfarias Körper — übertragen per Seelenmagie, *"nicht leicht zu bekommen"*. Sie war *"schon seit einigen Jahren"* in diesem Körper, bereits bei der ersten Begegnung der Gruppe ([[Session 14]]).
+- **Auftraggeber**: Arbeitet direkt für [[Magolor]] — *"Ich bin eher Beifang"*, sein Interesse gelte primär der Stadt.
+- **Magolors Ziel**: Auf Nachfrage nach seinem wahren Ziel antwortet sie *"Kalinion"* — und wenn nicht die Stadt, ihre Zerstörung. [[Lunovar]] sei eine der zwei Mächte, die vor **800 Jahren** dem *"rechtmäßigen Herrschaftshaus"* die Herrschaft entzogen habe; die Stadt wurde gegründet, um Magolor zu nehmen, was ihm zusteht. Auf direkte Frage bestätigt sie: Magolor sei **der Erbe des damaligen Königs** ("soweit ich weiß, ja"). Siehe [[Kalineon]] und [[Kalineon-Royalisten]] für die Lore-Verknüpfung.
+- **Werbeversuch**: Bietet der Gruppe Sicherheit, Gesundheit und eine *"Zukunft"* im Austausch für Kooperation — deutet an, Magolors Seelenmagie könne Krankheit und Tod besiegen. Abgelehnt.
+- **Interesse am Tempel/der Gruft**: Will unbedingt wissen, was die Gruppe in der [[Gruft des Buches]] gefunden hat — bietet Belohnungen. Gruppe verweigert Auskunft; [[Khirin]] speist ihr eine **falsche Tempel-Location** unter (erfolgreiche Deception 17).
+- Wachen vor ihrer Zelle bestätigen: ihr Auftrag ist ausschließlich **Schutz**, keine Tötungsbefugnis — selbst wenn die Verteidigung fällt.
+- [[Berta]] überträgt einer Wache telepathisch alles über Evelyn/Magolor als Absicherung, falls die Gruppe im bevorstehenden Kampf stirbt.
+
+> [!gap] Was geschah mit der echten Elfaria-Seele, als Evelyn den Körper übernahm? Ungeklärt.
+
 ## Offene Fragen
 - Wie alt? *"Ein bisschen älter"* als andere Elfen vielleicht.
 - Wer sind die anderen zwei Wächter-Familien (für Wilhelms und Borgrims Bücher)?
@@ -105,4 +123,5 @@ status: developing
 ## Verknüpfungen
 - [[Lunovar]] · [[Fohlen]] · [[Lysanthiriel Vaelora]] · [[Drei Bücher]] · [[Magische Akademie Lunovar]]
 - [[Krone des Hohen Rates]] (geklaut von [[Khirin]])
-- [[Cassomir]] · [[Session 20]] · [[Session 21]]
+- [[Cassomir]] · [[Session 20]] · [[Session 21]] · [[Session 22]]
+- [[Magolor]] · [[Kalineon]] · [[Kalineon-Royalisten]]

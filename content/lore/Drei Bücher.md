@@ -14,7 +14,7 @@ sources:
   - Tagebücher Wilhelm Casterwill
   - Session 17 transcript
 created: 2026-05-11
-updated: 2026-07-20
+updated: 2026-08-03
 status: developing
 ---
 # Die drei Bücher
@@ -80,6 +80,7 @@ Per [[Berta]]s Detect Thoughts auf [[Sophie Marie]]: die zwei Folianten, die [[M
 
 - **Magolors Bücher** ([[Session 19]] bestätigt): Er besitzt **Buch der Schwellen** (Raum/Wilhelm) und **Buch der Seelen** (Seele/Borgrim) — die zwei Folianten mit roten und grünen Perlen aus S14. Zuordnung Farbe→Magier: weiterhin unklar.
 - **Essenz-Buch gestohlen**: Zwerge bohrten sich von oben durch die Decke der [[Gruft des Buches]] und stahlen das Buch ([[Session 19]]). Einbruchsbeweis: Deckenloch, Seil, Bohrerkopf, zwei Bergmann-Skelette. Dritte Kristallkugel zeigt Zwerg bei Metallarbeiten, Ort: vermutlich [[Carbus]]-Gebiet.
+- **[[Session 22]]**: Evelyn (in [[Elfaria Albis von Sylphid]]s Körper, siehe dort) bestätigt, dass [[Magolor]] weiterhin **das dritte Buch** sucht (vermutlich das Buch der Essenzmagie, siehe oben) und sein Interesse **der Stadt [[Lunovar]] selbst** gilt — im Kontext seines enthüllten Anspruchs als Erbe des alten [[Kalineon]]-Königshauses. [[Khirin]] speist ihr eine falsche Tempel-Location unter, um die Suche zu sabotieren.
 
 ### Elfaria-Aussage ([[Session 14]])
 - *"Diese Bücher wurden in drei verschiedenen Orten versteckt. Ganz Lunovar hat damals unter höchsten Sicherheitsmaßnahmen dafür gesorgt, dass ein Tempel errichtet wurde."*
@@ -108,4 +109,5 @@ Per [[Berta]]s Detect Thoughts auf [[Sophie Marie]]: die zwei Folianten, die [[M
 - [[Tagebücher Wilhelm Casterwill]]
 - [[Carbus]]
 - [[Session 21]]
+- [[Session 22]]
 - [[Cassomir]]

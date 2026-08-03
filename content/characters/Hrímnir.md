@@ -8,7 +8,7 @@ tags:
 related: []
 sources: []
 created: 2026-05-11
-updated: 2026-07-20
+updated: 2026-08-03
 status: developing
 ---
 ![[Hrimnir.png|533]]
@@ -102,6 +102,12 @@ status: developing
 - Tritt mit erhobenen Händen aus dem Bad von [[Cassomir]]s Anwesen und verhandelt mit den dortigen Wachen um Hilfe für die Verteidigung.
 - Reinigt die Gruppe per **Prestidigitation** (über [[Berta]] geliehen, da er selbst keine Zauber mehr frei hatte) nach dem Kanalisations-Marsch.
 
+## [[Session 22]]
+
+- Erkundet unsichtbar die Zitadelle voraus, entdeckt die in den Hauptsaal strömende Kreaturenhorde und informiert die Gruppe.
+- Trägt einen Spell Slot zur **Zirkelmagie**-Verstärkung von Naelis Sturmzauber bei.
+- Im Rettungskampf um [[Cassomir]]: stürmt vor, verteilt Donnerschaden (nicht bei allen Gegnern wirksam), stößt einen Gegner per Monk-Feature 10 ft weg + hoch und zu Boden, heilt sich per Cleric-Feature um 12 TP — gerät jedoch in das Maul eines Riesenspinnenwesens (**gegrappelt**, kritische Situation zum Sitzungsende).
+
 ## Verknüpfungen
 
 - [[Berta]]
@@ -137,3 +143,4 @@ status: developing
 - [[Cassomir]]
 - [[Session 20]]
 - [[Session 21]]
+- [[Session 22]]

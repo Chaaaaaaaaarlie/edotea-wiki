@@ -10,7 +10,7 @@ sources:
   - Tagebücher Wilhelm Casterwill
   - Session 17 transcript
 created: 2026-05-11
-updated: 2026-07-20
+updated: 2026-08-03
 status: developing
 ---
 ![[Naeli.png|496]]
@@ -102,6 +102,15 @@ status: developing
 - Entdeckt im Bad von [[Cassomir]]s Anwesen die zweite Kanalisationsklappe unter der Toilette.
 - Überzeugt (**Persuasion mit Vorteil**) die misstrauischen Wachen von Cassomirs Anwesen, die Hilfe der Gruppe anzunehmen.
 
+## [[Session 22]]
+
+- Erhält von Cassomirs Wachen einen dritten Stab, den **[[Staff of Charming|Staff of Charming]]** (uncommon) — besitzt nun drei Stäbe (Ausgangsstab, Eisstab, dieser).
+- Ihr vorbereiteter **Sturm-/Gewitter-Zauber** (nächtliche Attunement-Wahl statt Wall of Fire) wird per **Zirkelmagie** (mitgetragen von [[Hrímnir]], [[Khirin]], [[Sim]]) massiv verstärkt (Reichweite + bis zu 1 Std. Dauer), um das Haupttor der Zitadelle gegen die Kreaturenhorde zu versiegeln.
+- Wird von [[Sim]] eine Tribünenwand hochgeholfen, um sich im Rettungskampf um [[Cassomir]] zu positionieren.
+
+> [!note] Magie-Mechanik — nächtliches Attunement
+> Naelis Feuerstab ([[Staff of Fire]]) trägt **drei Zauber** (Handflammen-Angriff, Wall of Fire, ein dritter unbekannter Zauber) — sie muss sich jede Nacht während der Rast auf einen bestimmten Zauber "attunen"; ohne diese Wahl funktioniert der jeweilige Zauber nicht. In [[Session 22]] war sie auf den Sturm-Zauber attuned, nicht auf Wall of Fire.
+
 ## Verknüpfungen
 
 - [[Anwesen]]
@@ -142,3 +151,5 @@ status: developing
 - [[Cassomir]]
 - [[Session 20]]
 - [[Session 21]]
+- [[Session 22]]
+- [[Staff of Charming]]

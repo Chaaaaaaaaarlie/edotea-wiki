@@ -8,7 +8,7 @@ tags:
 related: []
 sources: []
 created: 2026-05-11
-updated: 2026-07-20
+updated: 2026-08-03
 status: developing
 ---
 # Berta
@@ -116,6 +116,12 @@ status: developing
 - Reinigt die Gruppe nach dem Kanalisations-Marsch mit **Prestidigitation** (auf Hrímnirs Bitte, da er selbst keine Zauber mehr frei hatte).
 - Ihre magische Pergamentseite führt die Gruppe zum belagerten Anwesen von [[Cassomir]] (siehe „Die Seite" oben).
 
+## [[Session 22]]
+
+- Verhört [[Elfaria Albis von Sylphid|Evelyn]] weiter; erfährt Magolors Kalineon-Erbe-Anspruch.
+- Berührt heimlich die Schläfe einer Wache und überträgt ihr telepathisch alles Wissen über Evelyn/Magolor — Absicherung falls die Gruppe stirbt.
+- Im Rettungskampf um [[Cassomir]]: duelliert die feindliche Hochelf-Wache **Eli** direkt, landet einen kritischen Treffer (~22 to-hit) mit sichtbaren Blutungsschäden; strahlender Schaden zeigt keine Zusatzwirkung gegen Eli.
+
 ## Verknüpfungen
 
 - [[Cadnix]]
@@ -157,3 +163,4 @@ status: developing
 - [[Cassomir]]
 - [[Session 20]]
 - [[Session 21]]
+- [[Session 22]]

@@ -17,7 +17,7 @@ related:
 sources:
   - Session 13 transcript
 created: 2026-05-18
-updated: 2026-05-18
+updated: 2026-08-03
 ---
 
 # Kalineon-Royalisten
@@ -44,6 +44,9 @@ Mögliche Motivation:
 - **[[Carbus]]** — falls die "gesetzlose Stadt" Carbus ist, verknüpft sich der Faden mit [[Khirin]]s Kristallkugel-Pendant-Standort. Spekulativ.
 - **NICHT verbunden** mit [[Magolor]]/[[Y'Chak]]-Bedrohung (laut [[Berta]] in [[Session 13]]).
 
+> [!contradiction] Neu zu bewerten nach [[Session 22]]
+> [[Magolor]]s Agentin Evelyn (siehe [[Elfaria Albis von Sylphid]]) enthüllt in [[Session 22]], dass Magolor sich selbst als **Erbe des alten, gestürzten Kalineon-Königshauses** sieht — exakt dieselbe historische Dynastie, auf die sich das **[[Wappen des alten Kalineon]]** bezieht. Die frühere Einschätzung *"nicht verbunden"* ([[Session 13]]) beruhte auf begrenzter Information und ist **nicht mehr sicher haltbar**. Ob die Royalisten-Bewegung um den toten [[Spymaster]] tatsächlich in Magolors Diensten steht, eine unabhängige, ihm nur ideologisch nahestehende Gruppe ist, oder beide Fäden zufällig denselben historischen Bezugspunkt teilen, bleibt **ungeklärt**.
+
 ## Offene Fragen
 - Wer leitet die Faktion tatsächlich? Der [[Spymaster]] war nur Mittelmann.
 - Ist die "gesetzlose Stadt" ihr Hauptquartier?
@@ -57,3 +60,5 @@ Mögliche Motivation:
 - [[Kalineon]] · [[Lysanthiriel Vaelora]] · [[Wilhelm Casterwill]]
 - [[Berta]] · [[Khirin]]
 - [[Session 13]]
+- [[Session 22]]
+- [[Magolor]] · [[Elfaria Albis von Sylphid]]

@@ -9,7 +9,7 @@ related: []
 sources:
   - Session 14
 created: 2026-05-11
-updated: 2026-07-20
+updated: 2026-08-03
 status: developing
 ---
 # Lunovar
@@ -73,6 +73,12 @@ Eine blaue **Glasglocken-Barriere** ([[Session 20]]) schließt die Stadt ab, wä
 
 > [!gap] Wer steuert die gespaltene Stadtwache und die Kreaturen? Wer ist der vermummte Magier? Sind die zwei Drachen Verbündete oder Angreifer?
 
+### [[Session 22]] — Magolors Kalineon-Anspruch & die Zitadelle
+
+Die gefangene "Elfaria" (in Wahrheit **Evelyn**, siehe [[Elfaria Albis von Sylphid]]) enthüllt: **[[Magolor]] beansprucht das Erbe des alten Kalineon-Königshauses**, das vor 800 Jahren von Lunovar (und einer zweiten Macht) entmachtet wurde — sein Feldzug ist ein Rückeroberungsversuch. Deckt sich mit [[Cassomir]]s Aussage, Lunovar sei *"im Krieg gegen den alten König"* gegründet worden (siehe [[Kalineon]]).
+
+Die Gruppe dringt in die **Zitadelle** (der Ratssaal aus [[Session 14]]/[[Session 15]] — die *"belagerte Ratshalle"* aus [[Session 21]]) ein und findet **[[Cassomir]]** dort in die Enge getrieben, verteidigt von nur zwei Wachen gegen Riesenspinnenwesen und die neue feindliche Hochelf-Wache **Eli**. Rettungskampf zum Sitzungsende **unentschieden**.
+
 ## Stadtviertel
 
 > [!info] **Adelsviertel Lunovar** ([[Session 14]]): durch eine **separate 21-Meter-Mauer** (Attack-on-Titan-Style) vom Rest der Stadt getrennt. Im Zentrum steht ein riesiges Marmor-Gebäude — der **Ratssaal** mit Thron des Hohen Rates. Reicht-Familien wohnen hier in Halb-Palästen. **Pöbel und Halbelfen** sind ausgeschlossen.
@@ -133,3 +139,6 @@ Nach Audienz mit [[Elfaria Albis von Sylphid]]:
 - [[Cassomir]]
 - [[Session 20]]
 - [[Session 21]]
+- [[Session 22]]
+- [[Magolor]]
+- [[Kalineon]]

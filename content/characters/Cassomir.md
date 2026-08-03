@@ -15,7 +15,7 @@ related:
 sources:
   - Session 15 transcript
 created: 2026-06-01
-updated: 2026-07-20
+updated: 2026-08-03
 status: developing
 ---
 
@@ -76,6 +76,15 @@ Die Gruppe wurde nach der Kronenklaue-Eskalation aus [[Session 14]] vor Cassomir
 
 > [!gap] Warum genau werden Cassomirs Wachen gezielt angegriffen, während Elfarias verschont bleiben? Steckt die Belagerung hinter der Absicht, Elfaria zu befreien — oder sie zu entführen?
 
+## [[Session 22]] — In der Zitadelle in die Enge getrieben
+
+Die Gruppe folgt Hinweisen zur **Zitadelle** (der aus [[Session 14]]/[[Session 15]] bekannte Ratssaal — die *"belagerte Ratshalle"* aus [[Session 21]]), dringt via Kanalisation ein und versiegelt das Haupttor gegen Nachschub (Zirkelmagie-Sturmzauber, siehe [[Session 22]]).
+
+Im Hauptsaal (Krone wieder auf dem Thron) finden sie **Cassomir**, mit dem Rücken zur Wand, nur noch begleitet von zwei einfachen Wachen — bedrängt von mehreren Riesenspinnenwesen, einer weiteren Kreatur und der neuen, namentlich bekannten feindlichen Hochelf-Wache **Eli** (möglicherweise eine Verräterin aus der gespaltenen Stadtwache, siehe [[Session 21]]). Die Gruppe stürzt sich in den Kampf, um ihn zu retten.
+
+> [!warning] Kein Ausgang bestätigt
+> Der Rettungskampf ist am Ende von [[Session 22]] **nicht abgeschlossen** — die Sitzung endete durch technischen Abbruch (Server-Ausfall), nicht durch Story-Cliffhanger. Cassomir lebt zu diesem Zeitpunkt noch.
+
 ## Offene Fragen
 - **Wer ist "der alte König"**, gegen den Lunovar gegründet wurde?
 - Welche Konsequenzen drohen [[Elfaria Albis von Sylphid]] konkret?
@@ -92,3 +101,4 @@ Die Gruppe wurde nach der Kronenklaue-Eskalation aus [[Session 14]] vor Cassomir
 - [[Session 15]]
 - [[Session 20]]
 - [[Session 21]]
+- [[Session 22]]
