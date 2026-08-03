@@ -2,20 +2,21 @@
 type: meta
 title: "Sources Index"
 created: 2026-05-11
-updated: 2026-07-20
+updated: 2026-08-03
 tags:
   - meta
   - sources
 status: developing
 ---
 
-# Sources (10)
+# Sources (11)
 
 > [!note] Diese Seite wurde zuletzt nicht bei jedem Ingest vollständig gepflegt (Session 19/20 transcripts fehlten). Vollständige Liste siehe [[index|Wiki Index]].
 
 Eine Übersichtsseite pro Roh-Quelle aus `.raw/` (oder ggf. `_transcribex_backups/`).
 
 ## Session Transcripts
+- [[Session 22 transcript]] — WhisperX-Transkript, Session 22, ingestiert 2026-08-03, `craig-AD05r1TFNVgt-FmU6p2_2JfDGmOF_20260803_214827\corrected_obsidian.md` (2851 Segmente, ~2h10min).
 - [[Session 21 transcript]] — WhisperX-Transkript, Session 21, ingestiert 2026-07-20, `.raw/session-transcripts/Session 21 - 20.07.2026.md` (3834 Segmente, ~3h5min).
 - [[Session 20 transcript]] — WhisperX-Transkript, Session 20, ingestiert 2026-07-13.
 - [[Session 19 transcript]] — WhisperX-Transkript, Session 19, ingestiert 2026-06-29.

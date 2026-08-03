@@ -2,16 +2,17 @@
 type: meta
 title: "Sessions Index"
 created: 2026-05-11
-updated: 2026-07-20
+updated: 2026-08-03
 tags:
   - meta
   - sessions
 status: evergreen
 ---
 
-# Sessions (22)
+# Sessions (23)
 
 Neueste oben.
+- [[Session 22]]
 - [[Session 21]]
 - [[Session 20]]
 - [[Session 19]]
@@ -35,6 +36,7 @@ Neueste oben.
 - [[Session 1]]
 - [[Session 0]]
 
+> [!note] [[Session 22]] wurde am 2026-08-03 aus dem WhisperX-Transkript `craig-AD05r1TFNVgt-FmU6p2_2JfDGmOF_20260803_214827\corrected_obsidian.md` ingestiert (2851 Segmente, ~2h10min). Alle 5 PCs anwesend. Evelyn/Elfaria-Reveal; [[Magolor]] beansprucht [[Kalineon]] als Erbe des alten Königshauses; Rückkehr zur Zitadelle; Rettungskampf um [[Cassomir]] endet wegen Foundry-Ausfall mid-combat.
 > [!note] [[Session 21]] wurde am 2026-07-20 aus dem WhisperX-Transkript `craig-AZnuCnr7sjCm-2ws5TiuHzUV3fZR_20260720_222522\corrected_obsidian.md` ingestiert (3834 Segmente, ~3h5min). Alle 5 PCs anwesend (Khirin zurück). S20-Kampf abgeschlossen; Stadtwache gespalten; Bertas Seite führt zu Cassomirs belagertem Anwesen; Cliffhanger vor Entscheidungskampf.
 > [!note] [[Session 20]] wurde am 2026-07-13 aus dem WhisperX-Transkript `craig-2pJg2zY5d0Sx\corrected_obsidian.md` ingestiert (3286 Segmente, ~2h56min). Khirin abwesend; 4 PCs. Fohlen-Prophezeiung; Glasglocke über Lunovar; Angriff von innen+außen; Cliffhanger mid-combat.
 > [!note] [[Session 19]] wurde am 2026-06-29 aus dem WhisperX-Transkript `craig-5v6ONGOSCCqj-cYVN_EopeLoHj5p_20260629_221904\corrected_obsidian.md` ingestiert (3162 Segmente, ~2h45min). Alle 5 PCs anwesend. Gruft des Buches abgeschlossen; Buch der Essenzmagie von Zwergen gestohlen; Aalafiel verabschiedet.
