@@ -45,8 +45,8 @@ Master catalog. Updated on every ingest.
 ## Bestiarium (14)
 - [[Eulenbärin]] · [[Gedankenschaender]] · [[Geist]] · [[Revenant]] · [[Rictus Mors]] · [[Shadow]] · [[Skelett]] · [[Spectre]] · [[Spinnenwesen]] · [[Treant]] · [[Will o Wisp]] · [[Worg]] · [[Wraith]] · [[Zombie]]
 
-## Items (13) — see [[_index|Items Index]]
-- [[Aalafiels Trank]] · [[Akronisjuwel]] · [[Blaue Metallbarren]] · [[Dis-Enchanter]] · [[Goldene Drachenschuppe]] · [[Gurde]] · [[Krone des Hohen Rates]] · [[Lady Günthers Flasche]] · [[Lysandriels Ring]] · [[Magischer Schluessel]] · [[Spell-Slot-Anhänger]] · [[Staff of Fire]] · [[Wappen des alten Kalineon]]
+## Items (16) — see [[_index|Items Index]]
+- [[Aalafiels Trank]] · [[Akronisjuwel]] · [[Blaue Metallbarren]] · [[Bogen +2]] · [[Dis-Enchanter]] · [[Goldene Drachenschuppe]] · [[Gurde]] · [[Krone des Hohen Rates]] · [[Lady Günthers Flasche]] · [[Lysandriels Ring]] · [[Magischer Schluessel]] · [[Spell-Slot-Anhänger]] · [[Staff of Charming]] · [[Staff of Fire]] · [[Staff of Warning]] · [[Wappen des alten Kalineon]]
 
 ## Sessions (23) — see [[_index|Sessions Index]]
 - [[Session 22]] · [[Session 21]] · [[Session 20]] · [[Session 19]] · [[Session 18]] · [[Session 17]] · [[Session 16]] · [[Session 15]] · [[Session 14]] · [[Session 13]] · [[Session 12]] · [[Session 11]] · [[Session 10]] · [[Session 9]] · [[Session 8]] · [[Session 7]] · [[Session 6]] · [[Session 5]] · [[Session 4]] · [[Session 3]] · [[Session 2]] · [[Session 1]] · [[Session 0]]

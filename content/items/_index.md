@@ -2,14 +2,14 @@
 type: meta
 title: "Items Index"
 created: 2026-05-11
-updated: 2026-06-29
+updated: 2026-08-03
 tags:
   - meta
   - items
 status: developing
 ---
 
-# Items (13)
+# Items (16)
 
 ## Tränke
 - [[Aalafiels Trank]] *(neu, Session 16)* — Abscheu-Aura-Trank der Treants; 10 Min./Schluck (größenabhängig); Voraussetzung, um mit [[Aalafiel]] zu sprechen
@@ -20,6 +20,8 @@ status: developing
 
 ## Magische Stäbe
 - [[Staff of Fire]] — **repariert** durch Virion in [[Session 14]], 10/10 Charges, lädt täglich nach
+- [[Staff of Charming]] *(neu, Session 22)* — aus Evelyns Zellenraum, an [[Naeli]] weitergereicht; genaue Funktionsliste offen
+- [[Staff of Warning]] *(neu, Session 22)* — aus Evelyns Zellenraum, Gruppenzuteilung noch offen; genaue Funktionsliste offen
 
 ## Schmuck / Magische Container
 - [[Spell-Slot-Anhänger]] *(neu, Session 14)* — Khirins Bestellung bei Magilanika, speichert Spell-Slot bis Stufe 3
@@ -37,5 +39,8 @@ status: developing
 - [[Lysandriels Ring]] — Schlüsselring (öffnet Sarkophag); an [[Aalafiel]] übergeben
 - [[Blaue Metallbarren]] — neue sehr leichte Legierung aus Essenzmagie-Forschung
 - [[Goldene Drachenschuppe]] — von [[Palamedis]] via [[Aalafiel]]; Glücksbringer (Funktion offen)
+
+## Waffen
+- [[Bogen +2]] *(neu, Session 22)* — Langbogen +2 aus Evelyns Zellenraum; Empfänger nicht eindeutig bestätigt, vermutlich [[Sim]]
 
 > [!gap] Andere Gegenstände der Gruppe (Bertas Pergament, Khirins Kristallkugel + goldene Rose, Hrímnirs Bag of Holding, Naelis Froststab, Lucien-Münze, **Magolors Loyalitäts-Brosche** im Bag of Holding) haben noch keine eigenen Item-Seiten — bei Bedarf ergänzen.
