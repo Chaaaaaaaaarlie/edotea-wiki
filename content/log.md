@@ -2,7 +2,7 @@
 type: meta
 title: "Wiki Log"
 created: 2026-05-11
-updated: 2026-07-20
+updated: 2026-08-17
 tags:
   - meta
 status: evergreen
@@ -11,6 +11,21 @@ status: evergreen
 # Wiki Log
 
 Append-only. New entries at the **TOP**. Never edit past entries.
+
+## [2026-08-17] ingest | Session 23 (gespielt 2026-08-17) aus WhisperX-Transkript
+
+- **Quelle**: `craig-iDvxzuplpe9N-2026-08-17_20260817_214224\corrected_obsidian.md` (WhisperX large-v3, de, 186 Korrekturen). Dauer: ~2h 28min. **Alle fünf PCs anwesend**.
+- **Sprecher-Mapping**: `_blestem_`=DM, `drore`=[[Berta]], `hansmeier`=[[Hrímnir]], `luke_234`=[[Khirin]], `mep0510`=[[Sim]].
+- **Rohdatei kopiert**: `.raw/session-transcripts/Session 23 - 17.08.2026.md`.
+- **Neue Seiten**: [[Session 23]], [[Session 23 transcript]].
+- **Aktualisierte Seiten**: [[Cassomir]], [[Elfaria Albis von Sylphid]], [[Lunovar]], [[Magische Akademie Lunovar]], [[Drei Bücher]], [[Rictus Mors]], `wiki/index.md`, `wiki/sessions/_index.md`, `wiki/sources/_index.md`, [[hot|Hot Cache]].
+- **Schlüssel-Erkenntnisse**:
+  - **Zitadellenkampf abgeschlossen**: [[Cassomir]], Eli und die verbliebenen Wachen überleben; Spinnenwesen, [[Rictus Mors]] und ein Glibberauge werden besiegt.
+  - **Kreaturen-Resistenzen bestätigt/erweitert**: Spinnen kälteimmun und gegen physischen Schaden stark geschützt; Glibberaugen kälteempfindlich und donner/blitzimmun; [[Rictus Mors]] nehmen nekrotischen Schaden nur schwach.
+  - **Evakuierung**: Drei hohe Elfen-Adelige und Cassomirs Wachen werden über die Kanalisation zur [[Magische Akademie Lunovar|Akademie]] gebracht; Wachen legen ihre Plattenrüstungen ab, drei Plattenrüstungen bleiben vorerst im Bag of Holding.
+  - **Evelyn/Elfaria hingerichtet**: Evelyn in [[Elfaria Albis von Sylphid|Elfarias]] Körper verweigert offenbar die Evakuierung; Cassomirs Wachen führen seinen Befehl aus, erstechen sie und setzen den Raum in Brand. Wegen Seelenmagie bleibt Endgültigkeit offen.
+  - **Akademie erreicht**: Die Akademie steht, ist beschädigt, dient als Zuflucht und Lazarett; Barriere über [[Lunovar]] ist verrußt/gerissen, aber aktiv; ein Drache hämmert weiter dagegen.
+  - **Bertas Seite**: [[Berta]] holt die versteckte Seite aus dem [[Drei Bücher|Buch der Schwellen]] zurück; sie zieht wieder nach Westen/Südwesten.
 
 ## [2026-07-20] ingest | Session 21 (gespielt 2026-07-20) aus WhisperX-Transkript
 

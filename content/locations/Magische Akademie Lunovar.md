@@ -8,7 +8,7 @@ tags:
 related: []
 sources: []
 created: 2026-05-11
-updated: 2026-05-11
+updated: 2026-08-17
 status: developing
 ---
 # Magische Akademie Lunovar
@@ -51,6 +51,7 @@ status: developing
 - Hier verdichten sich die Hinweise auf die drei Bücher sowie auf die aktuellen Risse.
 - **[[Session 12]]**: Gastauftritt im *Verteidigung gegen die dunklen Künste*-Kurs. Empfang durch [[Fohlen]], Galleonsfigur-Reveal, Sieg gegen Mind Flayer in der Arena, Lysantir-Pergament-Reaktion, Riss-Diskussion. Gruppe erhält **Bibliotheks-Zugang**, eigene **Gemächer** (umfunktionierter Klassenraum) und Ausweise; Termin Hoher Rat (morgen Mittag) ist arrangiert.
 - **[[Session 13]]**: Zurück nach Spymaster-Kampf — [[Fohlen]] empfängt schweigend, weist 4 Studentenzimmer + 1 **gesichertes Zimmer** zu (für die Gefangenen-Kiste). Bewohner-Schüler bekommen Aufruhr mit, als ein Alchemie-Klassraum explodiert und ein **[[Twilight (Pony)|lavendel Pony]]** entsteht. **Schulden-Reveal**: [[Fohlen]] schuldet der [[Schmiedemeisterei Lunovar]] 35.000 Gold für Akademie-Lieferungen.
+- **[[Session 23]]**: Während des Angriffs auf [[Lunovar]] erreicht die Gruppe die Akademie mit [[Cassomir]], Eli, drei hohen Elfen-Adeligen und Cassomirs Wachen über die Kanalisation. Die Akademie steht noch, hat aber Mauerschäden; vor dem Tor bekämpfen Akademiewachen nur noch vereinzelte Monster. Die Barriere ist beschädigt, aber aktiv; darüber hängt eine riesige Gewitterwolke, die an [[Naeli]]s Sturmmagie erinnert. Die Alchemie-Klassenräume dienen als Lazarett. [[Fohlen]] ist nicht direkt sichtbar; Cassomir wird zum Büro der Schulleitung gebracht, wo die Verteidigung koordiniert wird.
 
 ## Verknüpfungen
 
@@ -62,6 +63,7 @@ status: developing
 - [[Session 11]]
 - [[Session 12]]
 - [[Session 13]]
+- [[Session 23]]
 - [[Schmiedemeisterei Lunovar]]
 - [[Twilight (Pony)]]
 - [[Virion Loramis]]

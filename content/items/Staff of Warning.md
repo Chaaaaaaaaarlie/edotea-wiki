@@ -12,7 +12,7 @@ related:
 sources:
   - Session 22 transcript
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-17
 status: developing
 ---
 
@@ -26,6 +26,7 @@ Magischer Stab, **uncommon** Seltenheit, identifiziert im Kampf um Cassomirs Anw
 
 ## Aktueller Besitzer
 - Übergeben an die Gruppe; genaue Zuteilung an einen einzelnen Charakter nicht eindeutig aus der Sitzung hervorgegangen.
+- [[Session 23]]: [[Khirin]] fragt [[Cassomir]], ob er den geliehenen Stab behalten darf. Cassomir sagt, darüber könne man nach der Belagerung sprechen; falls Cassomir fällt, dürfe die Gruppe ihn behalten.
 
 ## Offene Fragen
 - Wer trägt den Stab konkret?
@@ -33,3 +34,4 @@ Magischer Stab, **uncommon** Seltenheit, identifiziert im Kampf um Cassomirs Anw
 
 ## Verknüpfungen
 - [[Cassomir]] · [[Session 22]]
+- [[Session 23]]

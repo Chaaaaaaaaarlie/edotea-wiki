@@ -8,7 +8,7 @@ tags:
 related: []
 sources: []
 created: 2026-05-11
-updated: 2026-08-03
+updated: 2026-08-17
 status: developing
 ---
 # Sim
@@ -102,6 +102,14 @@ status: developing
 - Sein **Affen-Gefährte ("Äffchen")** landet nach mehreren wirkungslosen Angriffen einen **kritischen Treffer für 41 Schaden**, der ein Riesenspinnenwesen im Rettungskampf um [[Cassomir]] tötet.
 - Nutzt Push-Effekt seines Bogens, um eine Leiche vom Kampffeld zu schleudern.
 
+## [[Session 23]]
+
+- Unterstützt den Abschluss des Zitadellenkampfs mit Fernkampfangriffen und seinem Affengefährten.
+- Zerstört ein Glibberauge mit einem Pfeil; das Auge platzt wie ein Ballon.
+- Scouting nahe der Akademie: späht aus der Kanalisation, sieht die beschädigte Barriere, Leichen von Wachen/Kreaturen und die große Gewitterwolke über der Akademie.
+- Hilft beim Seil-/Kletterausstieg der Flüchtlingsgruppe vor der Akademie und begleitet die Evakuierung.
+- Klärt am Ende, dass die drei Plattenrüstungen der Wachen vorerst als Besitz/Leihgut im Bag of Holding notiert werden können, bis Rückgabe möglich ist.
+
 ## Verknüpfungen
 
 - [[Cadnix]]
@@ -141,3 +149,4 @@ status: developing
 - [[Session 20]]
 - [[Session 21]]
 - [[Session 22]]
+- [[Session 23]]

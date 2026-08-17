@@ -8,7 +8,7 @@ tags:
 related: []
 sources: []
 created: 2026-05-11
-updated: 2026-08-03
+updated: 2026-08-17
 status: developing
 ---
 # Berta
@@ -75,6 +75,7 @@ status: developing
 - Nachdem [[Berta]] die Seite in den Brunnen tauchte, wurde das gesamte Brunnenwasser seiner Magie entleert; die Seite hat danach ca. 3 Tage Kraft.
 - In [[Session 11]] testet [[Berta]], eigene Magie in das Pergament zu kanalisieren; ein Warlock-Slot der Stufe 2 erhöht die Restdauer leicht auf etwa 2,5 Tage.
 - **[[Session 21]]**: Die Seite reagiert wie von leichtem Wind erfasst, wenn Berta sie freihält, und **zieht in eine bestimmte Richtung** — führt die Gruppe zielsicher durch das brennende Adelsviertel direkt zum belagerten Anwesen von [[Cassomir]]. Vermutung der Gruppe: die Seite reagiert auf die Nähe zu ihrem Ursprung bzw. zu wer auch immer mit den [[Drei Bücher|Büchern]] agiert (unbestätigt).
+- **[[Session 23]]**: Berta hatte die Seite vor dem Gang in Cassomirs Anwesen unter Dielen und Stahl versteckt, um sie vor [[Magolor]] zu schützen. Nach der Evakuierung in die [[Magische Akademie Lunovar|Akademie]] holt sie die Seite zurück; sie zieht wieder ungefähr nach Westen/Südwesten.
 
 ### Pakt mit dem Erschaffer der Seite / [[das Nichts]]
 
@@ -122,6 +123,13 @@ status: developing
 - Berührt heimlich die Schläfe einer Wache und überträgt ihr telepathisch alles Wissen über Evelyn/Magolor — Absicherung falls die Gruppe stirbt.
 - Im Rettungskampf um [[Cassomir]]: duelliert die feindliche Hochelf-Wache **Eli** direkt, landet einen kritischen Treffer (~22 to-hit) mit sichtbaren Blutungsschäden; strahlender Schaden zeigt keine Zusatzwirkung gegen Eli.
 
+## [[Session 23]]
+
+- Unterstützt den Abschluss des Zitadellenkampfs mit Sorcery-/Mage-Rage-Ressourcen und verteilt Advantage/Silvery-Barbs-Unterstützung.
+- Hilft bei der Evakuierung über die Kanalisation zur Akademie.
+- Trennt sich am Ende kurz von der Gruppe, um ihre versteckte Pergamentseite zurückzuholen, und kehrt danach zum Büro der Akademieleitung zurück.
+- Die Seite zieht nach der Rückholung wieder nach Westen/Südwesten.
+
 ## Verknüpfungen
 
 - [[Cadnix]]
@@ -164,3 +172,4 @@ status: developing
 - [[Session 20]]
 - [[Session 21]]
 - [[Session 22]]
+- [[Session 23]]

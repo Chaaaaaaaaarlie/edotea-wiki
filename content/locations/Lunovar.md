@@ -9,7 +9,7 @@ related: []
 sources:
   - Session 14
 created: 2026-05-11
-updated: 2026-08-03
+updated: 2026-08-17
 status: developing
 ---
 # Lunovar
@@ -79,6 +79,14 @@ Die gefangene "Elfaria" (in Wahrheit **Evelyn**, siehe [[Elfaria Albis von Sylph
 
 Die Gruppe dringt in die **Zitadelle** (der Ratssaal aus [[Session 14]]/[[Session 15]] — die *"belagerte Ratshalle"* aus [[Session 21]]) ein und findet **[[Cassomir]]** dort in die Enge getrieben, verteidigt von nur zwei Wachen und der verbündeten Hochelf-Schwertwache **Eli** gegen Riesenspinnenwesen und weitere Kreaturen. Rettungskampf zum Sitzungsende **unentschieden**.
 
+### [[Session 23]] — Rückzug zur Akademie
+
+Der Zitadellenkampf wird gewonnen; [[Cassomir]], Eli und die Wachen überleben. Die Gruppe evakuiert Cassomir, drei hohe Elfen-Adelige und die Wachen durch die Kanalisation zur [[Magische Akademie Lunovar|Akademie]]. Das Wasser in der Kanalisation steigt weiter und fließt stark Richtung See; Ursache ist Regen/Schutt/Blut, obwohl die Barriere eigentlich Regen abhalten sollte.
+
+Die Akademie steht noch, hat aber Mauerschäden. Die Barriere über der Stadt ist verrußt, gerissen und angeschlagen, aber aktiv. Ein Drache hämmert weiter gegen die Barriere. Über der Barriere hängt eine riesige Gewitterwolke, die an [[Naeli]]s Sturmmagie erinnert, nur deutlich größer.
+
+Evelyn in [[Elfaria Albis von Sylphid|Elfarias]] Körper wird während der Evakuierung auf [[Cassomir]]s Befehl von dessen Wachen hingerichtet; der Raum wird verbrannt.
+
 ## Stadtviertel
 
 > [!info] **Adelsviertel Lunovar** ([[Session 14]]): durch eine **separate 21-Meter-Mauer** (Attack-on-Titan-Style) vom Rest der Stadt getrennt. Im Zentrum steht ein riesiges Marmor-Gebäude — der **Ratssaal** mit Thron des Hohen Rates. Reicht-Familien wohnen hier in Halb-Palästen. **Pöbel und Halbelfen** sind ausgeschlossen.
@@ -140,5 +148,6 @@ Nach Audienz mit [[Elfaria Albis von Sylphid]]:
 - [[Session 20]]
 - [[Session 21]]
 - [[Session 22]]
+- [[Session 23]]
 - [[Magolor]]
 - [[Kalineon]]

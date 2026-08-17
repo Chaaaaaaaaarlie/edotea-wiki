@@ -13,7 +13,7 @@ related:
 sources:
   - Session 22 transcript
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-17
 status: developing
 ---
 
@@ -27,9 +27,11 @@ Magischer Stab, **uncommon** Seltenheit ("nicht zu stark, nicht zu schwach" laut
 
 ## Aktueller Besitzer
 - **[[Naeli]]** — ihr nunmehr **dritter Stab** neben ihrem Ausgangsstab und ihrem Eisstab (Ironie am Tisch: *"Naelis wandernder Stab-Laden"*).
+- [[Session 23]]: Weiterhin Krisen-/Leihgabe aus Cassomirs Bestand; Cassomir verschiebt die Frage dauerhaften Besitzes bis nach der Belagerung.
 
 ## Offene Fragen
 - Volle Zauber-/Funktionsliste noch nicht identifiziert.
 
 ## Verknüpfungen
 - [[Naeli]] · [[Cassomir]] · [[Session 22]]
+- [[Session 23]]

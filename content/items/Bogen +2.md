@@ -12,7 +12,7 @@ related:
 sources:
   - Session 22 transcript
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-17
 status: developing
 ---
 
@@ -27,5 +27,8 @@ Ein **Langbogen +2**, von Cassomirs Wachen in [[Session 22]] aus Evelyns Zellenr
 ## Aktueller Besitzer
 > [!gap] Empfänger nicht eindeutig bestätigt — vermutlich [[Sim]] (Gruppen-Bogenschütze), aber nicht explizit im Spiel festgelegt.
 
+[[Session 23]]: Der Bogen bleibt weiterhin Leih-/Krisenausrüstung aus Cassomirs Bestand. [[Cassomir]] sagt zu den aus seinem Haus entnommenen Waffen allgemein, über dauerhaftes Behalten könne nach der Belagerung gesprochen werden.
+
 ## Verknüpfungen
 - [[Cassomir]] · [[Sim]] · [[Session 22]]
+- [[Session 23]]

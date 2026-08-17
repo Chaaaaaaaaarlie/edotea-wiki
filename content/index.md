@@ -2,7 +2,7 @@
 type: meta
 title: "Wiki Index"
 created: 2026-05-11
-updated: 2026-08-03
+updated: 2026-08-17
 tags:
   - meta
 status: mature
@@ -48,11 +48,11 @@ Master catalog. Updated on every ingest.
 ## Items (16) — see [[_index|Items Index]]
 - [[Aalafiels Trank]] · [[Akronisjuwel]] · [[Blaue Metallbarren]] · [[Bogen +2]] · [[Dis-Enchanter]] · [[Goldene Drachenschuppe]] · [[Gurde]] · [[Krone des Hohen Rates]] · [[Lady Günthers Flasche]] · [[Lysandriels Ring]] · [[Magischer Schluessel]] · [[Spell-Slot-Anhänger]] · [[Staff of Charming]] · [[Staff of Fire]] · [[Staff of Warning]] · [[Wappen des alten Kalineon]]
 
-## Sessions (23) — see [[_index|Sessions Index]]
-- [[Session 22]] · [[Session 21]] · [[Session 20]] · [[Session 19]] · [[Session 18]] · [[Session 17]] · [[Session 16]] · [[Session 15]] · [[Session 14]] · [[Session 13]] · [[Session 12]] · [[Session 11]] · [[Session 10]] · [[Session 9]] · [[Session 8]] · [[Session 7]] · [[Session 6]] · [[Session 5]] · [[Session 4]] · [[Session 3]] · [[Session 2]] · [[Session 1]] · [[Session 0]]
+## Sessions (24) — see [[_index|Sessions Index]]
+- [[Session 23]] · [[Session 22]] · [[Session 21]] · [[Session 20]] · [[Session 19]] · [[Session 18]] · [[Session 17]] · [[Session 16]] · [[Session 15]] · [[Session 14]] · [[Session 13]] · [[Session 12]] · [[Session 11]] · [[Session 10]] · [[Session 9]] · [[Session 8]] · [[Session 7]] · [[Session 6]] · [[Session 5]] · [[Session 4]] · [[Session 3]] · [[Session 2]] · [[Session 1]] · [[Session 0]]
 
-## Sources (11) — see [[_index|Sources Index]]
-- [[Session 22 transcript]] · [[Session 21 transcript]] · [[Session 20 transcript]] · [[Session 19 transcript]] · [[Session 17 transcript]] · [[Session 16 transcript]] · [[Session 15 transcript]] · [[Session 12 transcript]] · [[Session 13 transcript]] · [[Session 14 transcript]] · [[Tagebücher Wilhelm Casterwill]]
+## Sources (12) — see [[_index|Sources Index]]
+- [[Session 23 transcript]] · [[Session 22 transcript]] · [[Session 21 transcript]] · [[Session 20 transcript]] · [[Session 19 transcript]] · [[Session 17 transcript]] · [[Session 16 transcript]] · [[Session 15 transcript]] · [[Session 12 transcript]] · [[Session 13 transcript]] · [[Session 14 transcript]] · [[Tagebücher Wilhelm Casterwill]]
 
 ## Factions (1) — see [[_index|Factions Index]]
 - [[Kalineon-Royalisten]]
@@ -71,9 +71,9 @@ Master catalog. Updated on every ingest.
 
 ## Bekannte Lücken
 
-> [!gap] **Session 20/21 — Unbekannte Angreifer-Kreaturen**: Drei Kreaturen griffen [[Lunovar]] an — Riesenspinne (mobil, schwer zu treffen), menschenfressende Kreaturen mit riesigen Mäulern (in [[Session 21]] als **[[Rictus Mors]]** — DM-Ad-hoc-Name — angelegt, immun gegen Piercing), Auge-Orb (Schleim + zentrales Auge, noch ohne eigene Bestiarium-Seite). Identität/Steuerung weiterhin unbestätigt.
+> [!gap] **Session 20–23 — Unbekannte Angreifer-Kreaturen**: Drei Kreaturentypen griffen [[Lunovar]] an — Riesenspinnen (Kälte immun, physisch stark geschützt), menschenfressende [[Rictus Mors]] (nekrotisch nur schwach wirksam), Glibberaugen (Kälte schwach, Donner/Blitz immun). Identität/Steuerung weiterhin unbestätigt.
 
-> [!gap] **Session 21/22 — Angriff auf Lunovar, Drahtzieher teilweise geklärt**: [[Elfaria Albis von Sylphid]] ist körperlich Elfaria, aber in [[Session 22]] als **Evelyn** (Menschenseele im Elfenkörper) und Agentin [[Magolor]]s enttarnt. Magolor beansprucht [[Kalineon]] als Erbe des alten Königshauses. Weiter offen: Identität/Rolle des vermummten alten Magiers, die chromatischen Drachen über der Glasglocken-Barriere und ob die [[Kalineon-Royalisten]] dieselbe Bewegung oder ein unabhängiger Faden sind.
+> [!gap] **Session 21–23 — Angriff auf Lunovar, Drahtzieher teilweise geklärt**: [[Elfaria Albis von Sylphid]] ist körperlich Elfaria, aber in [[Session 22]] als **Evelyn** (Menschenseele im Elfenkörper) und Agentin [[Magolor]]s enttarnt. Magolor beansprucht [[Kalineon]] als Erbe des alten Königshauses. In [[Session 23]] wurde Evelyn/Elfaria auf [[Cassomir]]s Befehl hingerichtet; durch Seelenmagie bleibt unklar, ob dies endgültig ist. Weiter offen: Identität/Rolle des vermummten alten Magiers, die chromatischen Drachen über der Glasglocken-Barriere und ob die [[Kalineon-Royalisten]] dieselbe Bewegung oder ein unabhängiger Faden sind.
 
 > [!gap] **[[Delora]]** — als NPC in [[Session 9]], [[Lucien]], [[Marcosias]] erwähnt (Marcosias-Diener, Tiefling-artig, zerfiel beim Tod zu Schatten). DM-Frage offen: soll eigene NPC-Seite angelegt werden?
 

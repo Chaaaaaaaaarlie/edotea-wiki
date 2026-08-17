@@ -22,7 +22,7 @@ sources:
   - Session 14
   - Session 14 transcript
 created: 2026-05-25
-updated: 2026-08-03
+updated: 2026-08-17
 status: developing
 ---
 
@@ -38,7 +38,7 @@ status: developing
 | Rasse | **Elf** (reinrassig) |
 | Funktion | **Vertreterin des Hohen Rates Lunovars** |
 | Familien-Pflicht | **Wächterin von [[Lysanthiriel Vaelora|Lysantirs]] Buch** — eine der drei Wächter-Familien |
-| Status | lebendig, gegnerisch der Gruppe |
+| Status | Körper/Evelyn in [[Session 23]] hingerichtet; Endgültigkeit wegen Seelenmagie unklar |
 
 ## Aussehen / Auftreten
 - Sitzt erhöht auf einem **Thron** im Marmor-Saal des Adelsviertels.
@@ -112,6 +112,15 @@ Die Gruppe schließt das Verhör aus [[Session 21]] ab. Zentrale Enthüllungen:
 
 > [!gap] Was geschah mit der echten Elfaria-Seele, als Evelyn den Körper übernahm? Ungeklärt.
 
+## [[Session 23]] — Hinrichtung während der Evakuierung
+
+Als [[Cassomir]] die Evakuierung seiner Wachen und der hohen Adeligen aus Anwesen/Zitadelle anordnet, gibt er der Gruppe einen Orden als Autoritätsnachweis und den Befehl: Wenn „Lady Elfaria“ bzw. die Gefangene nicht evakuiert werden kann, soll sie hingerichtet werden, bevor sie den Feinden in die Hände fällt.
+
+[[Khirin]] übermittelt diesen Befehl an Cassomirs Wachen im Anwesen. Die Wachen berichten später, die Gefangene habe sich geweigert mitzukommen; daher hätten sie den Befehl ausgeführt, sie durch das Herz erstochen und den Raum in Brand gesetzt.
+
+> [!warning] Status unsicher
+> Evelyn/Elfarias Körper gilt damit als getötet. Wegen der bekannten Seelenmagie und des ungeklärten Schicksals der ursprünglichen Elfaria-Seele ist offen, ob dies endgültig ist oder ob [[Magolor]]s Seite eine Rückholung/Ankerung vorbereitet hatte.
+
 ## Offene Fragen
 - Wie alt? *"Ein bisschen älter"* als andere Elfen vielleicht.
 - Wer sind die anderen zwei Wächter-Familien (für Wilhelms und Borgrims Bücher)?
@@ -119,9 +128,12 @@ Die Gruppe schließt das Verhör aus [[Session 21]] ab. Zentrale Enthüllungen:
 - Werden die Sylphid-Wachen den Tempel-Standort verraten — wahrscheinlich nicht.
 - Wie reagiert sie auf den Krone-Diebstahl? Eskaliert die Verfolgung global?
 - Lebenserwartung der Sylphids: war es ihre Familie, die Lysantirs Buch wachte oder die Bücher allgemein?
+- Ist Evelyn nach der Hinrichtung endgültig tot, oder kann [[Magolor]] sie seelenmagisch zurückholen?
+- Was geschieht nun mit der echten Elfaria-Seele, falls sie noch existiert?
 
 ## Verknüpfungen
 - [[Lunovar]] · [[Fohlen]] · [[Lysanthiriel Vaelora]] · [[Drei Bücher]] · [[Magische Akademie Lunovar]]
 - [[Krone des Hohen Rates]] (geklaut von [[Khirin]])
 - [[Cassomir]] · [[Session 20]] · [[Session 21]] · [[Session 22]]
+- [[Session 23]]
 - [[Magolor]] · [[Kalineon]] · [[Kalineon-Royalisten]]

@@ -8,7 +8,7 @@ tags:
 related: []
 sources: []
 created: 2026-05-11
-updated: 2026-08-03
+updated: 2026-08-17
 status: developing
 ---
 ![[Hrimnir.png|533]]
@@ -108,6 +108,14 @@ status: developing
 - Trägt einen Spell Slot zur **Zirkelmagie**-Verstärkung von Naelis Sturmzauber bei.
 - Im Rettungskampf um [[Cassomir]]: stürmt vor, verteilt Donnerschaden (nicht bei allen Gegnern wirksam), stößt einen Gegner per Monk-Feature 10 ft weg + hoch und zu Boden, heilt sich per Cleric-Feature um 12 TP — gerät jedoch in das Maul eines Riesenspinnenwesens (**gegrappelt**, kritische Situation zum Sitzungsende).
 
+## [[Session 23]]
+
+- Befreit sich aus dem Grapple im Zitadellenkampf und besiegt mehrere Gegner mit Elemental-Monk-/Cleric-Aktionen.
+- Hält die Gruppe und Wachen im Kampf mit, ist danach aber stark erschöpft und braucht vor allem Ruhe/Short Rest.
+- Trägt [[Naeli]] erneut durch die überflutete Kanalisation.
+- Verstaut die drei von Cassomirs Wachen abgelegten Plattenrüstungen vorübergehend im Bag of Holding; Rückgabe offen.
+- Findet nahe der Akademie bei einer gefallenen Wache einen einfachen Heiltrank.
+
 ## Verknüpfungen
 
 - [[Berta]]
@@ -144,3 +152,4 @@ status: developing
 - [[Session 20]]
 - [[Session 21]]
 - [[Session 22]]
+- [[Session 23]]

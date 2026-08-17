@@ -14,7 +14,7 @@ sources:
   - Tagebücher Wilhelm Casterwill
   - Session 17 transcript
 created: 2026-05-11
-updated: 2026-08-03
+updated: 2026-08-17
 status: developing
 ---
 # Die drei Bücher
@@ -68,6 +68,7 @@ Per [[Berta]]s Detect Thoughts auf [[Sophie Marie]]: die zwei Folianten, die [[M
 - Magolor hat Sophie *"mit Hilfe von dem einen Buch das Leben gerettet"* — Sophies Erinnerung: **grüne Magie um sich herum, das Buch mit der grünen Perle aufgeschlagen**.
 - Bertas Pergament-Seite ist eine **abgerissene Seite** eines der drei Bücher. ~~vermutlich Lysantirs Essenz-Buch~~ → **Korrektur [[Session 17]]**: Die Seite stammt aus dem **Buch der Schwellen** ([[Wilhelm Casterwill|Wilhelms]] Raummagie). [[Berta]]: sie wurde benutzt, um *„einen Mann für zehn Jahre in einem Wald einzukerkern"*; [[Aalafiel]] bestätigt die Echtheit (unverbrennbar). ([[Magolor]] will sie zurück.)
 - **[[Session 21]]**: Die Seite reagiert **richtungsweisend** (wie von Wind erfasst), wenn Berta sie freihält, und führte die Gruppe während des Angriffs auf [[Lunovar]] direkt zum belagerten Anwesen von [[Cassomir]]. Vermutung der Gruppe: reagiert auf Nähe zu ihrem Ursprung/Ersteller — nicht bestätigt.
+- **[[Session 23]]**: [[Berta]] hatte die Seite vor dem Gang in Cassomirs Anwesen unter Dielen und Stahl versteckt, damit [[Magolor]] sie bei einer direkten Begegnung nicht bekommt. Nach der Ankunft in der [[Magische Akademie Lunovar|Akademie]] holt sie sie zurück; die Seite zieht erneut, ungefähr nach Westen/Südwesten. Ziel/Grund weiterhin unbestätigt.
 
 ### Buchverteilung (bestätigt [[Session 19]])
 
@@ -110,4 +111,5 @@ Per [[Berta]]s Detect Thoughts auf [[Sophie Marie]]: die zwei Folianten, die [[M
 - [[Carbus]]
 - [[Session 21]]
 - [[Session 22]]
+- [[Session 23]]
 - [[Cassomir]]

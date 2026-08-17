@@ -10,7 +10,7 @@ sources:
   - Tagebücher Wilhelm Casterwill
   - Session 17 transcript
 created: 2026-05-11
-updated: 2026-08-03
+updated: 2026-08-17
 status: developing
 ---
 ![[Naeli.png|496]]
@@ -111,6 +111,12 @@ status: developing
 > [!note] Magie-Mechanik — nächtliches Attunement
 > Naelis Feuerstab ([[Staff of Fire]]) trägt **drei Zauber** (Handflammen-Angriff, Wall of Fire, ein dritter unbekannter Zauber) — sie muss sich jede Nacht während der Rast auf einen bestimmten Zauber "attunen"; ohne diese Wahl funktioniert der jeweilige Zauber nicht. In [[Session 22]] war sie auf den Sturm-Zauber attuned, nicht auf Wall of Fire.
 
+## [[Session 23]]
+
+- Der in [[Session 22]] per Zirkelmagie verstärkte Sturmzauber endet im Laufe der Flucht; die Zitadellentüren bleiben aber zunächst geschlossen.
+- Beim Rückzug durch die Kanalisation muss [[Hrímnir]] sie wegen Wasserstand/Strömung tragen.
+- Beim Blick aus der Kanalisation nahe der Akademie erkennt [[Sim]], dass über der Barriere eine riesige Gewitterwolke hängt, die stark an Naelis Sturmmagie erinnert, nur in deutlich größerem Maßstab.
+
 ## Verknüpfungen
 
 - [[Anwesen]]
@@ -153,3 +159,4 @@ status: developing
 - [[Session 21]]
 - [[Session 22]]
 - [[Staff of Charming]]
+- [[Session 23]]

@@ -2,16 +2,17 @@
 type: meta
 title: "Sessions Index"
 created: 2026-05-11
-updated: 2026-08-03
+updated: 2026-08-17
 tags:
   - meta
   - sessions
 status: evergreen
 ---
 
-# Sessions (23)
+# Sessions (24)
 
 Neueste oben.
+- [[Session 23]]
 - [[Session 22]]
 - [[Session 21]]
 - [[Session 20]]
@@ -36,6 +37,7 @@ Neueste oben.
 - [[Session 1]]
 - [[Session 0]]
 
+> [!note] [[Session 23]] wurde am 2026-08-17 aus dem WhisperX-Transkript `craig-iDvxzuplpe9N-2026-08-17_20260817_214224\corrected_obsidian.md` ingestiert (3299 Segmente, ~2h28min). Alle 5 PCs anwesend. Rettungskampf in der Zitadelle abgeschlossen; Evakuierung über Kanalisation; Evelyn/Elfaria hingerichtet; Akademie erreicht; Bertas Seite zieht wieder west/südwest.
 > [!note] [[Session 22]] wurde am 2026-08-03 aus dem WhisperX-Transkript `craig-AD05r1TFNVgt-FmU6p2_2JfDGmOF_20260803_214827\corrected_obsidian.md` ingestiert (2851 Segmente, ~2h10min). Alle 5 PCs anwesend. Evelyn/Elfaria-Reveal; [[Magolor]] beansprucht [[Kalineon]] als Erbe des alten Königshauses; Rückkehr zur Zitadelle; Rettungskampf um [[Cassomir]] endet wegen Foundry-Ausfall mid-combat.
 > [!note] [[Session 21]] wurde am 2026-07-20 aus dem WhisperX-Transkript `craig-AZnuCnr7sjCm-2ws5TiuHzUV3fZR_20260720_222522\corrected_obsidian.md` ingestiert (3834 Segmente, ~3h5min). Alle 5 PCs anwesend (Khirin zurück). S20-Kampf abgeschlossen; Stadtwache gespalten; Bertas Seite führt zu Cassomirs belagertem Anwesen; Cliffhanger vor Entscheidungskampf.
 > [!note] [[Session 20]] wurde am 2026-07-13 aus dem WhisperX-Transkript `craig-2pJg2zY5d0Sx\corrected_obsidian.md` ingestiert (3286 Segmente, ~2h56min). Khirin abwesend; 4 PCs. Fohlen-Prophezeiung; Glasglocke über Lunovar; Angriff von innen+außen; Cliffhanger mid-combat.

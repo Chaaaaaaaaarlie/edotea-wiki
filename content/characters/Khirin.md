@@ -8,7 +8,7 @@ tags:
 related: []
 sources: []
 created: 2026-05-11
-updated: 2026-08-03
+updated: 2026-08-17
 status: developing
 ---
 # Khirin
@@ -115,6 +115,14 @@ status: developing
 
 > [!gap] Khirins Vorgeschichte mit Riesenspinnen — unerzählt, nicht weiter ausgeführt.
 
+## [[Session 23]]
+
+- Kommt nach dem Beginn der Session in den laufenden Zitadellenkampf zurück und unterstützt mit Thunderwave, Command und Firebolt.
+- Fragt [[Cassomir]], ob er den aus dessen Anwesen geliehenen Stab behalten darf; Cassomir verschiebt die Entscheidung bis nach der Belagerung.
+- Erhält von Cassomir einen Orden als Autoritätsnachweis und übermittelt dessen Evakuierungsbefehl an die Wachen im Anwesen.
+- Gibt dabei auch Cassomirs Befehl weiter, Evelyn/„[[Elfaria Albis von Sylphid]]“ zu töten, falls sie nicht evakuiert werden kann. Die Wachen führen dies später aus.
+- Navigiert die große Flüchtlingsgruppe durch die Kanalisation zur Akademie, gestützt auf seine Vorgeschichte/History im Untergrund der Akademie.
+
 ## Verknüpfungen
 
 - [[Carbus]]
@@ -150,4 +158,5 @@ status: developing
 - [[Session 20]]
 - [[Session 21]]
 - [[Session 22]]
+- [[Session 23]]
 - [[Kalineon]]

@@ -15,7 +15,7 @@ related:
 sources:
   - Session 15 transcript
 created: 2026-06-01
-updated: 2026-08-03
+updated: 2026-08-17
 status: developing
 ---
 
@@ -85,11 +85,26 @@ Im Hauptsaal (Krone wieder auf dem Thron) finden sie **Cassomir**, mit dem Rück
 > [!warning] Kein Ausgang bestätigt
 > Der Rettungskampf ist am Ende von [[Session 22]] **nicht abgeschlossen** — die Sitzung endete durch technischen Abbruch (Server-Ausfall), nicht durch Story-Cliffhanger. Cassomir lebt zu diesem Zeitpunkt noch.
 
+## [[Session 23]] — Gerettet und Evakuierung zur Akademie
+
+Der Rettungskampf in der Zitadelle wird abgeschlossen. [[Cassomir]], Eli und die verbliebenen Wachen überleben. Die Gruppe hilft, mehrere Spinnenwesen, [[Rictus Mors]] und ein Glibberauge zu besiegen.
+
+Nach dem Kampf fragt Cassomir nach einem sicheren Ort für drei hohe Elfen-Adelige, die sich im Ratssaal versteckt hatten. Die Gruppe schlägt die [[Magische Akademie Lunovar]] vor, da dort die Stadtbarriere koordiniert wird. Cassomir ist überrascht, dass in der Kanalisation Wasser steigt, obwohl die Barriere eigentlich Regen abhalten müsste.
+
+Cassomir übergibt der Gruppe einen Orden als Autoritätsnachweis für seine Wachen im Anwesen. Sein Befehl: Die Wachen sollen evakuieren; falls die Gefangene „Elfaria“/Evelyn nicht mitkommt, soll sie hingerichtet werden, bevor sie den Feinden in die Hände fällt.
+
+Die Evakuierung gelingt. In der Akademie wird Cassomir zum Büro des Schulleiters und stellvertretenden Schulleiters gebracht, wo die Verteidigung koordiniert wird. Die drei hohen Adeligen werden in Gewahrsam genommen.
+
+> [!note] Geliehene Gegenstände
+> [[Khirin]] fragt Cassomir, ob er den aus dem Anwesen erhaltenen Stab behalten darf. Cassomir lehnt für den Moment ab, sagt aber, man könne nach der Belagerung darüber sprechen; falls Cassomir falle, dürfe die Gruppe die Gegenstände behalten.
+
 ## Offene Fragen
 - **Wer ist "der alte König"**, gegen den Lunovar gegründet wurde?
 - Welche Konsequenzen drohen [[Elfaria Albis von Sylphid]] konkret?
 - Wozu wird die Magolor-Skizze verwendet — hat Cassomir Interesse an Magolor?
 - Wer belagert sein Anwesen und warum genau ist Elfaria das Ziel?
+- Wie bewertet Cassomir die Hinrichtung Evelyns/Elfarias nach der Evakuierung?
+- Werden die in [[Session 22]] geliehenen magischen Gegenstände dauerhaft bei der Gruppe bleiben?
 
 ## Verknüpfungen
 - [[Elfaria Albis von Sylphid]]
@@ -102,3 +117,4 @@ Im Hauptsaal (Krone wieder auf dem Thron) finden sie **Cassomir**, mit dem Rück
 - [[Session 20]]
 - [[Session 21]]
 - [[Session 22]]
+- [[Session 23]]
