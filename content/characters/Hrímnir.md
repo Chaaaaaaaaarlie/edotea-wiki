@@ -8,7 +8,7 @@ tags:
 related: []
 sources: []
 created: 2026-05-11
-updated: 2026-08-17
+updated: 2026-08-31
 status: developing
 ---
 ![[Hrimnir.png|533]]
@@ -116,6 +116,14 @@ status: developing
 - Verstaut die drei von Cassomirs Wachen abgelegten Plattenrüstungen vorübergehend im Bag of Holding; Rückgabe offen.
 - Findet nahe der Akademie bei einer gefallenen Wache einen einfachen Heiltrank.
 
+## [[Session 24]]
+
+- Nimmt am Kriegsrat in der [[Magische Akademie Lunovar|Akademie]] teil und drängt auf eine kurze Rast, bevor die Gruppe den Drachen angeht.
+- Hilft beim Plan, den blauen Drachen auf die Turmspitze/Barriere-Höhe zu locken.
+- Kämpft gegen den blauen Drachen und bleibt trotz Blitz-/Nahkampfdruck im Feld.
+- Heilt [[Berta]] nach ihrem Sturz zusätzlich per Cure Wounds, nachdem [[Naeli]] ihr bereits einen Heiltrank gegeben hat.
+- Behandelt den toten Drachen eher ehrfürchtig und will zumindest einen Teil von ihm sinnvoll verwerten.
+
 ## Verknüpfungen
 
 - [[Berta]]
@@ -153,3 +161,5 @@ status: developing
 - [[Session 21]]
 - [[Session 22]]
 - [[Session 23]]
+- [[Session 24]]
+- [[Drachenzahn]]

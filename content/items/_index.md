@@ -2,14 +2,14 @@
 type: meta
 title: "Items Index"
 created: 2026-05-11
-updated: 2026-08-03
+updated: 2026-08-31
 tags:
   - meta
   - items
 status: developing
 ---
 
-# Items (16)
+# Items (17)
 
 ## Tränke
 - [[Aalafiels Trank]] *(neu, Session 16)* — Abscheu-Aura-Trank der Treants; 10 Min./Schluck (größenabhängig); Voraussetzung, um mit [[Aalafiel]] zu sprechen
@@ -42,5 +42,8 @@ status: developing
 
 ## Waffen
 - [[Bogen +2]] *(neu, Session 22)* — Langbogen +2 aus Evelyns Zellenraum; Empfänger nicht eindeutig bestätigt, vermutlich [[Sim]]
+
+## Trophäen
+- [[Drachenzahn]] *(neu, Session 24)* — Zahn des getöteten blauen erwachsenen Drachen, von [[Berta]] geborgen; genaue Verarbeitung/Mechanik offen
 
 > [!gap] Andere Gegenstände der Gruppe (Bertas Pergament, Khirins Kristallkugel + goldene Rose, Hrímnirs Bag of Holding, Naelis Froststab, Lucien-Münze, **Magolors Loyalitäts-Brosche** im Bag of Holding) haben noch keine eigenen Item-Seiten — bei Bedarf ergänzen.

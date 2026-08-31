@@ -8,7 +8,7 @@ tags:
 related: []
 sources: []
 created: 2026-05-11
-updated: 2026-08-17
+updated: 2026-08-31
 status: developing
 ---
 # Berta
@@ -76,6 +76,7 @@ status: developing
 - In [[Session 11]] testet [[Berta]], eigene Magie in das Pergament zu kanalisieren; ein Warlock-Slot der Stufe 2 erhöht die Restdauer leicht auf etwa 2,5 Tage.
 - **[[Session 21]]**: Die Seite reagiert wie von leichtem Wind erfasst, wenn Berta sie freihält, und **zieht in eine bestimmte Richtung** — führt die Gruppe zielsicher durch das brennende Adelsviertel direkt zum belagerten Anwesen von [[Cassomir]]. Vermutung der Gruppe: die Seite reagiert auf die Nähe zu ihrem Ursprung bzw. zu wer auch immer mit den [[Drei Bücher|Büchern]] agiert (unbestätigt).
 - **[[Session 23]]**: Berta hatte die Seite vor dem Gang in Cassomirs Anwesen unter Dielen und Stahl versteckt, um sie vor [[Magolor]] zu schützen. Nach der Evakuierung in die [[Magische Akademie Lunovar|Akademie]] holt sie die Seite zurück; sie zieht wieder ungefähr nach Westen/Südwesten.
+- **[[Session 24]]**: Nach dem getöteten blauen Drachen reagiert die Seite/Ausrüstung stark; Berta schließt daraus, dass [[Magolor]] in der Nähe sein könnte. Das bleibt Verdacht, keine harte Bestätigung.
 
 ### Pakt mit dem Erschaffer der Seite / [[das Nichts]]
 
@@ -130,6 +131,14 @@ status: developing
 - Trennt sich am Ende kurz von der Gruppe, um ihre versteckte Pergamentseite zurückzuholen, und kehrt danach zum Büro der Akademieleitung zurück.
 - Die Seite zieht nach der Rückholung wieder nach Westen/Südwesten.
 
+## [[Session 24]]
+
+- Wird im Ultimatum der Angreifer ausdrücklich als auszuliefernde Person genannt.
+- Stellt sich mit der Gruppe dem blauen erwachsenen Drachen auf der Turmspitze/Barriere-Höhe.
+- Wird vom Drachen schwer getroffen, verkohlt und fällt; [[Naeli]] gibt ihr einen Heiltrank, [[Hrímnir]] heilt sie danach zusätzlich.
+- Reißt nach dem Kampf erfolgreich einen nahezu perfekten [[Drachenzahn]] aus dem toten Drachen; Schuppen/Knochen/Herz bleiben vorerst ungeborgen.
+- Bemerkt/zeigt die starke Reaktion ihrer Seite/Ausrüstung kurz vor dem Kreis-im-Norden-Cliffhanger.
+
 ## Verknüpfungen
 
 - [[Cadnix]]
@@ -173,3 +182,5 @@ status: developing
 - [[Session 21]]
 - [[Session 22]]
 - [[Session 23]]
+- [[Session 24]]
+- [[Drachenzahn]]

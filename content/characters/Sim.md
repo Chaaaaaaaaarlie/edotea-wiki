@@ -8,7 +8,7 @@ tags:
 related: []
 sources: []
 created: 2026-05-11
-updated: 2026-08-17
+updated: 2026-08-31
 status: developing
 ---
 # Sim
@@ -110,6 +110,13 @@ status: developing
 - Hilft beim Seil-/Kletterausstieg der Flüchtlingsgruppe vor der Akademie und begleitet die Evakuierung.
 - Klärt am Ende, dass die drei Plattenrüstungen der Wachen vorerst als Besitz/Leihgut im Bag of Holding notiert werden können, bis Rückgabe möglich ist.
 
+## [[Session 24]]
+
+- Ist narrativ beim Kriegsrat und Drachenkampf anwesend, hatte aber keine eigene Craig-Spur in der Aufnahme.
+- Nutzt eine Potion of Lightning Resistance für den Kampf gegen den blauen Drachen.
+- Trägt mit Fernkampfangriffen und Affengefährten erheblich zum Drachenkampf bei; der genaue Todesstoß bleibt im Transkript unsicher.
+- Wird im Gespräch nach dem Kampf als einer der entscheidenden Drachenkämpfer anerkannt.
+
 ## Verknüpfungen
 
 - [[Cadnix]]
@@ -150,3 +157,5 @@ status: developing
 - [[Session 21]]
 - [[Session 22]]
 - [[Session 23]]
+- [[Session 24]]
+- [[Drachenzahn]]

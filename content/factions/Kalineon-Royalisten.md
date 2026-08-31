@@ -17,7 +17,7 @@ related:
 sources:
   - Session 13 transcript
 created: 2026-05-18
-updated: 2026-08-03
+updated: 2026-08-31
 ---
 
 # Kalineon-Royalisten
@@ -47,6 +47,9 @@ Mögliche Motivation:
 > [!contradiction] Neu zu bewerten nach [[Session 22]]
 > [[Magolor]]s Agentin Evelyn (siehe [[Elfaria Albis von Sylphid]]) enthüllt in [[Session 22]], dass Magolor sich selbst als **Erbe des alten, gestürzten Kalineon-Königshauses** sieht — exakt dieselbe historische Dynastie, auf die sich das **[[Wappen des alten Kalineon]]** bezieht. Die frühere Einschätzung *"nicht verbunden"* ([[Session 13]]) beruhte auf begrenzter Information und ist **nicht mehr sicher haltbar**. Ob die Royalisten-Bewegung um den toten [[Spymaster]] tatsächlich in Magolors Diensten steht, eine unabhängige, ihm nur ideologisch nahestehende Gruppe ist, oder beide Fäden zufällig denselben historischen Bezugspunkt teilen, bleibt **ungeklärt**.
 
+> [!note] [[Session 24]] — Ultimatum der Angreifer
+> Die Angreifer fordern die Auslieferung mehrerer oberer Lunovar-Führungspersonen und [[Berta]]s. Das passt politisch zu einem Anti-Lunovar-/Alt-Kalineon-Faden, bestätigt aber weiterhin nicht, ob die [[Kalineon-Royalisten]] als Organisation, [[Magolor]]s Partei oder ein anderer Akteur handeln.
+
 ## Offene Fragen
 - Wer leitet die Faktion tatsächlich? Der [[Spymaster]] war nur Mittelmann.
 - Ist die "gesetzlose Stadt" ihr Hauptquartier?
@@ -61,4 +64,5 @@ Mögliche Motivation:
 - [[Berta]] · [[Khirin]]
 - [[Session 13]]
 - [[Session 22]]
+- [[Session 24]]
 - [[Magolor]] · [[Elfaria Albis von Sylphid]]

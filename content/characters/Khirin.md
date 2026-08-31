@@ -8,7 +8,7 @@ tags:
 related: []
 sources: []
 created: 2026-05-11
-updated: 2026-08-17
+updated: 2026-08-31
 status: developing
 ---
 # Khirin
@@ -123,6 +123,14 @@ status: developing
 - Gibt dabei auch Cassomirs Befehl weiter, Evelyn/„[[Elfaria Albis von Sylphid]]“ zu töten, falls sie nicht evakuiert werden kann. Die Wachen führen dies später aus.
 - Navigiert die große Flüchtlingsgruppe durch die Kanalisation zur Akademie, gestützt auf seine Vorgeschichte/History im Untergrund der Akademie.
 
+## [[Session 24]]
+
+- Holt Informationen zu Drachen/Geschichten ein und erinnert an das Drachengeschichten-Buch.
+- Bringt im Planungschaos auch die Idee ins Spiel, jemanden als [[Berta]] zu tarnen; die Gruppe entscheidet sich stattdessen für den Drachenkampf.
+- Nutzt eine Potion of Lightning Resistance bzw. ist für den Drachenkampf gegen den blauen Drachen darauf vorbereitet.
+- Trägt im Kampf mit Zaubern wie Fireball/Schaden wesentlich bei; der genaue Todesstoß bleibt im Transkript unsicher, aber Khirin wird als „Drachentöter“ gefeiert.
+- Versucht nach dem Kampf Drachenmaterialien zu bergen, scheitert aber an den harten Schuppen.
+
 ## Verknüpfungen
 
 - [[Carbus]]
@@ -160,3 +168,5 @@ status: developing
 - [[Session 22]]
 - [[Session 23]]
 - [[Kalineon]]
+- [[Session 24]]
+- [[Drachenzahn]]

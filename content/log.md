@@ -2,7 +2,7 @@
 type: meta
 title: "Wiki Log"
 created: 2026-05-11
-updated: 2026-08-17
+updated: 2026-08-31
 tags:
   - meta
 status: evergreen
@@ -11,6 +11,21 @@ status: evergreen
 # Wiki Log
 
 Append-only. New entries at the **TOP**. Never edit past entries.
+
+## [2026-08-31] ingest | Session 24 (gespielt 2026-08-31) aus WhisperX-Transkript
+
+- **Quelle**: `craig-4wrAxUBPDsWm-uzcU58TdwEiX8-z_20260831_224740\corrected_obsidian.md` (WhisperX large-v3, de). Dauer: ~2h 49min. **Alle fünf PCs anwesend**, aber [[Sim]] hatte keine eigene Craig-Spur.
+- **Sprecher-Mapping**: `_blestem_`=DM, `drore`=[[Berta]], `feeminin`=[[Naeli]], `hansmeier`=[[Hrímnir]], `luke_234`=[[Khirin]].
+- **Rohdatei kopiert**: `.raw/session-transcripts/Session 24 - 31.08.2026.md`.
+- **Neue Seiten**: [[Session 24]], [[Session 24 transcript]], [[Drachenzahn]].
+- **Aktualisierte Seiten**: [[Berta]], [[Hrímnir]], [[Khirin]], [[Naeli]], [[Sim]], [[Fohlen]], [[Virion Loramis]], [[Magolor]], [[Lunovar]], [[Magische Akademie Lunovar]], [[Drei Bücher]], [[Kalineon-Royalisten]], `wiki/index.md`, `wiki/overview.md`, `wiki/sessions/_index.md`, `wiki/sources/_index.md`, `wiki/items/_index.md`, [[hot|Hot Cache]].
+- **Schlüssel-Erkenntnisse**:
+  - **Kriegsrat in der Akademie**: Evakuierung über Kanalisation ist für 200-300 Schutzbedürftige riskant; alte Teleportationszirkel sind zerstört, ein neuer Zirkel braucht Zeit.
+  - **Ultimatum**: Angreifer verlangen die Auslieferung hoher Lunovar-Führungspersonen und [[Berta]]s sowie Waffenstilllegung gegen Ende des Angriffs/Friedensgespräche.
+  - **Drachenkampf**: Die Gruppe stellt sich einem blauen erwachsenen Drachen auf der Turmspitze/Barriere-Höhe und tötet ihn; Todesstoß bleibt im Transkript unsicher, daher als Gruppensieg notiert.
+  - **Berta schwer getroffen**: [[Berta]] wird verkohlt/zu Boden geschleudert und danach durch Heiltrank + [[Hrímnir]]s Cure Wounds stabilisiert.
+  - **Loot**: [[Berta]] reißt erfolgreich einen [[Drachenzahn]] heraus; Schuppen/Knochen/Herz scheitern vorerst an der Härte.
+  - **Cliffhanger**: Bertas Ausrüstung/Seite reagiert stark; [[Magolor]] scheint in der Nähe. Nördlich öffnet sich ein magischer Kreis/Oval, drei Robenträger und ein [[Spinnenwesen]] erscheinen.
 
 ## [2026-08-17] ingest | Session 23 (gespielt 2026-08-17) aus WhisperX-Transkript
 

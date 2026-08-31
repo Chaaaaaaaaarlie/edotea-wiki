@@ -28,7 +28,7 @@ sources:
   - Session 14
   - Session 14 transcript
 created: 2026-05-11
-updated: 2026-08-03
+updated: 2026-08-31
 status: mature
 ---
 # Magolor
@@ -125,16 +125,23 @@ Verhört von der Gruppe, bestätigt seine Agentin **Evelyn** (siehe [[Elfaria Al
 > [!contradiction] Kalineon-Royalisten neu zu bewerten
 > [[Session 13]]: [[Berta]] hielt die [[Kalineon-Royalisten]] für **nicht** mit Magolor verbunden. Diese Enthüllung stellt das infrage — siehe [[Kalineon-Royalisten]].
 
+## [[Session 24]] — mögliche Nähe in Lunovar
+
+- Nach dem Tod des blauen Drachen reagiert [[Berta]]s Seite/Ausrüstung stark; Berta deutet das als Hinweis, dass Magolor in der Nähe sein könnte.
+- Kurz darauf öffnet sich nördlich ein magischer Kreis/Oval; drei Robenträger und ein [[Spinnenwesen]] erscheinen.
+- Diese Verbindung ist **nicht bestätigt**: Es ist möglich, dass Magolor selbst, ein Untergebenerkreis oder eine andere Kraft den Kreis auslöst.
+
 ## Offene Fragen
 - Welche zwei Bücher hat er konkret (Raum/Essenz/Seele zu grün/rot)?
 - Wie viele Helfer hat sein Kreis?
 - Wo ist seine Operations-Basis? ([[Carbus]]? [[Lunovar]]? Eine Ruine? Anwesen?)
 - Wer war [[Sophie Marie|Sophie]], bevor er sie *"rettete"* — und gegen welche Schuld arbeitete sie?
 - Hat er die Brosche tatsächlich abgehört oder ist die Funktion **passiv** (nur Ortung permanent)?
+- Ist der Kreis im Norden aus [[Session 24]] Magolors Werk oder nur mit seinem Faden verbunden?
 
 ## Verknüpfungen
 - [[Anwesen]] · [[Elliot]] · [[Lysanthiriel Vaelora]] · [[Oestliche Garnison von Cadnix]] · [[Wilhelm Casterwill]] · [[Borgrim Runenbrecher]]
 - [[Drei Bücher]] · [[das Nichts]] · [[Risse]] · [[Tagebücher Wilhelm Casterwill]]
 - [[Sophie Marie]] · [[Spymaster]]
-- [[Session 4]] · [[Session 5]] · [[Session 6]] · [[Session 7]] · [[Session 10]] · [[Session 11]] · [[Session 14]] · [[Session 21]] · [[Session 22]]
+- [[Session 4]] · [[Session 5]] · [[Session 6]] · [[Session 7]] · [[Session 10]] · [[Session 11]] · [[Session 14]] · [[Session 21]] · [[Session 22]] · [[Session 24]]
 - [[Cassomir]] · [[Lunovar]] · [[Kalineon]] · [[Kalineon-Royalisten]]

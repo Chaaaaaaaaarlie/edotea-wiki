@@ -9,7 +9,7 @@ related: []
 sources:
   - Session 14
 created: 2026-05-11
-updated: 2026-08-17
+updated: 2026-08-31
 status: developing
 ---
 # Lunovar
@@ -87,6 +87,16 @@ Die Akademie steht noch, hat aber Mauerschäden. Die Barriere über der Stadt is
 
 Evelyn in [[Elfaria Albis von Sylphid|Elfarias]] Körper wird während der Evakuierung auf [[Cassomir]]s Befehl von dessen Wachen hingerichtet; der Raum wird verbrannt.
 
+### [[Session 24]] — Ultimatum und Drachenkampf
+
+In der Akademie wird eine Evakuierung für 200-300 Schutzbedürftige, Schüler, Bürger und Verletzte beraten. Die Kanalisation könnte nach ablaufendem Regen wieder passierbar werden, ist aber für so viele Personen riskant; alte Teleportationszirkel sind zerstört, ein neuer Zirkel wird vorbereitet.
+
+Ein Bote der Angreifer überbringt ein Ultimatum: Auslieferung mehrerer oberer Lunovar-Führungspersonen und [[Berta]]s sowie Waffenstilllegung gegen Ende des Angriffs/Friedensverhandlungen. Die Gruppe entscheidet sich stattdessen, den verbliebenen blauen Drachen auszuschalten.
+
+Der blaue erwachsene Drache wird auf der Turmspitze/Barriere-Höhe gestellt und getötet. [[Berta]] überlebt einen schweren Treffer und erbeutet danach einen [[Drachenzahn]]. Der zweite Drache war laut Lagebericht zuvor Richtung Süden geflogen.
+
+Cliffhanger: Nach dem Drachenkampf reagiert Bertas Seite/Ausrüstung stark; [[Magolor]]s Nähe wird vermutet. Nördlich öffnet sich ein magischer Kreis/Oval, aus dem drei Robenträger und ein [[Spinnenwesen]] erscheinen.
+
 ## Stadtviertel
 
 > [!info] **Adelsviertel Lunovar** ([[Session 14]]): durch eine **separate 21-Meter-Mauer** (Attack-on-Titan-Style) vom Rest der Stadt getrennt. Im Zentrum steht ein riesiges Marmor-Gebäude — der **Ratssaal** mit Thron des Hohen Rates. Reicht-Familien wohnen hier in Halb-Palästen. **Pöbel und Halbelfen** sind ausgeschlossen.
@@ -149,5 +159,7 @@ Nach Audienz mit [[Elfaria Albis von Sylphid]]:
 - [[Session 21]]
 - [[Session 22]]
 - [[Session 23]]
+- [[Session 24]]
+- [[Drachenzahn]]
 - [[Magolor]]
 - [[Kalineon]]

@@ -2,7 +2,7 @@
 type: overview
 title: "Edotea — Willkommen"
 created: 2026-05-11
-updated: 2026-05-11
+updated: 2026-08-31
 tags:
   - overview
   - campaign
@@ -15,7 +15,7 @@ sources: []
 
 ## Einstieg
 
-- [[Session 12|Aktuelle Session: Session 12]]
+- [[Session 24|Aktuelle Session: Session 24]]
 - [[Kontinent Edotea]]
 - [[Kalineon]]
 - [[Lunovar]]
@@ -49,15 +49,26 @@ sources: []
 
 ## Aktuelle Fäden
 
-- **[[Session 12]]-Cliffhanger**: Gruppe im Reich von [[das Nichts]]; [[Berta]] hat einen [[Magischer Schluessel|Schlüssel]] erhalten, der zu *jedem* Schloss passt.
-- **Morgen Mittag**: Audienz beim **Hohen Rat** [[Lunovar|Lunovars]], geleitet von [[Fohlen]] — Lysantirs versiegelte Hinterlassenschaft.
-- **[[Naeli]]s Verzauberung**: Wish-Spell oder [[Djinn]] nötig; [[Fohlen]] streckt Fühler aus.
-- **Riss-Forschung**: Khirins Stau-Theorie wird verfolgt; mindestens 2 Personen mit Prothesen schließen Risse; persistenter Riss in [[Eiswueste-Vulkan-Riss|Naelis Heimat]].
-- **[[Khirin]]s Kristallkugel-Pendant**: in **[[Carbus]]** (per Divination trianguliert).
-- Verfolger aus [[Session 12]]/13 haben sich nach Bertas Konfrontation zurückgezogen — Identität weiterhin unklar.
+- **[[Lunovar]] unter Angriff**: Akademie steht noch; Schutzbarriere beschädigt; Evakuierung von Schülern/Bürgern/Verletzten bleibt akut.
+- **[[Session 24]]-Cliffhanger**: Nach dem getöteten blauen Drachen reagiert [[Berta]]s Seite stark; [[Magolor]]s Nähe wird vermutet. Im Norden öffnet sich ein magischer Kreis/Oval mit drei Robenträgern und einem [[Spinnenwesen]].
+- **Ultimatum der Angreifer**: Auslieferung hoher Lunovar-Führungspersonen und [[Berta]]s gegen Angriffsende/Friedensgespräche.
+- **[[Naeli]]s Verzauberung**: Essenz-/Seelenbuch wären mögliche Heilwege, aber beide sind nicht verfügbar.
+- **[[Khirin]]s Kristallkugel-Pendant / gestohlenes Essenz-Buch**: Spur führt weiter Richtung **[[Carbus]]**.
 
 ## Letzte Sessions
 
+- [[Session 24]]
+- [[Session 23]]
+- [[Session 22]]
+- [[Session 21]]
+- [[Session 20]]
+- [[Session 19]]
+- [[Session 18]]
+- [[Session 17]]
+- [[Session 16]]
+- [[Session 15]]
+- [[Session 14]]
+- [[Session 13]]
 - [[Session 12]]
 - [[Session 11]]
 - [[Session 10]]

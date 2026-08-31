@@ -17,7 +17,7 @@ related:
 sources:
   - Session 12 transcript
 created: 2026-05-12
-updated: 2026-07-13
+updated: 2026-08-31
 status: developing
 ---
 
@@ -114,9 +114,18 @@ Nobel auftretender Elf, freundlich-verspielt-warm, lacht leicht. Gibt offen zu, 
 
 > [!key-insight] Fohlen setzt seine Divination erneut strategisch ein — dieses Mal nicht nur reaktiv, sondern als aktiver Plan: die Gruppe als Teil seiner Vorbereitung.
 
+## [[Session 24]] — Kriegsrat und Barriere
+
+- Ist beim Kriegsrat in der [[Magische Akademie Lunovar|Akademie]] wieder präsent und koordiniert mit [[Virion Loramis]]/Akademieleitung die Verteidigung.
+- Diskutiert Evakuierungsoptionen: Kanalisation nach sinkendem Wasserstand möglich, aber für 200-300 Schutzbedürftige/Verletzte gefährlich; alte Teleportationszirkel sind zerstört, ein neuer Zirkel braucht Zeit.
+- Lehnt das Ultimatum der Angreifer faktisch ab; besonders die Auslieferung [[Berta]]s und hoher Lunovar-Führungspersonen wird nicht als tragbare Lösung akzeptiert.
+- Kann die Barriere offenbar mit mehreren Magiern/Kristallen kurz kontrolliert öffnen oder absenken, damit die Gruppe den blauen Drachen in eine Kampfposition bekommt.
+- Warnt, dass die Gruppe eigentlich erschöpft ist, trägt den Drachenplan aber mit.
+
 ## Offene Fragen
 - Wie kam er zu seinem Cloak of Archmage?
 - Was sieht er als Diviner über [[Berta]]s Pakt mit [[das Nichts]]?
 - Wie blockiert er Telepathie? Ring of Mind Shielding? Anderer Schutz? Aktive Wahl?
 - **Wie weit reicht seine Divination?** 3 Tage präzise vorausgeplant ist hoch.
 - Wer hat die Leichen ausgezogen und in die Wanne gelegt? Fohlen, oder ein anderer Mitwisser?
+- Wie stabil ist der neue Teleportationszirkel, und wie lange kann die Barriere noch gehalten werden?

@@ -18,7 +18,7 @@ sources:
   - Session 12 transcript
   - Session 12
 created: 2026-05-12
-updated: 2026-05-26
+updated: 2026-08-31
 status: developing
 ---
 
@@ -67,8 +67,16 @@ Halbelf aus einem etwas höheren Haus Lunovars — dadurch halbwegs gut behandel
 - Vermutlich Schnittstelle zum **Hohen Rat** Lunovars
 - Mögliche Verbindung zu [[Lysanthiriel Vaelora]]s früherer Arbeit (Essenzmagie — Teil der Trinitaet aus Raum-/Essenz-/Seelenmagie, siehe [[Drei Bücher]])
 
+## [[Session 24]] — Kriegsrat während des Angriffs
+
+- Sitzt im Büro der Schulleitung/Verteidigungskoordination, als die Gruppe mit [[Cassomir]] in der Akademie ankommt.
+- Bespricht mit der Gruppe, [[Fohlen]] und weiteren Verantwortlichen die Evakuierung der Akademie.
+- Bestätigt/erklärt, dass die alten Teleportationszirkel der Akademie beim zerstörten Observatorium/Zirkelraum nicht mehr verfügbar sind; ein neuer Zirkel wird vorbereitet, braucht aber Zeit.
+- Bewertet die Kanalisation nach Abfließen des Wassers als mögliche, aber riskante Route für die vielen Schutzbedürftigen.
+- Bleibt als nüchterner Koordinator im Hintergrund, während die Gruppe den Drachenkampf als Stabilisierung der Lage wählt.
+
 ## Offene Fragen
-- Persönliche Begegnung mit der Gruppe steht noch aus.
 - Kennt er die wahre Natur von [[Lysanthiriel Vaelora]]s Pergament?
 - Wie genau forscht er an den Rissen — von wo bezieht er Daten?
 - Kann er [[Sim]]s [[Gurde]] (Wukongs Erbstück) magisch wiederherstellen?
+- Überlebt die vorbereitete Evakuierung/Teleportationslösung den laufenden Angriff?

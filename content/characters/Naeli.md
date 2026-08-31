@@ -10,7 +10,7 @@ sources:
   - Tagebücher Wilhelm Casterwill
   - Session 17 transcript
 created: 2026-05-11
-updated: 2026-08-17
+updated: 2026-08-31
 status: developing
 ---
 ![[Naeli.png|496]]
@@ -117,6 +117,13 @@ status: developing
 - Beim Rückzug durch die Kanalisation muss [[Hrímnir]] sie wegen Wasserstand/Strömung tragen.
 - Beim Blick aus der Kanalisation nahe der Akademie erkennt [[Sim]], dass über der Barriere eine riesige Gewitterwolke hängt, die stark an Naelis Sturmmagie erinnert, nur in deutlich größerem Maßstab.
 
+## [[Session 24]]
+
+- Diskutiert im Kriegsrat die Evakuierung über Kanalisation/Teleportationszirkel mit und bleibt bei den Risiken für Schüler, Bürger und Verletzte pragmatisch.
+- Stimmt gegen eine Auslieferung [[Berta]]s und der Lunovar-Führung an die Angreifer.
+- Kämpft beim Drachenplan mit und versorgt [[Berta]] nach deren Sturz mit einem Heiltrank.
+- Reagiert auf Khirins Drachenernte-Versuche eher kritisch, weil der Kampf kaum vorbei ist und die Lage noch nicht stabil ist.
+
 ## Verknüpfungen
 
 - [[Anwesen]]
@@ -160,3 +167,5 @@ status: developing
 - [[Session 22]]
 - [[Staff of Charming]]
 - [[Session 23]]
+- [[Session 24]]
+- [[Drachenzahn]]
