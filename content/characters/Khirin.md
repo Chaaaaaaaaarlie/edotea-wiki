@@ -8,7 +8,7 @@ tags:
 related: []
 sources: []
 created: 2026-05-11
-updated: 2026-08-31
+updated: 2026-09-02
 status: developing
 ---
 # Khirin
@@ -27,6 +27,9 @@ status: developing
 
 - Stammt aus [[Lunovar]].
 - Trägt gelegentlich eine Porzellanmaske.
+
+> [!warning] Dauerhafte Verstümmelung ([[Session 25]])
+> Khirin hat seit [[Session 25]] **einen Arm** (während einer Versteinerung abgebrochen, nicht wiedergefunden) und **ein Bein** (Notamputation durch [[Hrímnir]] wegen Kompartmentsyndrom) verloren. Siehe Abschnitt unten.
 
 ## Notizen
 
@@ -131,6 +134,15 @@ status: developing
 - Trägt im Kampf mit Zaubern wie Fireball/Schaden wesentlich bei; der genaue Todesstoß bleibt im Transkript unsicher, aber Khirin wird als „Drachentöter“ gefeiert.
 - Versucht nach dem Kampf Drachenmaterialien zu bergen, scheitert aber an den harten Schuppen.
 
+## [[Session 25]]
+
+- Kämpft mit Fireball und Scorching Ray gegen [[Magolor]]s zwei Begleitmagier und tötet mindestens einen von ihnen.
+- Fordert offen das erbeutete Buch der Schwellen für sich ein — die restliche Gruppe verweigert es ihm strikt.
+- Wird im Bosskampf gegen den [[Drift-Zeppelin]] vom Versteinerungsstrahl getroffen und dadurch bewusstlos/handlungsunfähig aus dem restlichen Kampf genommen.
+- Wird mit der Gruppe durch den entstehenden Riss nach [[Avernus]] gerissen; die Versteinerung klingt danach ab.
+- **Verliert dauerhaft einen Arm** — während der Versteinerung abgebrochen und nicht wiedergefunden — und **ein Bein**, das [[Hrímnir]] wegen eines Kompartmentsyndroms (Quetschtrauma) notdürftig mit einer Handaxt amputiert; [[Naeli]] kauterisiert den Stumpf per Burning Hands, [[Berta]] gibt ihm einen Heiltrank.
+- Bleibt am Ende der Session bewusstlos und schwer verstümmelt.
+
 ## Verknüpfungen
 
 - [[Carbus]]
@@ -169,4 +181,11 @@ status: developing
 - [[Session 23]]
 - [[Kalineon]]
 - [[Session 24]]
+- [[Session 25]]
 - [[Drachenzahn]]
+- [[Magolor]]
+- [[Hrímnir]]
+- [[Naeli]]
+- [[Berta]]
+- [[Drift-Zeppelin]]
+- [[Avernus]]

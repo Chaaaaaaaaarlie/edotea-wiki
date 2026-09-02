@@ -2,16 +2,17 @@
 type: meta
 title: "Sessions Index"
 created: 2026-05-11
-updated: 2026-08-31
+updated: 2026-09-02
 tags:
   - meta
   - sessions
 status: evergreen
 ---
 
-# Sessions (25)
+# Sessions (26)
 
 Neueste oben.
+- [[Session 25]]
 - [[Session 24]]
 - [[Session 23]]
 - [[Session 22]]
@@ -38,6 +39,7 @@ Neueste oben.
 - [[Session 1]]
 - [[Session 0]]
 
+> [!note] [[Session 25]] wurde am 2026-09-02 aus dem faster-whisper-Transkript (Craig `nhfVDejatylh`, 6 Audiospuren, 3463 Segmente, ~3h8min) ingestiert; gespielt 2026-09-02. Alle 5 PCs anwesend, [[Sim]] erstmals mit eigener Craig-Spur. Direkte Fortsetzung des [[Session 24]]-Cliffhangers: Kampf gegen [[Magolor]]/Begleitmagier/[[Spinnenwesen]]; Buch der Schwellen erbeutet; toter Drache wird zum [[Drift-Zeppelin]]; Magolor mutmaßlich endgültig getötet; Riss reißt die Gruppe nach [[Avernus]]; [[Khirin]] verliert Arm und Bein.
 > [!note] [[Session 24]] wurde am 2026-08-31 aus dem WhisperX-Transkript `craig-4wrAxUBPDsWm-uzcU58TdwEiX8-z_20260831_224740\corrected_obsidian.md` ingestiert (3119 Segmente, ~2h49min). Alle 5 PCs anwesend, [[Sim]] ohne eigene Craig-Spur. Kriegsrat in der Akademie; Ultimatum der Angreifer; blauer Drache getötet; [[Berta]] erbeutet [[Drachenzahn]]; Cliffhanger mit möglichem [[Magolor]]-Kontakt, Robenträgern und [[Spinnenwesen]].
 > [!note] [[Session 23]] wurde am 2026-08-17 aus dem WhisperX-Transkript `craig-iDvxzuplpe9N-2026-08-17_20260817_214224\corrected_obsidian.md` ingestiert (3299 Segmente, ~2h28min). Alle 5 PCs anwesend. Rettungskampf in der Zitadelle abgeschlossen; Evakuierung über Kanalisation; Evelyn/Elfaria hingerichtet; Akademie erreicht; Bertas Seite zieht wieder west/südwest.
 > [!note] [[Session 22]] wurde am 2026-08-03 aus dem WhisperX-Transkript `craig-AD05r1TFNVgt-FmU6p2_2JfDGmOF_20260803_214827\corrected_obsidian.md` ingestiert (2851 Segmente, ~2h10min). Alle 5 PCs anwesend. Evelyn/Elfaria-Reveal; [[Magolor]] beansprucht [[Kalineon]] als Erbe des alten Königshauses; Rückkehr zur Zitadelle; Rettungskampf um [[Cassomir]] endet wegen Foundry-Ausfall mid-combat.

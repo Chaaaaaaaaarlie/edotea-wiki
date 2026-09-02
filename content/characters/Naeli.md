@@ -10,7 +10,7 @@ sources:
   - Tagebücher Wilhelm Casterwill
   - Session 17 transcript
 created: 2026-05-11
-updated: 2026-08-31
+updated: 2026-09-02
 status: developing
 ---
 ![[Naeli.png|496]]
@@ -57,7 +57,7 @@ status: developing
   - Erinnert: ihr **Zirkel** schickte sie damals südwärts, *"weil Schlimmes im Süden vorgeht"* — der persistente Riss im [[Eiswueste-Vulkan-Riss|Vulkan ihrer Heimat]] war ihr unbekannt.
 - **[[Session 13]]**:
   - Will weiterhin einen **Pony** haben — wird in dieser Sitzung erhört (siehe unten).
-  - Hilft [[Hrímnir]] beim Grappling-Anschlag, indem sie als kleine "Bein-Stolperfalle" dient.
+  - Hilft [[Hrímnir]] beim Grappling-Anschlag, indem sie als kleine \"Bein-Stolperfalle\" dient.
   - **Naelis Persuasion** (Schmied) reduziert den Gurde-Reparaturpreis auf 150 G.
   - Im Spymaster-Kampf: **Nebelwolke**, **Heilung** (12 HP für [[Hrímnir]] nach Vergiftung), Sturm-Spell.
   - Verwendet ihre **Schneeeule** als Bote — Brief in Elfisch an [[Khirin]] mit der Nachricht *"Entwarnung. Pony."*
@@ -124,6 +124,13 @@ status: developing
 - Kämpft beim Drachenplan mit und versorgt [[Berta]] nach deren Sturz mit einem Heiltrank.
 - Reagiert auf Khirins Drachenernte-Versuche eher kritisch, weil der Kampf kaum vorbei ist und die Lage noch nicht stabil ist.
 
+## [[Session 25]]
+
+- Verbraucht im Kampf gegen [[Magolor]] und seine Begleitmagier fast alle Spell Slots (Feuerstab, vorbereiteter Sturmzauber).
+- Belebt Magolor mitten im Kampf per **Revivify** (mit einem 300-Gold-Diamanten aus Hrímnirs Ausrüstung) wieder, damit die Gruppe ihn lebend verhören kann — innerhalb der Gruppe umstritten.
+- Trifft Magolor während seiner Flucht zusätzlich mit einer länger anhaltenden Call-Lightning-Wolke.
+- Kauterisiert nach dem Erwachen in [[Avernus]] den frisch amputierten Beinstumpf von [[Khirin]] mit Burning Hands über ihrem Feuerstab.
+
 ## Verknüpfungen
 
 - [[Anwesen]]
@@ -168,4 +175,8 @@ status: developing
 - [[Staff of Charming]]
 - [[Session 23]]
 - [[Session 24]]
+- [[Session 25]]
 - [[Drachenzahn]]
+- [[Khirin]]
+- [[Drift-Zeppelin]]
+- [[Avernus]]

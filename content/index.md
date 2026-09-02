@@ -2,7 +2,7 @@
 type: meta
 title: "Wiki Index"
 created: 2026-05-11
-updated: 2026-08-31
+updated: 2026-09-02
 tags:
   - meta
 status: mature
@@ -35,24 +35,24 @@ Master catalog. Updated on every ingest.
 - Unbekannt: [[Carbus]] (= [[gesetzlose Stadt]]) · [[Berthas Bohnen]] · [[Verhängnisturm]]
 - Riss-Stand: [[Eiswueste-Vulkan-Riss]]
 
-## Lore (17) — see [[_index|Lore Index]]
+## Lore (18) — see [[_index|Lore Index]]
 - Götter: [[Corellon]] · [[Ilmater]] · [[Lathander]] · [[Marcosias]] · [[Torm]] · [[Tymora]] · [[Tyr]]
 - Konzepte: [[Apostel]] · [[Drei Bücher]] · [[gesetzlose Stadt]] · [[Goetterfunke]] · [[Residuum]] · [[Risse]]
 - Rassen: [[Goliath]]
 - Entitäten: [[das Nichts]] · [[Djinn]]
-- Ebenen: [[Feenwildnis]]
+- Ebenen: [[Feenwildnis]] · [[Avernus]]
 
-## Bestiarium (14)
-- [[Eulenbärin]] · [[Gedankenschaender]] · [[Geist]] · [[Revenant]] · [[Rictus Mors]] · [[Shadow]] · [[Skelett]] · [[Spectre]] · [[Spinnenwesen]] · [[Treant]] · [[Will o Wisp]] · [[Worg]] · [[Wraith]] · [[Zombie]]
+## Bestiarium (15)
+- [[Drift-Zeppelin]] · [[Eulenbärin]] · [[Gedankenschaender]] · [[Geist]] · [[Revenant]] · [[Rictus Mors]] · [[Shadow]] · [[Skelett]] · [[Spectre]] · [[Spinnenwesen]] · [[Treant]] · [[Will o Wisp]] · [[Worg]] · [[Wraith]] · [[Zombie]]
 
 ## Items (17) — see [[_index|Items Index]]
 - [[Aalafiels Trank]] · [[Akronisjuwel]] · [[Blaue Metallbarren]] · [[Bogen +2]] · [[Dis-Enchanter]] · [[Drachenzahn]] · [[Goldene Drachenschuppe]] · [[Gurde]] · [[Krone des Hohen Rates]] · [[Lady Günthers Flasche]] · [[Lysandriels Ring]] · [[Magischer Schluessel]] · [[Spell-Slot-Anhänger]] · [[Staff of Charming]] · [[Staff of Fire]] · [[Staff of Warning]] · [[Wappen des alten Kalineon]]
 
-## Sessions (25) — see [[_index|Sessions Index]]
-- [[Session 24]] · [[Session 23]] · [[Session 22]] · [[Session 21]] · [[Session 20]] · [[Session 19]] · [[Session 18]] · [[Session 17]] · [[Session 16]] · [[Session 15]] · [[Session 14]] · [[Session 13]] · [[Session 12]] · [[Session 11]] · [[Session 10]] · [[Session 9]] · [[Session 8]] · [[Session 7]] · [[Session 6]] · [[Session 5]] · [[Session 4]] · [[Session 3]] · [[Session 2]] · [[Session 1]] · [[Session 0]]
+## Sessions (26) — see [[_index|Sessions Index]]
+- [[Session 25]] · [[Session 24]] · [[Session 23]] · [[Session 22]] · [[Session 21]] · [[Session 20]] · [[Session 19]] · [[Session 18]] · [[Session 17]] · [[Session 16]] · [[Session 15]] · [[Session 14]] · [[Session 13]] · [[Session 12]] · [[Session 11]] · [[Session 10]] · [[Session 9]] · [[Session 8]] · [[Session 7]] · [[Session 6]] · [[Session 5]] · [[Session 4]] · [[Session 3]] · [[Session 2]] · [[Session 1]] · [[Session 0]]
 
-## Sources (13) — see [[_index|Sources Index]]
-- [[Session 24 transcript]] · [[Session 23 transcript]] · [[Session 22 transcript]] · [[Session 21 transcript]] · [[Session 20 transcript]] · [[Session 19 transcript]] · [[Session 17 transcript]] · [[Session 16 transcript]] · [[Session 15 transcript]] · [[Session 12 transcript]] · [[Session 13 transcript]] · [[Session 14 transcript]] · [[Tagebücher Wilhelm Casterwill]]
+## Sources (14) — see [[_index|Sources Index]]
+- [[Session 25 transcript]] · [[Session 24 transcript]] · [[Session 23 transcript]] · [[Session 22 transcript]] · [[Session 21 transcript]] · [[Session 20 transcript]] · [[Session 19 transcript]] · [[Session 17 transcript]] · [[Session 16 transcript]] · [[Session 15 transcript]] · [[Session 12 transcript]] · [[Session 13 transcript]] · [[Session 14 transcript]] · [[Tagebücher Wilhelm Casterwill]]
 
 ## Factions (1) — see [[_index|Factions Index]]
 - [[Kalineon-Royalisten]]
@@ -75,7 +75,7 @@ Master catalog. Updated on every ingest.
 
 > [!gap] **Session 21–23 — Angriff auf Lunovar, Drahtzieher teilweise geklärt**: [[Elfaria Albis von Sylphid]] ist körperlich Elfaria, aber in [[Session 22]] als **Evelyn** (Menschenseele im Elfenkörper) und Agentin [[Magolor]]s enttarnt. Magolor beansprucht [[Kalineon]] als Erbe des alten Königshauses. In [[Session 23]] wurde Evelyn/Elfaria auf [[Cassomir]]s Befehl hingerichtet; durch Seelenmagie bleibt unklar, ob dies endgültig ist. Weiter offen: Identität/Rolle des vermummten alten Magiers, die chromatischen Drachen über der Glasglocken-Barriere und ob die [[Kalineon-Royalisten]] dieselbe Bewegung oder ein unabhängiger Faden sind.
 
-> [!gap] **Session 24 — Magolor-Nähe und Kreis im Norden**: Nach dem Tod des blauen Drachen reagiert [[Berta]]s Seite/Ausrüstung stark; [[Magolor]]s Nähe wird vermutet, aber nicht endgültig bestätigt. Nördlich öffnet sich ein magischer Kreis/Oval, drei Robenträger und ein [[Spinnenwesen]] erscheinen. Der Evakuierungsplan der Akademie bleibt offen.
+> [!gap] **Session 25 — Magolors Tod unbestätigt & Grund für Avernus**: [[Magolor]] wurde in [[Session 25]] von [[Hrímnir]] aus großer Höhe fallen gelassen, aber ohne Leichenfund. Unklar bleibt außerdem, warum der Riss über Lunovar die Gruppe ausgerechnet nach [[Avernus]] zog, und wie sie zurückkommen. Auch das Schicksal des mit Magolor erschienenen [[Spinnenwesen]] und der Zustand von Lunovar nach dem Turmeinsturz sind ungeklärt.
 
 > [!gap] **[[Delora]]** — als NPC in [[Session 9]], [[Lucien]], [[Marcosias]] erwähnt (Marcosias-Diener, Tiefling-artig, zerfiel beim Tod zu Schatten). DM-Frage offen: soll eigene NPC-Seite angelegt werden?
 

@@ -2,7 +2,7 @@
 type: overview
 title: "Edotea — Willkommen"
 created: 2026-05-11
-updated: 2026-08-31
+updated: 2026-09-02
 tags:
   - overview
   - campaign
@@ -15,10 +15,11 @@ sources: []
 
 ## Einstieg
 
-- [[Session 24|Aktuelle Session: Session 24]]
+- [[Session 25|Aktuelle Session: Session 25]]
 - [[Kontinent Edotea]]
 - [[Kalineon]]
 - [[Lunovar]]
+- [[Avernus]]
 - [[Cadnix]]
 - [[Oestliche Garnison von Cadnix|Östliche Garnison von Cadnix]]
 
@@ -26,7 +27,7 @@ sources: []
 
 - [[Berta]] — Sorcerer / Warlock
 - [[Hrímnir]]
-- [[Khirin]]
+- [[Khirin]] — seit [[Session 25]] ohne einen Arm und ein Bein
 - [[Naeli]]
 - [[Sim]]
 
@@ -37,7 +38,7 @@ sources: []
 - [[Nora]]
 - [[Lucien]]
 - [[Crucellus]]
-- [[Magolor]]
+- [[Magolor]] — mutmaßlich tot seit [[Session 25]], unbestätigt
 - [[Wilhelm Casterwill]]
 - [[Lysanthiriel Vaelora]]
 - [[Borgrim Runenbrecher]]
@@ -49,14 +50,16 @@ sources: []
 
 ## Aktuelle Fäden
 
-- **[[Lunovar]] unter Angriff**: Akademie steht noch; Schutzbarriere beschädigt; Evakuierung von Schülern/Bürgern/Verletzten bleibt akut.
-- **[[Session 24]]-Cliffhanger**: Nach dem getöteten blauen Drachen reagiert [[Berta]]s Seite stark; [[Magolor]]s Nähe wird vermutet. Im Norden öffnet sich ein magischer Kreis/Oval mit drei Robenträgern und einem [[Spinnenwesen]].
-- **Ultimatum der Angreifer**: Auslieferung hoher Lunovar-Führungspersonen und [[Berta]]s gegen Angriffsende/Friedensgespräche.
-- **[[Naeli]]s Verzauberung**: Essenz-/Seelenbuch wären mögliche Heilwege, aber beide sind nicht verfügbar.
+- **Gestrandet in [[Avernus]]**: Die Gruppe wurde am Ende von [[Session 25]] durch einen Riss über Lunovar zusammen mit Turmtrümmern in die erste Schicht der Neun Höllen gerissen. Rückweg unbekannt.
+- **[[Magolor]] mutmaßlich tot**: In [[Session 25]] von [[Hrímnir]] aus großer Höhe fallen gelassen — kein Leichenfund, letzte Sicherheit fehlt.
+- **[[Khirin]]s dauerhafte Verstümmelung**: fehlender Arm, amputiertes Bein seit [[Session 25]].
+- **[[Lunovar]] unter Angriff / Turmeinsturz**: Zustand der Stadt, der Akademie und der Evakuierung nach dem Turmeinsturz aus [[Session 25]] ungeklärt.
+- **[[Naeli]]s Verzauberung**: Essenz-/Seelenbuch wären mögliche Heilwege; das Buch der Seelen ist seit [[Session 25]] vermutlich in Gruppenbesitz, aber noch nicht genutzt.
 - **[[Khirin]]s Kristallkugel-Pendant / gestohlenes Essenz-Buch**: Spur führt weiter Richtung **[[Carbus]]**.
 
 ## Letzte Sessions
 
+- [[Session 25]]
 - [[Session 24]]
 - [[Session 23]]
 - [[Session 22]]
@@ -100,3 +103,4 @@ sources: []
 - [[Magilanikas Zauberladen]]
 - [[Shadow]]
 - [[Wraith]]
+- [[Avernus]]

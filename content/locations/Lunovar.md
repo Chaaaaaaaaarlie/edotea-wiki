@@ -9,7 +9,7 @@ related: []
 sources:
   - Session 14
 created: 2026-05-11
-updated: 2026-08-31
+updated: 2026-09-02
 status: developing
 ---
 # Lunovar
@@ -97,6 +97,15 @@ Der blaue erwachsene Drache wird auf der Turmspitze/Barriere-Höhe gestellt und 
 
 Cliffhanger: Nach dem Drachenkampf reagiert Bertas Seite/Ausrüstung stark; [[Magolor]]s Nähe wird vermutet. Nördlich öffnet sich ein magischer Kreis/Oval, aus dem drei Robenträger und ein [[Spinnenwesen]] erscheinen.
 
+### [[Session 25]] — Magolors Sturz und der Riss über der Turmspitze
+
+Direkt anschließend kämpft die Gruppe auf derselben Turmspitze gegen [[Magolor]], zwei Begleitmagier und das [[Spinnenwesen]] um das erbeutete Buch der Schwellen. Magolors zweites Buch verwandelt die Leiche des in [[Session 24]] getöteten blauen Drachen in eine neue Kreatur, den [[Drift-Zeppelin]]. Magolor flieht über die Stadt, wird von [[Hrímnir]] in der Luft gegriffen und aus großer Höhe auf Lunovar fallen gelassen — mutmaßlich sein endgültiges Ende, ohne Leichenfund.
+
+Beim Tod des anschließend besiegten Drift-Zeppelins entlädt sich die seit Wochen über der Stadt hängende Gewitterenergie in einem gewaltigen **Riss am Himmel** über dem Turm. Der bereits beschädigte Turm **stürzt ein**; Trümmer der Stadt und die Gruppe selbst werden durch den Riss nach oben gerissen. Die Gruppe erwacht schließlich unter Trümmern von Lunovar in **[[Avernus]]**, der ersten Schicht der Neun Höllen.
+
+> [!gap] Zustand von Lunovar nach [[Session 25]] unklar
+> Wie stark der Turmeinsturz und der Riss die restliche Stadt, die Akademie und die laufende Evakuierung beschädigt haben, wird im Transkript nicht mehr gezeigt — die Session endet mit der Gruppe bereits in Avernus.
+
 ## Stadtviertel
 
 > [!info] **Adelsviertel Lunovar** ([[Session 14]]): durch eine **separate 21-Meter-Mauer** (Attack-on-Titan-Style) vom Rest der Stadt getrennt. Im Zentrum steht ein riesiges Marmor-Gebäude — der **Ratssaal** mit Thron des Hohen Rates. Reicht-Familien wohnen hier in Halb-Palästen. **Pöbel und Halbelfen** sind ausgeschlossen.
@@ -160,6 +169,9 @@ Nach Audienz mit [[Elfaria Albis von Sylphid]]:
 - [[Session 22]]
 - [[Session 23]]
 - [[Session 24]]
+- [[Session 25]]
 - [[Drachenzahn]]
 - [[Magolor]]
 - [[Kalineon]]
+- [[Drift-Zeppelin]]
+- [[Avernus]]

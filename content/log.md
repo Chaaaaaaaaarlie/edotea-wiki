@@ -2,7 +2,7 @@
 type: meta
 title: "Wiki Log"
 created: 2026-05-11
-updated: 2026-08-31
+updated: 2026-09-02
 tags:
   - meta
 status: evergreen
@@ -11,6 +11,21 @@ status: evergreen
 # Wiki Log
 
 Append-only. New entries at the **TOP**. Never edit past entries.
+
+## [2026-09-02] ingest | Session 25 (gespielt 2026-09-02) aus faster-whisper-Transkript
+
+- **Quelle**: lokal transkribiert (`faster-whisper`, Modell `large`, de) aus 6 Craig-Audiospuren (Aufnahme `nhfVDejatylh`), zusammengeführt/nach Sprecher sortiert, 3463 Segmente, ~3h8min. **Alle fünf PCs anwesend**, [[Sim]] **erstmals mit eigener Craig-Spur**.
+- **Sprecher-Mapping**: `_blestem_`=DM, `drore`=[[Berta]], `feeminin`=[[Naeli]], `hansmeier`=[[Hrímnir]], `luke_234`=[[Khirin]], `mep0510`=[[Sim]]. **Warnung**: Das Rohtranskript taggt `hansmeier` fälschlich inline als `(DM)` — Artefakt, kein tatsächlicher DM-Wechsel; inhaltlich bestätigt sich die etablierte Zuordnung (siehe [[Session 25 transcript]]).
+- **Rohdatei kopiert**: `.raw/session-transcripts/Session 25 - 02.09.2026.md`.
+- **Neue Seiten**: [[Session 25]], [[Session 25 transcript]], [[Drift-Zeppelin]], [[Avernus]].
+- **Aktualisierte Seiten**: [[Berta]], [[Hrímnir]], [[Khirin]], [[Naeli]], [[Sim]], [[Magolor]], [[Drei Bücher]], [[Spinnenwesen]], [[Lunovar]], `wiki/index.md`, `wiki/overview.md`, `wiki/sessions/_index.md`, `wiki/sources/_index.md`, [[hot|Hot Cache]].
+- **Schlüssel-Erkenntnisse**:
+  - **Fortsetzung des [[Session 24]]-Cliffhangers**: Kampf gegen [[Magolor]], zwei Begleitmagier und ein [[Spinnenwesen]] auf der Turmspitze um das Buch der Schwellen.
+  - **Buch der Schwellen erbeutet**: [[Hrímnir]] entreißt es Magolor direkt aus der Aura; beide Begleitmagier werden getötet.
+  - **Drachenleiche → [[Drift-Zeppelin]]**: Magolors zweites Buch (vermutlich Buch der Seelen, nicht offiziell bestätigt) verwandelt den in [[Session 24]] getöteten blauen Drachen in eine neue Beholder-artige Kreatur.
+  - **Magolors mutmaßlicher Tod**: nach Zwischen-Revivify von [[Hrímnir]] in der Luft gegriffen und aus großer Höhe auf Lunovar fallen gelassen; kein Leichenfund.
+  - **Riss nach [[Avernus]]**: Der Tod des besiegten Drift-Zeppelins löst einen Riss am Himmel aus; der Turm stürzt ein, die Gruppe wird mit Trümmern nach Avernus (erste Schicht der Neun Höllen) gerissen.
+  - **[[Khirin]] schwer verstümmelt**: verliert dauerhaft einen Arm (Versteinerung) und ein Bein (Notamputation durch Hrímnir wegen Kompartmentsyndrom).
 
 ## [2026-08-31] ingest | Session 24 (gespielt 2026-08-31) aus WhisperX-Transkript
 

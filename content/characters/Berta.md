@@ -8,7 +8,7 @@ tags:
 related: []
 sources: []
 created: 2026-05-11
-updated: 2026-08-31
+updated: 2026-09-02
 status: developing
 ---
 # Berta
@@ -57,7 +57,7 @@ status: developing
 - **[[Session 14]]**:
   - **Verhör Stellvertreter**: castet **Intimidation 19** (mit Hrímnir-Help-Vorteil) → Geständnis: Kopfgeld in Carbus durch [[Edgar Thorne]] (5.000 G).
   - **Detect Thoughts auf [[Sophie Marie]]** (zweiter Versuch, mit Past-Life-Erinnerung d6) → ganzes Magolor-Aussehen + Brandstempel-Identifikation.
-  - **Mano Illusion** von Magolor + Folianten für die Gruppe.
+  - **Mano Illusion** von Magolor + den Folianten für die Gruppe.
   - **Identify** auf den [[Magischer Schluessel|Schlüssel des Nichts]] — bestätigt: Tür zu anderem Ort, durch nichts Bekanntes zerstörbar.
   - **Telepathie-Versuch zum Nichts** über die Pergament-Seite (Arcana 23 + d6 Past-Life) — **funktioniert nicht** (falscher Vektor).
   - **Bertas Book of Shadows weigert sich**, die Pergament-Seite aufzunehmen (blau-rote Flamme).
@@ -77,6 +77,7 @@ status: developing
 - **[[Session 21]]**: Die Seite reagiert wie von leichtem Wind erfasst, wenn Berta sie freihält, und **zieht in eine bestimmte Richtung** — führt die Gruppe zielsicher durch das brennende Adelsviertel direkt zum belagerten Anwesen von [[Cassomir]]. Vermutung der Gruppe: die Seite reagiert auf die Nähe zu ihrem Ursprung bzw. zu wer auch immer mit den [[Drei Bücher|Büchern]] agiert (unbestätigt).
 - **[[Session 23]]**: Berta hatte die Seite vor dem Gang in Cassomirs Anwesen unter Dielen und Stahl versteckt, um sie vor [[Magolor]] zu schützen. Nach der Evakuierung in die [[Magische Akademie Lunovar|Akademie]] holt sie die Seite zurück; sie zieht wieder ungefähr nach Westen/Südwesten.
 - **[[Session 24]]**: Nach dem getöteten blauen Drachen reagiert die Seite/Ausrüstung stark; Berta schließt daraus, dass [[Magolor]] in der Nähe sein könnte. Das bleibt Verdacht, keine harte Bestätigung.
+- **[[Session 25]]**: Magolor erscheint tatsächlich — die Reaktion der Seite/Ausrüstung war also ein zutreffendes Warnsignal.
 
 ### Pakt mit dem Erschaffer der Seite / [[das Nichts]]
 
@@ -139,6 +140,15 @@ status: developing
 - Reißt nach dem Kampf erfolgreich einen nahezu perfekten [[Drachenzahn]] aus dem toten Drachen; Schuppen/Knochen/Herz bleiben vorerst ungeborgen.
 - Bemerkt/zeigt die starke Reaktion ihrer Seite/Ausrüstung kurz vor dem Kreis-im-Norden-Cliffhanger.
 
+## [[Session 25]]
+
+- Setzt Catapult und Sorcerer's Burst gegen [[Magolor]] und seine Begleitmagier ein.
+- Geht im Bosskampf gegen den [[Drift-Zeppelin]] durch eine Kombination aus Bezauberungs- und Verlangsamungsstrahl zu Boden.
+- Entgeht knapp einer Disintegration (Rettungswurf trotz Nat 1 erfolgreich überlebt — reines Würfelglück).
+- Erkennt per History-Check nach dem Sturz durch den Riss, dass die Gruppe in [[Avernus]], der ersten Schicht der Neun Höllen, gelandet ist.
+- Gibt [[Khirin]] nach dessen Notamputation einen Heiltrank.
+- Verwendet im Spiel beiläufig den Begriff „Edotea" als in-weltlichen Ortsnamen — Klärung offen (siehe [[Session 25]], Open Threads).
+
 ## Verknüpfungen
 
 - [[Cadnix]]
@@ -183,4 +193,7 @@ status: developing
 - [[Session 22]]
 - [[Session 23]]
 - [[Session 24]]
+- [[Session 25]]
 - [[Drachenzahn]]
+- [[Drift-Zeppelin]]
+- [[Avernus]]

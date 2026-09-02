@@ -8,7 +8,7 @@ tags:
 related: []
 sources: []
 created: 2026-05-11
-updated: 2026-08-31
+updated: 2026-09-02
 status: developing
 ---
 # Sim
@@ -117,6 +117,13 @@ status: developing
 - Trägt mit Fernkampfangriffen und Affengefährten erheblich zum Drachenkampf bei; der genaue Todesstoß bleibt im Transkript unsicher.
 - Wird im Gespräch nach dem Kampf als einer der entscheidenden Drachenkämpfer anerkannt.
 
+## [[Session 25]]
+
+- Hat ab dieser Session erstmals eine eigene Craig-Tonspur (`mep0510`).
+- Klettert per Enterhaken auf einen Brunnen/eine Statue im Innenhof und springt von dort direkt auf den entstehenden [[Drift-Zeppelin]], um ihn im Nahkampf zu bekämpfen.
+- Klettert im Bosskampf wiederholt an der Kreatur herunter, um ihr zentrales Auge aus nächster Nähe anzugreifen, bevor [[Hrímnir]] den finalen Treffer landet.
+- Wird mit der Gruppe durch den Riss nach [[Avernus]] gerissen; findet dort den verschütteten, verstümmelten [[Khirin]].
+
 ## Verknüpfungen
 
 - [[Cadnix]]
@@ -158,4 +165,7 @@ status: developing
 - [[Session 22]]
 - [[Session 23]]
 - [[Session 24]]
+- [[Session 25]]
 - [[Drachenzahn]]
+- [[Drift-Zeppelin]]
+- [[Avernus]]

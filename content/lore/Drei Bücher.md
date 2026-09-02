@@ -13,13 +13,17 @@ related:
 sources:
   - Tagebücher Wilhelm Casterwill
   - Session 17 transcript
+  - Session 25
 created: 2026-05-11
-updated: 2026-08-31
+updated: 2026-09-02
 status: developing
 ---
 # Die drei Bücher
 
 > [!contradiction] In [[Session 12]] erinnern sich [[Sim]] und [[Naeli]] gegenüber [[Fohlen]] falsch — sie nennen die Trinitaet *Raum / **Zeit** / Essenz*. Korrekt laut [[Session 6]], [[Session 7]], [[Session 11]] und dieser Seite ist **Raum / Essenz / Seelen**. Fohlens Reaktion *"davon noch nie gehört"* passt — er kennt die echte Trinitaet, nicht die falsche.
+
+> [!warning] Beide Magolor-Bücher der Gruppe entrissen ([[Session 25]])
+> [[Hrímnir]] entreißt Magolor das **Buch der Schwellen** direkt aus dessen Aura; im selben Kampf verwandelt Magolors zweites Buch (vermutlich das **Buch der Seelen**, nicht offiziell bestätigt) die Leiche des toten blauen Drachen aus [[Session 24]] in den [[Drift-Zeppelin]]. Beide Bücher werden danach von der Gruppe erbeutet und sind seither bei [[Hrímnir]] (passen nicht ins Bag of Holding).
 
 ## Überblick
 
@@ -70,17 +74,18 @@ Per [[Berta]]s Detect Thoughts auf [[Sophie Marie]]: die zwei Folianten, die [[M
 - **[[Session 21]]**: Die Seite reagiert **richtungsweisend** (wie von Wind erfasst), wenn Berta sie freihält, und führte die Gruppe während des Angriffs auf [[Lunovar]] direkt zum belagerten Anwesen von [[Cassomir]]. Vermutung der Gruppe: reagiert auf Nähe zu ihrem Ursprung/Ersteller — nicht bestätigt.
 - **[[Session 23]]**: [[Berta]] hatte die Seite vor dem Gang in Cassomirs Anwesen unter Dielen und Stahl versteckt, damit [[Magolor]] sie bei einer direkten Begegnung nicht bekommt. Nach der Ankunft in der [[Magische Akademie Lunovar|Akademie]] holt sie sie zurück; die Seite zieht erneut, ungefähr nach Westen/Südwesten. Ziel/Grund weiterhin unbestätigt.
 - **[[Session 24]]**: Nach dem Drachenkampf reagiert Bertas Seite/Ausrüstung deutlich stärker; Berta vermutet [[Magolor]] in der Nähe. Kurz darauf öffnet sich im Norden ein magischer Kreis/Oval mit drei Robenträgern und einem [[Spinnenwesen]]. Der Zusammenhang bleibt unbestätigt.
+- **[[Session 25]]**: Magolor erscheint tatsächlich aus diesem Kreis, mit **beiden** Büchern am Gürtel. [[Hrímnir]] entreißt ihm das Buch der Schwellen direkt aus der Aura (brennt bei Berührung, 1d4 Radiant/Nekrotisch wählbar; blättert eigenständig; gewährt eine kurze Misty-Step-artige Versetzung). Das zweite Buch verwandelt mitten im Kampf die Leiche des blauen Drachen aus [[Session 24]] in den [[Drift-Zeppelin]]. Beide Bücher werden erbeutet, nachdem Magolor endgültig (mutmaßlich) fällt.
 
-### Buchverteilung (bestätigt [[Session 19]])
+### Buchverteilung (bestätigt [[Session 19]], Bücher erbeutet [[Session 25]])
 
 | Buch | Magier | Aktueller Besitzer |
 |------|--------|--------------------|
-| **Buch der Schwellen** (Raum) | [[Wilhelm Casterwill]] | [[Magolor]] |
+| **Buch der Schwellen** (Raum) | [[Wilhelm Casterwill]] | **[[Hrímnir]]** (erbeutet [[Session 25]], zuvor [[Magolor]]) |
 | **Buch der Essenzmagie** (Essenz) | [[Lysanthiriel Vaelora]] | **Unbekannte Zwergengruppe** (gestohlen aus [[Gruft des Buches]]) |
-| **Buch der Seelen** (Seele) | [[Borgrim Runenbrecher]] | [[Magolor]] |
+| **Buch der Seelen** (Seele) | [[Borgrim Runenbrecher]] | **vermutlich [[Hrímnir]]** (erbeutet [[Session 25]] als das "zweite Buch", nicht offiziell benannt bestätigt; zuvor [[Magolor]]) |
 | **Buch der Versiegelung** | [[Palamedis]] | Unbekannt (Siegel gebrochen) |
 
-- **Magolors Bücher** ([[Session 19]] bestätigt): Er besitzt **Buch der Schwellen** (Raum/Wilhelm) und **Buch der Seelen** (Seele/Borgrim) — die zwei Folianten mit roten und grünen Perlen aus S14. Zuordnung Farbe→Magier: weiterhin unklar.
+- **Magolors Bücher** ([[Session 19]] bestätigt): Er besaß **Buch der Schwellen** (Raum/Wilhelm) und **Buch der Seelen** (Seele/Borgrim) — die zwei Folianten mit roten und grünen Perlen aus S14. Zuordnung Farbe→Magier: weiterhin unklar. **[[Session 25]]**: beide Bücher von der Gruppe erbeutet.
 - **Essenz-Buch gestohlen**: Zwerge bohrten sich von oben durch die Decke der [[Gruft des Buches]] und stahlen das Buch ([[Session 19]]). Einbruchsbeweis: Deckenloch, Seil, Bohrerkopf, zwei Bergmann-Skelette. Dritte Kristallkugel zeigt Zwerg bei Metallarbeiten, Ort: vermutlich [[Carbus]]-Gebiet.
 - **[[Session 22]]**: Evelyn (in [[Elfaria Albis von Sylphid]]s Körper, siehe dort) bestätigt, dass [[Magolor]] weiterhin **das dritte Buch** sucht (vermutlich das Buch der Essenzmagie, siehe oben) und sein Interesse **der Stadt [[Lunovar]] selbst** gilt — im Kontext seines enthüllten Anspruchs als Erbe des alten [[Kalineon]]-Königshauses. [[Khirin]] speist ihr eine falsche Tempel-Location unter, um die Suche zu sabotieren.
 
@@ -114,4 +119,7 @@ Per [[Berta]]s Detect Thoughts auf [[Sophie Marie]]: die zwei Folianten, die [[M
 - [[Session 22]]
 - [[Session 23]]
 - [[Session 24]]
+- [[Session 25]]
 - [[Cassomir]]
+- [[Hrímnir]]
+- [[Drift-Zeppelin]]

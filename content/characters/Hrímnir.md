@@ -8,7 +8,7 @@ tags:
 related: []
 sources: []
 created: 2026-05-11
-updated: 2026-08-31
+updated: 2026-09-02
 status: developing
 ---
 ![[Hrimnir.png|533]]
@@ -124,6 +124,16 @@ status: developing
 - Heilt [[Berta]] nach ihrem Sturz zusätzlich per Cure Wounds, nachdem [[Naeli]] ihr bereits einen Heiltrank gegeben hat.
 - Behandelt den toten Drachen eher ehrfürchtig und will zumindest einen Teil von ihm sinnvoll verwerten.
 
+## [[Session 25]]
+
+- Sprintet [[Magolor]] direkt im Cliffhanger nach und entreißt ihm das **Buch der Schwellen** aus der Aura (nimmt dabei Radiant-/Nekrotisch-Schaden); trägt das Buch danach durchgehend bei sich.
+- Kämpft mit Stunning Strike und Flurry of Blows gegen Magolor und seine Begleitmagier.
+- Fängt den fliehenden Magolor in der Luft, stellt fest, dass eine Rettung dieses Mal ausgeschlossen ist, und lässt ihn bewusst aus großer Höhe auf [[Lunovar]] fallen — mutmaßlich Magolors endgültiges Ende.
+- Trägt im Kampf gegen den [[Drift-Zeppelin]] weiter bei und landet den finalen Treffer, der die Kreatur tötet.
+- Wird mit der Gruppe durch den entstehenden Riss nach [[Avernus]] gerissen.
+- Versorgt [[Khirin]] nach dem Erwachen in Avernus: tourniquettiert dessen zerquetschtes Bein und amputiert es notdürftig mit einer Handaxt.
+- Verstaut am Ende beide erbeuteten Bücher (Buch der Schwellen + vermutetes Buch der Seelen) in seinem Rucksack, da sie nicht ins Bag of Holding passen.
+
 ## Verknüpfungen
 
 - [[Berta]]
@@ -133,9 +143,11 @@ status: developing
 - [[Fohlen]]
 - [[Goliath]]
 - [[Isolationsraum]]
+- [[Khirin]]
 - [[Lucien]]
 - [[Lunovar]]
 - [[Magilanikas Maven]]
+- [[Magolor]]
 - [[Naeli]]
 - [[Session 4]]
 - [[Session 7]]
@@ -162,4 +174,7 @@ status: developing
 - [[Session 22]]
 - [[Session 23]]
 - [[Session 24]]
+- [[Session 25]]
 - [[Drachenzahn]]
+- [[Drift-Zeppelin]]
+- [[Avernus]]

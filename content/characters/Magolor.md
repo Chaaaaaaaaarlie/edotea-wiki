@@ -27,14 +27,18 @@ sources:
   - Session 11
   - Session 14
   - Session 14 transcript
+  - Session 25
 created: 2026-05-11
-updated: 2026-08-31
+updated: 2026-09-02
 status: mature
 ---
 # Magolor
 
 > [!key-insight] Magolor beansprucht das Kalineon-Königserbe ([[Session 22]])
 > Laut **Evelyn** (siehe [[Elfaria Albis von Sylphid]]) ist Magolor der **Erbe des alten, vor ~750–800 Jahren gestürzten Kalineon-Königshauses** (siehe [[Kalineon]]). Sein Feldzug gegen [[Lunovar]] liest sich damit als Rückeroberungsversuch. Deckt sich mit [[Cassomir]]s Aussage aus [[Session 15]], Lunovar sei *"im Krieg gegen den alten König"* gegründet worden.
+
+> [!warning] Vermutlich tot ([[Session 25]])
+> Nach [[Hrímnir]]s Sturz-Angriff aus großer Höhe gilt Magolor als mutmaßlich endgültig getötet — allerdings ohne Leichenfund. Siehe Abschnitt [[Session 25]] unten.
 
 ## Aussehen (bestätigt in [[Session 14]])
 
@@ -131,6 +135,15 @@ Verhört von der Gruppe, bestätigt seine Agentin **Evelyn** (siehe [[Elfaria Al
 - Kurz darauf öffnet sich nördlich ein magischer Kreis/Oval; drei Robenträger und ein [[Spinnenwesen]] erscheinen.
 - Diese Verbindung ist **nicht bestätigt**: Es ist möglich, dass Magolor selbst, ein Untergebenerkreis oder eine andere Kraft den Kreis auslöst.
 
+## [[Session 25]] — Direkte Konfrontation und mutmaßlicher Tod
+
+- Magolor selbst erscheint aus dem [[Session 24]]-Kreis, begleitet von zwei vermummten Magiern und einem [[Spinnenwesen]], mit dem **Buch der Schwellen** und einem zweiten Buch (vermutlich das Buch der Seelen) am Gürtel.
+- [[Hrímnir]] entreißt ihm das Buch der Schwellen direkt aus der Aura; Magolor greift die Gruppe daraufhin offen an und wirft ihr vor, hinter seinem Rücken "eine seiner Kreaturen" (den blauen Drachen aus [[Session 24]]) getötet zu haben.
+- Wird im Kampf einmal zu Boden gebracht und von [[Naeli]] per Revivify wiederbelebt (die Gruppe will ihn lebend verhören), dann ein zweites Mal von [[Hrímnir]] in der Luft gegriffen und bewusst aus großer Höhe auf [[Lunovar]] fallen gelassen — dieses Mal ohne Wiederbelebung.
+- **Kein Leichenfund** — sein Tod gilt als mutmaßlich, aber unbestätigt.
+- Sein zweites Buch verwandelt während des Kampfs die Leiche des blauen Drachen in eine neue Kreatur, den [[Drift-Zeppelin]] (siehe dort).
+- Beide Bücher (Buch der Schwellen + vermutetes Buch der Seelen) werden von der Gruppe erbeutet und sind seither in [[Hrímnir]]s Besitz.
+
 ## Offene Fragen
 - Welche zwei Bücher hat er konkret (Raum/Essenz/Seele zu grün/rot)?
 - Wie viele Helfer hat sein Kreis?
@@ -138,10 +151,11 @@ Verhört von der Gruppe, bestätigt seine Agentin **Evelyn** (siehe [[Elfaria Al
 - Wer war [[Sophie Marie|Sophie]], bevor er sie *"rettete"* — und gegen welche Schuld arbeitete sie?
 - Hat er die Brosche tatsächlich abgehört oder ist die Funktion **passiv** (nur Ortung permanent)?
 - Ist der Kreis im Norden aus [[Session 24]] Magolors Werk oder nur mit seinem Faden verbunden?
+- Ist Magolor in [[Session 25]] wirklich endgültig gestorben, oder taucht er (z. B. via Seelenmagie) noch einmal auf?
 
 ## Verknüpfungen
 - [[Anwesen]] · [[Elliot]] · [[Lysanthiriel Vaelora]] · [[Oestliche Garnison von Cadnix]] · [[Wilhelm Casterwill]] · [[Borgrim Runenbrecher]]
 - [[Drei Bücher]] · [[das Nichts]] · [[Risse]] · [[Tagebücher Wilhelm Casterwill]]
 - [[Sophie Marie]] · [[Spymaster]]
-- [[Session 4]] · [[Session 5]] · [[Session 6]] · [[Session 7]] · [[Session 10]] · [[Session 11]] · [[Session 14]] · [[Session 21]] · [[Session 22]] · [[Session 24]]
-- [[Cassomir]] · [[Lunovar]] · [[Kalineon]] · [[Kalineon-Royalisten]]
+- [[Session 4]] · [[Session 5]] · [[Session 6]] · [[Session 7]] · [[Session 10]] · [[Session 11]] · [[Session 14]] · [[Session 21]] · [[Session 22]] · [[Session 24]] · [[Session 25]]
+- [[Cassomir]] · [[Lunovar]] · [[Kalineon]] · [[Kalineon-Royalisten]] · [[Drift-Zeppelin]] · [[Avernus]]
