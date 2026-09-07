@@ -143,6 +143,12 @@ status: developing
 - **Verliert dauerhaft einen Arm** — während der Versteinerung abgebrochen und nicht wiedergefunden — und **ein Bein**, das [[Hrímnir]] wegen eines Kompartmentsyndroms (Quetschtrauma) notdürftig mit einer Handaxt amputiert; [[Naeli]] kauterisiert den Stumpf per Burning Hands, [[Berta]] gibt ihm einen Heiltrank.
 - Bleibt am Ende der Session bewusstlos und schwer verstümmelt.
 
+## [[Session 26]]
+
+- Bleibt die gesamte Session über versteinert/bewusstlos in [[Hrímnir]]s Rucksack; keine eigenen Aktionen.
+- Sein Spieler übernimmt stattdessen die neue Figur **[[Pyra Shan]]** für die Dauer der Session.
+- Wird zwischenzeitlich von [[Pyra Shan]] per Lay on Hands stabilisiert (keine mechanische Wirkung, da bereits stabil).
+
 ## Verknüpfungen
 
 - [[Carbus]]
@@ -189,3 +195,5 @@ status: developing
 - [[Berta]]
 - [[Drift-Zeppelin]]
 - [[Avernus]]
+- [[Session 26]]
+- [[Pyra Shan]]

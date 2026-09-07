@@ -2,7 +2,7 @@
 type: meta
 title: "Characters Index"
 created: 2026-05-11
-updated: 2026-06-16
+updated: 2026-09-07
 tags:
   - meta
   - characters
@@ -19,7 +19,7 @@ status: evergreen
 - [[Naeli]]
 - [[Sim]]
 
-## NPCs (28)
+## NPCs (30)
 
 - [[Aalafiel]] — *(Session 17 persönlich getroffen: ~3200 J., verflucht; Lysantirs Freundin; Trank aus ihrem Blut)*
 - [[Borgrim Runenbrecher]]
@@ -39,6 +39,8 @@ status: evergreen
 - [[Markus L. Kalinion]]
 - [[Nora]]
 - [[Palamedis]] — *(Session 17: goldener Drache; hält das vierte Buch der Versiegelung; schläft im Nordvulkan)*
+- [[Pyra Shan]] *(neu, Session 26 — Aasimar-Paladin, entsandt von Kalininons Hohem Götterfunken, schließt sich der Gruppe in Avernus an)*
+- [[Pythias]] *(neu, Session 26 — antiker Magier des alten Königshauses, nur durch ein Medaillon bekannt, verstorben)*
 - [[Scale Piercer]]
 - [[Sophie Marie]] *(neu, Session 14 — Magolor-Agentin, wahrscheinlich tot)*
 - [[Spymaster]] *(Session 13 — tot)*

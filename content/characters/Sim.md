@@ -124,6 +124,12 @@ status: developing
 - Klettert im Bosskampf wiederholt an der Kreatur herunter, um ihr zentrales Auge aus nächster Nähe anzugreifen, bevor [[Hrímnir]] den finalen Treffer landet.
 - Wird mit der Gruppe durch den Riss nach [[Avernus]] gerissen; findet dort den verschütteten, verstümmelten [[Khirin]].
 
+## [[Session 26]]
+
+- Sichert das erste Seil über die Lavaschlucht mit einem Wurfspeer im Fels.
+- Schlägt im Kampf gegen die [[Arachnowarg]] zwei Kreaturen mit seinem Stab zu Boden (Topple-Effekt), wodurch sie in die Lava stürzen und sterben.
+- Findet und plündert die zerschmetterte Leiche eines Magolor-Begleitmagiers: Medaillon mit Namen „Pythias“, magischer Quarz-Edelstein (siehe [[Pythias-Seelenstein]]), Revivify-Diamant, Component Pouch.
+
 ## Verknüpfungen
 
 - [[Cadnix]]
@@ -169,3 +175,6 @@ status: developing
 - [[Drachenzahn]]
 - [[Drift-Zeppelin]]
 - [[Avernus]]
+- [[Session 26]]
+- [[Pyra Shan]]
+- [[Pythias-Seelenstein]]

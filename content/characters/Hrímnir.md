@@ -134,6 +134,13 @@ status: developing
 - Versorgt [[Khirin]] nach dem Erwachen in Avernus: tourniquettiert dessen zerquetschtes Bein und amputiert es notdürftig mit einer Handaxt.
 - Verstaut am Ende beide erbeuteten Bücher (Buch der Schwellen + vermutetes Buch der Seelen) in seinem Rucksack, da sie nicht ins Bag of Holding passen.
 
+## [[Session 26]]
+
+- Trägt [[Khirin]] weiterhin versteinert/bewusstlos im Rucksack durch [[Avernus]].
+- Zieht mehrere Gruppenmitglieder per Seil über die Lavaschlucht (u.a. [[Naeli]]).
+- Heilt sich per Lay-on-Hands-Unterstützung von [[Pyra Shan]] nach einem Sturz gegen die Felswand.
+- Besteht als einer der wenigen den Constitution-Save gegen die Höllenhitze ohne Exhaustion.
+
 ## Verknüpfungen
 
 - [[Berta]]
@@ -178,3 +185,5 @@ status: developing
 - [[Drachenzahn]]
 - [[Drift-Zeppelin]]
 - [[Avernus]]
+- [[Session 26]]
+- [[Pyra Shan]]

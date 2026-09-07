@@ -2,7 +2,7 @@
 type: meta
 title: "Wiki Log"
 created: 2026-05-11
-updated: 2026-09-02
+updated: 2026-09-07
 tags:
   - meta
 status: evergreen
@@ -11,6 +11,21 @@ status: evergreen
 # Wiki Log
 
 Append-only. New entries at the **TOP**. Never edit past entries.
+
+## [2026-09-07] ingest | Session 26 (gespielt 2026-09-07) aus faster-whisper-Transkript (large-v3)
+
+- **Quelle**: lokal transkribiert (`faster-whisper`, Modell `large-v3`, de, WinPC-GPU) aus 6 Craig-Audiospuren (Aufnahme `ZxZ1nEdGuYCx`), 5872 Segmente, ~3h4min. **Alle fünf Spieler anwesend**; [[Khirin]] bleibt die gesamte Session versteinert/bewusstlos, sein Spieler übernimmt stattdessen die neue Figur [[Pyra Shan]].
+- **Sprecher-Mapping**: `_blestem_`=DM, `drore`=[[Berta]], `feeminin`=[[Naeli]], `hansmeier`=[[Hrímnir]], `luke_234`=[[Pyra Shan]] (statt [[Khirin]]), `mep0510`=[[Sim]]. **Warnung**: Rohtranskript taggt `hansmeier` weiterhin fälschlich inline als `(DM)` — Diarisierungs-Artefakt (bekannt seit [[Session 25 transcript]]), kein tatsächlicher DM-Wechsel.
+- **Neue Seiten**: [[Session 26]], [[Session 26 transcript]], [[Pyra Shan]], [[Pythias]], [[Pythias-Seelenstein]], [[Arachnowarg]].
+- **Aktualisierte Seiten**: `wiki/sessions/_index.md`, `wiki/sources/_index.md`.
+- **Schlüssel-Erkenntnisse**:
+  - **Direkte Fortsetzung von [[Session 25]]**: Gruppe gräbt sich aus Trümmern in [[Avernus]] frei; trifft auf [[Pyra Shan]], einen von Kalininons Hohem Götterfunken entsandten Aasimar-Paladin mit Brief von [[Elliot]] Casterwill, der sich der Gruppe anschließt.
+  - **Marsch nach Norden** entlang eines Lavasees, vorbei an Lunovar-Trümmern und -Leichen, unter extremer Hitze.
+  - **Kampf gegen [[Arachnowarg]]** (fliegende, feuerimmune Höllenwesen) an einer Lavaschlucht — klarer Sieg 4:0.
+  - **Hitze-Rast**: fast die gesamte Gruppe erleidet eine Stufe Exhaustion.
+  - **Leiche eines Magolor-Begleitmagiers aus [[Session 25]] gefunden**: Medaillon mit Namen **[[Pythias]]**, magischer **[[Pythias-Seelenstein]]** (gefangene Seele, Soul-Cage-artig), Revivify-Diamant; zerstörte Abhörbrosche schreit beim Verbrennen.
+  - **Weitere Leichen** (Elfarias/Cassomirs Wachen) mit unbekannten, ungewöhnlichen Verletzungen entdeckt.
+  - **Cliffhanger**: unbekannte, schwebende rote Kugelkreatur (~20 Fuß) nahe einer hohen nördlichen Felswand; Gruppe versteckt sich, noch unentdeckt.
 
 ## [2026-09-02] ingest | Session 25 (gespielt 2026-09-02) aus faster-whisper-Transkript
 
