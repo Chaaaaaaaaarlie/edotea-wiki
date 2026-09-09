@@ -149,13 +149,6 @@ status: developing
 - Gibt [[Khirin]] nach dessen Notamputation einen Heiltrank.
 - Verwendet im Spiel beiläufig den Begriff „Edotea" als in-weltlichen Ortsnamen — Klärung offen (siehe [[Session 25]], Open Threads).
 
-## [[Session 26]]
-
-- Bestätigt, dass der Riss über Avernus noch offen, aber weit entfernt und zu hoch ist.
-- Schwingt sich per Tarzan-Sprung selbst über die Lavaschlucht.
-- Untersucht die Leichen mehrerer Gefallener (Magolor-Begleitmagier, Elfarias und Cassomirs Wachen) auf Loot und ungewöhnliche Verletzungen.
-- Identifiziert per *Identify* den gefundenen Quarz-Edelstein als Soul-Cage-artiges Gefäß mit gefangener Seele (siehe [[Pythias-Seelenstein]]).
-
 ## Verknüpfungen
 
 - [[Cadnix]]
@@ -204,6 +197,3 @@ status: developing
 - [[Drachenzahn]]
 - [[Drift-Zeppelin]]
 - [[Avernus]]
-- [[Session 26]]
-- [[Pyra Shan]]
-- [[Pythias-Seelenstein]]

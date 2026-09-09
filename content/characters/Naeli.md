@@ -131,14 +131,6 @@ status: developing
 - Trifft Magolor während seiner Flucht zusätzlich mit einer länger anhaltenden Call-Lightning-Wolke.
 - Kauterisiert nach dem Erwachen in [[Avernus]] den frisch amputierten Beinstumpf von [[Khirin]] mit Burning Hands über ihrem Feuerstab.
 
-## [[Session 26]]
-
-- Verhört [[Pyra Shan]] zunächst misstrauisch — lässt per Staffzauber Eisdornen in Richtung seines Halses wachsen, bis sein Brief sich als echt erweist.
-- Wirft eine Fog Cloud während des Arachnowarg-Angriffs, die sich als taktisch wirkungslos erweist (blendet beide Seiten gleichermaßen).
-- Knällt beim Überqueren der Lavaschlucht face-first gegen die Felswand, wird aber von [[Hrímnir]] hochgezogen.
-- Verteilt Goodberries an die Gruppe nach der Hitze-Rast.
-- Erkennt die zerstörte, aus [[Lunovar]] stammende Abhörbrosche als etwas Lebendiges/Untotes (Todesschrei beim Verbrennen).
-
 ## Verknüpfungen
 
 - [[Anwesen]]
@@ -188,5 +180,3 @@ status: developing
 - [[Khirin]]
 - [[Drift-Zeppelin]]
 - [[Avernus]]
-- [[Session 26]]
-- [[Pyra Shan]]

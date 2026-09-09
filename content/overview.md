@@ -2,7 +2,7 @@
 type: overview
 title: "Edotea — Willkommen"
 created: 2026-05-11
-updated: 2026-09-07
+updated: 2026-09-02
 tags:
   - overview
   - campaign
@@ -15,7 +15,7 @@ sources: []
 
 ## Einstieg
 
-- [[Session 26|Aktuelle Session: Session 26]]
+- [[Session 25|Aktuelle Session: Session 25]]
 - [[Kontinent Edotea]]
 - [[Kalineon]]
 - [[Lunovar]]
@@ -33,7 +33,6 @@ sources: []
 
 ## Wichtige NPC
 
-- [[Pyra Shan]] — Aasimar-Paladin, seit [[Session 26]] Verbündeter der Gruppe
 - [[Elliot]]
 - [[Fürst Alator]]
 - [[Nora]]
@@ -51,9 +50,7 @@ sources: []
 
 ## Aktuelle Fäden
 
-- **Gestrandet in [[Avernus]]**: Die Gruppe wurde am Ende von [[Session 25]] durch einen Riss über Lunovar zusammen mit Turmtrümmern in die erste Schicht der Neun Höllen gerissen. In [[Session 26]] Marsch nach Norden, Fluss Styx als möglicher Fluchtweg identifiziert, aber noch nicht erreicht. Rückweg weiterhin unbekannt.
-- **Unbekannte rote Kugelkreatur** ([[Session 26]]-Cliffhanger nahe einer hohen Felswand im Norden von Avernus).
-- **[[Pythias-Seelenstein]]**: magischer, seelen-gefangener Quarz, gefunden bei einem toten Magolor-Begleitmagier in [[Session 26]]; Herkunft der Seele unbekannt.
+- **Gestrandet in [[Avernus]]**: Die Gruppe wurde am Ende von [[Session 25]] durch einen Riss über Lunovar zusammen mit Turmtrümmern in die erste Schicht der Neun Höllen gerissen. Rückweg unbekannt.
 - **[[Magolor]] mutmaßlich tot**: In [[Session 25]] von [[Hrímnir]] aus großer Höhe fallen gelassen — kein Leichenfund, letzte Sicherheit fehlt.
 - **[[Khirin]]s dauerhafte Verstümmelung**: fehlender Arm, amputiertes Bein seit [[Session 25]].
 - **[[Lunovar]] unter Angriff / Turmeinsturz**: Zustand der Stadt, der Akademie und der Evakuierung nach dem Turmeinsturz aus [[Session 25]] ungeklärt.
@@ -62,7 +59,6 @@ sources: []
 
 ## Letzte Sessions
 
-- [[Session 26]]
 - [[Session 25]]
 - [[Session 24]]
 - [[Session 23]]

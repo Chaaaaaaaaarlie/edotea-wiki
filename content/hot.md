@@ -2,7 +2,7 @@
 type: meta
 title: "Hot Cache"
 created: 2026-05-11
-updated: 2026-09-07
+updated: 2026-09-02
 tags:
   - meta
 status: evergreen
@@ -11,19 +11,18 @@ status: evergreen
 # Recent Context
 
 ## Last Updated
-2026-09-07 — **Session 26** ingestiert (gespielt 2026-09-07). **Alle fünf Spieler anwesend**; [[Khirin]] bleibt versteinert/bewusstlos, sein Spieler übernimmt statt seiner die neue Figur **[[Pyra Shan]]** (Aasimar-Paladin, entsandt von Kalininons Hohem Götterfunken mit Brief von [[Elliot]]). Direkte Fortsetzung von [[Session 25]]: Gruppe gräbt sich aus Trümmern in [[Avernus]] frei, marschiert unter extremer Hitze nach Norden, überquert eine Lavaschlucht und besiegt dabei fliegende **[[Arachnowarg]]**-Kreaturen 4:0. Fast in Folge einer Hitze-Rast erleidet die Gruppe Exhaustion. Sie findet und plündert die Leiche eines Magolor-Begleitmagiers aus [[Session 25]] (Medaillon mit Namen **[[Pythias]]**, magischer **[[Pythias-Seelenstein]]** mit gefangener Seele, Revivify-Diamant). Weitere Leichen (Elfarias/Cassomirs Wachen) mit unbekannten Verletzungen entdeckt. Cliffhanger: unbekannte, schwebende rote Kugelkreatur nahe einer hohen nördlichen Felswand.
+2026-09-02 — **Session 25** ingestiert (gespielt 2026-09-02). **Alle fünf PCs anwesend**, [[Sim]] erstmals mit eigener Craig-Spur. Direkte Fortsetzung des [[Session 24]]-Cliffhangers: Kampf gegen [[Magolor]], zwei Begleitmagier und ein [[Spinnenwesen]] auf der Turmspitze. [[Hrímnir]] entreißt Magolor das **Buch der Schwellen**; ein zweites Buch (vermutlich Buch der Seelen) verwandelt den toten blauen Drachen aus [[Session 24]] in den **[[Drift-Zeppelin]]**. Magolor wird nach einer Zwischen-Revivify endgültig getötet (aus großer Höhe fallen gelassen, kein Leichenfund). Der Tod des besiegten Drift-Zeppelins löst einen Riss am Himmel aus; der Turm stürzt ein, die Gruppe wird nach **[[Avernus]]** (erste Schicht der Neun Höllen) gerissen. [[Khirin]] verliert dauerhaft einen Arm und ein Bein (Notamputation durch Hrímnir).
 
-*(Davor: 2026-09-02 — Session 25; 2026-08-31 — Session 24.)*
+*(Davor: 2026-08-31 — Session 24; 2026-08-17 — Session 23.)*
 
 ## Campaign Snapshot
 **Edotea** ist eine D&D-Kampagne auf dem [[Kontinent Edotea]]. PCs: [[Berta]] (Sorcerer/Warlock), [[Hrímnir]] ([[Goliath]] Cleric/Monk), [[Khirin]] (Halbelf Wizard, seit [[Session 25]] ohne einen Arm und ein Bein), [[Naeli]] (Halbling Druidin, Schneeeule **Nyra**), [[Sim]] (Simian Fighter/Ranger). Aktuell: Die Gruppe ist nach dem Einsturz eines Turms in **[[Lunovar]]** durch einen magischen Riss nach **[[Avernus]]**, der ersten Schicht der Neun Höllen, gerissen worden. Sie besitzt nun zwei der [[Drei Bücher]] (Buch der Schwellen, vermutlich Buch der Seelen), erbeutet von [[Magolor]], der mutmaßlich (aber unbestätigt) tot ist.
 
-## Aktueller Stand nach Session 26
-Die Gruppe hat sich aus den Trümmern in [[Avernus]] befreit, [[Pyra Shan]] als neuen Verbündeten aufgenommen, eine Lavaschlucht überquert und die [[Arachnowarg]] dort besiegt. Sie besitzen nun zusätzlich den [[Pythias-Seelenstein]] und einen Revivify-Diamanten. [[Khirin]] bleibt versteinert/bewusstlos im Bag of Holding. **Nächste Szene: die unbekannte rote Kugelkreatur an der nördlichen Felswand — Bedrohung einschätzen, unentdeckt bleiben oder handeln; weiterhin keine Spur vom Fluss Styx oder einem Weg zurück.**
+## Aktueller Stand nach Session 25
+Die Gruppe hat Magolor besiegt (Buch der Schwellen erbeutet, Magolor mutmaßlich tot ohne Leichenfund), den aus dem toten Drachen entstandenen [[Drift-Zeppelin]] getötet und ist dabei selbst durch einen Riss nach [[Avernus]] gerissen worden. Sie sind verschüttet, [[Khirin]] schwer verstümmelt und bewusstlos. **Nächste Szene: Orientierung in Avernus — wie kommt die Gruppe zurück, was ist mit dem Rest von Lunovar/der Evakuierung passiert, was ist aus Magolor und dem Spinnenwesen geworden?**
 
 ## Aktive Fäden
-1. **Gestrandet in [[Avernus]]**: Ursache des Risses, Rückweg nach [[Lunovar]]/[[Kontinent Edotea]] unbekannt; Fluss Styx als möglicher Fluchtweg bekannt, aber noch nicht erreicht.
-2. **Unbekannte rote Kugelkreatur** ([[Session 26]]-Cliffhanger): nahe einer hohen Felswand im Norden von [[Avernus]], noch nicht identifiziert, Gruppe versteckt sich.
+1. **Gestrandet in [[Avernus]]**: Ursache des Risses, Rückweg nach [[Lunovar]]/[[Kontinent Edotea]] unbekannt.
 2. **Khirins bleibende Verstümmelung**: fehlender Arm, amputiertes Bein — mechanische/narrative Konsequenzen offen.
 3. **Magolors Tod unbestätigt**: aus großer Höhe gefallen, kein Leichenfund.
 4. **[[Spinnenwesen]] aus Session 24/25**: Ausgang (getötet/entkommen) ungeklärt.
@@ -55,10 +54,7 @@ Die Gruppe hat sich aus den Trümmern in [[Avernus]] befreit, [[Pyra Shan]] als 
 - **[[Aalafiel]]** (seit S19 getrennt): ~3200 J., verflucht. Mission: [[Palamedis]] finden.
 - **Level Up** nach Session 18 (weiterhin aktuell).
 
-## Loot / Besitzstatus aus Session 19–26
-- **[[Pythias-Seelenstein]]** (S26): pulsierender Quarz, Soul-Cage-artig, enthält bereits eine gefangene Seele; bei [[Berta]].
-- **Diamant für Revivify** (S26): von einem toten Magolor-Begleitmagier geborgen.
-- Goldenes Medaillon mit Inschrift „Pythias“ (S26).
+## Loot / Besitzstatus aus Session 19–25
 - **[[Akronisjuwel]]** (ungeschliffen; Waffen-Einbau; +Donner/Säure/Nekrotisch per Spell Slot)
 - **[[Blaue Metallbarren]]** (neue sehr leichte Legierung)
 - **Lysandriels Forschungsnotizen**
@@ -76,16 +72,12 @@ Die Gruppe hat sich aus den Trümmern in [[Avernus]] befreit, [[Pyra Shan]] als 
 - **Zweites Buch, vermutlich Buch der Seelen** (S25): nach der Drachen-Verwandlung erbeutet, bei [[Hrímnir]]; passt nicht ins Bag of Holding.
 
 ## Recent Changes
-- 2026-09-07 (Ingest): [[Session 26]]. Gruppe befreit sich in [[Avernus]] aus den Trümmern, [[Pyra Shan]] schließt sich an, Marsch nach Norden, Kampf gegen [[Arachnowarg]] an einer Lavaschlucht (4:0 gewonnen), Hitze-Exhaustion, Leiche eines Magolor-Begleitmagiers geplündert (Medaillon „Pythias“, [[Pythias-Seelenstein]], Revivify-Diamant); Cliffhanger mit unbekannter roter Kugelkreatur.
 - 2026-09-02 (Ingest): [[Session 25]]. Kampf gegen Magolor/Begleitmagier/Spinnenwesen; Buch der Schwellen erbeutet; Drachenleiche wird zum [[Drift-Zeppelin]]; Magolor mutmaßlich endgültig getötet; Drift-Zeppelin besiegt; Riss reißt Gruppe + Turmtrümmer nach [[Avernus]]; [[Khirin]] verliert Arm und Bein.
 - 2026-08-31 (Ingest): [[Session 24]]. Ultimatum der Angreifer; Evakuierungsoptionen der Akademie geprüft; blauer Drache getötet; [[Berta]] schwer getroffen und geheilt; [[Drachenzahn]] geborgen; Cliffhanger mit möglichem [[Magolor]]-Kontakt und Kreis/Robenträgern/[[Spinnenwesen]].
 - 2026-08-17 (Ingest): [[Session 23]]. Zitadellenkampf abgeschlossen; Cassomir/Eli/Wachen überleben. Evakuierung zur Akademie. Evelyn/Elfaria hingerichtet und Raum verbrannt. Akademie steht, Barriere beschädigt. Bertas Seite zieht west/südwest.
 - 2026-08-03 (Ingest): [[Session 22]]. Evelyn/Elfaria-Reveal. Magolor beansprucht Kalineon als Erbe des alten Königshauses. Rückkehr zur Zitadelle; Rettungskampf um Cassomir beginnt.
 
 ## Open Loops
-- Wer/was ist die **unbekannte rote Kugelkreatur** an der nördlichen Felswand ([[Session 26]]-Cliffhanger)?
-- Wessen Seele steckt im **[[Pythias-Seelenstein]]**? Zusammenhang mit [[Pythias]] naheliegend, unbestätigt.
-- Woher stammen die unbekannten, ungewöhnlich glatten/zerschmetternden Verletzungen an mehreren Leichen in [[Avernus]] (S26)?
 - Wie kommt die Gruppe aus **[[Avernus]]** zurück?
 - Ist **[[Magolor]]** wirklich endgültig tot — ohne Leichenfund?
 - Was ist aus dem **[[Spinnenwesen]]** aus [[Session 24]]/[[Session 25]] geworden?
