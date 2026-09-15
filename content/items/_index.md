@@ -2,14 +2,14 @@
 type: meta
 title: "Items Index"
 created: 2026-05-11
-updated: 2026-08-31
+updated: 2026-09-15
 tags:
   - meta
   - items
 status: developing
 ---
 
-# Items (17)
+# Items (20)
 
 ## Tränke
 - [[Aalafiels Trank]] *(neu, Session 16)* — Abscheu-Aura-Trank der Treants; 10 Min./Schluck (größenabhängig); Voraussetzung, um mit [[Aalafiel]] zu sprechen
@@ -42,6 +42,11 @@ status: developing
 
 ## Waffen
 - [[Bogen +2]] *(neu, Session 22)* — Langbogen +2 aus Evelyns Zellenraum; Empfänger nicht eindeutig bestätigt, vermutlich [[Sim]]
+- [[Bastardschwert aus Avernus]] *(neu, Session 26)* — schweres, sehr scharfes Großschwert aus der Wand der [[Imp-Höhle]] gezogen; **unidentifiziert**, Name provisorisch („Bastard Sword"/„Buster Sword")
+
+## Rohstoffe & Fundstücke aus [[Avernus]] *(Session 26)*
+- [[Grünes Erz (Avernus)]] — unbekanntes, ungewöhnlich hartes grünliches Metall aus dem Gestein der [[Imp-Höhle]]; ein Brocken bei [[Berta]]
+- [[Demon Core]] — versiegelte Truhe mit infernaler Warninschrift; von [[Pyraschan]] ungeöffnet in Lava versenkt, verstrahlte dabei die gesamte Gruppe. **Zerstört/unzugänglich**
 
 ## Trophäen
 - [[Drachenzahn]] *(neu, Session 24)* — Zahn des getöteten blauen erwachsenen Drachen, von [[Berta]] geborgen; genaue Verarbeitung/Mechanik offen

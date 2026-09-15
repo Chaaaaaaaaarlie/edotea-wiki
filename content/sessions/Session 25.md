@@ -2,7 +2,7 @@
 type: session
 title: "Session 25 - Magolors Sturz und der Riss nach Avernus"
 created: 2026-09-02
-updated: 2026-09-02
+updated: 2026-09-15
 tags:
   - session
 session_number: 25
@@ -29,9 +29,15 @@ related:
   - Drift-Zeppelin
 sources:
   - Session 25 transcript
+  - Session 26 transcript
 ---
 
 # Session 25 - Magolors Sturz und der Riss nach Avernus
+
+> [!warning] Nachträgliche Korrektur durch [[Session 26]] (eingetragen 2026-09-15)
+> Der Recap unten geht davon aus, dass der [[Drift-Zeppelin]] noch über [[Lunovar]] getötet wurde und sein Tod den Riss auslöste. **[[Session 26]] widerspricht dem**: Die Kreatur überlebte, wurde mit der Gruppe durch den Riss nach [[Avernus]] gezogen und starb erst dort. Damit ist die **Ursache des Risses wieder offen**.
+>
+> Der Recap wurde bewusst **nicht umgeschrieben** (konservative Auflösung); er bleibt als ursprüngliche Lesart erhalten. Maßgeblich sind [[Session 26]] und [[Drift-Zeppelin]].
 
 ## TL;DR
 Direkt nach dem Tod des blauen Drachen greift die Gruppe in den Kampf gegen [[Magolor]], zwei vermummte Begleitmagier und ein [[Spinnenwesen]] ein, die sich am Ende von [[Session 24]] durch einen Kreis im Norden materialisiert hatten. [[Hrímnir]] entreißt Magolor das **Buch der Schwellen** direkt aus dessen Aura; die Gruppe tötet die beiden Begleitmagier und schwächt Magolor so weit, dass [[Naeli]] ihn mitten im Kampf per Revivify zurückholt, um ihn lebend zu behalten. Während des Gefechts erweckt ein zweites Buch (vermutlich das **Buch der Seelen**) den toten blauen Drachen aus [[Session 24]] zu einer neuen, ballonartigen Augenkreatur, dem **„Drift-Zeppelin"**. Magolor flieht mit dem Buch der Schwellen über die Stadt; [[Hrímnir]] fängt ihn in der Luft ab und lässt ihn dieses Mal endgültig aus großer Höhe auf Lunovar fallen. Die Gruppe erledigt danach den Drift-Zeppelin — doch dabei entlädt sich die seit Wochen über der Barriere hängende Gewitterenergie in einem gewaltigen Riss am Himmel, der Teile des einstürzenden Turms und die Gruppe selbst mit nach oben reißt. Sie erwachen unter Trümmern von Lunovar unter einem aschroten Himmel mit Lavaflüssen und fallenden Meteoriten — laut [[Berta]]s History-Kenntnissen die erste Schicht der Neun Höllen: **[[Avernus]]**. [[Khirin]] überlebt schwer verstümmelt: Ein Arm brach während seiner Versteinerung ab, ein Bein muss [[Hrímnir]] noch vor Ort notoperativ amputieren.
@@ -90,3 +96,4 @@ Die Gruppe erwacht unter Trümmern, begraben unter Schutt, der erkennbar aus Lun
 ## Verknüpfungen
 - [[Session 24]] · [[Berta]] · [[Hrímnir]] · [[Khirin]] · [[Naeli]] · [[Sim]]
 - [[Magolor]] · [[Drei Bücher]] · [[Spinnenwesen]] · [[Drift-Zeppelin]] · [[Lunovar]] · [[Avernus]]
+- [[Session 26]] (Korrektur zum Ausgang des Drift-Zeppelin-Kampfs)

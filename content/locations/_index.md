@@ -2,14 +2,14 @@
 type: meta
 title: "Locations Index"
 created: 2026-05-11
-updated: 2026-06-16
+updated: 2026-09-15
 tags:
   - meta
   - locations
 status: evergreen
 ---
 
-# Orte (32)
+# Orte (33)
 
 ## Kontinent
 - [[Cloud Fang]]
@@ -67,6 +67,10 @@ status: evergreen
 - [[Carbus]] — = [[gesetzlose Stadt|gesetzlose Stadt]] (bestätigt in [[Session 14]]); Heimat von [[Jack]], [[Edgar Thorne]], und den Spymaster-Söldnern
 - [[Berthas Bohnen]] *(neu, Session 14)* — Kaffeebar an unbekannter Ebene, erreichbar via [[Magischer Schluessel|Schlüssel des Nichts]]
 - [[Verhängnisturm]] *(neu, Session 17)* — mythischer Turm, in jedem Realm am selben Ort; hier mitten im Meer; Heimat von [[Aalafiel]]s Fluch-Wesen
+
+## Unter [[Avernus]]
+
+- [[Imp-Höhle]] *(neu, Session 26)* — Höhle an einem Bergpfad; metallverstärkte Gänge, [[Imp|Imps]], ein [[Kettenteufel]], [[Grünes Erz (Avernus)|grünes Erz]] und der [[Demon Core]]-Fund
 
 ## Riss-Standorte
 

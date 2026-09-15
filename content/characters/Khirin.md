@@ -8,7 +8,7 @@ tags:
 related: []
 sources: []
 created: 2026-05-11
-updated: 2026-09-02
+updated: 2026-09-15
 status: developing
 ---
 # Khirin
@@ -30,6 +30,9 @@ status: developing
 
 > [!warning] Dauerhafte Verstümmelung ([[Session 25]])
 > Khirin hat seit [[Session 25]] **einen Arm** (während einer Versteinerung abgebrochen, nicht wiedergefunden) und **ein Bein** (Notamputation durch [[Hrímnir]] wegen Kompartmentsyndrom) verloren. Siehe Abschnitt unten.
+
+> [!warning] Nicht mehr aktiv gespielt (ab [[Session 26]])
+> Khirin ist seit [[Session 26]] **kein handelnder Spielercharakter mehr**. Sein Spieler (Craig-Spur `luke_234`) führt ab dieser Session den Paladin [[Pyraschan]]. Khirin selbst wird nur noch in der dritten Person erwähnt — sowohl von seinem früheren Spieler (*„Khirin hätte das gesagt"*, *„mehr Schaden, als Khirin je gemacht hat"*) als auch vom DM (*„Khirin hätte es getan"*).
 
 ## Notizen
 
@@ -143,6 +146,18 @@ status: developing
 - **Verliert dauerhaft einen Arm** — während der Versteinerung abgebrochen und nicht wiedergefunden — und **ein Bein**, das [[Hrímnir]] wegen eines Kompartmentsyndroms (Quetschtrauma) notdürftig mit einer Handaxt amputiert; [[Naeli]] kauterisiert den Stumpf per Burning Hands, [[Berta]] gibt ihm einen Heiltrank.
 - Bleibt am Ende der Session bewusstlos und schwer verstümmelt.
 
+## [[Session 26]] — Als Verletzter mitgeführt
+
+> [!gap] Zuordnung nicht ausdrücklich bestätigt
+> Die Gruppe schleppt in [[Session 26]] durchgehend einen bewusstlosen Verletzten mit, der **nie beim Namen genannt** wird — nur als *„unser NPC"*, *„unser Patient"*, scherzhaft *„Stumpi"* und *„Max Mustermann"* sowie (im Rohtranskript als „Kribbel" verschriftet) *„Krüppel"*. Dass es sich um Khirin handelt, ist eine **starke, aber unbestätigte Schlussfolgerung**: Der Spitzname „Stumpi"/„Krüppel" passt auf seine Verstümmelung aus [[Session 25]], sein Zustand am Ende jener Session war bewusstlos und transportunfähig, und sein Spieler führt seit [[Session 26]] einen anderen Charakter. Beim nächsten Spielabend klären.
+
+Unter dieser Annahme gilt für [[Session 26]]:
+
+- Wird von [[Pyraschan]] getragen und vor der [[Imp-Höhle]] abgelegt, weil die Höhlendecke zu niedrig zum Tragen ist.
+- Bleibt während der gesamten Höhlenerkundung dort liegen und ist nach der Rückkehr der Gruppe noch da.
+- Bekommt vom [[Demon Core]]-Strahlungsblitz auf der zur Höhle zugewandten Körperseite eine **leichte Rötung** ab — deutlich schwächer als die Gruppe im Inneren, aber klar messbar durch mehrere Felswände hindurch.
+- [[Berta]] erkundigt sich nach ihm (*„Ist unser Patient noch da?"*); [[Sim]] bedankt sich an einer Stelle beiläufig bei „Khirin".
+
 ## Verknüpfungen
 
 - [[Carbus]]
@@ -189,3 +204,7 @@ status: developing
 - [[Berta]]
 - [[Drift-Zeppelin]]
 - [[Avernus]]
+- [[Session 26]]
+- [[Pyraschan]]
+- [[Imp-Höhle]]
+- [[Demon Core]]

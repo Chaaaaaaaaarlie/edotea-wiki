@@ -8,7 +8,7 @@ tags:
 related: []
 sources: []
 created: 2026-05-11
-updated: 2026-09-02
+updated: 2026-09-15
 status: developing
 ---
 ![[Hrimnir.png|533]]
@@ -134,6 +134,18 @@ status: developing
 - Versorgt [[Khirin]] nach dem Erwachen in Avernus: tourniquettiert dessen zerquetschtes Bein und amputiert es notdürftig mit einer Handaxt.
 - Verstaut am Ende beide erbeuteten Bücher (Buch der Schwellen + vermutetes Buch der Seelen) in seinem Rucksack, da sie nicht ins Bag of Holding passen.
 
+## [[Session 26]]
+
+- Trägt [[Naeli]] über den Lavastrom und auf den Schultern durch Avernus.
+- Legt in der [[Imp-Höhle]] mehrere **Wallruns** („Prince of Persia") über Lücken hin; der zweite gelingt weniger elegant als der erste.
+- Erledigt die letzte Larve des [[Larvenschwarm|Larvenschwarms]].
+- Untersucht das eingemauerte [[Bastardschwert aus Avernus|Großschwert]] (Investigation 17), lockert es mit einem **Anarmstrike** (DC 25 → 20) und zieht es schließlich gemeinsam mit der Gruppe heraus.
+- Wirft den unzerstörbaren Knoten aus dem Zentrum des Drift-Zeppelin-Auges in die Lava.
+- **Erschlägt den [[Kettenteufel]]**: schleudert ihn 10 Fuß gegen die Höhlendecke (prone) und boxt ihn anschließend in den Boden.
+- Öffnet mit **Thieves' Tools** alle drei Schlösser der [[Demon Core]]-Truhe (18), sieht die Kugel und schließt den Deckel wieder — kurz bevor [[Pyraschan]] die Truhe in die Lava schiebt.
+- Trägt nach dem Strahlungsblitz die sichtbarsten Verbrennungen (Blasenbildung) und verbraucht seine letzten Cure-Wounds-Slots für sich und die Gruppe.
+- Fungiert am Tisch durchgehend als Regelinstanz und kommentiert [[Pyraschan]]s Fehlgriffe entsprechend deutlich.
+
 ## Verknüpfungen
 
 - [[Berta]]
@@ -178,3 +190,10 @@ status: developing
 - [[Drachenzahn]]
 - [[Drift-Zeppelin]]
 - [[Avernus]]
+- [[Session 26]]
+- [[Pyraschan]]
+- [[Imp-Höhle]]
+- [[Kettenteufel]]
+- [[Demon Core]]
+- [[Bastardschwert aus Avernus]]
+- [[Larvenschwarm]]

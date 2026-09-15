@@ -2,7 +2,7 @@
 type: meta
 title: "Wiki Log"
 created: 2026-05-11
-updated: 2026-09-02
+updated: 2026-09-15
 tags:
   - meta
 status: evergreen
@@ -11,6 +11,28 @@ status: evergreen
 # Wiki Log
 
 Append-only. New entries at the **TOP**. Never edit past entries.
+
+## [2026-09-15] ingest | Session 26 (gespielt 2026-09-15) aus WhisperX-Transkript
+
+- **Quelle**: `D:\Documents\DnD\Transkriptionen\whisper_large\output\craig-xfqtTDWibvYu-e5yJW7DvnjIEyLb_20260915_094117\corrected_obsidian.md` (WhisperX `large-v3`, cuda/float16, de, Word-Timestamps, keine Diarisierung, 201 Glossar-Korrekturen). Dauer: ~2h 43min, 3544 Segmente, 6 Craig-Spuren.
+- **Sprecher-Mapping**: `_blestem_`=DM (am Tisch „Philipp"), `drore`=[[Berta]], `feeminin`=[[Naeli]], `hansmeier`=[[Hrímnir]], `mep0510`=[[Sim]], **`luke_234`=[[Pyraschan]]** (neuer Charakter, **nicht mehr** [[Khirin]]).
+- **Abweichungen vom automatischen Handoff**: Der generierte `claude_handoff_hermes.md` nennt `nightcore0302 = DM` (eine solche Spur existiert in dieser Aufnahme nicht) und `luke_234 = Khirin` (in dieser Session falsch). Die automatisch erzeugte `vault_review.md` schlägt außerdem „Session 27" vor — korrekt ist **26**, da der Vault [[Session 0]]–[[Session 25]] enthält.
+- **Rohdatei kopiert**: `.raw/session-transcripts/Session 26 - 15.09.2026.md`.
+- **Backup vor dem Ingest**: `_backups/session26_ingest_20260915_100147/` (18 Dateien: hot, index, log, overview, betroffene Charakter-/Lore-/Session-/Index-Seiten).
+- **Neue Seiten**: [[Session 26]], [[Session 26 transcript]], [[Pyraschan]], [[Imp-Höhle]], [[Imp]], [[Kettenteufel]], [[Larvenschwarm]], [[Demon Core]], [[Bastardschwert aus Avernus]], [[Grünes Erz (Avernus)]].
+- **Aktualisierte Seiten**: [[Berta]], [[Hrímnir]], [[Naeli]], [[Sim]], [[Khirin]], [[Avernus]], [[Drift-Zeppelin]], [[Session 25]] (Korrekturhinweis), `wiki/index.md`, `wiki/overview.md`, `wiki/characters/_index.md`, `wiki/locations/_index.md`, `wiki/items/_index.md`, `wiki/lore/_index.md`, `wiki/sessions/_index.md`, `wiki/sources/_index.md`, [[hot|Hot Cache]].
+- **Schlüssel-Erkenntnisse**:
+  - **Besetzungswechsel**: [[Khirin]] ist kein handelnder PC mehr; sein Spieler führt ab dieser Session den Paladin [[Pyraschan]], der *„mit durchgezogen durchs Portal"* wurde. Khirin wird als bewusstloser Verletzter mitgeschleppt (Zuordnung als Unsicherheit markiert, siehe unten).
+  - **Korrektur zu [[Session 25]]**: Der [[Drift-Zeppelin]] („Ventraculus") wurde dort **nicht** getötet, sondern mit der Gruppe durch den Riss nach [[Avernus]] gezogen. Er stirbt erst hier — [[Sim]] holt ihn aus 60 Fuß Höhe vom Himmel. **Damit ist die Ursache des Risses wieder offen.**
+  - **Der Riss schließt sich** und setzt eine im Vortex gefangene, grau-rote Wolkenfront frei, die in ein bis zwei Stunden die Gruppe erreicht. Der sichtbare Rückweg nach [[Lunovar]] verschwindet.
+  - **Erste Erkundung von [[Avernus]]**: Lavaströme, Serpentinen-Bergpfad, [[Imp-Höhle]] mit grob gegossenen Metallstreben, [[Imp|Imps]], [[Larvenschwarm]] und einem [[Kettenteufel]] (von [[Hrímnir]] erschlagen).
+  - **Loot**: [[Bastardschwert aus Avernus]] (unidentifiziertes Großschwert aus dem Fels gezogen, DC 25 → 20 → 17) und ein Brocken [[Grünes Erz (Avernus)]] bei [[Berta]].
+  - **[[Demon Core]]**: Truhe mit drei Schlössern und infernaler Inschrift *„Demon Core. Do not open."*; [[Pyraschan]] schiebt sie ungeöffnet in die Lava → Lichtblitz, Con-Save DC 15, Radiant-Schaden für alle, je ein Exhaustion-Punkt für [[Pyraschan]] und [[Sim]]; die Imps der Höhle sterben an der Strahlung.
+- **Offene Unsicherheiten dieses Ingests**:
+  - **Schreibweise „Pyraschan" unbestätigt** — rekonstruiert aus „Pirachan"/„Pyrashan"/„Pyra Shan"/„Führerschan". Bei DM-Bestätigung ggf. Seite umbenennen.
+  - **Gleichsetzung des mitgeführten „Patienten" mit [[Khirin]]** ist eine starke, aber nicht ausgesprochene Schlussfolgerung (Spitznamen „Stumpi"/„Krüppel", Zustand, Spielerwechsel).
+  - **„Ventraculus"** fällt nur einmal und ist als Kreaturenname nicht abgesichert.
+  - **Erste ~24 Minuten**: `luke_234` steuerte versehentlich [[Khirin]]s Bogen; die dort genannten Sorcery Points/„Spellfire Flare" wurden **nicht** als [[Pyraschan]]s Fähigkeiten übernommen.
 
 ## [2026-09-02] ingest | Session 25 (gespielt 2026-09-02) aus faster-whisper-Transkript
 

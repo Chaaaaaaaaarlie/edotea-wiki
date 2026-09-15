@@ -8,7 +8,7 @@ tags:
 related: []
 sources: []
 created: 2026-05-11
-updated: 2026-09-02
+updated: 2026-09-15
 status: developing
 ---
 # Sim
@@ -124,6 +124,17 @@ status: developing
 - Klettert im Bosskampf wiederholt an der Kreatur herunter, um ihr zentrales Auge aus nächster Nähe anzugreifen, bevor [[Hrímnir]] den finalen Treffer landet.
 - Wird mit der Gruppe durch den Riss nach [[Avernus]] gerissen; findet dort den verschütteten, verstümmelten [[Khirin]].
 
+## [[Session 26]]
+
+- Trägt den Eröffnungskampf: bleibt hinter einem Felsen in Deckung, arbeitet mit Ready Action, **Hunter's Mark** und **Sharpshooter** und holt den [[Drift-Zeppelin]] schließlich mit einem Longbow-Treffer aus 60 Fuß vom Himmel. Der DM: *„Der hat nicht nur den Drachen in seiner Drachenform gelyncht, der hat auch das gelyncht, was auch immer daraus geworden ist."*
+- Holt sein in [[Session 25]] an der Kreatur verhaktes **Seil samt Enterhaken** zurück, bevor der Kadaver zersetzt wird.
+- Läuft **barfuß** und verbrennt sich beim Überqueren des Lavastroms beinahe die Füße (Dex-Save knapp bestanden).
+- Findet per Survival die Spuren vor der [[Imp-Höhle]] und schätzt die Zahl der Bewohner; warnt die Gruppe später per **Zeichensprache** vor dem [[Kettenteufel]] — was eine ausführliche Regeldiskussion über *Comprehend Languages* auslöst.
+- Bestätigt: **Darkvision sieht keine Farben**, nur Schwarz-Weiß.
+- Hat seit der letzten langen Rast **Cure Wounds** vorbereitet.
+- Entwaffnet den [[Kettenteufel]] und verlangsamt ihn wiederholt um 10 Fuß; seine Pfeile kommen durch dessen Ketten nur mit halbem Schaden durch. Er kann einmal pro Runde einen Piercing-Schadenswürfel neu würfeln.
+- **Scheitert am Constitution-Save gegen den [[Demon Core]]-Blitz**: Schaden plus ein Punkt **Exhaustion**; fühlt sich danach schlapp und übergibt sich fast.
+
 ## Verknüpfungen
 
 - [[Cadnix]]
@@ -169,3 +180,9 @@ status: developing
 - [[Drachenzahn]]
 - [[Drift-Zeppelin]]
 - [[Avernus]]
+- [[Session 26]]
+- [[Pyraschan]]
+- [[Imp-Höhle]]
+- [[Kettenteufel]]
+- [[Demon Core]]
+- [[Imp]]

@@ -2,7 +2,7 @@
 type: overview
 title: "Edotea — Willkommen"
 created: 2026-05-11
-updated: 2026-09-02
+updated: 2026-09-15
 tags:
   - overview
   - campaign
@@ -15,11 +15,12 @@ sources: []
 
 ## Einstieg
 
-- [[Session 25|Aktuelle Session: Session 25]]
+- [[Session 26|Aktuelle Session: Session 26]]
 - [[Kontinent Edotea]]
 - [[Kalineon]]
 - [[Lunovar]]
 - [[Avernus]]
+- [[Imp-Höhle]]
 - [[Cadnix]]
 - [[Oestliche Garnison von Cadnix|Östliche Garnison von Cadnix]]
 
@@ -27,9 +28,10 @@ sources: []
 
 - [[Berta]] — Sorcerer / Warlock
 - [[Hrímnir]]
-- [[Khirin]] — seit [[Session 25]] ohne einen Arm und ein Bein
 - [[Naeli]]
+- [[Pyraschan]] — Paladin, neu ab [[Session 26]]
 - [[Sim]]
+- [[Khirin]] — seit [[Session 25]] ohne einen Arm und ein Bein; seit [[Session 26]] **nicht mehr aktiv gespielt**, wird als Verletzter mitgeführt
 
 ## Wichtige NPC
 
@@ -50,7 +52,9 @@ sources: []
 
 ## Aktuelle Fäden
 
-- **Gestrandet in [[Avernus]]**: Die Gruppe wurde am Ende von [[Session 25]] durch einen Riss über Lunovar zusammen mit Turmtrümmern in die erste Schicht der Neun Höllen gerissen. Rückweg unbekannt.
+- **Gestrandet in [[Avernus]]**: Die Gruppe wurde am Ende von [[Session 25]] durch einen Riss über Lunovar zusammen mit Turmtrümmern in die erste Schicht der Neun Höllen gerissen. **Der Riss schließt sich seit [[Session 26]]** und setzt dabei eine grau-rote Wolkenfront frei, die auf die Gruppe zutreibt. Rückweg unbekannt.
+- **Ursache des Risses wieder offen**: Der [[Drift-Zeppelin]] hat [[Session 25]] überlebt und starb erst in [[Session 26]] in Avernus — sein Tod kann den Riss also nicht ausgelöst haben.
+- **Unidentifizierte Funde aus der [[Imp-Höhle]]**: [[Bastardschwert aus Avernus|Großschwert]] und [[Grünes Erz (Avernus)|grünes Erz]]; der [[Demon Core]] wurde durch [[Pyraschan]] in Lava versenkt und verstrahlte dabei die ganze Gruppe.
 - **[[Magolor]] mutmaßlich tot**: In [[Session 25]] von [[Hrímnir]] aus großer Höhe fallen gelassen — kein Leichenfund, letzte Sicherheit fehlt.
 - **[[Khirin]]s dauerhafte Verstümmelung**: fehlender Arm, amputiertes Bein seit [[Session 25]].
 - **[[Lunovar]] unter Angriff / Turmeinsturz**: Zustand der Stadt, der Akademie und der Evakuierung nach dem Turmeinsturz aus [[Session 25]] ungeklärt.
@@ -59,6 +63,7 @@ sources: []
 
 ## Letzte Sessions
 
+- [[Session 26]]
 - [[Session 25]]
 - [[Session 24]]
 - [[Session 23]]
@@ -104,3 +109,6 @@ sources: []
 - [[Shadow]]
 - [[Wraith]]
 - [[Avernus]]
+- [[Imp]]
+- [[Kettenteufel]]
+- [[Larvenschwarm]]

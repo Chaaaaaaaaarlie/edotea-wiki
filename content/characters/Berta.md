@@ -8,7 +8,7 @@ tags:
 related: []
 sources: []
 created: 2026-05-11
-updated: 2026-09-02
+updated: 2026-09-15
 status: developing
 ---
 # Berta
@@ -149,6 +149,18 @@ status: developing
 - Gibt [[Khirin]] nach dessen Notamputation einen Heiltrank.
 - Verwendet im Spiel beiläufig den Begriff „Edotea" als in-weltlichen Ortsnamen — Klärung offen (siehe [[Session 25]], Open Threads).
 
+## [[Session 26]]
+
+- Bleibt im Eröffnungskampf gegen den [[Drift-Zeppelin]] unsichtbar und bereitet eine Telekinetic-Reaktion gegen die Augenstrahlen vor — der DM lässt sie nicht zu, da die Strahlen Einzelschüsse und keine Dauerstrahlen sind.
+- Wird vom stürzenden Kadaver der Kreatur getroffen: besteht den Dex-Save (mit **Lucky** auf Vorteil) und weicht aus.
+- Übergibt [[Sim]] die in der Vorsession gelooteten Pfeile.
+- Bestätigt Regelseitiges zu ihrem Bogen: sie ist **Sorceress** und kann keine Martial Weapons führen; ihre **Comprehend-Languages**-Fähigkeit stammt aus ihrem **Book of Shadows** (Warlock), ihre Telepathie läuft nach 2014er Regeln (*„wenn ich Telepathie benutze, versteht mich jeder, aber ich verstehe sie nicht"*).
+- Rät als Einzige konsequent von Kämpfen ab: *„Leute, wir sind hier in der Hölle. Wir müssen nicht mit jeder Kreatur, der wir begegnen, Stunk anfangen."*
+- Untersucht per Investigation/Perception das [[Grünes Erz (Avernus)|grünliche Erz]] in der Höhlenwand, legt es mit **Mage Hand** frei und steckt sich den größten Brocken ein.
+- Kämpft gegen den [[Kettenteufel]] mit **Dissonant Whispers** und **Telekinetic**; sieht ihn (als Einzige) in violetten Flammen stehen.
+- Reinigt die verschleimten [[Naeli]] und [[Sim]] per Prestidigitation.
+- Rechnet nach dem [[Demon Core]]-Zwischenfall offen mit [[Pyraschan]] ab (*„Und damit öffnen, du Vollidiot"*) und drängt darauf, die Höhle zu verlassen.
+
 ## Verknüpfungen
 
 - [[Cadnix]]
@@ -197,3 +209,9 @@ status: developing
 - [[Drachenzahn]]
 - [[Drift-Zeppelin]]
 - [[Avernus]]
+- [[Session 26]]
+- [[Pyraschan]]
+- [[Imp-Höhle]]
+- [[Grünes Erz (Avernus)]]
+- [[Kettenteufel]]
+- [[Demon Core]]

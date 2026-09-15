@@ -2,7 +2,7 @@
 type: meta
 title: "Characters Index"
 created: 2026-05-11
-updated: 2026-06-16
+updated: 2026-09-15
 tags:
   - meta
   - characters
@@ -11,13 +11,14 @@ status: evergreen
 
 # Characters
 
-## Spielercharaktere (5)
+## Spielercharaktere (6)
 
 - [[Berta]]
 - [[Hrímnir]]
-- [[Khirin]]
 - [[Naeli]]
+- [[Pyraschan]] *(neu, Session 26 — Paladin; Craig-Spur `luke_234`, zuvor [[Khirin]])*
 - [[Sim]]
+- [[Khirin]] — *seit [[Session 26]] nicht mehr aktiv gespielt; wird verstümmelt und bewusstlos als Verletzter mitgeführt*
 
 ## NPCs (28)
 

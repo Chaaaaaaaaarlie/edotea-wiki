@@ -2,14 +2,14 @@
 type: meta
 title: "Lore Index"
 created: 2026-05-11
-updated: 2026-07-20
+updated: 2026-09-15
 tags:
   - meta
   - lore
 status: evergreen
 ---
 
-# Lore (17 + Bestiarium 14)
+# Lore (18 + Bestiarium 18)
 
 ## Götter & Höllenfürsten
 - [[Corellon]]
@@ -41,12 +41,17 @@ status: evergreen
 ## Ebenen
 
 - [[Feenwildnis]] *(neu, Session 16 — Feywild; Portal im [[Erliorwald]], Heimat von Treants/Pixies/Worgen)*
+- [[Avernus]] *(neu, Session 25 — erste Schicht der Neun Höllen; erstmals erkundet in [[Session 26]])*
 
 ## Bestiarium
 
+- [[Drift-Zeppelin]] *(neu, Session 25 — Beholder-artige Kreatur aus dem toten Drachen; getötet erst in [[Session 26]])*
 - [[Eulenbärin]]
 - [[Gedankenschaender]] *(neu, Session 12 — Mind Flayer)*
 - [[Geist]]
+- [[Imp]] *(neu, Session 26 — niederste Teufelsart in [[Avernus]]; starben an der [[Demon Core]]-Strahlung)*
+- [[Kettenteufel]] *(neu, Session 26 — Chain Devil; Unnerving Gaze, brennende Fesseln, giftimmun)*
+- [[Larvenschwarm]] *(neu, Session 26 — Maden in der [[Imp-Höhle]]; extrem giftanfällig)*
 - [[Revenant]]
 - [[Rictus Mors]] *(neu, Session 21 — menschenfressende Kreaturen, Angriff auf Lunovar, immun gegen Piercing)*
 - [[Shadow]]

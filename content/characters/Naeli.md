@@ -10,7 +10,7 @@ sources:
   - Tagebücher Wilhelm Casterwill
   - Session 17 transcript
 created: 2026-05-11
-updated: 2026-09-02
+updated: 2026-09-15
 status: developing
 ---
 ![[Naeli.png|496]]
@@ -131,6 +131,18 @@ status: developing
 - Trifft Magolor während seiner Flucht zusätzlich mit einer länger anhaltenden Call-Lightning-Wolke.
 - Kauterisiert nach dem Erwachen in [[Avernus]] den frisch amputierten Beinstumpf von [[Khirin]] mit Burning Hands über ihrem Feuerstab.
 
+## [[Session 26]]
+
+- Hält sich im Eröffnungskampf hinter einem Stein versteckt und verweigert [[Pyraschan]] ausdrücklich Beistand — sie kennt ihn *„noch nicht wahnsinnig lange"*.
+- Reitet auf [[Hrímnir]]s Schultern bzw. wird von ihm über den Lavastrom getragen; muss in der [[Imp-Höhle|Höhle]] wegen der niedrigen Decke absteigen.
+- **Größe bestätigt: 88 Zentimeter.** Der DM nutzt sie als Maßeinheit („eine halbe Naeli", „2,5 Naelis").
+- Stellt klar, dass sie **nicht aus [[Kalineon]]** stammt, sondern *„aus dem hohen Nordkontinent"*, und dass sie selbst nicht genau weiß, *„wer oder was"* sie ist — konsistent mit ihrem Gedächtnis-/Verwandlungsfluch.
+- Steckt ihren leuchtenden Kopf in ein Wandloch und löst damit den [[Larvenschwarm]] aus; erledigt einen Großteil davon mit **Poison Spray**, das wie Insektenspray wirkt.
+- Senkt mit **Ray of Frost** auf die Klinge den DC zum Herausziehen des [[Bastardschwert aus Avernus|Großschwerts]] von 20 auf 17.
+- Bekommt den herausgebrochenen Erzbrocken auf den Kopf (4 Schaden, Beule) — [[Pyraschan]] heilt sie mit **Lay on Hands**.
+- Ist im Kampf gegen den [[Kettenteufel]] **die Einzige, die dessen Unnerving Gaze widersteht** (*„Kleiner Halbling mit großem Mut"*), wird dafür aber wiederholt in brennende Ketten gefesselt und würfelt die halbe Begegnung mit Nachteil; ihr Poison Spray zeigt gegen ihn keinerlei Wirkung.
+- Plädiert offensiv dafür, Gefahren lieber sofort auszuschalten, als später aus dem Hinterhalt angegriffen zu werden.
+
 ## Verknüpfungen
 
 - [[Anwesen]]
@@ -180,3 +192,9 @@ status: developing
 - [[Khirin]]
 - [[Drift-Zeppelin]]
 - [[Avernus]]
+- [[Session 26]]
+- [[Pyraschan]]
+- [[Imp-Höhle]]
+- [[Larvenschwarm]]
+- [[Kettenteufel]]
+- [[Bastardschwert aus Avernus]]
