@@ -34,11 +34,6 @@ sources:
 
 # Session 25 - Magolors Sturz und der Riss nach Avernus
 
-> [!warning] Nachträgliche Korrektur durch [[Session 26]] (eingetragen 2026-09-15)
-> Der Recap unten geht davon aus, dass der [[Drift-Zeppelin]] noch über [[Lunovar]] getötet wurde und sein Tod den Riss auslöste. **[[Session 26]] widerspricht dem**: Die Kreatur überlebte, wurde mit der Gruppe durch den Riss nach [[Avernus]] gezogen und starb erst dort. Damit ist die **Ursache des Risses wieder offen**.
->
-> Der Recap wurde bewusst **nicht umgeschrieben** (konservative Auflösung); er bleibt als ursprüngliche Lesart erhalten. Maßgeblich sind [[Session 26]] und [[Drift-Zeppelin]].
-
 ## TL;DR
 Direkt nach dem Tod des blauen Drachen greift die Gruppe in den Kampf gegen [[Magolor]], zwei vermummte Begleitmagier und ein [[Spinnenwesen]] ein, die sich am Ende von [[Session 24]] durch einen Kreis im Norden materialisiert hatten. [[Hrímnir]] entreißt Magolor das **Buch der Schwellen** direkt aus dessen Aura; die Gruppe tötet die beiden Begleitmagier und schwächt Magolor so weit, dass [[Naeli]] ihn mitten im Kampf per Revivify zurückholt, um ihn lebend zu behalten. Während des Gefechts erweckt ein zweites Buch (vermutlich das **Buch der Seelen**) den toten blauen Drachen aus [[Session 24]] zu einer neuen, ballonartigen Augenkreatur, dem **„Drift-Zeppelin"**. Magolor flieht mit dem Buch der Schwellen über die Stadt; [[Hrímnir]] fängt ihn in der Luft ab und lässt ihn dieses Mal endgültig aus großer Höhe auf Lunovar fallen. Die Gruppe erledigt danach den Drift-Zeppelin — doch dabei entlädt sich die seit Wochen über der Barriere hängende Gewitterenergie in einem gewaltigen Riss am Himmel, der Teile des einstürzenden Turms und die Gruppe selbst mit nach oben reißt. Sie erwachen unter Trümmern von Lunovar unter einem aschroten Himmel mit Lavaflüssen und fallenden Meteoriten — laut [[Berta]]s History-Kenntnissen die erste Schicht der Neun Höllen: **[[Avernus]]**. [[Khirin]] überlebt schwer verstümmelt: Ein Arm brach während seiner Versteinerung ab, ein Bein muss [[Hrímnir]] noch vor Ort notoperativ amputieren.
 
@@ -79,7 +74,7 @@ Die Gruppe erwacht unter Trümmern, begraben unter Schutt, der erkennbar aus Lun
 - Der Drift-Zeppelin wird nach hartem Kampf besiegt; [[Berta]] entgeht knapp einer Disintegration, [[Khirin]] wird versteinert und bewusstlos aus dem Kampf genommen.
 - Der Tod des Drift-Zeppelins löst einen gewaltigen Riss am Himmel über Lunovar aus; Turm, Trümmer und die Gruppe werden hindurchgesaugt.
 - Die Gruppe erwacht verschüttet in **[[Avernus]]**, der ersten Schicht der Neun Höllen, inmitten von Lunovar-Trümmern.
-- [[Khirin]] verliert dauerhaft einen Arm (während der Versteinerung abgebrochen) und ein Bein (Notamputation durch [[Hrímnir]] wegen Kompartmentsyndrom).
+- [[Khirin]] verliert dauerhaft einen Arm (während der Versteinerung abgebrochen) und ein Bein (Notamputation durch [[Hrímnir]] wegen Kompartmentsyndroms).
 
 ## Loot & Gains
 - **Buch der Schwellen** — Magolor entrissen; brennt beim Berühren, ermöglicht kurze Teleportation; sicher in [[Hrímnir]]s Rucksack verstaut.
@@ -88,7 +83,6 @@ Die Gruppe erwacht unter Trümmern, begraben unter Schutt, der erkennbar aus Lun
 ## Open Threads
 - **Magolors Tod**: nur durch Sturz aus großer Höhe erzählt, kein Leichenfund — für den Wiki-Stand als unbestätigt/mutmaßlich behandelt.
 - **[[Spinnenwesen]] vom Cliffhanger**: sein Ausgang (getötet/geflohen) wird im Transkript nicht eindeutig aufgelöst.
-- **Warum Avernus?**: unklar, ob der Riss eine Folge des Drift-Zeppelin-Todes, der aufgestauten Gewitterenergie, der beiden Bücher oder einer Kombination ist.
 - **Schicksal von Lunovar**: Der Turm ist eingestürzt, Teile der Stadt wurden mit hochgerissen; der Zustand der restlichen Stadt und der Evakuierung aus [[Session 24]] bleibt nach diesem Ereignis offen.
 - **Khirins bleibende Verstümmelung**: fehlender Arm und amputiertes Bein — mechanische und narrative Konsequenzen für kommende Sessions ungeklärt.
 - **„Edotea" als In-Welt-Begriff**: [[Berta]] verwendet den Namen „Edotea" im Spiel diegetisch für einen Ort/eine Ebene innerhalb der Welt — Klärung, ob das ein Ebenen- oder Regionsname ist, steht noch aus.
@@ -96,4 +90,4 @@ Die Gruppe erwacht unter Trümmern, begraben unter Schutt, der erkennbar aus Lun
 ## Verknüpfungen
 - [[Session 24]] · [[Berta]] · [[Hrímnir]] · [[Khirin]] · [[Naeli]] · [[Sim]]
 - [[Magolor]] · [[Drei Bücher]] · [[Spinnenwesen]] · [[Drift-Zeppelin]] · [[Lunovar]] · [[Avernus]]
-- [[Session 26]] (Korrektur zum Ausgang des Drift-Zeppelin-Kampfs)
+- [[Session 26]] (ein zweites, ähnliches Wesen taucht dort in Avernus auf — siehe [[Drift-Zeppelin]] für die Abgrenzung)
