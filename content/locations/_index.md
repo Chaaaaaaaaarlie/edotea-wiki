@@ -2,14 +2,14 @@
 type: meta
 title: "Locations Index"
 created: 2026-05-11
-updated: 2026-09-15
+updated: 2026-09-21
 tags:
   - meta
   - locations
 status: evergreen
 ---
 
-# Orte (33)
+# Orte (34)
 
 ## Kontinent
 - [[Cloud Fang]]
@@ -71,6 +71,8 @@ status: evergreen
 ## Unter [[Avernus]]
 
 - [[Imp-Höhle]] *(neu, Session 26)* — Höhle an einem Bergpfad; metallverstärkte Gänge, [[Imp|Imps]], ein [[Kettenteufel]], [[Grünes Erz (Avernus)|grünes Erz]] und der [[Demon Core]]-Fund
+
+- [[Styx]] *(neu, Session 27)* — schwarzer Fluss, verbindet die Ebenen der Hölle; Fährmann, Fährgeld, Erlaubnis von [[Sariel]]
 
 ## Riss-Standorte
 

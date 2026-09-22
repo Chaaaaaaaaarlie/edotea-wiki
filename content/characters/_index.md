@@ -2,7 +2,7 @@
 type: meta
 title: "Characters Index"
 created: 2026-05-11
-updated: 2026-09-15
+updated: 2026-09-21
 tags:
   - meta
   - characters
@@ -18,9 +18,9 @@ status: evergreen
 - [[Naeli]]
 - [[Pyraschan]] *(neu, Session 26 — Paladin; Craig-Spur `luke_234`, zuvor [[Khirin]])*
 - [[Sim]]
-- [[Khirin]] — *seit [[Session 26]] nicht mehr aktiv gespielt; wird verstümmelt und bewusstlos als Verletzter mitgeführt*
+- [[Khirin]] — *seit [[Session 26]] nicht mehr aktiv gespielt; wird verstümmelt und bewusstlos als Verletzter mitgeführt (in [[Session 27]] sehr wahrscheinlich der von [[Berta]] getragene Patient)*
 
-## NPCs (28)
+## NPCs (30)
 
 - [[Aalafiel]] — *(Session 17 persönlich getroffen: ~3200 J., verflucht; Lysantirs Freundin; Trank aus ihrem Blut)*
 - [[Borgrim Runenbrecher]]
@@ -50,3 +50,5 @@ status: evergreen
 - [[Wukong]]
 - [[Y'Chak]]
 - [[Zwergenmeister Schmiedemeisterei]]
+- [[Magda]] *(neu, Session 27 — Halbelfin, befreit aus dem Käfigwagen, begleitet die Gruppe)*
+- [[Fährmann des Styx]] *(neu, Session 27 — blinder gehörnter Fährmann am [[Styx]])*

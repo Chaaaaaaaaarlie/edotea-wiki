@@ -16,7 +16,7 @@ related:
 sources:
   - Session 26 transcript
 created: 2026-09-15
-updated: 2026-09-15
+updated: 2026-09-21
 status: developing
 ---
 
@@ -36,6 +36,7 @@ Nie berührt, nie untersucht, nie identifiziert. Beobachtet wurde ausschließlic
 - Schadensart: **Radiant**. [[Pyraschan]]s Radiant-Resistenz milderte seinen Anteil.
 - Symptome danach: verbrennungsartige Rötung wie starker Sonnenbrand, bei [[Hrímnir]] Blasenbildung, blutende Augen, einzeln ausfallende Haare, allgemeine Schwäche und Übelkeit.
 - **Durchdringend**: Die Wirkung reichte durch mehrere Wände hindurch bis vor die Höhle — der dort abgelegte [[Khirin]] trug auf der zur Höhle zugewandten Seite eine leichte Rötung davon.
+- **Spätfolgen** ([[Session 27]]): [[Pyraschan]] bricht zusammen (Haarausfall); [[Sim]] scheitert nach der Rast an einem Con-Save (3): **1d8 Radiant**, Erbrechen, Haarbüschel fallen aus — die Exhaustion steigt nicht.
 - **Tödlich für die Höhlenbewohner**: Die [[Imp|Imps]] der [[Imp-Höhle]] lagen danach zuckend und Blut erbrechend in den Gängen.
 
 ## Lore
@@ -51,7 +52,7 @@ Nichts Gesichertes. [[Pyraschan]] versuchte einen History-Check (mit Guidance) u
 - Woher hatte ein [[Kettenteufel]] ein sachgerecht verpacktes, beschriftetes Objekt dieser Art?
 - Wer hat Truhe und Inschrift angefertigt — und für wen war die Warnung gedacht?
 - Gibt es weitere Exemplare, etwa unter den gehorteten Eisenwaren oder anderswo in [[Avernus]]?
-- Hat die Verstrahlung Spätfolgen für die Gruppe?
+- ~~Hat die Verstrahlung Spätfolgen für die Gruppe?~~ *Ja: Haarausfall, Radiant-Schaden und Erbrechen bei [[Sim]], Kollaps bei [[Pyraschan]] ([[Session 27]]). Ob weitere PCs betroffen sind, ist offen.*
 
 ## Verknüpfungen
 - [[Session 26]] · [[Session 26 transcript]] · [[Imp-Höhle]] · [[Avernus]]

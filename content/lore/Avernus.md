@@ -13,13 +13,20 @@ related:
   - Imp
   - Kettenteufel
   - Pyraschan
+  - Styx
+  - Sariel
+  - Fährmann des Styx
+  - Knochenteufel
+  - Dornenteufel
 sources:
   - Session 25
   - Session 25 transcript
   - Session 26
   - Session 26 transcript
+  - Session 27
+  - Session 27 transcript
 created: 2026-09-02
-updated: 2026-09-15
+updated: 2026-09-21
 status: developing
 ---
 
@@ -52,11 +59,21 @@ In [[Session 26]] beobachtet die Gruppe, wie **der Riss/Vortex, durch den sie ge
 
 Damit ist der einzige sichtbare Rückweg nach [[Lunovar]] im Begriff zu verschwinden.
 
+## Erkundete Umgebung (Session 27)
+- **Wolkenfront aufgeklärt**: Die grau-rote Front aus [[Session 26]] bringt **Blutregen** — klebrig, blutähnlich, **1d4 Säureschaden** für bereits Verwundete; hält über Stunden an und lässt nach mehreren Stunden Marsch nach.
+- **Bergkamm und Tal**: Vom Berg aus lässt sich dem Kamm nach Norden folgen oder durch ein Tal gehen (schneller, ohne Deckung). Die Gruppe wählt den Kamm; er endet an einer Klippe, die Abzweigung ins Tal wurde verpasst. Der Abstieg führt über einen ~10-Fuß-Absatz, einen Geröllhang von rund 80–90 Fuß mit Absätzen und einen Lavaspalt.
+- **Kämpfe in der Ferne**: humanoidere Teufel gegen bestienartige Dämonen — Lager oder Front nicht näher bestimmt.
+- **Käfigwagen**: Ein Eisenkarren mit rund 26 gefangenen Elfen, gezogen von einem [[Knochenteufel]], bewacht von [[Dornenteufel|Dornenteufeln]]; die Gruppe befreit die Gefangenen ([[Session 27]]). Der Boden dort ist stellenweise lavaartig aufgebrochen.
+- **Norden** ist laut DM die Zielrichtung. Das Tal endet in einem **„Güllebad"** — dem schwarzen Fluss **[[Styx]]**.
+- **Der [[Styx]]** verbindet die Ebenen der Hölle; ein [[Fährmann des Styx|Fährmann]] bietet Überfahrten gegen Fährgeld an. Wer den Styx befahren will, braucht die Erlaubnis von **[[Sariel]]**; Boote ohne sie verlassen Avernus nie.
+- **Spuren anderer Wesen**: Löcher im Boden weisen nach Westen (der einbeinige „Captain Einbein"); fliegende Dämonen verschwinden nach Westen.
+
 ## Bewohner (Stand Session 26)
 - **[[Imp|Imps]]** — niederste Teufelsart, in der [[Imp-Höhle]] ansässig.
 - **[[Kettenteufel]]** — über Imps und Höllenhunden in der Hierarchie, aber weit unter deren Spitze.
 - **[[Larvenschwarm|Larven]]** — in Wandlöchern der Höhle.
 - Eine Höllen-**Hierarchie** existiert; [[Pyraschan]] kann sie grob einordnen.
+- *(Session 27)* **[[Knochenteufel]]** (zieht den Käfigwagen, fliegt), **[[Dornenteufel]]** (Hurl Flame, feuerresistent), kleine dreckige Viecher am Käfig, [[Imp|Imps]] am Himmel. Der [[Fährmann des Styx|Fährmann]] am Styx (blind, gehörnt) trägt den Segen [[Sariel]]s.
 
 ## Offene Fragen
 - Wie und warum wurde ausgerechnet dieser Ort (und nicht eine andere Ebene) durch den Riss erreicht?
@@ -64,10 +81,14 @@ Damit ist der einzige sichtbare Rückweg nach [[Lunovar]] im Begriff zu verschwi
 - Wie kommt die Gruppe zurück nach [[Lunovar]]/auf den [[Kontinent Edotea]]?
 - Welche Gefahren/Fraktionen der Neun Höllen sind in unmittelbarer Nähe der Landestelle aktiv?
 - **Was passiert, wenn sich der Riss vollständig schließt** — und gibt es dann noch einen Rückweg?
-- **Was bringt die grau-rote Wolkenfront**, die aus dem Vortex freigesetzt wurde?
+- ~~Was bringt die grau-rote Wolkenfront?~~ *Beantwortet in [[Session 27]]: Blutregen (Säure für Verwundete).*
 - Wer hat die Gänge der [[Imp-Höhle]] mit gegossenem Metall abgestützt?
-- Was liegt oben auf dem Berg, auf den der Pfad zuführt?
+- Was liegt oben auf dem Berg, auf den der Pfad zuführt? *(Session 27: Die Gruppe folgt dem Kamm bis zu seinem Ende; über ein Gipfelziel wird nichts berichtet.)*
+- Wer sind die gefangenen Elfen, wohin sollten sie gebracht werden, und wer betreibt den Käfigwagen?
+- Wer ist [[Sariel]], und wie erhält die Gruppe die Erlaubnis zur Überfahrt?
+- Was war der Fährmann-Plan des DM (Fährgeld zurückgetrieben, Lumpen-Umhang)?
 
 ## Verknüpfungen
 - [[Lunovar]] · [[Drift-Zeppelin]] · [[Magolor]] · [[Session 25]] · [[Session 26]]
 - [[Imp-Höhle]] · [[Imp]] · [[Kettenteufel]] · [[Larvenschwarm]] · [[Demon Core]] · [[Grünes Erz (Avernus)]] · [[Bastardschwert aus Avernus]] · [[Pyraschan]] · [[Risse]]
+- [[Session 27]] · [[Styx]] · [[Sariel]] · [[Fährmann des Styx]] · [[Knochenteufel]] · [[Dornenteufel]] · [[Magda]]

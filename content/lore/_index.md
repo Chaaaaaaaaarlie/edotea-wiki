@@ -2,14 +2,14 @@
 type: meta
 title: "Lore Index"
 created: 2026-05-11
-updated: 2026-09-15
+updated: 2026-09-21
 tags:
   - meta
   - lore
 status: evergreen
 ---
 
-# Lore (18 + Bestiarium 18)
+# Lore (19 + Bestiarium 20)
 
 ## Götter & Höllenfürsten
 - [[Corellon]]
@@ -35,6 +35,7 @@ status: evergreen
 
 ## Entitäten
 
+- [[Sariel]] *(neu, Session 27 — Erlaubnis nötig zum Befahren des [[Styx]]; Schreibweise unbestätigt, vermutlich Zariel)*
 - [[das Nichts]] *(neu, Session 12 — Bertas Patron)*
 - [[Djinn]] *(neu, Session 12 — potenzielle Hilfe für Naelis Curse)*
 
@@ -45,12 +46,14 @@ status: evergreen
 
 ## Bestiarium
 
+- [[Dornenteufel]] *(neu, Session 27 — Barbed Devil; Wachen des Käfigwagens, Hurl Flame, feuerresistent)*
 - [[Drift-Zeppelin]] *(neu, Session 25 — Beholder-artige Kreatur aus dem toten Drachen; getötet erst in [[Session 26]])*
 - [[Eulenbärin]]
 - [[Gedankenschaender]] *(neu, Session 12 — Mind Flayer)*
 - [[Geist]]
 - [[Imp]] *(neu, Session 26 — niederste Teufelsart in [[Avernus]]; starben an der [[Demon Core]]-Strahlung)*
 - [[Kettenteufel]] *(neu, Session 26 — Chain Devil; Unnerving Gaze, brennende Fesseln, giftimmun)*
+- [[Knochenteufel]] *(neu, Session 27 — Bone Devil; zieht den Käfigwagen, fliegt)*
 - [[Larvenschwarm]] *(neu, Session 26 — Maden in der [[Imp-Höhle]]; extrem giftanfällig)*
 - [[Revenant]]
 - [[Rictus Mors]] *(neu, Session 21 — menschenfressende Kreaturen, Angriff auf Lunovar, immun gegen Piercing)*

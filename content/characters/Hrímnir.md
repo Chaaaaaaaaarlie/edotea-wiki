@@ -8,7 +8,7 @@ tags:
 related: []
 sources: []
 created: 2026-05-11
-updated: 2026-09-15
+updated: 2026-09-21
 status: developing
 ---
 ![[Hrimnir.png|533]]
@@ -146,6 +146,19 @@ status: developing
 - Trägt nach dem Strahlungsblitz die sichtbarsten Verbrennungen (Blasenbildung) und verbraucht seine letzten Cure-Wounds-Slots für sich und die Gruppe.
 - Fungiert am Tisch durchgehend als Regelinstanz und kommentiert [[Pyraschan]]s Fehlgriffe entsprechend deutlich.
 
+## [[Session 27]]
+
+- Nimmt mit **passiver Perception 25** den Käfigwagen wahr, später aktiv 24 (Achse festgefahren, Furchen, Viecher am Käfig). Kriecht prone (doppelter Stealth-Vorteil).
+- Stimmt gegen die Rettung der Elfen (*„Wir können nicht allen helfen"*), geht später aber doch mit zurück.
+- **Im Kampf**: nutzt **Large Form** als Bonus Action (Bewegung 45 Fuß, Dash 90, mit Monk-Punkten theoretisch 135), packt [[Naeli]] und flieht; scheitert beim Grappeln von [[Sim]]. Sein nekrotischer Angriff richtet gegen sein Ziel keinen Schaden an; **Ray of Frost** (16 Schaden) verlangsamt um 10 Fuß. Er hat **keinen einzigen Spellslot** mehr, weil er die Gruppe heilen musste. Wird von Feuer schwer verwundet.
+- Setzt eine **Elementarhand (Feuer oder Eis) mit 15 Fuß Reichweite** ein — wählt Eis: kühlt Lava zu Obsidian und dann das Schloss des Käfigs.
+- Zieht [[Sim]] per Reaktion (Grapple) aus dem Ansturm der Elfen; hält einen davonlaufenden Elfen fest und lässt ihn fallen; droht einem hochnäsigen Elfen Prügel an.
+- Traut [[Magda]] nicht (Insight, „heute blind"): Er hält sie für einen bösen Dämon. Seine **+1-Handaxt** leiht der DM ihr aus dem Inventar.
+- Surft auf Geröll den Hang hinab (Save 11).
+- **Fährgeld**: gibt den **[[Cloak of Many Fashions]]** (lebenslanger Begleiter, sentimental *„in der Backstory"*; Persuasion −2, mit Vorteil 17). Später fischt [[Naeli]] einen ähnlichen Lumpen heraus — er hält ihn für nicht seinen, nimmt ihn aber an und legt ihn ins Bag of Holding (*„vertraut den Braten nicht"*).
+- Sitzt auf der Überfahrt geistesabwesend im Boot; unter Calm Emotions *„ein richtiger Stein"*; **ertrinkt fast** und wird von [[Naeli]] und [[Sim]] reanimiert (erbricht zwei Liter Wasser).
+- Hat noch alle **3 Lucky-Punkte** (Anfang der Überfahrt).
+
 ## Verknüpfungen
 
 - [[Berta]]
@@ -197,3 +210,10 @@ status: developing
 - [[Demon Core]]
 - [[Bastardschwert aus Avernus]]
 - [[Larvenschwarm]]
+- [[Session 27]]
+- [[Styx]]
+- [[Fährmann des Styx]]
+- [[Magda]]
+- [[Cloak of Many Fashions]]
+- [[Knochenteufel]]
+- [[Dornenteufel]]

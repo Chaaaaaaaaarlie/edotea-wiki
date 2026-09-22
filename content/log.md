@@ -2,7 +2,7 @@
 type: meta
 title: "Wiki Log"
 created: 2026-05-11
-updated: 2026-09-15
+updated: 2026-09-21
 tags:
   - meta
 status: evergreen
@@ -11,6 +11,29 @@ status: evergreen
 # Wiki Log
 
 Append-only. New entries at the **TOP**. Never edit past entries.
+
+## [2026-09-21] ingest | Session 27 (gespielt 2026-09-21) aus WhisperX-Transkript
+
+- **Quelle**: `/srv/dnd/transcription/output/craig-rM3pIMC8VKVR-Qm5yT0XJOzijFFD_20260921_233828/corrected_obsidian.md` (WhisperX `large-v3`, cuda/float16, de, Word-Timestamps, keine Diarisierung, 228 Glossar-Korrekturen). Dauer: ~3h01min, 3755 Segmente, **5** Craig-Spuren.
+- **Sprecher-Mapping**: `_blestem_`=DM (am Tisch „Philipp"), `drore`=[[Berta]], `feeminin`=[[Naeli]], `hansmeier`=[[Hrímnir]], `mep0510`=[[Sim]]. **Keine `luke_234`-Spur** (Spieler von [[Pyraschan]], zuvor [[Khirin]], nicht in der Aufnahme).
+- **Abweichungen vom automatischen Handoff**: `claude_handoff.md` nennt `nightcore0302 = DM` (existiert nicht; DM ist `_blestem_`) und `luke_234 = Khirin` (seit [[Session 26]] falsch, hier ohnehin keine Spur). Die automatisch erzeugte `vault_review.md` schlägt „Session 28" vor — korrekt ist **27** (der Vault enthielt [[Session 0]]–[[Session 26]]).
+- **Rohdatei kopiert**: `.raw/session-transcripts/Session 27 - 21.09.2026.md` (unveränderte Kopie).
+- **Backup vor dem Ingest**: `_backups/session27_ingest_20260921_235109/` (20 Dateien: hot, index, log, overview, betroffene Charakter-/Lore-/Item-/Session-/Index-Seiten).
+- **Neue Seiten**: [[Session 27]], [[Session 27 transcript]], [[Styx]], [[Fährmann des Styx]], [[Magda]], [[Sariel]], [[Knochenteufel]], [[Dornenteufel]], [[Cloak of Many Fashions]].
+- **Aktualisierte Seiten**: [[Berta]], [[Hrímnir]], [[Naeli]], [[Sim]], [[Khirin]], [[Pyraschan]], [[Avernus]], [[Demon Core]], [[Session 26]] (Nachtrag), `wiki/index.md`, `wiki/overview.md`, `wiki/characters/_index.md`, `wiki/locations/_index.md`, `wiki/items/_index.md`, `wiki/lore/_index.md`, `wiki/sessions/_index.md`, `wiki/sources/_index.md`, [[hot|Hot Cache]].
+- **Schlüssel-Erkenntnisse**:
+  - Die Gruppe lässt den strahlenkranken [[Pyraschan]] bei der [[Imp-Höhle]] zurück; [[Berta]] trägt den bewusstlosen Patienten.
+  - Die grau-rote Wolkenfront aus [[Session 26]] bringt **Blutregen** (1d4 Säure für Verwundete).
+  - Ein **Käfigwagen mit rund 26 Elfen** ([[Knochenteufel]] als Zugtier, [[Dornenteufel]] als Wachen): erster Kampf verloren/Flucht, nach einstündiger Rast erfolgreicher Zweitangriff auf die verbliebenen Wachkreaturen; Elfen befreit, einer stirbt durch [[Sim]]s Fehlschuss; [[Magda]] schließt sich an.
+  - **[[Styx]]**, blinder **[[Fährmann des Styx|Fährmann]]** und die Bedingung der Erlaubnis von **[[Sariel]]**; **Fährgeld** = etwas, das man nicht verlieren will ([[Hrímnir]]: [[Cloak of Many Fashions]], [[Berta]]: Hexenhut, [[Naeli]]: Nostalgie-Verbindung ihres Drachenzorn-Fläschchens, [[Sim]]: Abschiedsbrief seines Vaters, [[Magda]]: Haare). Das Boot sinkt, alle ertrinken und tauchen wieder auf; die Gaben treiben zurück.
+  - **Spätfolgen des [[Demon Core]]** bestätigt ([[Sim]]: Con-Save gescheitert, 1d8 Radiant, Haarausfall).
+  - Level-Up am Ende der Session; der DM hatte es an das Verlassen der Neun Höllen geknüpft.
+- **Offene Unsicherheiten dieses Ingests**:
+  - **Patient = [[Khirin]]**: Der DM nennt ihn zweimal „Kirin/Khirin" — sehr wahrscheinlich, aber nicht förmlich bestätigt. Die DM-Bemerkung „Khirin weiß nicht, dass er eine Mutter hat" widerspricht der Wiki-Backstory und wurde nicht übernommen. Unklar, ob im Bag of Holding zusätzlich jemand steckt (DM-Retcon).
+  - **Hat die Gruppe [[Avernus]] verlassen?** Das Transkript endet ohne Ortsangabe; Level-Up könnte darauf hindeuten.
+  - **Schreibweise „Sariel"** unbestätigt (vermutlich Zariel des Regelwerks); **Monsternamen** [[Knochenteufel]]/[[Dornenteufel]] stammen aus [[Berta]]s Tischrechnung; Fährmann-Pronomen wechseln.
+  - **Glossar-Artefakt „Nat-20"** ersetzt im Korrekturtext an vielen Stellen kleine Wörter; „Hm."/„Vielen Dank."-Halluzinationen.
+  - Zurückgegebene Opfergaben und der Lumpen-Umhang sind ungeklärt (DM: „Trust me, I do have a plan").
 
 ## [2026-09-15] ingest | Session 26 (gespielt 2026-09-15) aus WhisperX-Transkript
 

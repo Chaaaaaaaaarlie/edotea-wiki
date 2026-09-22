@@ -2,14 +2,14 @@
 type: meta
 title: "Items Index"
 created: 2026-05-11
-updated: 2026-09-15
+updated: 2026-09-21
 tags:
   - meta
   - items
 status: developing
 ---
 
-# Items (20)
+# Items (21)
 
 ## Tränke
 - [[Aalafiels Trank]] *(neu, Session 16)* — Abscheu-Aura-Trank der Treants; 10 Min./Schluck (größenabhängig); Voraussetzung, um mit [[Aalafiel]] zu sprechen
@@ -47,6 +47,9 @@ status: developing
 ## Rohstoffe & Fundstücke aus [[Avernus]] *(Session 26)*
 - [[Grünes Erz (Avernus)]] — unbekanntes, ungewöhnlich hartes grünliches Metall aus dem Gestein der [[Imp-Höhle]]; ein Brocken bei [[Berta]]
 - [[Demon Core]] — versiegelte Truhe mit infernaler Warninschrift; von [[Pyraschan]] ungeöffnet in Lava versenkt, verstrahlte dabei die gesamte Gruppe. **Zerstört/unzugänglich**
+
+## Kleidung & Wunderliches
+- [[Cloak of Many Fashions]] *(neu, Session 27)* — [[Hrímnir]]s persönlicher Umhang; als Fährgeld am [[Styx]] gegeben; ein ähnlicher Lumpen trieb zurück (Echtheit offen)
 
 ## Trophäen
 - [[Drachenzahn]] *(neu, Session 24)* — Zahn des getöteten blauen erwachsenen Drachen, von [[Berta]] geborgen; genaue Verarbeitung/Mechanik offen

@@ -129,6 +129,9 @@ Auf dem Rückweg liegen die **Imps der Höhle zuckend und Blut erbrechend am Bod
 - **[[Pyraschan]]s Herkunft**: Wie und warum wurde er mit durch das Portal gerissen? Sein Schwur und seine Backstory (mit möglichem [[Kalineon]]-Bezug) sind noch nicht ausgespielt.
 - **Der Berg**: Der Aufstieg auf den größten Hügel der Umgebung wurde begonnen, aber nicht beendet.
 
+> [!note] Nachtrag ([[Session 27]])
+> Der DM nennt den in dieser Session mitgeschleppten Bewusstlosen in [[Session 27]] mehrfach *„Kirin/Khirin"* — die hier als Unsicherheit markierte Gleichsetzung des „Patienten" mit [[Khirin]] ist damit sehr wahrscheinlich, aber weiterhin nicht förmlich bestätigt. Außerdem: Die Spätfolgen des [[Demon Core]] treffen [[Pyraschan]] und [[Sim]] (Haarausfall, Radiant-Schaden).
+
 ## Verknüpfungen
 - [[Session 25]] · [[Berta]] · [[Hrímnir]] · [[Naeli]] · [[Sim]] · [[Pyraschan]] · [[Khirin]]
 - [[Avernus]] · [[Imp-Höhle]] · [[Drift-Zeppelin]] · [[Imp]] · [[Kettenteufel]] · [[Larvenschwarm]]

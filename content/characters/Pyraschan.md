@@ -17,7 +17,7 @@ related:
 sources:
   - Session 26 transcript
 created: 2026-09-15
-updated: 2026-09-15
+updated: 2026-09-21
 status: seed
 ---
 
@@ -92,7 +92,15 @@ Fast alles ist noch offen. Belegt ist nur:
 - Wie geriet er in den Riss, und woher kam er?
 - Woher stammt seine sichtbare Selbstheilung?
 
+## [[Session 27]] — krank zurückgelassen
+
+- Bricht nach der [[Demon Core]]-Strahlung kurz nach Beginn der Session zusammen (laut [[Berta]]s Spieler halb hinter Felsen, gutturale Geräusche; ihm fallen die Haare aus wie [[Sim]]).
+- Die Gruppe lässt ihn zurück, weil sie ihn *„so kurz kennt"*. [[Naeli]] hatte vorgeschlagen, den Patienten bei ihm zu lassen; [[Berta]] trägt ihn stattdessen selbst.
+- [[Berta]] hält der Gruppe später vor: *„Wir haben vorhin gerade den Paladin zurückgelassen."* [[Sim]] fragt am Fluss nach ihm; der DM: *„Der hat andere Probleme."*
+- Sein Spieler (Craig-Spur `luke_234`) war in [[Session 27]] nicht in der Aufnahme; die Figur wird nur als NPC behandelt.
+
 ## Verknüpfungen
 - [[Session 26]] · [[Session 26 transcript]] · [[Avernus]] · [[Imp-Höhle]]
 - [[Berta]] · [[Hrímnir]] · [[Khirin]] · [[Naeli]] · [[Sim]]
 - [[Demon Core]] · [[Bastardschwert aus Avernus]] · [[Grünes Erz (Avernus)]] · [[Kettenteufel]] · [[Imp]] · [[Drift-Zeppelin]] · [[Kalineon]]
+- [[Session 27]]

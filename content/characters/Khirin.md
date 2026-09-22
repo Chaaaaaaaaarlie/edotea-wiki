@@ -8,7 +8,7 @@ tags:
 related: []
 sources: []
 created: 2026-05-11
-updated: 2026-09-15
+updated: 2026-09-21
 status: developing
 ---
 # Khirin
@@ -158,6 +158,16 @@ Unter dieser Annahme gilt für [[Session 26]]:
 - Bekommt vom [[Demon Core]]-Strahlungsblitz auf der zur Höhle zugewandten Körperseite eine **leichte Rötung** ab — deutlich schwächer als die Gruppe im Inneren, aber klar messbar durch mehrere Felswände hindurch.
 - [[Berta]] erkundigt sich nach ihm (*„Ist unser Patient noch da?"*); [[Sim]] bedankt sich an einer Stelle beiläufig bei „Khirin".
 
+## [[Session 27]] — als Patient bei [[Berta]]
+
+> [!gap] Zuordnung jetzt sehr wahrscheinlich, weiterhin nicht förmlich bestätigt
+> Der DM nennt den von [[Berta]] getragenen Bewusstlosen in [[Session 27]] mehrfach *„Kirin"/„Khirin"* (*„Kirin klaut random etwas"*; *„Khirin hätte keine Freifahrt gehabt"*). Damit ist die in [[Session 26]] offene Gleichsetzung des „Patienten" mit Khirin **sehr wahrscheinlich**. Wortlaut und Unsicherheiten siehe [[Session 27]] (Abschnitt „Unsicherheiten dieser Session").
+
+- Liegt zu Sessionbeginn noch neben der [[Imp-Höhle]] und wird von [[Berta]] auf den Rücken genommen; [[Naeli]] kann ihn nicht tragen, [[Pyraschan]] ist selbst zusammengebrochen. Er bleibt bewusstlos.
+- Wird den ganzen Tag durch Blutregen, Flucht und Abstieg getragen; [[Berta]] schaut ihn beim Fliehen an und sagt *„Es tut mir leid"*.
+- Am [[Styx]] nimmt der [[Fährmann des Styx|Fährmann]] von ihm *„irgendetwas Zufälliges"* als Preis (Retcon des DM). Was, ist offen. Der DM-Kommentar *„Khirin weiß nicht, dass er eine Mutter hat"* widerspricht der Wiki-Backstory (Mutter Heilerin in [[Lunovar]], in [[Session 21]] gerettet) und ist ohne Bedeutung übernommen.
+- Sein früherer Spieler war in [[Session 27]] nicht am Tisch (keine `luke_234`-Spur).
+
 ## Verknüpfungen
 
 - [[Carbus]]
@@ -208,3 +218,6 @@ Unter dieser Annahme gilt für [[Session 26]]:
 - [[Pyraschan]]
 - [[Imp-Höhle]]
 - [[Demon Core]]
+- [[Session 27]]
+- [[Styx]]
+- [[Fährmann des Styx]]

@@ -8,7 +8,7 @@ tags:
 related: []
 sources: []
 created: 2026-05-11
-updated: 2026-09-15
+updated: 2026-09-21
 status: developing
 ---
 # Berta
@@ -161,6 +161,20 @@ status: developing
 - Reinigt die verschleimten [[Naeli]] und [[Sim]] per Prestidigitation.
 - Rechnet nach dem [[Demon Core]]-Zwischenfall offen mit [[Pyraschan]] ab (*„Und damit öffnen, du Vollidiot"*) und drängt darauf, die Höhle zu verlassen.
 
+## [[Session 27]]
+
+- **Trägt den bewusstlosen Patienten** ([[Khirin]], siehe dort) den ganzen Tag auf dem Rücken (*„Ich nehme lieber selber mit"*); das kostet sie halbes Bewegungstempo. Der DM gibt ihr beim Schleichen dafür keinen Nachteil.
+- Stimmt zusammen mit [[Hrímnir]] gegen die Rettung der Elfen (*„Ich will es nicht drauf ankommen lassen"*), erinnert [[Naeli]] daran, dass die Gruppe gerade [[Pyraschan]] zurückgelassen hat, und rechnet später den Encounter auf **CR ≈ 28** hoch.
+- Im Kampf am Käfigwagen wirkt sie keine Zauber (sie erwartete einen Endboss und spart die Slots), nutzt nur **Eldritch Blast** (Reichweite 120 Fuß; prone → Nachteil) und **Telekinetic** (nur 30 Fuß Reichweite, 5 Fuß Schub). Wird von den Teufeln fast getötet, flieht unsichtbar und ohne Vorwarnung zurückgelassen von [[Hrímnir]] — sie stellt ihn danach zur Rede (*„enttäuscht"*).
+- Rollt beim Abstieg zum Käfig den Hang hinab (13 Bludgeoning, halber Sturzschaden).
+- Repariert [[Sim]]s Dietrich mit **Mending** (sie hat Mending seit Level 6) und brüllt die entflohenen Elfen mit einem Sprachzauber (Name im Transkript unklar) zur Ruhe (Intimidation 23).
+- Erkennt per **History (12, mit Memories of a Past Life)** den [[Styx]] und erinnert sich vage an [[Sariel]] als *„etwas, das mal ein Engel ist oder war"* — möglicherweise aus früherem Infiltrieren der Hölle. Sie behauptet, *„sehr viele Leben gelebt"* zu haben. Ihr Handschlag mit dem [[Fährmann des Styx|Fährmann]] folgt aus Arcana: kein Vertrag ohne ausgehandelte Bedingungen.
+- Versucht per Telepathie einen im Fluss Treibenden zu erreichen — nur *„leeres Rauschen"*. Greift auf der Überfahrt in Trance ins Wasser, [[Sim]] rettet sie; wirkt später **Calm Emotions** auf [[Sim]].
+- **Fährgeld**: Ihre drei Goldweinkrüge lehnt der Fährmann als wertlos ab (Persuasion mit Nachteil, ein Lucky-Punkt verbraucht, einer bleibt); sie gibt ihren **Hexenhut** — der erste Gegenstand, den sie in dieser Welt ihr Eigen nannte (weint dabei). Angeboten hatte sie zuerst „Vergessen" alter Erinnerungen — abgelehnt. Der Hut treibt später zurück, sie holt ihn mit Telekinetic heraus.
+- Beim Untergang des Bootes ist sie die Einzige, die das **Ertrinken nicht stört** (vgl. [[Session 17]]).
+- Ihr Rucksack und der von [[Hrímnir]] sind weiter **magnetisch zueinander**.
+- Nach dem Level-Up: *„Ich habe endlich Level-3-Spells."*
+
 ## Verknüpfungen
 
 - [[Cadnix]]
@@ -215,3 +229,11 @@ status: developing
 - [[Grünes Erz (Avernus)]]
 - [[Kettenteufel]]
 - [[Demon Core]]
+- [[Session 27]]
+- [[Styx]]
+- [[Sariel]]
+- [[Fährmann des Styx]]
+- [[Magda]]
+- [[Knochenteufel]]
+- [[Dornenteufel]]
+- [[Cloak of Many Fashions]]

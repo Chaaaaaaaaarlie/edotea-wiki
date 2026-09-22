@@ -10,7 +10,7 @@ sources:
   - Tagebücher Wilhelm Casterwill
   - Session 17 transcript
 created: 2026-05-11
-updated: 2026-09-15
+updated: 2026-09-21
 status: developing
 ---
 ![[Naeli.png|496]]
@@ -143,6 +143,17 @@ status: developing
 - Ist im Kampf gegen den [[Kettenteufel]] **die Einzige, die dessen Unnerving Gaze widersteht** (*„Kleiner Halbling mit großem Mut"*), wird dafür aber wiederholt in brennende Ketten gefesselt und würfelt die halbe Begegnung mit Nachteil; ihr Poison Spray zeigt gegen ihn keinerlei Wirkung.
 - Plädiert offensiv dafür, Gefahren lieber sofort auszuschalten, als später aus dem Hinterhalt angegriffen zu werden.
 
+## [[Session 27]]
+
+- Entscheidet die Wegwahl per Münzwurf mit; plädiert für den Bergkamm (bessere Übersicht) und dann dafür, die gefangenen Elfen zu retten (*„Wir haben noch niemanden zurückgelassen"*).
+- Klärt **Natural Stealth**: sie kann sich bei Kreaturen, die größer sind als sie, immer verstecken — nicht automatisch unsichtbar.
+- **Level 7 Druidin** (laut [[Hrímnir]]s Spieler, vor dem Level-Up); nach dem Level-Up: *„Ich kann endlich fliegen."*
+- Bricht mit einem Zauber den Boden unter dem Karren auf und beschädigt die Hinterachse; wirkt **Moonbeam** auf die Wachkreaturen. Beim Abstieg rutscht sie ab (10 Schaden) und springt per **Wild Shape als Frosch** über den Lavaspalt (Standing Long Jump 10 Fuß, 7 Temp-HP); Verwandeln *tut ihr weh*, sie findet die Form *„eklig"*.
+- Rettet **Hrímnir** per Medicine vor dem Ertrinken, fischt mit **Thorn Whip** einen Lumpen-Umhang aus dem Fluss.
+- Gibt auf der Überfahrt ihre eigene Ruhe an [[Sim]] und [[Berta]] weiter (Wurf 27 → 18; 5 auf Sim, 4 auf Berta; später drei auf Berta) — Mechanik nicht benannt. Der DM: *„[[Naeli]] ist die entspannte Person."*
+- **Fährgeld**: das **Drachenzorn-Fläschchen**, das sie mit ihren besten Freunden teilte und das sie *„an etwas erinnert, was ich nicht mehr bin"*: *„Ich bin nicht das, wonach ich aussehe. Doch niemand weiß, was ich bin."* Der Fährmann nimmt *nur* die daran hängende Verbindung/das Gefühl der Nostalgie; das Getränk brennt danach nur noch wie Schnaps. Nach dem Auftauchen ist das Gefühl **zurück** — das findet sie *„seltsam"*.
+- Hält [[Magda]] für eine misshandelte Elfe und will sie mitnehmen. Ihre Haare sind vom Feuer angesengt.
+
 ## Verknüpfungen
 
 - [[Anwesen]]
@@ -198,3 +209,8 @@ status: developing
 - [[Larvenschwarm]]
 - [[Kettenteufel]]
 - [[Bastardschwert aus Avernus]]
+- [[Session 27]]
+- [[Styx]]
+- [[Fährmann des Styx]]
+- [[Magda]]
+- [[Cloak of Many Fashions]]

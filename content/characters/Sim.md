@@ -8,7 +8,7 @@ tags:
 related: []
 sources: []
 created: 2026-05-11
-updated: 2026-09-15
+updated: 2026-09-21
 status: developing
 ---
 # Sim
@@ -135,6 +135,17 @@ status: developing
 - Entwaffnet den [[Kettenteufel]] und verlangsamt ihn wiederholt um 10 Fuß; seine Pfeile kommen durch dessen Ketten nur mit halbem Schaden durch. Er kann einmal pro Runde einen Piercing-Schadenswürfel neu würfeln.
 - **Scheitert am Constitution-Save gegen den [[Demon Core]]-Blitz**: Schaden plus ein Punkt **Exhaustion**; fühlt sich danach schlapp und übergibt sich fast.
 
+## [[Session 27]]
+
+- Plädiert für die Rettung der Elfen (*„Wir haben schon größere Viecher erledigt"*) und **eröffnet den Kampf** mit einem freien Schuss auf einen kleinen Teufel. Vergisst zweimal Hunter's Mark, schießt wiederholt auf einen Fast-Toten und **trifft mit einer Eins einen gefangenen Elfen** (stirbt). Klettergeschwindigkeit = Bewegungsrate; mit Exhaustion und Aufstehen bleiben ihm nur noch 15 Fuß.
+- Wehrt sich gegen [[Hrímnir]]s Fluchtversuch (Grapple-Contest), bleibt kurz allein zurück; wirft der Gruppe später vor, man hätte gewinnen können.
+- Scheitert an einem **Con-Save (3)** nach der Rast: **1d8 Radiant**, erbricht sich, Haarausfall — bestätigt Spätfolgen des [[Demon Core]] (Exhaustion steigt nicht).
+- Findet per **Investigation** die Käfigtür; würfelt eine **Eins** — sein **Dietrich bricht** (von [[Berta]] mit Mending repariert); wird beim Ansturm der Elfen beinahe getrampelt.
+- Gibt [[Magda]] seinen **alten Bogen** (den langen Bogen aus dem [[Nebelwald]]) samt Elfenpfeilen.
+- **Fährgeld**: der **Abschiedsbrief seines Vaters** (erst nach dessen Tod gefunden; die beiden hatten sich zerstritten; *„die letzten Worte, die ich von meinem Vater habe"*) — passt zur Wiki-Angabe des ungeklärten Streits. Er fischt den Brief unbeschädigt aus dem Fluss und drückt ihn an die Brust.
+- Rettet [[Berta]] auf der Überfahrt vor dem Griff ins Wasser, gerät danach selbst in Panik und berührt das Wasser; schwimmt problemlos an die Oberfläche und leitet bei [[Hrímnir]] die Herzdruckmassage ein.
+- [[Berta]] spottet am Fluss, er sei nun für den Tod von zwei Elfen verantwortlich (Deutung unklar: sein Greifhaken traf zuvor einen bereits durch den Pfeil Getroffenen).
+
 ## Verknüpfungen
 
 - [[Cadnix]]
@@ -186,3 +197,9 @@ status: developing
 - [[Kettenteufel]]
 - [[Demon Core]]
 - [[Imp]]
+- [[Session 27]]
+- [[Styx]]
+- [[Fährmann des Styx]]
+- [[Magda]]
+- [[Knochenteufel]]
+- [[Dornenteufel]]
