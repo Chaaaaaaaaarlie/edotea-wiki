@@ -2,20 +2,21 @@
 type: meta
 title: "Sources Index"
 created: 2026-05-11
-updated: 2026-09-21
+updated: 2026-09-28
 tags:
   - meta
   - sources
 status: developing
 ---
 
-# Sources (16)
+# Sources (17)
 
 > [!note] Diese Seite wurde zuletzt nicht bei jedem Ingest vollständig gepflegt (Session 19/20 transcripts fehlten). Vollständige Liste siehe [[index|Wiki Index]].
 
 Eine Übersichtsseite pro Roh-Quelle aus `.raw/` (oder ggf. `_transcribex_backups/`).
 
 ## Session Transcripts
+- [[Session 28 transcript]] — WhisperX-Transkript (`large-v3`), Session 28, ingestiert 2026-09-28, `.raw/session-transcripts/Session 28 - 28.09.2026.md` (2418 Segmente, ~1h56min, 6 Craig-Spuren). `luke_234` (Pyraschan) wieder anwesend nach Abwesenheit in Session 27.
 - [[Session 27 transcript]] — WhisperX-Transkript (`large-v3`), Session 27, ingestiert 2026-09-21, `.raw/session-transcripts/Session 27 - 21.09.2026.md` (3755 Segmente, ~3h01min, 5 Craig-Spuren). **Achtung**: keine `luke_234`-Spur; Glossar-Artefakt „Nat-20“ im Korrekturtext.
 - [[Session 26 transcript]] — WhisperX-Transkript (`large-v3`), Session 26, ingestiert 2026-09-15, `.raw/session-transcripts/Session 26 - 15.09.2026.md` (3544 Segmente, ~2h43min, 6 Craig-Spuren). **Achtung**: `luke_234` spielt ab dieser Session [[Pyraschan]], nicht mehr [[Khirin]].
 - [[Session 25 transcript]] — faster-whisper-Transkript, Session 25, ingestiert 2026-09-02, `.raw/session-transcripts/Session 25 - 02.09.2026.md` (3463 Segmente, ~3h8min, 6 Craig-Spuren).

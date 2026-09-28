@@ -2,7 +2,7 @@
 type: meta
 title: "Characters Index"
 created: 2026-05-11
-updated: 2026-09-21
+updated: 2026-09-28
 tags:
   - meta
   - characters
@@ -16,9 +16,9 @@ status: evergreen
 - [[Berta]]
 - [[Hrímnir]]
 - [[Naeli]]
-- [[Pyraschan]] *(neu, Session 26 — Paladin; Craig-Spur `luke_234`, zuvor [[Khirin]])*
+- [[Pyraschan]] *(neu, Session 26 — Paladin, Level 7; Craig-Spur `luke_234`, zuvor [[Khirin]]; in [[Session 27]] krank zurückgelassen, ab [[Session 28]] per DM-Retcon wieder bei der Gruppe)*
 - [[Sim]]
-- [[Khirin]] — *seit [[Session 26]] nicht mehr aktiv gespielt; wird verstümmelt und bewusstlos als Verletzter mitgeführt (in [[Session 27]] sehr wahrscheinlich der von [[Berta]] getragene Patient)*
+- [[Khirin]] — *seit [[Session 26]] nicht mehr aktiv gespielt; wird verstümmelt und bewusstlos als Verletzter mitgeführt (seit [[Session 28]] von [[Magda]] getragen; fehlendes Bein dort beiläufig bestätigt)*
 
 ## NPCs (30)
 
@@ -50,5 +50,5 @@ status: evergreen
 - [[Wukong]]
 - [[Y'Chak]]
 - [[Zwergenmeister Schmiedemeisterei]]
-- [[Magda]] *(neu, Session 27 — Halbelfin, befreit aus dem Käfigwagen, begleitet die Gruppe)*
+- [[Magda]] *(neu, Session 27 — Halbelfin, befreit aus dem Käfigwagen, begleitet die Gruppe; trägt seit [[Session 28]] den bewusstlosen Patienten)*
 - [[Fährmann des Styx]] *(neu, Session 27 — blinder gehörnter Fährmann am [[Styx]])*

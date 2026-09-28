@@ -2,7 +2,7 @@
 type: meta
 title: "Wiki Log"
 created: 2026-05-11
-updated: 2026-09-21
+updated: 2026-09-28
 tags:
   - meta
 status: evergreen
@@ -11,6 +11,32 @@ status: evergreen
 # Wiki Log
 
 Append-only. New entries at the **TOP**. Never edit past entries.
+
+## [2026-09-28] ingest | Session 28 (gespielt 2026-09-28) aus WhisperX-Transkript
+
+- **Quelle**: `/srv/dnd/transcription/output/craig-KI33JbMVeJdA-yYLeJN2A5qYVXRW_20260928_191636/corrected_obsidian.md` (WhisperX `large-v3`, cuda/float16, de, Word-Timestamps, keine Diarisierung, 166 Glossar-Korrekturen). Dauer: ~1h56min, 2418 Segmente, **6** Craig-Spuren.
+- **Sprecher-Mapping**: `_blestem_`=DM (am Tisch „Philipp"), `drore`=[[Berta]], `feeminin`=[[Naeli]], `hansmeier`=[[Hrímnir]], `mep0510`=[[Sim]], `luke_234`=[[Pyraschan]] (wieder anwesend nach Abwesenheit in [[Session 27]]).
+- **Abweichungen vom Ingest-Auftrag**: Der Auftrag nannte `nightcore0302 = DM` und `luke_234 = Khirin` — beide veraltet (Stand vor Session 20 bzw. vor Session 26); anhand des tatsächlichen Transkripts und des Wiki-Logs korrigiert (siehe [[Session 26 transcript]], [[Session 27 transcript]]). Die automatisch erzeugte `vault_review.md` schlug „Session 29" vor — korrekt ist **28** (der Vault enthielt [[Session 0]]–[[Session 27]]).
+- **Rohdatei kopiert**: `.raw/session-transcripts/Session 28 - 28.09.2026.md` (unveränderte Kopie).
+- **Backup vor dem Ingest**: `_backups/session28_ingest_20260928_192907/` (19 Dateien: hot, index, log, overview, betroffene Charakter-/Lore-/Item-/Location-/Session-/Sources-Index-Seiten).
+- **Neue Seiten**: [[Session 28]], [[Session 28 transcript]], [[Kristallhöhlenwald]], [[Ork (Kreatur)]], [[Dire Wolf]].
+- **Aktualisierte Seiten**: [[Berta]], [[Hrímnir]], [[Naeli]], [[Sim]], [[Pyraschan]], [[Khirin]], [[Magda]], [[Avernus]], [[Goetterfunke]], [[Demon Core]], `wiki/index.md`, `wiki/overview.md`, `wiki/characters/_index.md`, `wiki/locations/_index.md`, `wiki/lore/_index.md`, `wiki/sessions/_index.md`, `wiki/sources/_index.md`, [[hot|Hot Cache]].
+- **Schlüssel-Erkenntnisse**:
+  - Erstmals seit [[Session 25]] sind wieder **alle fünf PCs** aktiv, da [[Pyraschan]]s Spieler zurück ist — per offenkundigem DM-Retcon, der dem in [[Session 27]] festgehaltenen „krank zurückgelassen" widerspricht (nicht rückwirkend geändert, siehe Callout in [[Session 28]]).
+  - Die Gruppe erwacht in einem **unbekannten Wald** mit See, Wasserfall und einer **Kristallhöhle** ([[Kristallhöhlenwald]], Arbeitstitel) — ohne Avernus-typische Umgebung, aber ohne DM-Bestätigung eines Ebenenwechsels.
+  - **Ork-Überfall** (4 Orks + 1 Dire Wolf) auf das Nachtlager; Gruppe siegt ohne Verluste; [[Pyraschan]] heilt versehentlich einen niedergeschlagenen Ork.
+  - **[[Magda]]** übernimmt das Tragen des bewusstlosen Patienten von [[Berta]]; beiläufig bestätigt: dem Patienten fehlt ein Bein (stützt die Khirin-Vermutung weiter).
+  - Begegnung mit zwei harmlosen, sprachlich nicht identifizierbaren **Riesenwesen** (Ohrfeigen-Spiel).
+  - **Rätselhafter Gruppenwahn** (Wisdom Save): individuelle Zwangsvorstellungen bei Berta, Hrímnir, Sim, Pyraschan; Naeli immun. Ursache unbekannt.
+  - Spätfolgen des [[Demon Core]] sind **wiederkehrend bestätigt** (Sim erneut Con-Save-Fehlschlag; Pyraschans Exhaustion bleibt bei 1).
+  - Neue Backstory-Fäden zu [[Pyraschan]]: Konvent, „Götterfunke"-Bezug (siehe [[Goetterfunke]]) — unbestätigt, teils im Widerspruch zu seiner in [[Session 26]] gezeigten Kalineon-Unkenntnis.
+- **Offene Unsicherheiten dieses Ingests**:
+  - **Pyraschan-Widerspruch**: siehe oben; als Retcon übernommen.
+  - **Ort/Ebene der Gruppe**: kein In-Game-Name, kein bestätigter Ebenenwechsel.
+  - **„Ork"-Bezeichnung**: nur einmal beiläufig vom DM genannt (bei Pyraschans Fehlheilung), keine systematische Monster-Ansage.
+  - **Ursache des Gruppenwahns** und **Identität der zwei Riesenwesen**: vom DM nicht erklärt.
+  - **Fliegende Gesteinsbrocken vs. fliegende Inseln** im Osten: uneinheitlich beschrieben, evtl. nur Perspektive.
+  - **Goetterfunke-Bezug** bei Pyraschan: möglicherweise nur loser Sprachgebrauch, nicht zwangsläufig der politische Titel aus [[Kalineon]].
 
 ## [2026-09-21] ingest | Session 27 (gespielt 2026-09-21) aus WhisperX-Transkript
 

@@ -6,9 +6,10 @@ tags:
   - character
   - pc
 related: []
-sources: []
+sources:
+  - Session 28 transcript
 created: 2026-05-11
-updated: 2026-09-21
+updated: 2026-09-28
 status: developing
 ---
 # Khirin
@@ -168,6 +169,14 @@ Unter dieser Annahme gilt für [[Session 26]]:
 - Am [[Styx]] nimmt der [[Fährmann des Styx|Fährmann]] von ihm *„irgendetwas Zufälliges"* als Preis (Retcon des DM). Was, ist offen. Der DM-Kommentar *„Khirin weiß nicht, dass er eine Mutter hat"* widerspricht der Wiki-Backstory (Mutter Heilerin in [[Lunovar]], in [[Session 21]] gerettet) und ist ohne Bedeutung übernommen.
 - Sein früherer Spieler war in [[Session 27]] nicht am Tisch (keine `luke_234`-Spur).
 
+## [[Session 28]] — von [[Magda]] getragen
+
+> [!note] Fehlendes Bein beiläufig bestätigt
+> [[Berta]] bittet scherzhaft, ihre Goodberry-Portion *„dem Einbeinigen"* zu geben — eine beiläufige, aber deutliche Bestätigung, dass dem mitgeführten Patienten ein Bein fehlt. Das passt zur Verstümmelung aus [[Session 25]] und stützt die Gleichsetzung mit Khirin weiter, ohne sie namentlich zu bestätigen.
+
+- **[[Berta]] übergibt den Patienten an [[Magda]]**: Auf Bertas Bitte hin erklärt sich Magda bereit, ihn zu tragen (gebunden mit Lianen auf den Rücken), warnt aber, dass sie dadurch nicht mit dem Tempo der Gruppe mithalten kann.
+- Bleibt während des nächtlichen Ork-Überfalls in der Kristallhöhle ([[Kristallhöhlenwald]]) unbeteiligt und bewusstlos.
+
 ## Verknüpfungen
 
 - [[Carbus]]
@@ -221,3 +230,5 @@ Unter dieser Annahme gilt für [[Session 26]]:
 - [[Session 27]]
 - [[Styx]]
 - [[Fährmann des Styx]]
+- [[Session 28]]
+- [[Kristallhöhlenwald]]

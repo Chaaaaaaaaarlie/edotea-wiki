@@ -9,8 +9,9 @@ related: []
 sources:
   - Tagebücher Wilhelm Casterwill
   - Session 17 transcript
+  - Session 28 transcript
 created: 2026-05-11
-updated: 2026-09-21
+updated: 2026-09-28
 status: developing
 ---
 ![[Naeli.png|496]]
@@ -154,6 +155,15 @@ status: developing
 - **Fährgeld**: das **Drachenzorn-Fläschchen**, das sie mit ihren besten Freunden teilte und das sie *„an etwas erinnert, was ich nicht mehr bin"*: *„Ich bin nicht das, wonach ich aussehe. Doch niemand weiß, was ich bin."* Der Fährmann nimmt *nur* die daran hängende Verbindung/das Gefühl der Nostalgie; das Getränk brennt danach nur noch wie Schnaps. Nach dem Auftauchen ist das Gefühl **zurück** — das findet sie *„seltsam"*.
 - Hält [[Magda]] für eine misshandelte Elfe und will sie mitnehmen. Ihre Haare sind vom Feuer angesengt.
 
+## [[Session 28]]
+
+- Wäscht sich im See des [[Kristallhöhlenwald|unbekannten Waldes]] die vom Blutregen ([[Session 27]]) abblätternde Haut ab und verliert damit ihren −1-Charisma-Malus.
+- Castet zweimal **Goodberry** für die ganze Gruppe.
+- Hört als Wache in der letzten Nachtschicht die anrückende Ork-Bande durch den Wasserfall.
+- Im Ork-Kampf ([[Ork (Kreatur)]]): wirft **Moonbeam** in den Höhleneingang, fängt damit einen Ork.
+- Bietet den zwei unbenannten Riesenwesen versuchsweise ihre Flasche **Drachenzorn** an — beide probieren, verziehen angewidert das Gesicht (zu scharf) und lassen den Krug fallen.
+- **Einzige, die den rätselhaften Gruppenwahn (Wisdom Save) übersteht** — der DM deutet an, sie habe „einen stärkeren Geist"; versucht erfolglos, die betroffenen Gefährten (Berta, Hrímnir, Sim, Pyraschan) anzusprechen oder wachzurütteln.
+
 ## Verknüpfungen
 
 - [[Anwesen]]
@@ -214,3 +224,6 @@ status: developing
 - [[Fährmann des Styx]]
 - [[Magda]]
 - [[Cloak of Many Fashions]]
+- [[Session 28]]
+- [[Kristallhöhlenwald]]
+- [[Ork (Kreatur)]]

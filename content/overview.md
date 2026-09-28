@@ -2,7 +2,7 @@
 type: overview
 title: "Edotea — Willkommen"
 created: 2026-05-11
-updated: 2026-09-21
+updated: 2026-09-28
 tags:
   - overview
   - campaign
@@ -15,13 +15,14 @@ sources: []
 
 ## Einstieg
 
-- [[Session 27|Aktuelle Session: Session 27]]
+- [[Session 28|Aktuelle Session: Session 28]]
 - [[Kontinent Edotea]]
 - [[Kalineon]]
 - [[Lunovar]]
 - [[Avernus]]
 - [[Imp-Höhle]]
 - [[Styx]]
+- [[Kristallhöhlenwald]]
 - [[Cadnix]]
 - [[Oestliche Garnison von Cadnix|Östliche Garnison von Cadnix]]
 
@@ -30,13 +31,13 @@ sources: []
 - [[Berta]] — Sorcerer / Warlock
 - [[Hrímnir]]
 - [[Naeli]]
-- [[Pyraschan]] — Paladin, neu ab [[Session 26]]; seit [[Session 27]] krank bei der [[Imp-Höhle]] zurückgelassen
+- [[Pyraschan]] — Paladin, Level 7, neu ab [[Session 26]]; in [[Session 27]] krank zurückgelassen, seit [[Session 28]] per DM-Retcon wieder bei der Gruppe
 - [[Sim]]
-- [[Khirin]] — seit [[Session 25]] ohne einen Arm und ein Bein; seit [[Session 26]] **nicht mehr aktiv gespielt**, wird als Verletzter mitgeführt
+- [[Khirin]] — seit [[Session 25]] ohne einen Arm und ein Bein; seit [[Session 26]] **nicht mehr aktiv gespielt**, wird als Verletzter mitgeführt (seit [[Session 28]] von [[Magda]] getragen)
 
 ## Wichtige NPC
 
-- [[Magda]] — Halbelfin aus dem Käfigwagen, begleitet die Gruppe ([[Session 27]])
+- [[Magda]] — Halbelfin aus dem Käfigwagen, begleitet die Gruppe ([[Session 27]]); trägt seit [[Session 28]] den bewusstlosen Patienten
 - [[Fährmann des Styx]] — blinder Fährmann am [[Styx]] ([[Session 27]])
 - [[Elliot]]
 - [[Fürst Alator]]
@@ -55,9 +56,10 @@ sources: []
 
 ## Aktuelle Fäden
 
-- **Am [[Styx]] ([[Session 27]])**: Ein [[Fährmann des Styx|Fährmann]] verlangte Fährgeld (etwas Unersetzliches); das Boot sank, die Gruppe ertrank und tauchte wieder auf, die Gaben trieben zurück (u. a. ein Lumpen, der wie [[Hrímnir]]s [[Cloak of Many Fashions]] aussieht). Erlaubnis von [[Sariel]] nötig; ob die Gruppe [[Avernus]] verlassen hat, ist offen. Level-Up am Ende der Session.
+- **Unbekannter Wald nach der Styx-Überfahrt ([[Session 28]])**: Die Gruppe erwacht in einem See-/Wasserfall-/Kristallhöhlen-Gebiet ([[Kristallhöhlenwald]]), das keine Avernus-typischen Merkmale mehr zeigt — evtl. bereits zurück auf normalem Terrain, unbestätigt. Ork-Überfall abgewehrt; [[Magda]] trägt jetzt den Patienten; ein rätselhafter Gruppenwahn (Wisdom Save) betrifft alle außer [[Naeli]].
+- **Am [[Styx]] ([[Session 27]])**: Ein [[Fährmann des Styx|Fährmann]] verlangte Fährgeld (etwas Unersetzliches); das Boot sank, die Gruppe ertrank und tauchte wieder auf, die Gaben trieben zurück (u. a. ein Lumpen, der wie [[Hrímnir]]s [[Cloak of Many Fashions]] aussieht). Erlaubnis von [[Sariel]] nötig. Level-Up am Ende der Session.
 - **Befreite Elfen**: ~26 Elfen aus dem Käfigwagen, eine davon ([[Magda]]) begleitet die Gruppe.
-- **Gestrandet in [[Avernus]]**: Die Gruppe wurde am Ende von [[Session 25]] durch einen Riss über Lunovar zusammen mit Turmtrümmern in die erste Schicht der Neun Höllen gerissen. **Der Riss schloss sich in [[Session 26]]** und setzte eine Wolkenfront frei, die in [[Session 27]] als **Blutregen** ankam. Der einzige genannte Rückweg ist der [[Styx]].
+- **Gestrandet in [[Avernus]]** *(möglicherweise seit [[Session 28]] beendet, unbestätigt)*: Die Gruppe wurde am Ende von [[Session 25]] durch einen Riss über Lunovar zusammen mit Turmtrümmern in die erste Schicht der Neun Höllen gerissen. **Der Riss schloss sich in [[Session 26]]** und setzte eine Wolkenfront frei, die in [[Session 27]] als **Blutregen** ankam. Der einzige genannte Rückweg war der [[Styx]].
 - **Ursache des Risses wieder offen**: Der [[Drift-Zeppelin]] hat [[Session 25]] überlebt und starb erst in [[Session 26]] in Avernus — sein Tod kann den Riss also nicht ausgelöst haben.
 - **Unidentifizierte Funde aus der [[Imp-Höhle]]**: [[Bastardschwert aus Avernus|Großschwert]] und [[Grünes Erz (Avernus)|grünes Erz]]; der [[Demon Core]] wurde durch [[Pyraschan]] in Lava versenkt und verstrahlte dabei die ganze Gruppe.
 - **[[Magolor]] mutmaßlich tot**: In [[Session 25]] von [[Hrímnir]] aus großer Höhe fallen gelassen — kein Leichenfund, letzte Sicherheit fehlt.
@@ -68,6 +70,7 @@ sources: []
 
 ## Letzte Sessions
 
+- [[Session 28]]
 - [[Session 27]]
 - [[Session 26]]
 - [[Session 25]]
@@ -121,3 +124,6 @@ sources: []
 - [[Sariel]]
 - [[Knochenteufel]]
 - [[Dornenteufel]]
+- [[Kristallhöhlenwald]]
+- [[Ork (Kreatur)]]
+- [[Dire Wolf]]

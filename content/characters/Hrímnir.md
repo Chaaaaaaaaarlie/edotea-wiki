@@ -6,9 +6,10 @@ tags:
   - character
   - pc
 related: []
-sources: []
+sources:
+  - Session 28 transcript
 created: 2026-05-11
-updated: 2026-09-21
+updated: 2026-09-28
 status: developing
 ---
 ![[Hrimnir.png|533]]
@@ -159,6 +160,14 @@ status: developing
 - Sitzt auf der Überfahrt geistesabwesend im Boot; unter Calm Emotions *„ein richtiger Stein"*; **ertrinkt fast** und wird von [[Naeli]] und [[Sim]] reanimiert (erbricht zwei Liter Wasser).
 - Hat noch alle **3 Lucky-Punkte** (Anfang der Überfahrt).
 
+## [[Session 28]]
+
+- Erspürt (Wisdom 26) instinktiv die Kristallhöhle hinter dem Wasserfall im [[Kristallhöhlenwald]] und findet sie.
+- Im Ork-Kampf ([[Ork (Kreatur)]]): wehrt einen Angriff schadenlos ab, setzt Cold-Schaden (Ray-of-Frost-artig) ein und lässt einem Ork per verschlechtertem Save den Kopf platzen; erschlägt außerdem einen angreifenden **[[Dire Wolf]]** per Gelegenheitsangriff und häutet ihn danach (Wolfsfell als Trophäe).
+- Klettert auf [[Naeli]]s Schultern bzw. hebt sie auf seine, um zwei entfernte, unbenannte Riesenwesen zu beobachten; bietet sich testweise zum Ohrfeigen-Spiel der beiden an und tankt einen Treffer schadenlos.
+- Vom rätselhaften Gruppenwahn erfasst: fällt in eine **Trance/Grübelei über „vergangene Tage"**, reagiert kaum noch auf Ansprache und bleibt regungslos knien, bis [[Naeli]] ihn erfolglos anzustupsen versucht; erst nach dem Ereignis normalisiert er sich wieder von selbst. Vermutet danach selbst **Nachwirkungen aus [[Avernus]]** als Ursache — unbestätigt.
+- Zieht [[Sim]] ins Ohrfeigen-Spiel der Riesenwesen hinein, um ihn aus dessen eigenem Wahnzustand (Einsamkeitsgefühl) wachzuschlagen — funktioniert nach mehreren Schlägen.
+
 ## Verknüpfungen
 
 - [[Berta]]
@@ -217,3 +226,7 @@ status: developing
 - [[Cloak of Many Fashions]]
 - [[Knochenteufel]]
 - [[Dornenteufel]]
+- [[Session 28]]
+- [[Kristallhöhlenwald]]
+- [[Ork (Kreatur)]]
+- [[Dire Wolf]]

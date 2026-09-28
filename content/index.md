@@ -2,7 +2,7 @@
 type: meta
 title: "Wiki Index"
 created: 2026-05-11
-updated: 2026-09-21
+updated: 2026-09-28
 tags:
   - meta
 status: mature
@@ -18,12 +18,15 @@ Master catalog. Updated on every ingest.
 ## Characters (36) — see [[_index|Characters Index]]
 
 ### PCs (6)
-- [[Berta]] · [[Hrímnir]] · [[Naeli]] · [[Pyraschan]] · [[Sim]] · [[Khirin]] *(seit [[Session 26]] nicht mehr aktiv gespielt; in [[Session 27]] als Patient mitgeführt)*
+- [[Berta]] · [[Hrímnir]] · [[Naeli]] · [[Pyraschan]] · [[Sim]] · [[Khirin]] *(seit [[Session 26]] nicht mehr aktiv gespielt; seit [[Session 28]] von [[Magda]] als Patient mitgeführt)*
+
+> [!note] Session 28: Alle fünf spielbaren PCs wieder aktiv
+> Nach [[Pyraschan]]s krankheitsbedingter Trennung von der Gruppe in [[Session 27]] eröffnet [[Session 28]] damit, dass er per DM-Retcon wieder bei der Gruppe ist (siehe Seite für den Widerspruch).
 
 ### NPCs (30)
 - [[Aalafiel]] · [[Borgrim Runenbrecher]] · [[Crucellus]] · [[Edgar Thorne]] · [[Elfaria Albis von Sylphid]] · [[Elliot]] · [[Fiona Casterwill]] · [[Fohlen]] · [[Fürst Alator]] · [[Jack]] · [[Cassomir]] · [[Lucien]] · [[Lysanthiriel Vaelora]] · [[Magilanikas Maven]] · [[Magolor]] · [[Markus L. Kalinion]] · [[Nora]] · [[Palamedis]] · [[Scale Piercer]] · [[Sophie Marie]] · [[Spymaster]] · [[Storm Holder]] · [[Twilight (Pony)]] · [[Virion Loramis]] · [[Wilhelm Casterwill]] · [[Wukong]] · [[Y'Chak]] · [[Zwergenmeister Schmiedemeisterei]] · [[Magda]] *(neu, S27)* · [[Fährmann des Styx]] *(neu, S27)*
 
-## Locations (34) — see [[_index|Locations Index]]
+## Locations (35) — see [[_index|Locations Index]]
 - Kontinent: [[Kontinent Edotea]] · [[Cloud Fang]] · [[Erliorwald]] · [[Nebelwald]] · [[Wesh]]
 - Erliorwald: [[Gruft des Buches]]
 - Reiche: [[Falmers]] · [[Indura]] · [[Kalineon]] · [[Lögress]]
@@ -35,25 +38,26 @@ Master catalog. Updated on every ingest.
 - Unbekannt: [[Carbus]] (= [[gesetzlose Stadt]]) · [[Berthas Bohnen]] · [[Verhängnisturm]]
 - Riss-Stand: [[Eiswueste-Vulkan-Riss]]
 - [[Avernus]]: [[Imp-Höhle]] · [[Styx]] *(neu, S27)*
+- Unbekannt (evtl. nicht mehr Avernus): [[Kristallhöhlenwald]] *(neu, S28)*
 
 ## Lore (19) — see [[_index|Lore Index]]
 - Götter: [[Corellon]] · [[Ilmater]] · [[Lathander]] · [[Marcosias]] · [[Torm]] · [[Tymora]] · [[Tyr]]
 - Konzepte: [[Apostel]] · [[Drei Bücher]] · [[gesetzlose Stadt]] · [[Goetterfunke]] · [[Residuum]] · [[Risse]]
 - Rassen: [[Goliath]]
 - Entitäten: [[das Nichts]] · [[Djinn]] · [[Sariel]] *(neu, S27; Schreibweise unbestätigt)*
-- Ebenen: [[Feenwildnis]] · [[Avernus]]
+- Ebenen: [[Feenwildnis]] · [[Avernus]] *(evtl. seit S28 verlassen, unbestätigt)*
 
-## Bestiarium (20)
-- [[Dornenteufel]] · [[Drift-Zeppelin]] · [[Eulenbärin]] · [[Gedankenschaender]] · [[Geist]] · [[Imp]] · [[Kettenteufel]] · [[Knochenteufel]] · [[Larvenschwarm]] · [[Revenant]] · [[Rictus Mors]] · [[Shadow]] · [[Skelett]] · [[Spectre]] · [[Spinnenwesen]] · [[Treant]] · [[Will o Wisp]] · [[Worg]] · [[Wraith]] · [[Zombie]]
+## Bestiarium (22)
+- [[Dire Wolf]] *(neu, S28)* · [[Dornenteufel]] · [[Drift-Zeppelin]] · [[Eulenbärin]] · [[Gedankenschaender]] · [[Geist]] · [[Imp]] · [[Kettenteufel]] · [[Knochenteufel]] · [[Larvenschwarm]] · [[Ork (Kreatur)]] *(neu, S28)* · [[Revenant]] · [[Rictus Mors]] · [[Shadow]] · [[Skelett]] · [[Spectre]] · [[Spinnenwesen]] · [[Treant]] · [[Will o Wisp]] · [[Worg]] · [[Wraith]] · [[Zombie]]
 
 ## Items (21) — see [[_index|Items Index]]
 - [[Aalafiels Trank]] · [[Akronisjuwel]] · [[Bastardschwert aus Avernus]] · [[Blaue Metallbarren]] · [[Bogen +2]] · [[Cloak of Many Fashions]] · [[Demon Core]] · [[Dis-Enchanter]] · [[Drachenzahn]] · [[Goldene Drachenschuppe]] · [[Grünes Erz (Avernus)]] · [[Gurde]] · [[Krone des Hohen Rates]] · [[Lady Günthers Flasche]] · [[Lysandriels Ring]] · [[Magischer Schluessel]] · [[Spell-Slot-Anhänger]] · [[Staff of Charming]] · [[Staff of Fire]] · [[Staff of Warning]] · [[Wappen des alten Kalineon]]
 
-## Sessions (28) — see [[_index|Sessions Index]]
-- [[Session 27]] · [[Session 26]] · [[Session 25]] · [[Session 24]] · [[Session 23]] · [[Session 22]] · [[Session 21]] · [[Session 20]] · [[Session 19]] · [[Session 18]] · [[Session 17]] · [[Session 16]] · [[Session 15]] · [[Session 14]] · [[Session 13]] · [[Session 12]] · [[Session 11]] · [[Session 10]] · [[Session 9]] · [[Session 8]] · [[Session 7]] · [[Session 6]] · [[Session 5]] · [[Session 4]] · [[Session 3]] · [[Session 2]] · [[Session 1]] · [[Session 0]]
+## Sessions (29) — see [[_index|Sessions Index]]
+- [[Session 28]] · [[Session 27]] · [[Session 26]] · [[Session 25]] · [[Session 24]] · [[Session 23]] · [[Session 22]] · [[Session 21]] · [[Session 20]] · [[Session 19]] · [[Session 18]] · [[Session 17]] · [[Session 16]] · [[Session 15]] · [[Session 14]] · [[Session 13]] · [[Session 12]] · [[Session 11]] · [[Session 10]] · [[Session 9]] · [[Session 8]] · [[Session 7]] · [[Session 6]] · [[Session 5]] · [[Session 4]] · [[Session 3]] · [[Session 2]] · [[Session 1]] · [[Session 0]]
 
-## Sources (16) — see [[_index|Sources Index]]
-- [[Session 27 transcript]] · [[Session 26 transcript]] · [[Session 25 transcript]] · [[Session 24 transcript]] · [[Session 23 transcript]] · [[Session 22 transcript]] · [[Session 21 transcript]] · [[Session 20 transcript]] · [[Session 19 transcript]] · [[Session 17 transcript]] · [[Session 16 transcript]] · [[Session 15 transcript]] · [[Session 12 transcript]] · [[Session 13 transcript]] · [[Session 14 transcript]] · [[Tagebücher Wilhelm Casterwill]]
+## Sources (17) — see [[_index|Sources Index]]
+- [[Session 28 transcript]] · [[Session 27 transcript]] · [[Session 26 transcript]] · [[Session 25 transcript]] · [[Session 24 transcript]] · [[Session 23 transcript]] · [[Session 22 transcript]] · [[Session 21 transcript]] · [[Session 20 transcript]] · [[Session 19 transcript]] · [[Session 17 transcript]] · [[Session 16 transcript]] · [[Session 15 transcript]] · [[Session 12 transcript]] · [[Session 13 transcript]] · [[Session 14 transcript]] · [[Tagebücher Wilhelm Casterwill]]
 
 ## Factions (1) — see [[_index|Factions Index]]
 - [[Kalineon-Royalisten]]
@@ -71,6 +75,16 @@ Master catalog. Updated on every ingest.
 - [[hot|Hot Cache]] — recent context
 
 ## Bekannte Lücken
+
+> [!gap] **Session 28 — Wo ist die Gruppe jetzt, und hat sie Avernus verlassen?**: Nach der Styx-Überfahrt erwacht die Gruppe in einem unbenannten Wald mit See, Wasserfall und Kristallhöhle ([[Kristallhöhlenwald]], Arbeitstitel) — ohne Lava/Asche-Umgebung und nur mit gewöhnlichen (nicht-höllischen) Kreaturen (Orks, Dire Wolf, zwei unbenannte Riesenwesen). Das legt einen Ausgang aus [[Avernus]] nahe, wurde vom DM aber nicht ausdrücklich bestätigt.
+
+> [!gap] **Session 28 — Pyraschan wieder bei der Gruppe, Widerspruch zu Session 27**: [[Session 27]] hält fest, dass die Gruppe den kranken [[Pyraschan]] bei der [[Imp-Höhle]] zurückließ. [[Session 28]] eröffnet damit, dass er ebenfalls „bis zum letzten Moment nicht aufgewacht" ist und wie die anderen ein Fährgeld am [[Styx]] „abgegeben" hat. Als DM-Retcon zur Wiedereingliederung des zurückgekehrten Spielers übernommen, siehe [[Session 28]].
+
+> [!gap] **Session 28 — Rätselhafter Gruppenwahn**: Ein Wisdom-Save-Ereignis löst bei [[Berta]], [[Hrímnir]], [[Sim]] und [[Pyraschan]] individuelle Zwangsvorstellungen aus (Verfolgungswahn, Trance, Heimweh, Einsamkeitswahn); [[Naeli]] widersteht als Einzige. Ursache unbestätigt — [[Hrímnir]]s Vermutung „Nachwirkungen aus Avernus" ist reine Spielervermutung.
+
+> [!gap] **Session 28 — Zwei unbenannte Riesenwesen**: Harmlos, spielen ein Ohrfeigen-Spiel, sprachlich nicht identifizierbar (nicht Orkisch/Giants/Sylvan), reagieren extrem auf Drachenzorn-Schnaps. Spezies und Rolle unbekannt.
+
+> [!gap] **Session 28 — Pyraschans „Götterfunke"-Bezug**: Erwähnt beiläufig, für den „Götterfunk" zu arbeiten und einem Konvent Geld zu schicken. Unklar, ob derselbe [[Goetterfunke]] wie der politische Herrscher von [[Kalineon]] gemeint ist — steht im Spannungsverhältnis zu seiner in [[Session 26]] gezeigten Kalineon-Unkenntnis.
 
 > [!gap] **Session 27 — Hat die Gruppe Avernus verlassen?**: Nach Fährgeld, Untergang des Boots und Wiederauftauchen im [[Styx]] endet das Transkript ohne Ortsangabe. Der DM koppelte das Level-Up ans Verlassen der Neun Höllen und rief am Ende zum Level-Up auf. Die Erlaubnis von [[Sariel]] (Schreibweise unbestätigt), die laut [[Fährmann des Styx|Fährmann]] nötig ist, wurde nicht ausdrücklich geklärt.
 

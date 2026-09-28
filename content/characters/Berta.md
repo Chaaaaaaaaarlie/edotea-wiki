@@ -6,9 +6,10 @@ tags:
   - character
   - pc
 related: []
-sources: []
+sources:
+  - Session 28 transcript
 created: 2026-05-11
-updated: 2026-09-21
+updated: 2026-09-28
 status: developing
 ---
 # Berta
@@ -175,6 +176,14 @@ status: developing
 - Ihr Rucksack und der von [[Hrímnir]] sind weiter **magnetisch zueinander**.
 - Nach dem Level-Up: *„Ich habe endlich Level-3-Spells."*
 
+## [[Session 28]]
+
+- Erwacht mit der Gruppe in einem unbekannten Wald ([[Kristallhöhlenwald]]); ihr Fährgeld (**Hexenhut**) ist wieder bei ihr. Vermutet einen Test/Trick und plant, den Hut bei Gelegenheit mit **Identify** zu prüfen (noch nicht ausgeführt).
+- Im Ork-Kampf ([[Ork (Kreatur)]]): wirkt **Dissonant Whispers** auf einen fliehenden Ork (zwingt ihn, seine Reaktion zur Flucht zu nutzen) und tötet den letzten Überlebenden mit einem Fernschuss ins Herz.
+- Bittet scherzhaft, ihre Goodberry-Portion *„dem Einbeinigen"* (dem Patienten) zu geben — beiläufige Bestätigung des fehlenden Beins (siehe [[Khirin]]).
+- **Übergibt den bewusstlosen Patienten an [[Magda]]**, bindet ihn ihr auf Wunsch mit Lianen auf den Rücken.
+- Vom rätselhaften Gruppenwahn erfasst: fühlt sich plötzlich unerklärlich **nackt, verwundbar und paranoid verfolgt**, obwohl sie ihren Hut trägt; kommt erst nach einem Schlag im Ohrfeigen-Spiel der zwei Riesenwesen wieder zu sich.
+
 ## Verknüpfungen
 
 - [[Cadnix]]
@@ -237,3 +246,6 @@ status: developing
 - [[Knochenteufel]]
 - [[Dornenteufel]]
 - [[Cloak of Many Fashions]]
+- [[Session 28]]
+- [[Kristallhöhlenwald]]
+- [[Ork (Kreatur)]]

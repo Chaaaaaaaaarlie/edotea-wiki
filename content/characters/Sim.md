@@ -6,9 +6,10 @@ tags:
   - character
   - pc
 related: []
-sources: []
+sources:
+  - Session 28 transcript
 created: 2026-05-11
-updated: 2026-09-21
+updated: 2026-09-28
 status: developing
 ---
 # Sim
@@ -146,6 +147,14 @@ status: developing
 - Rettet [[Berta]] auf der Überfahrt vor dem Griff ins Wasser, gerät danach selbst in Panik und berührt das Wasser; schwimmt problemlos an die Oberfläche und leitet bei [[Hrímnir]] die Herzdruckmassage ein.
 - [[Berta]] spottet am Fluss, er sei nun für den Tod von zwei Elfen verantwortlich (Deutung unklar: sein Greifhaken traf zuvor einen bereits durch den Pfeil Getroffenen).
 
+## [[Session 28]]
+
+- Klettert auf einen Baum, um mit Perception (unterstützt von [[Hrímnir]]) die Umgebung des [[Kristallhöhlenwald|unbekannten Waldes]] zu erkunden: See im Süden, Nebel im Westen/Norden, ferne fliegende Gesteinsbrocken im Osten.
+- Legt vor dem Höhleneingang eine **Bärenfalle** und **Krähenfüße** aus.
+- Scheitert erneut an einem **Constitution-Save (3)** nach der Rast: **1d8 Radiant-Schaden**, Erbrechen, weiterer Haarausfall — bestätigt, dass die Spätfolgen des [[Demon Core]] **wiederkehrend** sind, nicht einmalig.
+- Im Ork-Kampf ([[Ork (Kreatur)]]): kämpft im Nahkampf mit dem Kampfstab, landet mehrere Treffer.
+- Vom rätselhaften Gruppenwahn erfasst: ist plötzlich fest überzeugt, **völlig allein zu sein**, obwohl die ganze Gruppe um ihn steht; wird erst wach, nachdem ihn [[Hrímnir]] ins Ohrfeigen-Spiel der zwei Riesenwesen hineinzieht und hart genug schlägt (mit Vorteil).
+
 ## Verknüpfungen
 
 - [[Cadnix]]
@@ -203,3 +212,6 @@ status: developing
 - [[Magda]]
 - [[Knochenteufel]]
 - [[Dornenteufel]]
+- [[Session 28]]
+- [[Kristallhöhlenwald]]
+- [[Ork (Kreatur)]]

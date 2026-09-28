@@ -14,11 +14,14 @@ related:
   - Naeli
   - Avernus
   - Session 26
+  - Goetterfunke
+  - Kristallhöhlenwald
 sources:
   - Session 26 transcript
+  - Session 28 transcript
 created: 2026-09-15
-updated: 2026-09-21
-status: seed
+updated: 2026-09-28
+status: developing
 ---
 
 # Pyraschan
@@ -99,8 +102,29 @@ Fast alles ist noch offen. Belegt ist nur:
 - [[Berta]] hält der Gruppe später vor: *„Wir haben vorhin gerade den Paladin zurückgelassen."* [[Sim]] fragt am Fluss nach ihm; der DM: *„Der hat andere Probleme."*
 - Sein Spieler (Craig-Spur `luke_234`) war in [[Session 27]] nicht in der Aufnahme; die Figur wird nur als NPC behandelt.
 
+## [[Session 28]] — zurück am Tisch
+
+> [!contradiction] Widerspruch zu [[Session 27]]
+> [[Session 27]] hält fest, dass die Gruppe Pyraschan krank bei der [[Imp-Höhle]] zurückließ. [[Session 28]] eröffnet stattdessen damit, dass Pyraschan „ebenfalls bis zum letzten Moment nicht aufgewacht" ist und sich — wie die übrigen PCs — an ein am [[Styx]] „abgegebenes" Fährgeld erinnert, als sei er die ganze Zeit mit der Gruppe unterwegs gewesen. Vermutlich ein DM-Retcon zur Wiedereingliederung des zurückgekehrten Spielers `luke_234`. Wird ab [[Session 28]] als neuer Fakt übernommen, ohne [[Session 27]] rückwirkend zu ändern.
+
+- **Bestätigt: Level 7.** Stellt fest, einen Level-Up verpasst zu haben; der DM verkündet eine neue Hausregel (Level-Up-Frist), lockert sie aber auf Diskussion hin zu „auf eigenes Risiko aufsparen".
+- Auffällig **niedrige HP (44)** trotz Paladin-Klasse — Folge einer schwachen Constitution (Community-Scherze am Tisch).
+- Wirkt **Alarm** (hörbar, 10-Fuß-Würfel, für die Gruppe deaktivierbar) am Eingang der Kristallhöhle ([[Kristallhöhlenwald]]) und **Watcher's Will** (Channel Divinity) — erkennt nichts Außerplanares.
+- **Exhaustion bleibt bei 1** trotz erholsamen Schlafs — die Strahlenkrankheit aus [[Demon Core]] bessert sich weiterhin nicht.
+- Versucht sich im Ork-Kampf ([[Ork (Kreatur)]]) selbst zu heilen und **heilt versehentlich einen niedergeschlagenen Ork** wieder auf die Beine (DM: *„Du hast den Ork geheilt"*).
+- Wird vom rätselhaften Gruppenwahn erfasst: überwältigendes **Heimweh** nach seinem **Konvent** und seinen Gefährten; kommt erst nach einem Schlag im Ohrfeigen-Spiel der zwei Riesenwesen wieder zu sich.
+- **Neue Backstory-Details**: Erzählt (in einem ruhigen Moment, während die Gruppe auf die zwei Riesenwesen wartet), er arbeite „für den Götterfunk" ([[Goetterfunke]]) und schicke regelmäßig Geld an einen **Konvent**, der sich selbst kaum noch halten kann (gestiegene Preise). Sein „Herr" habe ihm befohlen, bei der Gruppe zu bleiben, bis er neue Befehle erhält. Bezug zum politischen Amt des [[Goetterfunke|Götterfunken]] in [[Kalineon]] unbestätigt — siehe Unsicherheiten dort.
+
+## Offene Fragen (aktualisiert nach [[Session 28]])
+- Wie lautet sein Name wirklich, und wie schreibt er sich?
+- Welche Rasse, welcher Orden, welcher Schwur?
+- Wie geriet er in den Riss, und woher kam er?
+- Woher stammt seine sichtbare Selbstheilung?
+- **Neu**: Wer ist der „Herr", der ihm befahl, bei der Gruppe zu bleiben? Ist der „Götterfunk", für den er arbeitet, derselbe wie der politische [[Goetterfunke]] von [[Kalineon]]?
+- **Neu**: Wie erklärt sich sein plötzliches „Wiedererwachen" zusammen mit der Gruppe nach der Styx-Überfahrt, obwohl er in [[Session 27]] zurückgelassen wurde?
+
 ## Verknüpfungen
 - [[Session 26]] · [[Session 26 transcript]] · [[Avernus]] · [[Imp-Höhle]]
 - [[Berta]] · [[Hrímnir]] · [[Khirin]] · [[Naeli]] · [[Sim]]
 - [[Demon Core]] · [[Bastardschwert aus Avernus]] · [[Grünes Erz (Avernus)]] · [[Kettenteufel]] · [[Imp]] · [[Drift-Zeppelin]] · [[Kalineon]]
-- [[Session 27]]
+- [[Session 27]] · [[Session 28]] · [[Session 28 transcript]] · [[Goetterfunke]] · [[Kristallhöhlenwald]] · [[Ork (Kreatur)]] · [[Magda]]

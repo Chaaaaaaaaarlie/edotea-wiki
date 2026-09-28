@@ -2,14 +2,14 @@
 type: meta
 title: "Lore Index"
 created: 2026-05-11
-updated: 2026-09-21
+updated: 2026-09-28
 tags:
   - meta
   - lore
 status: evergreen
 ---
 
-# Lore (19 + Bestiarium 20)
+# Lore (19 + Bestiarium 22)
 
 ## Götter & Höllenfürsten
 - [[Corellon]]
@@ -25,7 +25,7 @@ status: evergreen
 - [[Apostel]]
 - [[Drei Bücher]]
 - [[gesetzlose Stadt]] *(neu, Session 13 — Söldner-Heimat, möglicherweise [[Carbus]])*
-- [[Goetterfunke]]
+- [[Goetterfunke]] *(möglicher Bezug zu [[Pyraschan]] seit Session 28, unbestätigt)*
 - [[Residuum]]
 - [[Risse]]
 
@@ -42,10 +42,11 @@ status: evergreen
 ## Ebenen
 
 - [[Feenwildnis]] *(neu, Session 16 — Feywild; Portal im [[Erliorwald]], Heimat von Treants/Pixies/Worgen)*
-- [[Avernus]] *(neu, Session 25 — erste Schicht der Neun Höllen; erstmals erkundet in [[Session 26]])*
+- [[Avernus]] *(neu, Session 25 — erste Schicht der Neun Höllen; erstmals erkundet in [[Session 26]]; möglicherweise seit [[Session 28]] verlassen, unbestätigt)*
 
 ## Bestiarium
 
+- [[Dire Wolf]] *(neu, Session 28 — Begleittier der Ork-Bande, von [[Hrímnir]] getötet und gehäutet)*
 - [[Dornenteufel]] *(neu, Session 27 — Barbed Devil; Wachen des Käfigwagens, Hurl Flame, feuerresistent)*
 - [[Drift-Zeppelin]] *(neu, Session 25 — Beholder-artige Kreatur aus dem toten Drachen; getötet erst in [[Session 26]])*
 - [[Eulenbärin]]
@@ -55,6 +56,7 @@ status: evergreen
 - [[Kettenteufel]] *(neu, Session 26 — Chain Devil; Unnerving Gaze, brennende Fesseln, giftimmun)*
 - [[Knochenteufel]] *(neu, Session 27 — Bone Devil; zieht den Käfigwagen, fliegt)*
 - [[Larvenschwarm]] *(neu, Session 26 — Maden in der [[Imp-Höhle]]; extrem giftanfällig)*
+- [[Ork (Kreatur)]] *(neu, Session 28 — vierköpfige Räuberbande im [[Kristallhöhlenwald]]; Scimitare/Speere, Dire-Wolf-Begleiter)*
 - [[Revenant]]
 - [[Rictus Mors]] *(neu, Session 21 — menschenfressende Kreaturen, Angriff auf Lunovar, immun gegen Piercing)*
 - [[Shadow]]
