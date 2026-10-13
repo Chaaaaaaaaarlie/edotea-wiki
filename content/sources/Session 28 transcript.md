@@ -11,7 +11,7 @@ tags:
 status: processed
 related:
   - Session 28
-  - Kristallhöhlenwald
+  - Olmea-Wald
   - Magda
   - Pyraschan
   - Ork (Kreatur)
@@ -56,7 +56,7 @@ Siehe [[Session 28]] für den kuratierten Recap. Das Transkript deckt das Erwach
 
 ## Pages Created From This
 - [[Session 28]]
-- [[Kristallhöhlenwald]]
+- [[Olmea-Wald]]
 - [[Ork (Kreatur)]]
 - [[Dire Wolf]]
 

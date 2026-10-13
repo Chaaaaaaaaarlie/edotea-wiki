@@ -178,11 +178,28 @@ status: developing
 
 ## [[Session 28]]
 
-- Erwacht mit der Gruppe in einem unbekannten Wald ([[Kristallhöhlenwald]]); ihr Fährgeld (**Hexenhut**) ist wieder bei ihr. Vermutet einen Test/Trick und plant, den Hut bei Gelegenheit mit **Identify** zu prüfen (noch nicht ausgeführt).
+- Erwacht mit der Gruppe in einem unbekannten Wald ([[Olmea-Wald]]); ihr Fährgeld (**Hexenhut**) ist wieder bei ihr. Vermutet einen Test/Trick und plant, den Hut bei Gelegenheit mit **Identify** zu prüfen (noch nicht ausgeführt).
 - Im Ork-Kampf ([[Ork (Kreatur)]]): wirkt **Dissonant Whispers** auf einen fliehenden Ork (zwingt ihn, seine Reaktion zur Flucht zu nutzen) und tötet den letzten Überlebenden mit einem Fernschuss ins Herz.
 - Bittet scherzhaft, ihre Goodberry-Portion *„dem Einbeinigen"* (dem Patienten) zu geben — beiläufige Bestätigung des fehlenden Beins (siehe [[Khirin]]).
 - **Übergibt den bewusstlosen Patienten an [[Magda]]**, bindet ihn ihr auf Wunsch mit Lianen auf den Rücken.
 - Vom rätselhaften Gruppenwahn erfasst: fühlt sich plötzlich unerklärlich **nackt, verwundbar und paranoid verfolgt**, obwohl sie ihren Hut trägt; kommt erst nach einem Schlag im Ohrfeigen-Spiel der zwei Riesenwesen wieder zu sich.
+
+## [[Session 29]]
+
+- Teilt die beiden erbeuteten Zauberbücher sicherheitshalber neu auf: [[Naeli]] übernimmt das **Buch der Schwellen**, [[Hrímnir]] behält das vermutete Buch der Seelen (siehe [[Drei Bücher]]).
+- Im Tabaxi-Kampf: verzaubert einen Tabaxi mit **Suggestion**, zur Flucht zu dashen.
+- Erreicht per **Persuasion (15)** das Geständnis eines Tabaxi-Gefangenen (Waldname, Richtungen, Kriegsvorwurf gegen die Simianer).
+- Bringt die Theorie ins Spiel, dass [[Scale Piercer]]s Persönlichkeitswandel mit einem toten Akolythen [[Magolor]]s zusammenhängen könnte (unbestätigt).
+- Fragt [[Khirin]] (aus dem Bag of Holding geholt) nach einem Namensvorschlag für [[Sim]] — er schlägt *„Perforanz, der Durchbohrende"* vor (abgelehnt).
+- **Große Identify-Sitzung während ihrer Nachtwache**:
+  - Identifiziert das **Buch der Schwellen**: zieht Kraft aus einer fremden Ebene, kanalisiert durch den Körper als Medium; zwei solcher Bücher gleichzeitig zu nutzen würde den Körper zerbrechen; Inhalt rund um Raummagie.
+  - Identifiziert den Erzbrocken aus [[Avernus]] als **Batorianischer Stahl** (siehe [[Grünes Erz (Avernus)]]).
+  - Identifiziert das Großschwert aus Avernus als **+2-Großschwert mit 1d4 Selbstschaden pro Nutzung** (siehe [[Bastardschwert aus Avernus]]).
+  - Identifiziert ihren eigenen **Hexenhut** als **Höllenkonstrukt**; entfernt die Magie mit ihrem magischen Abstimmapparat (dem [[Dis-Enchanter]]) — der Hut **zerfällt dabei zu schwarzem Nebel**. Echte Trauer: *„Ich brauche einen neuen Hut."*
+  - Bestätigt, dass [[Hrímnir]]s Umhang ([[Cloak of Many Fashions]]) **dasselbe** ist wie ihr Hut — ebenfalls ein Höllenkonstrukt, aber auf ihn attuned.
+  - Untersucht [[Sim]]s Abschiedsbrief nicht direkt, vermutet aber denselben Fall.
+  - Findet an [[Naeli]] selbst **nichts Verändertes** — deren Zustand ist laut DM seit einem Ereignis namens **„Kalden"** bereits bekannt (siehe [[Kalden]]).
+  - Folgert: *„Alles, was wir in der Hölle abgegeben und wieder zurückgekriegt haben, ist ein Höllenkonstrukt"* — mögliche Teilerklärung für das *„komische Verhalten"* der Gruppe (vgl. Gruppenwahn aus [[Session 28]], unbestätigt).
 
 ## Verknüpfungen
 
@@ -247,5 +264,14 @@ status: developing
 - [[Dornenteufel]]
 - [[Cloak of Many Fashions]]
 - [[Session 28]]
-- [[Kristallhöhlenwald]]
+- [[Olmea-Wald]]
 - [[Ork (Kreatur)]]
+- [[Session 29]]
+- [[Tabaxi]]
+- [[Scale Piercer]]
+- [[Drei Bücher]]
+- [[Bastardschwert aus Avernus]]
+- [[Grünes Erz (Avernus)]]
+- [[Cloak of Many Fashions]]
+- [[Dis-Enchanter]]
+- [[Kalden]]

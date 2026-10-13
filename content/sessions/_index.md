@@ -2,16 +2,17 @@
 type: meta
 title: "Sessions Index"
 created: 2026-05-11
-updated: 2026-09-28
+updated: 2026-10-12
 tags:
   - meta
   - sessions
 status: evergreen
 ---
 
-# Sessions (29)
+# Sessions (30)
 
 Neueste oben.
+- [[Session 29]]
 - [[Session 28]]
 - [[Session 27]]
 - [[Session 26]]
@@ -42,6 +43,7 @@ Neueste oben.
 - [[Session 1]]
 - [[Session 0]]
 
+> [!note] [[Session 29]] wurde am 2026-10-12 aus dem WhisperX-Transkript `craig-UDD56lLq3YTc-VcE-QRf2vQxLTZO_20261012_202935/corrected_obsidian.md` ingestiert (4195 Segmente, ~3h23min, 6 Craig-Spuren); gespielt 2026-10-12. Fortsetzung des Marsches durch den [[Olmea-Wald]] (benannt vom DM, ersetzt Arbeitstitel „Kristallhöhlenwald"); Kampf gegen einen feindlichen [[Tabaxi]]-Stamm; Enthüllung von [[Sim]]s Vorgeschichte ([[Storm Holder]]/[[Scale Piercer]]); Sim erhält den Namen „Plane Walking Eye"; Begegnung mit steinwerfenden [[Riesenvögel (Olmea-Wald)|Riesenvögeln]] unter den fliegenden Inseln; nächtliche Identify-Sitzung enttarnt Höllenkonstrukte; Kampf gegen einen Vogelschwarm.
 > [!note] [[Session 28]] wurde am 2026-09-28 aus dem WhisperX-Transkript `craig-KI33JbMVeJdA-yYLeJN2A5qYVXRW_20260928_191636/corrected_obsidian.md` ingestiert (2418 Segmente, ~1h56min, 6 Craig-Spuren); gespielt 2026-09-28. Erwachen in einem unbekannten Wald ([[Kristallhöhlenwald]]) nach der Styx-Überfahrt; alle fünf PCs wieder aktiv (Pyraschan per DM-Retcon zurück); Ork-Überfall samt Dire Wolf; [[Magda]] übernimmt den Patienten; Begegnung mit zwei Riesenwesen; rätselhafter Gruppenwahn (Wisdom Save).
 > [!note] [[Session 27]] wurde am 2026-09-21 aus dem WhisperX-Transkript `craig-rM3pIMC8VKVR-Qm5yT0XJOzijFFD_20260921_233828/corrected_obsidian.md` ingestiert (3755 Segmente, ~3h01min, 5 Craig-Spuren; `luke_234` fehlt); gespielt 2026-09-21. Blutregen, Käfigwagen mit Elfen ([[Knochenteufel]]/[[Dornenteufel]]), Befreiung, [[Magda]], der [[Styx]] und der [[Fährmann des Styx|Fährmann]]; Fährgeld; Level-Up.
 > [!note] [[Session 26]] wurde am 2026-09-15 aus dem WhisperX-Transkript `craig-xfqtTDWibvYu-e5yJW7DvnjIEyLb_20260915_094117\corrected_obsidian.md` ingestiert (3544 Segmente, ~2h43min, 6 Craig-Spuren); gespielt 2026-09-15. **Besetzungswechsel**: `luke_234` spielt nicht mehr [[Khirin]], sondern den neuen Paladin [[Pyraschan]]; Khirin wird nur noch als bewusstloser Verletzter mitgeführt. Erste Erkundung von [[Avernus]]: Der [[Drift-Zeppelin]] überlebte [[Session 25]] und wird hier endgültig getötet; der Riss am Himmel schließt sich; die [[Imp-Höhle]] mit [[Larvenschwarm]], [[Kettenteufel]], [[Bastardschwert aus Avernus|Großschwert]] und [[Grünes Erz (Avernus)|grünem Erz]] wird erkundet; [[Pyraschan]] versenkt den [[Demon Core]] in Lava und verstrahlt die Gruppe.

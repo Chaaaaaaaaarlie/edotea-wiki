@@ -175,7 +175,19 @@ Unter dieser Annahme gilt für [[Session 26]]:
 > [[Berta]] bittet scherzhaft, ihre Goodberry-Portion *„dem Einbeinigen"* zu geben — eine beiläufige, aber deutliche Bestätigung, dass dem mitgeführten Patienten ein Bein fehlt. Das passt zur Verstümmelung aus [[Session 25]] und stützt die Gleichsetzung mit Khirin weiter, ohne sie namentlich zu bestätigen.
 
 - **[[Berta]] übergibt den Patienten an [[Magda]]**: Auf Bertas Bitte hin erklärt sich Magda bereit, ihn zu tragen (gebunden mit Lianen auf den Rücken), warnt aber, dass sie dadurch nicht mit dem Tempo der Gruppe mithalten kann.
-- Bleibt während des nächtlichen Ork-Überfalls in der Kristallhöhle ([[Kristallhöhlenwald]]) unbeteiligt und bewusstlos.
+- Bleibt während des nächtlichen Ork-Überfalls in der Kristallhöhle ([[Olmea-Wald]]) unbeteiligt und bewusstlos.
+
+## [[Session 29]] — Versteinerungs-Widerspruch und Namensgeber-Cameo
+
+> [!contradiction] Ist Khirin aktuell versteinert, oder nur bewusstlos?
+> Diese Session enthält zwei Stellen, die einander und der bisherigen Wiki-Annahme widersprechen:
+> 1. Bei der Namensfindung für [[Sim]] spekulieren die Spielenden im Konjunktiv, wie es Khirin gerade ginge, „wäre" er noch versteinert und seit dem Moment der Versteinerung bewusstlos-wach, gefangen in einem einzigen Gedanken (*„dann würde ich die ganze Zeit nur denken: Scheiße"*) — eher hypothetisches Table-Talk als DM-Ruling.
+> 2. Kurz danach fragt [[Pyraschan]] jedoch ganz direkt, ob sich die **Versteinerung** des *„werten Freundes, der hier versteinert ist"* auflösen ließe — als gegenwärtige Tatsache formuliert, nicht als Hypothese.
+>
+> Das widerspricht der bisherigen, in [[Session 25]] festgehaltenen Annahme, seine Versteinerung sei nach der Ankunft in [[Avernus]] **abgeklungen** und nur der Arm- und Beinverlust seien dauerhaft geblieben; seit [[Session 26]] wurde er durchgehend als **bewusstlos**, nicht als Statue, geführt. Ob es sich um einen unausgesprochenen DM-Retcon, eine (unerwähnte) erneute Versteinerung oder bloß lockeren/ungenauen Sprachgebrauch am Tisch handelt, lässt sich aus dem Transkript nicht entscheiden. **Nicht übernommen als neuer Fakt** — beim nächsten Spielabend klären.
+
+- Wird (hypothetisch oder tatsächlich, siehe Callout) kurz aus dem Bag of Holding geholt, damit [[Berta]] seine Reaktion auf eine Frage ablesen kann: Welchen Namen er [[Sim]] geben würde. Seine (von seinem früheren Spieler improvisierte) Antwort: *„Perforanz, der Durchbohrende"* — von der Gruppe als zu absurd abgelehnt.
+- [[Pyraschan]] schlägt vor, den Magier **[[Elliot|Elliot Casterwell]]** (vermutlich [[Elliot]]) um Hilfe gegen die Versteinerung/den Fluch zu bitten, sobald die Gruppe ihn erreichen kann; [[Sim]] bietet alternativ die Heilerin seines Dorfes an.
 
 ## Verknüpfungen
 
@@ -231,4 +243,6 @@ Unter dieser Annahme gilt für [[Session 26]]:
 - [[Styx]]
 - [[Fährmann des Styx]]
 - [[Session 28]]
-- [[Kristallhöhlenwald]]
+- [[Olmea-Wald]]
+- [[Session 29]]
+- [[Elliot]]

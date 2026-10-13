@@ -2,7 +2,7 @@
 type: meta
 title: "Characters Index"
 created: 2026-05-11
-updated: 2026-09-28
+updated: 2026-10-12
 tags:
   - meta
   - characters
@@ -17,7 +17,7 @@ status: evergreen
 - [[Hrímnir]]
 - [[Naeli]]
 - [[Pyraschan]] *(neu, Session 26 — Paladin, Level 7; Craig-Spur `luke_234`, zuvor [[Khirin]]; in [[Session 27]] krank zurückgelassen, ab [[Session 28]] per DM-Retcon wieder bei der Gruppe)*
-- [[Sim]]
+- [[Sim]] — seit [[Session 29]] trägt er den verdienten Namen **„Plane Walking Eye"** (Sim bleibt gültiger Rufname)
 - [[Khirin]] — *seit [[Session 26]] nicht mehr aktiv gespielt; wird verstümmelt und bewusstlos als Verletzter mitgeführt (seit [[Session 28]] von [[Magda]] getragen; fehlendes Bein dort beiläufig bestätigt)*
 
 ## NPCs (30)
@@ -40,10 +40,10 @@ status: evergreen
 - [[Markus L. Kalinion]]
 - [[Nora]]
 - [[Palamedis]] — *(Session 17: goldener Drache; hält das vierte Buch der Versiegelung; schläft im Nordvulkan)*
-- [[Scale Piercer]]
+- [[Scale Piercer]] *(Stub seit 2026-05-11, ausgebaut Session 29 — Usurpator-Oberhaupt von [[Sim]]s Heimatdorf, mutmaßlich [[Cloud Fang]]; tötete [[Storm Holder]] heimtückisch nach fairem Duell)*
 - [[Sophie Marie]] *(neu, Session 14 — Magolor-Agentin, wahrscheinlich tot)*
 - [[Spymaster]] *(Session 13 — tot)*
-- [[Storm Holder]]
+- [[Storm Holder]] *(Stub seit 2026-05-11, ausgebaut Session 29 — Sims Vater, ermordetes früheres Dorfoberhaupt)*
 - [[Twilight (Pony)]] *(Session 13 — Pony-Companion, Name "Lady Günther")*
 - [[Virion Loramis]]
 - [[Wilhelm Casterwill]]

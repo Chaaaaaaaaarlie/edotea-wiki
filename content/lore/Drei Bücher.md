@@ -25,6 +25,9 @@ status: developing
 > [!warning] Beide Magolor-Bücher der Gruppe entrissen ([[Session 25]])
 > [[Hrímnir]] entreißt Magolor das **Buch der Schwellen** direkt aus dessen Aura; im selben Kampf verwandelt Magolors zweites Buch (vermutlich das **Buch der Seelen**, nicht offiziell bestätigt) die Leiche des toten blauen Drachen aus [[Session 24]] in den [[Drift-Zeppelin]]. Beide Bücher werden danach von der Gruppe erbeutet und sind seither bei [[Hrímnir]] (passen nicht ins Bag of Holding).
 
+> [!note] Neuverteilung und Identify-Erkenntnisse ([[Session 29]])
+> Aus Sicherheitsgründen (Diebstahl-/Verlustrisiko, falls ein Träger ausfällt) verteilt die Gruppe die beiden Bücher neu: **[[Naeli]] übernimmt das Buch der Schwellen**, [[Hrímnir]] behält das vermutete Buch der Seelen. [[Berta]] identifiziert das Buch der Schwellen erstmals ausführlich: Es zieht seine (nahezu unendliche) Kraft aus einer **fremden, unbekannten Ebene** und kanalisiert sie **durch den Körper des Nutzers als Medium** — extrem anstrengend. **Zwei dieser Bücher gleichzeitig zu benutzen würde den Körper Stück für Stück zerbrechen.** Es benötigt Attunement, lässt sich gefahrlos lesen, die Schrift bleibt aber ohne einen geeigneten Zauber unentzifferbar. Inhaltlich dreht sich das Buch um Raummagie.
+
 ## Überblick
 
 - Drei gefährliche Bücher, verbunden mit Raum-, Essenz- und Seelenmagie. **Kanonische Titel** (bestätigt [[Session 17]]):

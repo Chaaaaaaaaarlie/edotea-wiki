@@ -8,10 +8,13 @@ tags:
 related:
   - Pyraschan
   - Session 28
+  - Session 29
+  - Elliot
 sources:
   - Session 28 transcript
+  - Session 29 transcript
 created: 2026-05-11
-updated: 2026-09-28
+updated: 2026-10-12
 status: developing
 ---
 # Götterfunke
@@ -38,9 +41,17 @@ status: developing
 > [!gap] Nicht ausdrücklich verknüpft
 > [[Pyraschan]] erwähnt in [[Session 28]] beiläufig, er arbeite „für den Götterfunk" und schicke deshalb regelmäßig Geld an einen **Konvent**, der sich selbst kaum noch halten könne. Ob damit derselbe [[Goetterfunke]] gemeint ist, der in [[Kalineon]] als gesegneter Herrscher amtiert, oder ob der Ausdruck lediglich lose/religiös gemeint ist, bleibt unklar — der DM bestätigt keine Verbindung ausdrücklich. Pyraschan selbst hatte in [[Session 26]] erklärt, [[Kalineon]] nur als Begriff zu kennen, was im Widerspruch zu einer engen Anstellung bei dessen Herrscher stünde.
 
+## Erste DM-Bestätigung ([[Session 29]])
+
+Im [[Olmea-Wald]], direkt nach einem Beinahe-Treffer durch einen herabfallenden Felsbrocken, verlangt der DM von [[Pyraschan]] einen Wisdom Save gegen Heimweh und lässt ihn dabei laut denken: *„Was hat sich der Götterfunke nur dabei gedacht?"* — und bestätigt damit erstmals ausdrücklich, dass Pyraschan tatsächlich **im Auftrag des Götterfunken** unterwegs ist, statt nur lose für ihn zu „arbeiten". Der Widerspruch zu Pyraschans in [[Session 26]] gezeigter Kalineon-Unkenntnis bleibt davon unberührt und ist weiterhin ungeklärt.
+
+Im selben Gespräch nennt [[Pyraschan]] **[[Elliot|Elliot Casterwell]]** als mächtigen Magier im Gefolge des Götterfunken in der Hauptstadt — mit hoher Wahrscheinlichkeit identisch mit dem bereits bekannten NPC [[Elliot]] (Elliot Casterwill), ehemaligem Hofmagier von [[Kalineon]]. Dass Elliot inzwischen dem Götterfunken dient, ist eine neue, vom DM bestätigte Information, aber nicht aus früheren Sessions ableitbar.
+
 ## Verknüpfungen
 
 - [[Apostel]]
 - [[Kalineon]]
 - [[Pyraschan]]
+- [[Elliot]]
 - [[Session 28]]
+- [[Session 29]]

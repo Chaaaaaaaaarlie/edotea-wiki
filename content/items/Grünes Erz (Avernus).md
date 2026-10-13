@@ -5,6 +5,9 @@ item_type: mundane
 rarity: unknown
 attunement: "no"
 current_holder: "Berta (ein Brocken)"
+aliases:
+  - Batorianischer Stahl
+  - Bartholianischer Stahl
 tags:
   - item
 related:
@@ -12,14 +15,19 @@ related:
   - Avernus
   - Berta
   - Session 26
+  - Session 29
 sources:
   - Session 26 transcript
+  - Session 29 transcript
 created: 2026-09-15
-updated: 2026-09-15
-status: seed
+updated: 2026-10-12
+status: developing
 ---
 
 # Grünes Erz (Avernus)
+
+> [!note] Identifiziert als „Batorianischer Stahl" ([[Session 29]])
+> [[Berta]] identifiziert den Brocken als **Batorianischer Stahl** (vom DM selbst einmal auch „bartholianischer Stahl" ausgesprochen — Schreibweise uneinheitlich). Beschreibung: ein wertvolles Metall, zugleich ungewöhnlich hart und flexibel. Genaue mechanische Eigenschaften/Verwendung wurden nicht weiter ausgeführt.
 
 ## Description
 Ein **grünlich schimmerndes Metall bzw. Erz**, das im Gestein der [[Imp-Höhle]] in [[Avernus]] eingeschlossen ist. Merkmale nach [[Berta]]s Untersuchung ([[Session 26]]):
@@ -29,7 +37,7 @@ Ein **grünlich schimmerndes Metall bzw. Erz**, das im Gestein der [[Imp-Höhle]
 - Kommt in der Höhle großflächig vor: als **Stalaktiten**, in einer **sehr großen Ader** und als weitere Vorkommen in anderen Gängen.
 
 ## Properties
-Unbekannt. Nicht identifiziert, nicht auf Magie geprüft.
+**Batorianischer Stahl** (siehe Callout oben) — wertvoll, hart und flexibel zugleich. Nicht auf Magie geprüft.
 
 > [!note] Möglicher Zusammenhang mit den Metallstreben
 > Die Gänge der [[Imp-Höhle]] sind mit grob **gegossenem** Metall abgestützt. Ob dieses Metall aus dem grünen Erz gewonnen wurde, sagt das Transkript nicht — die Gruppe stellt die Verbindung nicht ausdrücklich her. Als Arbeitshypothese vermerkt, **nicht bestätigt**.
@@ -44,4 +52,4 @@ Unbekannt. Nicht identifiziert, nicht auf Magie geprüft.
 
 ## Verknüpfungen
 - [[Session 26]] · [[Session 26 transcript]] · [[Imp-Höhle]] · [[Avernus]] · [[Berta]]
-- [[Blaue Metallbarren]]
+- [[Blaue Metallbarren]] · [[Session 29]] · [[Session 29 transcript]]

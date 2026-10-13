@@ -157,12 +157,21 @@ status: developing
 
 ## [[Session 28]]
 
-- Wäscht sich im See des [[Kristallhöhlenwald|unbekannten Waldes]] die vom Blutregen ([[Session 27]]) abblätternde Haut ab und verliert damit ihren −1-Charisma-Malus.
+- Wäscht sich im See des [[Olmea-Wald|unbekannten Waldes]] die vom Blutregen ([[Session 27]]) abblätternde Haut ab und verliert damit ihren −1-Charisma-Malus.
 - Castet zweimal **Goodberry** für die ganze Gruppe.
 - Hört als Wache in der letzten Nachtschicht die anrückende Ork-Bande durch den Wasserfall.
 - Im Ork-Kampf ([[Ork (Kreatur)]]): wirft **Moonbeam** in den Höhleneingang, fängt damit einen Ork.
 - Bietet den zwei unbenannten Riesenwesen versuchsweise ihre Flasche **Drachenzorn** an — beide probieren, verziehen angewidert das Gesicht (zu scharf) und lassen den Krug fallen.
 - **Einzige, die den rätselhaften Gruppenwahn (Wisdom Save) übersteht** — der DM deutet an, sie habe „einen stärkeren Geist"; versucht erfolglos, die betroffenen Gefährten (Berta, Hrímnir, Sim, Pyraschan) anzusprechen oder wachzurütteln.
+
+## [[Session 29]]
+
+- Übernimmt von [[Berta]] das **Buch der Schwellen** zur sichereren Aufteilung der beiden Zauberbücher (siehe [[Drei Bücher]]).
+- Nimmt am Tabaxi-Kampf teil; hilft bei der Namensfindung für [[Sim]] (schlägt u. a. „Hellbreaker" vor).
+- Versteckt sich mit [[Hrímnir]] vor den steinwerfenden Riesenvögeln in einer kleinen Aushöhlung unter dem Wasserfall/Fluss im [[Olmea-Wald]].
+- Hält während Bertas Identify-Sitzung ihre gewohnte **vierstündige „Trance"** als Rastform.
+- Laut DM wusste sie bereits **seit einem Ereignis namens „Kalden"**, dass ein magischer Effekt auf ihr lastet — Identify an ihr selbst findet entsprechend „nichts Verändertes" (siehe [[Kalden]], ungeklärt).
+- Wirft im abschließenden Kampf gegen den Vogelschwarm einen schweren Säure-Flächenzauber (vermutlich **Vitriolic Sphere**), der mehrere Vögel vollständig zerätzt — mit sichtbaren Kollateralschäden an Fischen und Vegetation.
 
 ## Verknüpfungen
 
@@ -225,5 +234,10 @@ status: developing
 - [[Magda]]
 - [[Cloak of Many Fashions]]
 - [[Session 28]]
-- [[Kristallhöhlenwald]]
+- [[Olmea-Wald]]
 - [[Ork (Kreatur)]]
+- [[Session 29]]
+- [[Drei Bücher]]
+- [[Kalden]]
+- [[Riesenvögel (Olmea-Wald)]]
+- [[Tabaxi]]

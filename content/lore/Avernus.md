@@ -18,7 +18,7 @@ related:
   - Fährmann des Styx
   - Knochenteufel
   - Dornenteufel
-  - Kristallhöhlenwald
+  - Olmea-Wald
 sources:
   - Session 25
   - Session 25 transcript
@@ -78,7 +78,7 @@ Damit ist der einzige sichtbare Rückweg nach [[Lunovar]] im Begriff zu verschwi
 - *(Session 27)* **[[Knochenteufel]]** (zieht den Käfigwagen, fliegt), **[[Dornenteufel]]** (Hurl Flame, feuerresistent), kleine dreckige Viecher am Käfig, [[Imp|Imps]] am Himmel. Der [[Fährmann des Styx|Fährmann]] am Styx (blind, gehörnt) trägt den Segen [[Sariel]]s.
 
 ## Möglicher Ausgang (Session 28, unbestätigt)
-Nach der [[Styx]]-Überfahrt am Ende von [[Session 27]] erwacht die Gruppe zu Beginn von [[Session 28]] in einem **unbekannten Wald** ([[Kristallhöhlenwald]], Arbeitstitel) mit See, Wasserfall und einer Kristallhöhle — ohne Lava, Asche oder andere Avernus-typische Umgebung. Die dort angetroffenen Kreaturen (eine Ork-Bande, ein Dire Wolf, zwei unbenannte Riesenwesen) sind gewöhnliche, nicht-höllische Wesen. Dies **legt nahe**, dass die Gruppe [[Avernus]] tatsächlich verlassen hat — der DM bestätigt dies jedoch an keiner Stelle ausdrücklich, und der Ort bleibt unbenannt.
+Nach der [[Styx]]-Überfahrt am Ende von [[Session 27]] erwacht die Gruppe zu Beginn von [[Session 28]] in einem **unbekannten Wald** ([[Olmea-Wald]], Arbeitstitel) mit See, Wasserfall und einer Kristallhöhle — ohne Lava, Asche oder andere Avernus-typische Umgebung. Die dort angetroffenen Kreaturen (eine Ork-Bande, ein Dire Wolf, zwei unbenannte Riesenwesen) sind gewöhnliche, nicht-höllische Wesen. Dies **legt nahe**, dass die Gruppe [[Avernus]] tatsächlich verlassen hat — der DM bestätigt dies jedoch an keiner Stelle ausdrücklich, und der Ort bleibt unbenannt.
 
 In [[Session 28]] befällt die Gruppe (außer [[Naeli]]) zudem ein rätselhafter, individueller **Wahn** (Wisdom Save: Einsamkeitsgefühl, Verfolgungswahn, Heimweh, Trance). [[Hrímnir]] vermutet **Nachwirkungen aus Avernus** als Ursache — reine Spielervermutung, vom DM nicht bestätigt oder dementiert.
 
@@ -99,4 +99,4 @@ In [[Session 28]] befällt die Gruppe (außer [[Naeli]]) zudem ein rätselhafter
 - [[Lunovar]] · [[Drift-Zeppelin]] · [[Magolor]] · [[Session 25]] · [[Session 26]]
 - [[Imp-Höhle]] · [[Imp]] · [[Kettenteufel]] · [[Larvenschwarm]] · [[Demon Core]] · [[Grünes Erz (Avernus)]] · [[Bastardschwert aus Avernus]] · [[Pyraschan]] · [[Risse]]
 - [[Session 27]] · [[Styx]] · [[Sariel]] · [[Fährmann des Styx]] · [[Knochenteufel]] · [[Dornenteufel]] · [[Magda]]
-- [[Session 28]] · [[Kristallhöhlenwald]] · [[Ork (Kreatur)]] · [[Dire Wolf]]
+- [[Session 28]] · [[Olmea-Wald]] · [[Ork (Kreatur)]] · [[Dire Wolf]]

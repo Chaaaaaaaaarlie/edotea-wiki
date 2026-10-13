@@ -4,7 +4,7 @@ title: "Magda"
 character_type: minor-npc
 race: "Halbelfin (laut DM)"
 class: ""
-location: "Kristallhöhlenwald"
+location: "Olmea-Wald"
 affiliations: []
 tags:
   - character
@@ -16,12 +16,14 @@ related:
   - Fährmann des Styx
   - Session 28
   - Khirin
-  - Kristallhöhlenwald
+  - Olmea-Wald
+  - Session 29
 sources:
   - Session 27 transcript
   - Session 28 transcript
+  - Session 29 transcript
 created: 2026-09-21
-updated: 2026-09-28
+updated: 2026-10-12
 status: developing
 ---
 
@@ -48,10 +50,15 @@ Eine der ca. 26 Elfen aus dem Käfigwagen in [[Session 27]]. Schüchtern, mit **
 
 ## Story Beats
 - [[Session 27]]: Aus dem Käfig befreit; bittet um Mitnahme; bezahlt am [[Styx]] den [[Fährmann des Styx|Fährmann]] mit ihren **abgeschnittenen Haaren** (mit der Axt abgeschnitten); die Haare trieben nicht zurück, sie lehnte das Angebot ab, sie zu fischen.
-- [[Session 28]]: Folgt der Gruppe geblendet in die Kristallhöhle des [[Kristallhöhlenwald|unbekannten Waldes]]. **Übernimmt das Tragen des bewusstlosen Patienten** ([[Khirin]]) von [[Berta]] — auf Bertas Bitte bindet diese ihn ihr mit Lianen auf den Rücken. Warnt vorab, dass sie dadurch nicht mit dem Tempo der Gruppe mithalten kann. Folgt der Gruppe weiter nach Osten.
+- [[Session 28]]: Folgt der Gruppe geblendet in die Kristallhöhle des [[Olmea-Wald|unbekannten Waldes]]. **Übernimmt das Tragen des bewusstlosen Patienten** ([[Khirin]]) von [[Berta]] — auf Bertas Bitte bindet diese ihn ihr mit Lianen auf den Rücken. Warnt vorab, dass sie dadurch nicht mit dem Tempo der Gruppe mithalten kann. Folgt der Gruppe weiter nach Osten.
 
 > [!note] Namensverwechslungen halten an
 > Der DM nennt sie in [[Session 28]] weiterhin abwechselnd „Marta", „Elvira" und „Elfi"/„Elfchen" statt Magda — ein bekanntes, wiederkehrendes Muster (siehe bereits [[Session 27]]).
+
+## [[Session 29]]
+- Folgt der Gruppe weiter mit dem Patienten durch den [[Olmea-Wald]].
+- [[Hrímnir]] stellt sich im abschließenden Vogelschwarm-Kampf schützend vor sie (*„Frau Magda, wie ritterlich"* — Berta).
+- Der DM lässt sie sich für den Kampf **verstecken** statt aktiv mitzukämpfen (*„ich habe keinen Bock, einen friendly NPC zu spielen"*) — bleibt also weiterhin primär Trägerin, nicht Kämpferin.
 
 ## Offene Fragen
 - Woher stammt sie und wie kam sie in den Käfig (Sturm/Wolke)?
@@ -62,4 +69,5 @@ Eine der ca. 26 Elfen aus dem Käfigwagen in [[Session 27]]. Schüchtern, mit **
 ## Verknüpfungen
 - [[Session 27]] · [[Session 27 transcript]] · [[Styx]] · [[Fährmann des Styx]] · [[Avernus]]
 - [[Sim]] · [[Naeli]] · [[Hrímnir]] · [[Berta]] · [[Khirin]]
-- [[Session 28]] · [[Session 28 transcript]] · [[Kristallhöhlenwald]]
+- [[Session 28]] · [[Session 28 transcript]] · [[Olmea-Wald]]
+- [[Session 29]] · [[Session 29 transcript]]

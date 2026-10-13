@@ -15,12 +15,17 @@ related:
   - Avernus
   - Session 26
   - Goetterfunke
-  - Kristallhöhlenwald
+  - Olmea-Wald
+  - Elliot
+  - Tabaxi
+  - Kalden
+  - Session 29
 sources:
   - Session 26 transcript
   - Session 28 transcript
+  - Session 29 transcript
 created: 2026-09-15
-updated: 2026-09-28
+updated: 2026-10-12
 status: developing
 ---
 
@@ -109,22 +114,39 @@ Fast alles ist noch offen. Belegt ist nur:
 
 - **Bestätigt: Level 7.** Stellt fest, einen Level-Up verpasst zu haben; der DM verkündet eine neue Hausregel (Level-Up-Frist), lockert sie aber auf Diskussion hin zu „auf eigenes Risiko aufsparen".
 - Auffällig **niedrige HP (44)** trotz Paladin-Klasse — Folge einer schwachen Constitution (Community-Scherze am Tisch).
-- Wirkt **Alarm** (hörbar, 10-Fuß-Würfel, für die Gruppe deaktivierbar) am Eingang der Kristallhöhle ([[Kristallhöhlenwald]]) und **Watcher's Will** (Channel Divinity) — erkennt nichts Außerplanares.
+- Wirkt **Alarm** (hörbar, 10-Fuß-Würfel, für die Gruppe deaktivierbar) am Eingang der Kristallhöhle ([[Olmea-Wald]]) und **Watcher's Will** (Channel Divinity) — erkennt nichts Außerplanares.
 - **Exhaustion bleibt bei 1** trotz erholsamen Schlafs — die Strahlenkrankheit aus [[Demon Core]] bessert sich weiterhin nicht.
 - Versucht sich im Ork-Kampf ([[Ork (Kreatur)]]) selbst zu heilen und **heilt versehentlich einen niedergeschlagenen Ork** wieder auf die Beine (DM: *„Du hast den Ork geheilt"*).
 - Wird vom rätselhaften Gruppenwahn erfasst: überwältigendes **Heimweh** nach seinem **Konvent** und seinen Gefährten; kommt erst nach einem Schlag im Ohrfeigen-Spiel der zwei Riesenwesen wieder zu sich.
 - **Neue Backstory-Details**: Erzählt (in einem ruhigen Moment, während die Gruppe auf die zwei Riesenwesen wartet), er arbeite „für den Götterfunk" ([[Goetterfunke]]) und schicke regelmäßig Geld an einen **Konvent**, der sich selbst kaum noch halten kann (gestiegene Preise). Sein „Herr" habe ihm befohlen, bei der Gruppe zu bleiben, bis er neue Befehle erhält. Bezug zum politischen Amt des [[Goetterfunke|Götterfunken]] in [[Kalineon]] unbestätigt — siehe Unsicherheiten dort.
 
-## Offene Fragen (aktualisiert nach [[Session 28]])
+## [[Session 29]] — Der Götterfunke bestätigt, ein eigener Fluch entdeckt
+
+> [!note] DM bestätigt erstmals den Auftrag für den Götterfunken
+> Nachdem ein Felsbrocken knapp neben Pyraschan einschlägt, verlangt der DM einen Wisdom Save und narriert explizit: *„Du fragst dich, warum du diesen beschissenen Auftrag überhaupt erst angenommen hast. Was hat sich der Götterfunke nur dabei gedacht? Du willst nach Hause."* Das ist die erste **DM-seitige**, nicht nur spielerseitig vermutete Bestätigung, dass Pyraschan tatsächlich im Auftrag des [[Goetterfunke|Götterfunken]] unterwegs ist — unabhängig davon, ob es sich um denselben politischen Götterfunken von [[Kalineon]] handelt.
+
+- Hilft im Kampf gegen den feindlichen [[Tabaxi]]-Stamm mit, trifft dabei auffällig schlecht.
+- Besteht einen Wisdom Save unter dem Stress der Gefahrenzone unter den fliegenden Inseln (siehe Callout oben) — Heimweh nach seinem Auftrag; der Spieler entscheidet, bei der Gruppe zu bleiben.
+- Schlägt am Lagerfeuer *„Sharpshooter"*/*„Hawkeye"* als Namensvorschläge für [[Sim]] vor.
+- Fragt ausdrücklich, ob sich die **Versteinerung** des *„werten Freundes, der hier versteinert ist"* (vermutlich [[Khirin]]) lösen ließe — siehe [[Khirin]] für den Widerspruch zur bisherigen „nur bewusstlos"-Annahme.
+- Nennt **[[Elliot|Elliot Casterwell]]** als mächtigen Magier im Gefolge des Götterfunken in der Hauptstadt, den er einmal getroffen hat — mit hoher Wahrscheinlichkeit der bereits bekannte NPC [[Elliot]] (Elliot Casterwill), dessen Verbindung zum Götterfunken damit neu und vom DM bestätigt ist.
+- Castet selbst **Detect Magic** und entdeckt **überrascht**, dass er einen eigenen, ihm bis dahin unbekannten Fluch/magischen Effekt trägt — laut DM wusste [[Naeli]] bereits seit „Kalden" von einer vergleichbaren Sache an sich (siehe [[Kalden]], ungeklärt).
+- Verliert nach der Rast seine **Exhaustion** (bestandener Con-Save) — erste Besserung der Demon-Core-Strahlenkrankheit seit Wochen.
+- Im abschließenden Kampf gegen den Vogelschwarm: trifft sich bei einem Fehlwurf versehentlich selbst (11 Schaden).
+
+## Offene Fragen (aktualisiert nach [[Session 29]])
 - Wie lautet sein Name wirklich, und wie schreibt er sich?
 - Welche Rasse, welcher Orden, welcher Schwur?
 - Wie geriet er in den Riss, und woher kam er?
 - Woher stammt seine sichtbare Selbstheilung?
-- **Neu**: Wer ist der „Herr", der ihm befahl, bei der Gruppe zu bleiben? Ist der „Götterfunk", für den er arbeitet, derselbe wie der politische [[Goetterfunke]] von [[Kalineon]]?
-- **Neu**: Wie erklärt sich sein plötzliches „Wiedererwachen" zusammen mit der Gruppe nach der Styx-Überfahrt, obwohl er in [[Session 27]] zurückgelassen wurde?
+- Wer ist der „Herr", der ihm befahl, bei der Gruppe zu bleiben? Ist der „Götterfunk", für den er arbeitet, derselbe wie der politische [[Goetterfunke]] von [[Kalineon]]?
+- Wie erklärt sich sein plötzliches „Wiedererwachen" zusammen mit der Gruppe nach der Styx-Überfahrt, obwohl er in [[Session 27]] zurückgelassen wurde?
+- **Neu**: Welche Art Fluch trägt Pyraschan laut Detect Magic — und was hat das mit „Kalden" zu tun?
+- **Neu**: Welche Rolle spielt [[Elliot|Elliot Casterwell]]/[[Elliot]] im Gefolge des Götterfunken, und wie gut kennt Pyraschan ihn wirklich?
 
 ## Verknüpfungen
 - [[Session 26]] · [[Session 26 transcript]] · [[Avernus]] · [[Imp-Höhle]]
 - [[Berta]] · [[Hrímnir]] · [[Khirin]] · [[Naeli]] · [[Sim]]
 - [[Demon Core]] · [[Bastardschwert aus Avernus]] · [[Grünes Erz (Avernus)]] · [[Kettenteufel]] · [[Imp]] · [[Drift-Zeppelin]] · [[Kalineon]]
-- [[Session 27]] · [[Session 28]] · [[Session 28 transcript]] · [[Goetterfunke]] · [[Kristallhöhlenwald]] · [[Ork (Kreatur)]] · [[Magda]]
+- [[Session 27]] · [[Session 28]] · [[Session 28 transcript]] · [[Goetterfunke]] · [[Olmea-Wald]] · [[Ork (Kreatur)]] · [[Magda]]
+- [[Session 29]] · [[Session 29 transcript]] · [[Elliot]] · [[Tabaxi]] · [[Riesenvögel (Olmea-Wald)]] · [[Kalden]]

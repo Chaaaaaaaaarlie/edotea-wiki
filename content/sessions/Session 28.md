@@ -25,7 +25,7 @@ related:
   - Magda
   - Avernus
   - Styx
-  - Kristallhöhlenwald
+  - Olmea-Wald
   - Demon Core
   - Goetterfunke
   - Ork (Kreatur)
@@ -92,7 +92,7 @@ Die Gruppe entscheidet sich, weiter Richtung Osten/zu den fliegenden Gesteinsbro
 ## Key Events
 - Erstmals seit [[Session 24]]/[[Session 25]] sind wieder **alle fünf PCs** (inkl. [[Pyraschan]]) aktiv am Tisch; die Gruppe erwacht in einem **unbekannten Wald**, offenbar nicht mehr in [[Avernus]] (unbestätigt, aber naheliegend nach der [[Styx]]-Überfahrt).
 - Alle Fährgelder aus [[Session 27]] sind wieder im Besitz der jeweiligen PCs.
-- Neue Location: See, Wasserfall und **Kristallhöhle** ([[Kristallhöhlenwald]], Arbeitstitel).
+- Neue Location: See, Wasserfall und **Kristallhöhle** ([[Olmea-Wald]], Arbeitstitel).
 - **Ork-Überfall** (4 Orks + 1 Dire Wolf) auf das Nachtlager; Gruppe siegt vollständig, keine eigenen Verluste.
 - [[Pyraschan]] heilt versehentlich einen niedergeschlagenen Ork.
 - **[[Magda]]** übernimmt das Tragen des bewusstlosen Patienten von [[Berta]].
@@ -141,5 +141,5 @@ Die Gruppe entscheidet sich, weiter Richtung Osten/zu den fliegenden Gesteinsbro
 ## Verknüpfungen
 - [[Session 27]] · [[Session 27 transcript]] · [[Session 28 transcript]]
 - [[Berta]] · [[Hrímnir]] · [[Naeli]] · [[Sim]] · [[Pyraschan]] · [[Khirin]] · [[Magda]]
-- [[Avernus]] · [[Styx]] · [[Kristallhöhlenwald]]
+- [[Avernus]] · [[Styx]] · [[Olmea-Wald]]
 - [[Demon Core]] · [[Goetterfunke]] · [[Ork (Kreatur)]] · [[Dire Wolf]]

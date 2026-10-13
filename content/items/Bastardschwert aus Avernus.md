@@ -3,8 +3,8 @@ type: item
 title: "Bastardschwert aus Avernus"
 item_type: weapon
 rarity: unknown
-attunement: unknown
-current_holder: "Gruppe (unidentifiziert, in der Tasche)"
+attunement: "yes"
+current_holder: "Gruppe (identifiziert, niemand attuned)"
 aliases:
   - Buster Sword
   - Großschwert aus der Imp-Höhle
@@ -14,10 +14,12 @@ related:
   - Imp-Höhle
   - Avernus
   - Session 26
+  - Session 29
 sources:
   - Session 26 transcript
+  - Session 29 transcript
 created: 2026-09-15
-updated: 2026-09-15
+updated: 2026-10-12
 status: developing
 ---
 
@@ -32,7 +34,7 @@ Ein **Großschwert**, massiv und sehr schwer, ganz aus Stahl, mit **Löchern im 
 Die Waffe steckte in der Wand der [[Imp-Höhle]] in [[Avernus]]: Sie ist so scharf, dass jemand sie durch den blanken Fels getrieben hat — und sie danach nicht mehr herausbekam. Über und unter der Klinge zieht sich eine lange **Schnittspur** durch das Gestein weiter, „als hätte derjenige ein Rad geschlagen".
 
 ## Properties
-**Unbekannt — noch nicht identifiziert.** Die Gruppe steckte sie unbesehen ein, um sie später zu untersuchen. Beobachtet wurde bisher nur ihre außergewöhnliche Schärfe (durch Fels) und ihr Gewicht.
+**Identifiziert in [[Session 29]]**: Ein **+2-Großschwert**, das **Attunement** benötigt. Bei jeder Anwendung erleidet der Nutzer **1d4 Schaden**. Weitere Eigenschaften (Schadensart, Besonderheiten) wurden am Tisch nicht im Detail durchgesprochen.
 
 ## Bergung ([[Session 26]])
 1. [[Hrímnir]] untersucht sie (Investigation 17) und versucht sie zu ziehen: **Stärke-DC 25**.
@@ -45,13 +47,13 @@ Die Waffe steckte in der Wand der [[Imp-Höhle]] in [[Avernus]]: Sie ist so scha
 Nichts bekannt. [[Pyraschan]] merkt an, dass dies bereits die zweite Waffe in dieser Höhle ist, und vermutet, hier könnten früher Kämpfe stattgefunden haben. [[Berta]] hält den früheren Träger schlicht für einen Idioten — *„Wer nimmt ein so riesiges Schwert in so einen engen Gang mit?"*
 
 ## Current Status
-Im Besitz der Gruppe, **unidentifiziert**, zum späteren Untersuchen verstaut.
+Im Besitz der Gruppe, **identifiziert** (+2, Attunement, 1d4 Selbstschaden pro Nutzung), noch von niemandem aktiv geführt/attuned.
 
 ## Offene Fragen
-- Ist die Waffe magisch, und welche Eigenschaften hat sie?
+- Wer übernimmt die Waffe trotz des Selbstschadens?
 - Wer hat sie in den Fels getrieben, und was ist mit ihm passiert?
 - In der Lava der Höhle liegt halb geschmolzen **ein weiteres altes Schwert** auf einem Stein — nicht geborgen.
 
 ## Verknüpfungen
-- [[Session 26]] · [[Session 26 transcript]] · [[Imp-Höhle]] · [[Avernus]]
+- [[Session 26]] · [[Session 26 transcript]] · [[Imp-Höhle]] · [[Avernus]] · [[Session 29]] · [[Session 29 transcript]]
 - [[Hrímnir]] · [[Naeli]] · [[Sim]] · [[Pyraschan]] · [[Berta]]

@@ -5,10 +5,14 @@ character_type: npc
 tags:
   - character
   - npc
-related: []
-sources: []
+related:
+  - Goetterfunke
+  - Pyraschan
+  - Session 29
+sources:
+  - Session 29 transcript
 created: 2026-05-11
-updated: 2026-05-11
+updated: 2026-10-12
 status: developing
 ---
 # Elliot
@@ -37,6 +41,9 @@ status: developing
 > [!question] Bezug zu den [[Drei Bücher|Büchern]]?
 > In [[Session 17]] wird bekannt, dass [[Berta]]s Pergament aus dem **Buch der Schwellen** ([[Wilhelm Casterwill|Wilhelms]] Raummagie) benutzt wurde, um *„einen Mann für zehn Jahre in einem Wald einzukerkern"*. Elliot galt **über zehn Jahre als vermisst** und wurde am [[Anwesen]] im [[Nebelwald]] gefunden — möglicher Zusammenhang? Unbestätigt.
 
+> [!gap] Neuer Bezug zum Götterfunken ([[Session 29]], unbestätigt aus früheren Sessions)
+> [[Pyraschan]] nennt in [[Session 29]] einen mächtigen Magier **„Elliot Casterwell"** im Gefolge des [[Goetterfunke|Götterfunken]], aktuell in der Hauptstadt ansässig, den er einmal getroffen hat — der DM bestätigt den Namen ausdrücklich als Antwort auf die Frage nach mächtiger Hilfe gegen Flüche/Versteinerung. Das passt im Namen exakt zu diesem NPC (Elliot **Casterwill**), ist aber eine neue Information, die sich nicht aus [[Session 1]]–[[Session 8]] ableiten lässt: Dort bricht Elliot lediglich nach [[Kalineon]] auf, um seinen Namen/Status wiederherzustellen — eine spätere Anstellung im Gefolge des Götterfunken ist plausibel, aber nicht unabhängig bestätigt.
+
 ## Verknüpfungen
 
 - [[Anwesen]]
@@ -59,3 +66,6 @@ status: developing
 - [[Dis-Enchanter]]
 - [[Drei Bücher]]
 - [[Wilhelm Casterwill]]
+- [[Goetterfunke]]
+- [[Pyraschan]]
+- [[Session 29]]

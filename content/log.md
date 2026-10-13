@@ -2,7 +2,7 @@
 type: meta
 title: "Wiki Log"
 created: 2026-05-11
-updated: 2026-09-28
+updated: 2026-10-12
 tags:
   - meta
 status: evergreen
@@ -11,6 +11,34 @@ status: evergreen
 # Wiki Log
 
 Append-only. New entries at the **TOP**. Never edit past entries.
+
+## [2026-10-12] ingest | Session 29 (gespielt 2026-10-12) aus WhisperX-Transkript
+
+- **Quelle**: `/srv/dnd/transcription/output/craig-UDD56lLq3YTc-VcE-QRf2vQxLTZO_20261012_202935/corrected_obsidian.md` (WhisperX `large-v3`, cuda/float16, de, Word-Timestamps, keine Diarisierung, 214 Glossar-Korrekturen). Dauer: ~3h23min, 4195 Segmente, **6** Craig-Spuren.
+- **Sprecher-Mapping**: `_blestem_`=DM (am Tisch „Philipp"), `drore`=[[Berta]], `feeminin`=[[Naeli]], `hansmeier`=[[Hrímnir]], `mep0510`=[[Sim]], `luke_234`=[[Pyraschan]].
+- **Abweichungen vom Ingest-Auftrag**: Der Auftrag nannte `nightcore0302 = DM` und `luke_234 = Khirin` — beide veraltet (Stand vor [[Session 22]] bzw. vor [[Session 26]]); anhand des tatsächlichen Transkripts und des Wiki-Logs korrigiert.
+- **Rohdatei kopiert**: `.raw/session-transcripts/Session 29 - 12.10.2026.md` (unveränderte Kopie).
+- **Backup vor dem Ingest**: `_backups/session29_ingest_20261012_205044/` (25 Dateien: hot, index, log, overview, betroffene Charakter-/Lore-/Item-/Location-/Session-/Sources-Index-Seiten).
+- **Neue Seiten**: [[Session 29]], [[Session 29 transcript]], [[Olmea-Wald]] (ersetzt den Arbeitstitel [[Kristallhöhlenwald]], per Alias erreichbar), [[Tabaxi]], [[Riesenvögel (Olmea-Wald)]].
+- **Ausgebaute Seiten**: [[Scale Piercer]], [[Storm Holder]] — von Stub (seit 2026-05-11) zu voll ausgearbeiteten NPC-Seiten.
+- **Aktualisierte Seiten**: [[Berta]], [[Hrímnir]], [[Naeli]], [[Sim]], [[Pyraschan]], [[Khirin]], [[Magda]], [[Elliot]], [[Cloud Fang]], [[Avernus]], [[Goetterfunke]], [[Demon Core]], [[Drei Bücher]], [[Bastardschwert aus Avernus]], [[Grünes Erz (Avernus)]], [[Cloak of Many Fashions]], [[Dis-Enchanter]], [[Dire Wolf]], [[Kalden]], `wiki/index.md`, `wiki/overview.md`, `wiki/characters/_index.md`, `wiki/locations/_index.md`, `wiki/lore/_index.md`, `wiki/sessions/_index.md`, `wiki/sources/_index.md`, [[hot|Hot Cache]].
+- **Schlüssel-Erkenntnisse**:
+  - Der Wald aus [[Session 28]] (Arbeitstitel [[Kristallhöhlenwald]]) erhält laut DM den Namen **[[Olmea-Wald]]** — vermutlich derselbe Ort (gleicher Wasserfall/Fluss taucht erneut auf), aber nicht ausdrücklich als Fortsetzung bestätigt.
+  - Kampf gegen einen feindlichen **[[Tabaxi]]**-Stamm — ein Toter, drei gefangen/verhört, einer geflohen, größtenteils non-lethal; die Gefangenen liefern den Waldnamen und grobe Himmelsrichtungen (am Tisch mehrfach durcheinandergebracht).
+  - Große Enthüllung zu [[Sim]]s Vorgeschichte: Sein Vater **[[Storm Holder]]**, früheres Oberhaupt von [[Sim]]s Heimatdorf (vermutlich [[Cloud Fang]]), wurde von **[[Scale Piercer]]** nach einem fairen Ritualduell heimtückisch ermordet; das Dorf führt seither einen Krieg gegen die Tabaxi. Die Gruppe beschließt, Sim bei einer Herausforderung gegen Scale Piercer zu unterstützen.
+  - [[Sim]] erhält am Lagerfeuer den nach Simian-Brauch verdienten Namen **„Plane Walking Eye"**.
+  - Begegnung mit riesigen, steinwerfenden Vögeln unter den zerbröckelnden fliegenden Inseln (keine echten Harpyen laut DM); später klar gewonnener Kampf gegen einen Schwarm derselben/einer verwandten Art.
+  - Nächtliche Identify-Sitzung: Alle am [[Styx]] zurückerhaltenen Fährgeld-Gegenstände sind **Höllenkonstrukte** — Bertas Hexenhut wird bei der Entfluchung zerstört; [[Hrímnir]]s [[Cloak of Many Fashions]] ist trotz vorheriger Ablehnung auf ihn attuned. Das Großschwert aus [[Avernus]] wird als **+2-Großschwert mit 1d4 Selbstschaden** identifiziert, der Erzbrocken als **Batorianischer Stahl**.
+  - [[Pyraschan]] entdeckt per Detect Magic einen eigenen, unbekannten Fluch; der DM bestätigt im selben Atemzug erstmals ausdrücklich, dass Pyraschan im Auftrag des **[[Goetterfunke|Götterfunken]]** unterwegs ist. Neuer NPC-Bezug: **[[Elliot|Elliot Casterwell]]**, vermutlich identisch mit dem bekannten [[Elliot]].
+  - Buchverteilung geändert: [[Naeli]] trägt jetzt das Buch der Schwellen, [[Hrímnir]] weiterhin das vermutete Buch der Seelen.
+  - [[Pyraschan]]s Exhaustion aus dem [[Demon Core]] sinkt erstmals seit Wochen (Con-Save bestanden).
+- **Offene Unsicherheiten dieses Ingests**:
+  - **Khirins Versteinerungsstatus**: Mehrere Äußerungen behandeln ihn als aktuell versteinert — im Widerspruch zur bisherigen Annahme (abgeklungen seit [[Session 25]], nur Arm-/Beinverlust dauerhaft). Nicht vom DM eindeutig geklärt, siehe [[Khirin]].
+  - **„Kalden"**: Zweimal beiläufig als Erklärung für Naelis/Pyraschans Fluch genannt, ohne weitere Erklärung — Bezug zum bestehenden Ort [[Kalden]] unklar.
+  - **Himmelsrichtungen**: Tabaxi-Dorf, Sims Heimat und die fliegenden Inseln wurden am Tisch mehrfach widersprüchlich benannt.
+  - **Olmea-Wald = Kristallhöhlenwald-Arbeitstitel**: sehr wahrscheinlich, aber vom DM nicht ausdrücklich als Fortsetzung bestätigt — als Umbenennung/Alias übernommen.
+  - **Sims Heimatdorf = [[Cloud Fang]]?**: Figuren stimmen exakt überein, der Name fällt aber nicht.
+  - **Vogelarten**: unklar, ob Steinwerfer und Schwarm dieselbe Spezies sind.
 
 ## [2026-09-28] ingest | Session 28 (gespielt 2026-09-28) aus WhisperX-Transkript
 

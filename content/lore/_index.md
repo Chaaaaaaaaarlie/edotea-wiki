@@ -2,14 +2,14 @@
 type: meta
 title: "Lore Index"
 created: 2026-05-11
-updated: 2026-09-28
+updated: 2026-10-12
 tags:
   - meta
   - lore
 status: evergreen
 ---
 
-# Lore (19 + Bestiarium 22)
+# Lore (19 + Bestiarium 24)
 
 ## Götter & Höllenfürsten
 - [[Corellon]]
@@ -25,7 +25,7 @@ status: evergreen
 - [[Apostel]]
 - [[Drei Bücher]]
 - [[gesetzlose Stadt]] *(neu, Session 13 — Söldner-Heimat, möglicherweise [[Carbus]])*
-- [[Goetterfunke]] *(möglicher Bezug zu [[Pyraschan]] seit Session 28, unbestätigt)*
+- [[Goetterfunke]] *(Bezug zu [[Pyraschan]] seit Session 28 vermutet; in Session 29 vom DM erstmals bestätigt, dass er im Auftrag des Götterfunken unterwegs ist)*
 - [[Residuum]]
 - [[Risse]]
 
@@ -56,13 +56,15 @@ status: evergreen
 - [[Kettenteufel]] *(neu, Session 26 — Chain Devil; Unnerving Gaze, brennende Fesseln, giftimmun)*
 - [[Knochenteufel]] *(neu, Session 27 — Bone Devil; zieht den Käfigwagen, fliegt)*
 - [[Larvenschwarm]] *(neu, Session 26 — Maden in der [[Imp-Höhle]]; extrem giftanfällig)*
-- [[Ork (Kreatur)]] *(neu, Session 28 — vierköpfige Räuberbande im [[Kristallhöhlenwald]]; Scimitare/Speere, Dire-Wolf-Begleiter)*
+- [[Ork (Kreatur)]] *(neu, Session 28 — vierköpfige Räuberbande im [[Olmea-Wald]]; Scimitare/Speere, Dire-Wolf-Begleiter)*
 - [[Revenant]]
+- [[Riesenvögel (Olmea-Wald)]] *(neu, Session 29 — riesige, unnatürliche Vögel unter den fliegenden Inseln; keine echten Harpyen laut DM; steinwerfende Gruppe + bekämpfter Schwarm)*
 - [[Rictus Mors]] *(neu, Session 21 — menschenfressende Kreaturen, Angriff auf Lunovar, immun gegen Piercing)*
 - [[Shadow]]
 - [[Skelett]]
 - [[Spectre]]
 - [[Spinnenwesen]] *(neu, Session 16 — totes Seelenmagie-Konstrukt im Erliorwald)*
+- [[Tabaxi]] *(neu, Session 29 — katzenartiges Volk im [[Olmea-Wald]]; feindlicher Stamm im Krieg mit Sims Heimatdorf)*
 - [[Treant]]
 - [[Will o Wisp]]
 - [[Worg]] *(neu, Session 16 — Feenwildnis-Bestien, Giftbiss/ätzender Speichel)*

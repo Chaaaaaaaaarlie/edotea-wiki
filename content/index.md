@@ -2,7 +2,7 @@
 type: meta
 title: "Wiki Index"
 created: 2026-05-11
-updated: 2026-09-28
+updated: 2026-10-12
 tags:
   - meta
 status: mature
@@ -18,13 +18,13 @@ Master catalog. Updated on every ingest.
 ## Characters (36) — see [[_index|Characters Index]]
 
 ### PCs (6)
-- [[Berta]] · [[Hrímnir]] · [[Naeli]] · [[Pyraschan]] · [[Sim]] · [[Khirin]] *(seit [[Session 26]] nicht mehr aktiv gespielt; seit [[Session 28]] von [[Magda]] als Patient mitgeführt)*
+- [[Berta]] · [[Hrímnir]] · [[Naeli]] · [[Pyraschan]] · [[Sim]] *(seit S29 „Plane Walking Eye")* · [[Khirin]] *(seit [[Session 26]] nicht mehr aktiv gespielt; seit [[Session 28]] von [[Magda]] als Patient mitgeführt; S29 widerspricht uneinheitlich, ob zusätzlich versteinert)*
 
 > [!note] Session 28: Alle fünf spielbaren PCs wieder aktiv
 > Nach [[Pyraschan]]s krankheitsbedingter Trennung von der Gruppe in [[Session 27]] eröffnet [[Session 28]] damit, dass er per DM-Retcon wieder bei der Gruppe ist (siehe Seite für den Widerspruch).
 
 ### NPCs (30)
-- [[Aalafiel]] · [[Borgrim Runenbrecher]] · [[Crucellus]] · [[Edgar Thorne]] · [[Elfaria Albis von Sylphid]] · [[Elliot]] · [[Fiona Casterwill]] · [[Fohlen]] · [[Fürst Alator]] · [[Jack]] · [[Cassomir]] · [[Lucien]] · [[Lysanthiriel Vaelora]] · [[Magilanikas Maven]] · [[Magolor]] · [[Markus L. Kalinion]] · [[Nora]] · [[Palamedis]] · [[Scale Piercer]] · [[Sophie Marie]] · [[Spymaster]] · [[Storm Holder]] · [[Twilight (Pony)]] · [[Virion Loramis]] · [[Wilhelm Casterwill]] · [[Wukong]] · [[Y'Chak]] · [[Zwergenmeister Schmiedemeisterei]] · [[Magda]] *(neu, S27)* · [[Fährmann des Styx]] *(neu, S27)*
+- [[Aalafiel]] · [[Borgrim Runenbrecher]] · [[Crucellus]] · [[Edgar Thorne]] · [[Elfaria Albis von Sylphid]] · [[Elliot]] *(S29: steht laut Pyraschan im Gefolge des [[Goetterfunke|Götterfunken]])* · [[Fiona Casterwill]] · [[Fohlen]] · [[Fürst Alator]] · [[Jack]] · [[Cassomir]] · [[Lucien]] · [[Lysanthiriel Vaelora]] · [[Magilanikas Maven]] · [[Magolor]] · [[Markus L. Kalinion]] · [[Nora]] · [[Palamedis]] · [[Scale Piercer]] *(Stub→ausgebaut S29 — Usurpator, Mörder von [[Storm Holder]])* · [[Sophie Marie]] · [[Spymaster]] · [[Storm Holder]] *(Stub→ausgebaut S29 — Sims Vater, ermordetes Dorfoberhaupt)* · [[Twilight (Pony)]] · [[Virion Loramis]] · [[Wilhelm Casterwill]] · [[Wukong]] · [[Y'Chak]] · [[Zwergenmeister Schmiedemeisterei]] · [[Magda]] *(neu, S27)* · [[Fährmann des Styx]] *(neu, S27)*
 
 ## Locations (35) — see [[_index|Locations Index]]
 - Kontinent: [[Kontinent Edotea]] · [[Cloud Fang]] · [[Erliorwald]] · [[Nebelwald]] · [[Wesh]]
@@ -38,26 +38,26 @@ Master catalog. Updated on every ingest.
 - Unbekannt: [[Carbus]] (= [[gesetzlose Stadt]]) · [[Berthas Bohnen]] · [[Verhängnisturm]]
 - Riss-Stand: [[Eiswueste-Vulkan-Riss]]
 - [[Avernus]]: [[Imp-Höhle]] · [[Styx]] *(neu, S27)*
-- Unbekannt (evtl. nicht mehr Avernus): [[Kristallhöhlenwald]] *(neu, S28)*
+- Unbekannt (evtl. nicht mehr Avernus): [[Olmea-Wald]] *(neu, S28, umbenannt S29 — Arbeitstitel „Kristallhöhlenwald" per Alias erhalten)*
 
 ## Lore (19) — see [[_index|Lore Index]]
 - Götter: [[Corellon]] · [[Ilmater]] · [[Lathander]] · [[Marcosias]] · [[Torm]] · [[Tymora]] · [[Tyr]]
-- Konzepte: [[Apostel]] · [[Drei Bücher]] · [[gesetzlose Stadt]] · [[Goetterfunke]] · [[Residuum]] · [[Risse]]
+- Konzepte: [[Apostel]] · [[Drei Bücher]] · [[gesetzlose Stadt]] · [[Goetterfunke]] *(S29: DM bestätigt erstmals Pyraschans Auftrag für den Götterfunken)* · [[Residuum]] · [[Risse]]
 - Rassen: [[Goliath]]
 - Entitäten: [[das Nichts]] · [[Djinn]] · [[Sariel]] *(neu, S27; Schreibweise unbestätigt)*
 - Ebenen: [[Feenwildnis]] · [[Avernus]] *(evtl. seit S28 verlassen, unbestätigt)*
 
-## Bestiarium (22)
-- [[Dire Wolf]] *(neu, S28)* · [[Dornenteufel]] · [[Drift-Zeppelin]] · [[Eulenbärin]] · [[Gedankenschaender]] · [[Geist]] · [[Imp]] · [[Kettenteufel]] · [[Knochenteufel]] · [[Larvenschwarm]] · [[Ork (Kreatur)]] *(neu, S28)* · [[Revenant]] · [[Rictus Mors]] · [[Shadow]] · [[Skelett]] · [[Spectre]] · [[Spinnenwesen]] · [[Treant]] · [[Will o Wisp]] · [[Worg]] · [[Wraith]] · [[Zombie]]
+## Bestiarium (24)
+- [[Dire Wolf]] *(neu, S28)* · [[Dornenteufel]] · [[Drift-Zeppelin]] · [[Eulenbärin]] · [[Gedankenschaender]] · [[Geist]] · [[Imp]] · [[Kettenteufel]] · [[Knochenteufel]] · [[Larvenschwarm]] · [[Ork (Kreatur)]] *(neu, S28)* · [[Revenant]] · [[Riesenvögel (Olmea-Wald)]] *(neu, S29)* · [[Rictus Mors]] · [[Shadow]] · [[Skelett]] · [[Spectre]] · [[Spinnenwesen]] · [[Tabaxi]] *(neu, S29)* · [[Treant]] · [[Will o Wisp]] · [[Worg]] · [[Wraith]] · [[Zombie]]
 
 ## Items (21) — see [[_index|Items Index]]
-- [[Aalafiels Trank]] · [[Akronisjuwel]] · [[Bastardschwert aus Avernus]] · [[Blaue Metallbarren]] · [[Bogen +2]] · [[Cloak of Many Fashions]] · [[Demon Core]] · [[Dis-Enchanter]] · [[Drachenzahn]] · [[Goldene Drachenschuppe]] · [[Grünes Erz (Avernus)]] · [[Gurde]] · [[Krone des Hohen Rates]] · [[Lady Günthers Flasche]] · [[Lysandriels Ring]] · [[Magischer Schluessel]] · [[Spell-Slot-Anhänger]] · [[Staff of Charming]] · [[Staff of Fire]] · [[Staff of Warning]] · [[Wappen des alten Kalineon]]
+- [[Aalafiels Trank]] · [[Akronisjuwel]] · [[Bastardschwert aus Avernus]] *(S29: identifiziert, +2, 1d4 Selbstschaden)* · [[Blaue Metallbarren]] · [[Bogen +2]] · [[Cloak of Many Fashions]] *(S29: als Höllenkonstrukt enttarnt, dennoch auf Hrímnir attuned)* · [[Demon Core]] · [[Dis-Enchanter]] · [[Drachenzahn]] · [[Goldene Drachenschuppe]] · [[Grünes Erz (Avernus)]] *(S29: identifiziert als Batorianischer Stahl)* · [[Gurde]] · [[Krone des Hohen Rates]] · [[Lady Günthers Flasche]] · [[Lysandriels Ring]] · [[Magischer Schluessel]] · [[Spell-Slot-Anhänger]] · [[Staff of Charming]] · [[Staff of Fire]] · [[Staff of Warning]] · [[Wappen des alten Kalineon]]
 
-## Sessions (29) — see [[_index|Sessions Index]]
-- [[Session 28]] · [[Session 27]] · [[Session 26]] · [[Session 25]] · [[Session 24]] · [[Session 23]] · [[Session 22]] · [[Session 21]] · [[Session 20]] · [[Session 19]] · [[Session 18]] · [[Session 17]] · [[Session 16]] · [[Session 15]] · [[Session 14]] · [[Session 13]] · [[Session 12]] · [[Session 11]] · [[Session 10]] · [[Session 9]] · [[Session 8]] · [[Session 7]] · [[Session 6]] · [[Session 5]] · [[Session 4]] · [[Session 3]] · [[Session 2]] · [[Session 1]] · [[Session 0]]
+## Sessions (30) — see [[_index|Sessions Index]]
+- [[Session 29]] · [[Session 28]] · [[Session 27]] · [[Session 26]] · [[Session 25]] · [[Session 24]] · [[Session 23]] · [[Session 22]] · [[Session 21]] · [[Session 20]] · [[Session 19]] · [[Session 18]] · [[Session 17]] · [[Session 16]] · [[Session 15]] · [[Session 14]] · [[Session 13]] · [[Session 12]] · [[Session 11]] · [[Session 10]] · [[Session 9]] · [[Session 8]] · [[Session 7]] · [[Session 6]] · [[Session 5]] · [[Session 4]] · [[Session 3]] · [[Session 2]] · [[Session 1]] · [[Session 0]]
 
-## Sources (17) — see [[_index|Sources Index]]
-- [[Session 28 transcript]] · [[Session 27 transcript]] · [[Session 26 transcript]] · [[Session 25 transcript]] · [[Session 24 transcript]] · [[Session 23 transcript]] · [[Session 22 transcript]] · [[Session 21 transcript]] · [[Session 20 transcript]] · [[Session 19 transcript]] · [[Session 17 transcript]] · [[Session 16 transcript]] · [[Session 15 transcript]] · [[Session 12 transcript]] · [[Session 13 transcript]] · [[Session 14 transcript]] · [[Tagebücher Wilhelm Casterwill]]
+## Sources (18) — see [[_index|Sources Index]]
+- [[Session 29 transcript]] · [[Session 28 transcript]] · [[Session 27 transcript]] · [[Session 26 transcript]] · [[Session 25 transcript]] · [[Session 24 transcript]] · [[Session 23 transcript]] · [[Session 22 transcript]] · [[Session 21 transcript]] · [[Session 20 transcript]] · [[Session 19 transcript]] · [[Session 17 transcript]] · [[Session 16 transcript]] · [[Session 15 transcript]] · [[Session 12 transcript]] · [[Session 13 transcript]] · [[Session 14 transcript]] · [[Tagebücher Wilhelm Casterwill]]
 
 ## Factions (1) — see [[_index|Factions Index]]
 - [[Kalineon-Royalisten]]
@@ -84,7 +84,17 @@ Master catalog. Updated on every ingest.
 
 > [!gap] **Session 28 — Zwei unbenannte Riesenwesen**: Harmlos, spielen ein Ohrfeigen-Spiel, sprachlich nicht identifizierbar (nicht Orkisch/Giants/Sylvan), reagieren extrem auf Drachenzorn-Schnaps. Spezies und Rolle unbekannt.
 
-> [!gap] **Session 28 — Pyraschans „Götterfunke"-Bezug**: Erwähnt beiläufig, für den „Götterfunk" zu arbeiten und einem Konvent Geld zu schicken. Unklar, ob derselbe [[Goetterfunke]] wie der politische Herrscher von [[Kalineon]] gemeint ist — steht im Spannungsverhältnis zu seiner in [[Session 26]] gezeigten Kalineon-Unkenntnis.
+> [!gap] **Session 28 — Pyraschans „Götterfunke"-Bezug**: Erwähnt beiläufig, für den „Götterfunk" zu arbeiten und einem Konvent Geld zu schicken. *Nachtrag [[Session 29]]: Der DM bestätigt per Wisdom-Save-Narration erstmals ausdrücklich, dass Pyraschan im Auftrag des [[Goetterfunke|Götterfunken]] unterwegs ist.* Weiterhin ungeklärt: Spannungsverhältnis zu seiner in [[Session 26]] gezeigten Kalineon-Unkenntnis.
+
+> [!gap] **Session 29 — Ist Khirin versteinert oder nur bewusstlos?**: Mehrere Äußerungen am Tisch (teils spekulativ, teils wie Tatsache formuliert) behandeln [[Khirin]] als aktuell **versteinert** — im Widerspruch zur bisherigen Annahme, seine Versteinerung sei bereits in [[Session 25]] abgeklungen und nur Arm-/Beinverlust seien dauerhaft. Vom DM nicht eindeutig klargestellt; siehe [[Khirin]].
+
+> [!gap] **Session 29 — „Kalden"**: Zweimal beiläufig als Erklärung für Naelis (und laut DM auch Pyraschans) Fluch/Hautveränderung genannt, ohne weitere Erklärung. Unklar, ob dasselbe „Kalden" wie der bestehende Ort [[Kalden]] gemeint ist oder ein unbekanntes Ereignis gleichen Namens.
+
+> [!gap] **Session 29 — Ursache der zerbrechenden fliegenden Inseln im [[Olmea-Wald]]**: Seit jeher vorhanden, zerbröckeln aber laut Tabaxi-Gefangenen erst seit kurzem; eine Insel stürzt sichtbar ein. Grund unbekannt; die Tabaxi geben den Simianern die Schuld, die Gruppe vermutet eher eine Ausrede für Scale Piercers Krieg.
+
+> [!gap] **Session 29 — Ist Sims Heimatdorf tatsächlich [[Cloud Fang]]?**: Die Figuren [[Storm Holder]] und [[Scale Piercer]] stimmen exakt mit der bestehenden Cloud-Fang-Seite überein, aber der Name „Cloud Fang" fällt in [[Session 29]] nicht. Sehr wahrscheinlich, nicht vom DM bestätigt.
+
+> [!gap] **Session 29 — Olmea-Wald = Kristallhöhlenwald-Arbeitstitel?**: Derselbe Wasserfall/Fluss taucht in beiden Sessions auf, was auf denselben Ort hindeutet, aber der DM hat die Fortsetzung nicht ausdrücklich bestätigt (als Umbenennung/Alias übernommen, siehe [[Olmea-Wald]]).
 
 > [!gap] **Session 27 — Hat die Gruppe Avernus verlassen?**: Nach Fährgeld, Untergang des Boots und Wiederauftauchen im [[Styx]] endet das Transkript ohne Ortsangabe. Der DM koppelte das Level-Up ans Verlassen der Neun Höllen und rief am Ende zum Level-Up auf. Die Erlaubnis von [[Sariel]] (Schreibweise unbestätigt), die laut [[Fährmann des Styx|Fährmann]] nötig ist, wurde nicht ausdrücklich geklärt.
 
@@ -102,7 +112,7 @@ Master catalog. Updated on every ingest.
 
 > [!gap] **Session 26 — Ursache des Risses wieder offen**: Da der [[Drift-Zeppelin]] laut [[Session 26]] erst in [[Avernus]] starb, kann sein Tod den Riss über [[Lunovar]] nicht ausgelöst haben. Was ihn tatsächlich verursacht hat, ist ungeklärt. Zugleich **schließt sich der Riss** und setzt eine grau-rote Wolkenfront frei, deren Wirkung unbekannt ist.
 
-> [!gap] **Session 26 — Herkunft von [[Demon Core]], [[Bastardschwert aus Avernus|Großschwert]] und [[Grünes Erz (Avernus)|grünem Erz]]**: Alle drei Funde aus der [[Imp-Höhle]] sind unidentifiziert. Ebenso ungeklärt: Wer die Höhlengänge mit gegossenem Metall abgestützt hat.
+> [!gap] **Session 26 — Herkunft von [[Demon Core]], [[Bastardschwert aus Avernus|Großschwert]] und [[Grünes Erz (Avernus)|grünem Erz]]**: Alle drei Funde aus der [[Imp-Höhle]] waren unidentifiziert. *Nachtrag [[Session 29]]: Großschwert und Erz identifiziert (+2-Großschwert/1d4 Selbstschaden bzw. Batorianischer Stahl); nur noch Herkunft/Hersteller offen.* Weiterhin ungeklärt: Wer die Höhlengänge mit gegossenem Metall abgestützt hat.
 
 > [!gap] **Session 25 — Magolors Tod unbestätigt & Grund für Avernus**: [[Magolor]] wurde in [[Session 25]] von [[Hrímnir]] aus großer Höhe fallen gelassen, aber ohne Leichenfund. Unklar bleibt außerdem, warum der Riss über Lunovar die Gruppe ausgerechnet nach [[Avernus]] zog, und wie sie zurückkommen. Auch das Schicksal des mit Magolor erschienenen [[Spinnenwesen]] und der Zustand von Lunovar nach dem Turmeinsturz sind ungeklärt.
 

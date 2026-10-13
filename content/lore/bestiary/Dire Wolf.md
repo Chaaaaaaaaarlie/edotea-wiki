@@ -7,12 +7,14 @@ tags:
   - bestiarium
 related:
   - Ork (Kreatur)
-  - Kristallhöhlenwald
+  - Olmea-Wald
   - Session 28
+  - Session 29
 sources:
   - Session 28 transcript
+  - Session 29 transcript
 created: 2026-09-28
-updated: 2026-09-28
+updated: 2026-10-12
 status: seed
 NoteIcon: npc
 ---
@@ -20,13 +22,16 @@ NoteIcon: npc
 # Dire Wolf
 
 ## Überblick
-Begleittier der [[Ork (Kreatur)|Ork]]-Bande, die in [[Session 28]] das Nachtlager der Gruppe in der Kristallhöhle ([[Kristallhöhlenwald]]) überfällt. Vom DM ausdrücklich als „Dire Wolf" benannt (deutsch nicht übersetzt).
+Begleittier der [[Ork (Kreatur)|Ork]]-Bande, die in [[Session 28]] das Nachtlager der Gruppe in der Kristallhöhle ([[Olmea-Wald]]) überfällt. Vom DM ausdrücklich als „Dire Wolf" benannt (deutsch nicht übersetzt).
 
 ## Beobachtungen
 - Springt geblendet durch das grelle Licht (vermutlich [[Naeli]]s Moonbeam) in die Höhle, verfehlt sein Ziel knapp.
 - Wird von [[Hrímnir]] per Gelegenheitsangriff getötet.
 - Wird anschließend von [[Hrímnir]] gehäutet — **Wolfsfell** als Loot.
 
+## Weitere Exemplare ([[Session 29]])
+Am Rand der von den [[Riesenvögel (Olmea-Wald)|Riesenvögeln]] bewachten Gefahrenzone findet die Gruppe **weitere tote Dire Wolves** — getötet durch herabfallende Felsbrocken, **ausdrücklich nicht** verbunden mit der Ork-Bande aus [[Session 28]]. Offenbar eine im Olmea-Wald heimische Art, nicht nur ein Begleittier dieser einen Bande.
+
 ## Verknüpfungen
-- [[Ork (Kreatur)]] · [[Kristallhöhlenwald]] · [[Session 28]] · [[Session 28 transcript]]
-- [[Hrímnir]]
+- [[Ork (Kreatur)]] · [[Olmea-Wald]] · [[Session 28]] · [[Session 28 transcript]] · [[Session 29]] · [[Session 29 transcript]]
+- [[Hrímnir]] · [[Riesenvögel (Olmea-Wald)]]

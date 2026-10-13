@@ -162,11 +162,21 @@ status: developing
 
 ## [[Session 28]]
 
-- Erspürt (Wisdom 26) instinktiv die Kristallhöhle hinter dem Wasserfall im [[Kristallhöhlenwald]] und findet sie.
+- Erspürt (Wisdom 26) instinktiv die Kristallhöhle hinter dem Wasserfall im [[Olmea-Wald]] und findet sie.
 - Im Ork-Kampf ([[Ork (Kreatur)]]): wehrt einen Angriff schadenlos ab, setzt Cold-Schaden (Ray-of-Frost-artig) ein und lässt einem Ork per verschlechtertem Save den Kopf platzen; erschlägt außerdem einen angreifenden **[[Dire Wolf]]** per Gelegenheitsangriff und häutet ihn danach (Wolfsfell als Trophäe).
 - Klettert auf [[Naeli]]s Schultern bzw. hebt sie auf seine, um zwei entfernte, unbenannte Riesenwesen zu beobachten; bietet sich testweise zum Ohrfeigen-Spiel der beiden an und tankt einen Treffer schadenlos.
 - Vom rätselhaften Gruppenwahn erfasst: fällt in eine **Trance/Grübelei über „vergangene Tage"**, reagiert kaum noch auf Ansprache und bleibt regungslos knien, bis [[Naeli]] ihn erfolglos anzustupsen versucht; erst nach dem Ereignis normalisiert er sich wieder von selbst. Vermutet danach selbst **Nachwirkungen aus [[Avernus]]** als Ursache — unbestätigt.
 - Zieht [[Sim]] ins Ohrfeigen-Spiel der Riesenwesen hinein, um ihn aus dessen eigenem Wahnzustand (Einsamkeitsgefühl) wachzuschlagen — funktioniert nach mehreren Schlägen.
+
+## [[Session 29]]
+
+- Behält das vermutete **Buch der Seelen**, nachdem die Gruppe die beiden erbeuteten Bücher sicherheitshalber neu aufteilt (siehe [[Drei Bücher]]).
+- Im Tabaxi-Kampf: schlägt ausdrücklich non-lethal zu (*„Ich möchte ihn nicht töten"*) und bricht einem widerständigen Gefangenen beim Verhör zwei Finger (Intimidation, erfolglos).
+- Versteckt sich mit [[Naeli]] vor den steinwerfenden Riesenvögeln in einer kleinen Aushöhlung unter dem Wasserfall/Fluss.
+- Schlägt am Lagerfeuer den finalen, aus mehreren Vorschlägen verschmolzenen Namen **„Plane Walking Eye"** für [[Sim]] vor.
+- Erwähnt beiläufig eine gesuchte **alte Freundin aus dem Norden**, verweigert aber Namen und Details (*„Monk, behalt deine Geheimnisse"*).
+- Erfährt bei Bertas Identify-Sitzung, dass sein Umhang ([[Cloak of Many Fashions]]) ein **Höllenkonstrukt** ist — obwohl er ihn zuvor ausdrücklich abgelehnt hatte, ist er inzwischen auf ihn **attuned**.
+- Im abschließenden Kampf gegen den Vogelschwarm: wirkt vorab **Bless**, kämpft als MVP im Nahkampf und schlägt einen Vogel über mehrere Runden fast zu Tode (*„Opfer von sehr schlimmer häuslicher Gewalt"*).
 
 ## Verknüpfungen
 
@@ -227,6 +237,11 @@ status: developing
 - [[Knochenteufel]]
 - [[Dornenteufel]]
 - [[Session 28]]
-- [[Kristallhöhlenwald]]
+- [[Olmea-Wald]]
 - [[Ork (Kreatur)]]
 - [[Dire Wolf]]
+- [[Session 29]]
+- [[Drei Bücher]]
+- [[Cloak of Many Fashions]]
+- [[Tabaxi]]
+- [[Riesenvögel (Olmea-Wald)]]

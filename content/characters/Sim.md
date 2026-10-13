@@ -20,7 +20,7 @@ status: developing
 
 | Feld | Wert |
 | --- | --- |
-| Name | Sim |
+| Name | Sim — seit [[Session 29]] verdienter Name **„Plane Walking Eye"** (Sim bleibt als Spitz- und Rufname gültig) |
 | Rasse | Simian |
 | Klasse | Fighter / Ranger |
 
@@ -149,11 +149,23 @@ status: developing
 
 ## [[Session 28]]
 
-- Klettert auf einen Baum, um mit Perception (unterstützt von [[Hrímnir]]) die Umgebung des [[Kristallhöhlenwald|unbekannten Waldes]] zu erkunden: See im Süden, Nebel im Westen/Norden, ferne fliegende Gesteinsbrocken im Osten.
+- Klettert auf einen Baum, um mit Perception (unterstützt von [[Hrímnir]]) die Umgebung des [[Olmea-Wald|unbekannten Waldes]] zu erkunden: See im Süden, Nebel im Westen/Norden, ferne fliegende Gesteinsbrocken im Osten.
 - Legt vor dem Höhleneingang eine **Bärenfalle** und **Krähenfüße** aus.
 - Scheitert erneut an einem **Constitution-Save (3)** nach der Rast: **1d8 Radiant-Schaden**, Erbrechen, weiterer Haarausfall — bestätigt, dass die Spätfolgen des [[Demon Core]] **wiederkehrend** sind, nicht einmalig.
 - Im Ork-Kampf ([[Ork (Kreatur)]]): kämpft im Nahkampf mit dem Kampfstab, landet mehrere Treffer.
 - Vom rätselhaften Gruppenwahn erfasst: ist plötzlich fest überzeugt, **völlig allein zu sein**, obwohl die ganze Gruppe um ihn steht; wird erst wach, nachdem ihn [[Hrímnir]] ins Ohrfeigen-Spiel der zwei Riesenwesen hineinzieht und hart genug schlägt (mit Vorteil).
+
+## [[Session 29]]
+
+- Vergleicht mit der Gruppe Kratzspuren/Pfeile eines früheren Kampfs im Wald mit bekannten Mustern (keine Übereinstimmung gefunden).
+- Erkennt per **History-Check (mit Vorteil)**, dass der Wald **[[Olmea-Wald]]** heißt und nur ein bis zwei Tagesmärsche von seinem Heimatdorf entfernt liegt (vermutlich [[Cloud Fang]]).
+- Kämpft im Tabaxi-Überfall mit; erfährt anschließend vom verhörten Gefangenen und per eigener Wiedererkennung die **Vorgeschichte seines Dorfes**: Sein Vater **[[Storm Holder]]** war das friedliche Oberhaupt, bis **[[Scale Piercer]]** ihn im heiligen Duell fair besiegte und danach heimtückisch tötete, die Macht an sich riss und das Dorf in einen Krieg gegen die [[Tabaxi]] führte.
+- Bricht sich vor Schuldgefühlen beim wiederholten Schlagen eines Baumes fast die Hand (ein missglückter, dann mit [[Hrímnir]]s Unterstützung ein geglückter Wisdom Save); weint und gibt sich die Schuld, nicht rechtzeitig zu Hause gewesen zu sein.
+- Entscheidet sich, Scale Piercer herauszufordern und das Dorf zu retten, ohne es notwendigerweise selbst führen zu wollen; plant ab sofort tägliches Kampftraining.
+- Erhält am Lagerfeuer von der Gruppe den nach Simian-Brauch **verdienten Namen „Plane Walking Eye"** (aus den Vorschlägen *Hellbreaker*, *Plane Walker*, *Sharpshooter*, *Hawkeye* von [[Hrímnir]] verschmolzen) — nimmt ihn sichtlich bewegt an.
+- Weigert sich (nach gescheitertem, dann bestandenem Wisdom Save), den **unzerstörbaren Abschiedsbrief seines Vaters** (siehe [[Storm Holder]]) zu verbrennen; legt ihn stattdessen unverbrannt ab, statt ihn fallen zu lassen. [[Berta]] vermutet, der Brief sei — wie ihr Hexenhut und Hrímnirs Umhang — ein **Höllenkonstrukt**, untersucht ihn aber nicht direkt.
+- Bietet die Dorf-Heilerin („die alte Oma") als mögliche Hilfe gegen Flüche/Versteinerung an, als die Gruppe über Khirins Zustand spricht.
+- Kämpft im abschließenden Vogelschwarm-Kampf im Nahkampf mit dem Stab mit.
 
 ## Verknüpfungen
 
@@ -213,5 +225,11 @@ status: developing
 - [[Knochenteufel]]
 - [[Dornenteufel]]
 - [[Session 28]]
-- [[Kristallhöhlenwald]]
+- [[Olmea-Wald]]
 - [[Ork (Kreatur)]]
+- [[Session 29]]
+- [[Scale Piercer]]
+- [[Storm Holder]]
+- [[Cloud Fang]]
+- [[Tabaxi]]
+- [[Riesenvögel (Olmea-Wald)]]
