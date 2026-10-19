@@ -2,7 +2,7 @@
 type: meta
 title: "Wiki Index"
 created: 2026-05-11
-updated: 2026-10-12
+updated: 2026-10-19
 tags:
   - meta
 status: mature
@@ -15,19 +15,20 @@ Master catalog. Updated on every ingest.
 ## Overview
 - [[overview|Edotea — Willkommen]]
 
-## Characters (36) — see [[_index|Characters Index]]
+## Characters (37) — see [[_index|Characters Index]]
 
 ### PCs (6)
-- [[Berta]] · [[Hrímnir]] · [[Naeli]] · [[Pyraschan]] · [[Sim]] *(seit S29 „Plane Walking Eye")* · [[Khirin]] *(seit [[Session 26]] nicht mehr aktiv gespielt; seit [[Session 28]] von [[Magda]] als Patient mitgeführt; S29 widerspricht uneinheitlich, ob zusätzlich versteinert)*
+- [[Berta]] · [[Hrímnir]] · [[Naeli]] · [[Pyraschan]] · [[Sim]] *(seit S29 „Plane Walking Eye")* · [[Khirin]] *(seit [[Session 26]] nicht mehr aktiv gespielt; in [[Session 30]] entsteinert und wieder bei Bewusstsein — der seit [[Session 28]] von [[Magda]] getragene Patient war die ganze Zeit eine andere Person)*
 
 > [!note] Session 28: Alle fünf spielbaren PCs wieder aktiv
 > Nach [[Pyraschan]]s krankheitsbedingter Trennung von der Gruppe in [[Session 27]] eröffnet [[Session 28]] damit, dass er per DM-Retcon wieder bei der Gruppe ist (siehe Seite für den Widerspruch).
 
-### NPCs (30)
-- [[Aalafiel]] · [[Borgrim Runenbrecher]] · [[Crucellus]] · [[Edgar Thorne]] · [[Elfaria Albis von Sylphid]] · [[Elliot]] *(S29: steht laut Pyraschan im Gefolge des [[Goetterfunke|Götterfunken]])* · [[Fiona Casterwill]] · [[Fohlen]] · [[Fürst Alator]] · [[Jack]] · [[Cassomir]] · [[Lucien]] · [[Lysanthiriel Vaelora]] · [[Magilanikas Maven]] · [[Magolor]] · [[Markus L. Kalinion]] · [[Nora]] · [[Palamedis]] · [[Scale Piercer]] *(Stub→ausgebaut S29 — Usurpator, Mörder von [[Storm Holder]])* · [[Sophie Marie]] · [[Spymaster]] · [[Storm Holder]] *(Stub→ausgebaut S29 — Sims Vater, ermordetes Dorfoberhaupt)* · [[Twilight (Pony)]] · [[Virion Loramis]] · [[Wilhelm Casterwill]] · [[Wukong]] · [[Y'Chak]] · [[Zwergenmeister Schmiedemeisterei]] · [[Magda]] *(neu, S27)* · [[Fährmann des Styx]] *(neu, S27)*
+### NPCs (31)
+- [[Aalafiel]] · [[Borgrim Runenbrecher]] · [[Crucellus]] · [[Edgar Thorne]] · [[Elfaria Albis von Sylphid]] · [[Elliot]] *(S29: steht laut Pyraschan im Gefolge des [[Goetterfunke|Götterfunken]])* · [[Fiona Casterwill]] · [[Fohlen]] · [[Fürst Alator]] · [[Jack]] · [[Cassomir]] · [[Lucien]] · [[Lysanthiriel Vaelora]] · [[Magilanikas Maven]] · [[Magolor]] *(S30: unbestätigte Verbindung zum Spinnenbeinige-Kreaturen-Angriff auf [[Cloud Fang]])* · [[Markus L. Kalinion]] · [[Nora]] · [[Palamedis]] · [[Scale Piercer]] *(S29 ausgebaut, S30: neue Details zu Verstümmelungs-Strafpraxis)* · [[Sophie Marie]] · [[Spymaster]] · [[Storm Holder]] *(Stub→ausgebaut S29)* · [[Twilight (Pony)]] · [[Virion Loramis]] · [[Wilhelm Casterwill]] · [[Wukong]] · [[Y'Chak]] · [[Zwergenmeister Schmiedemeisterei]] · [[Magda]] *(neu, S27 — S30: ihr Patient ist bestätigt nicht Khirin)* · [[Fährmann des Styx]] *(neu, S27)* · [[Nature's Guide]] *(neu, S30 — Simian-Druide, entsteinert Khirin, entfernt die Flüche der Gruppe)*
 
-## Locations (35) — see [[_index|Locations Index]]
-- Kontinent: [[Kontinent Edotea]] · [[Cloud Fang]] · [[Erliorwald]] · [[Nebelwald]] · [[Wesh]]
+## Locations (37) — see [[_index|Locations Index]]
+- Kontinent: [[Kontinent Edotea]] · [[Cloud Fang]] *(S30: bestätigt Sims Heimatdorf)* · [[Erliorwald]] · [[Nebelwald]] · [[Wesh]]
+- Cloud Fang: [[Druidenschrein (Cloud Fang)]] *(neu, S30)*
 - Erliorwald: [[Gruft des Buches]]
 - Reiche: [[Falmers]] · [[Indura]] · [[Kalineon]] · [[Lögress]]
 - Indura: [[Albarest]] · [[Beardsley]] · [[Hellawes]] · [[Lothringen]] · [[Reneed]]
@@ -38,7 +39,7 @@ Master catalog. Updated on every ingest.
 - Unbekannt: [[Carbus]] (= [[gesetzlose Stadt]]) · [[Berthas Bohnen]] · [[Verhängnisturm]]
 - Riss-Stand: [[Eiswueste-Vulkan-Riss]]
 - [[Avernus]]: [[Imp-Höhle]] · [[Styx]] *(neu, S27)*
-- Unbekannt (evtl. nicht mehr Avernus): [[Olmea-Wald]] *(neu, S28, umbenannt S29 — Arbeitstitel „Kristallhöhlenwald" per Alias erhalten)*
+- Unbekannt (evtl. nicht mehr Avernus): [[Olmea-Wald]] *(neu, S28, umbenannt S29 — Arbeitstitel „Kristallhöhlenwald" per Alias erhalten; S30: Krater mit Ork-Arm, Nordwesten-Geografie ergänzt)*
 
 ## Lore (19) — see [[_index|Lore Index]]
 - Götter: [[Corellon]] · [[Ilmater]] · [[Lathander]] · [[Marcosias]] · [[Torm]] · [[Tymora]] · [[Tyr]]
@@ -47,17 +48,17 @@ Master catalog. Updated on every ingest.
 - Entitäten: [[das Nichts]] · [[Djinn]] · [[Sariel]] *(neu, S27; Schreibweise unbestätigt)*
 - Ebenen: [[Feenwildnis]] · [[Avernus]] *(evtl. seit S28 verlassen, unbestätigt)*
 
-## Bestiarium (24)
-- [[Dire Wolf]] *(neu, S28)* · [[Dornenteufel]] · [[Drift-Zeppelin]] · [[Eulenbärin]] · [[Gedankenschaender]] · [[Geist]] · [[Imp]] · [[Kettenteufel]] · [[Knochenteufel]] · [[Larvenschwarm]] · [[Ork (Kreatur)]] *(neu, S28)* · [[Revenant]] · [[Riesenvögel (Olmea-Wald)]] *(neu, S29)* · [[Rictus Mors]] · [[Shadow]] · [[Skelett]] · [[Spectre]] · [[Spinnenwesen]] · [[Tabaxi]] *(neu, S29)* · [[Treant]] · [[Will o Wisp]] · [[Worg]] · [[Wraith]] · [[Zombie]]
+## Bestiarium (25)
+- [[Dire Wolf]] *(neu, S28)* · [[Dornenteufel]] · [[Drift-Zeppelin]] · [[Eulenbärin]] · [[Gedankenschaender]] · [[Geist]] · [[Imp]] · [[Kettenteufel]] · [[Knochenteufel]] · [[Larvenschwarm]] · [[Ork (Kreatur)]] *(neu, S28)* · [[Revenant]] · [[Riesenvögel (Olmea-Wald)]] *(neu, S29)* · [[Rictus Mors]] · [[Shadow]] · [[Skelett]] · [[Spectre]] · [[Spinnenwesen]] · [[Tabaxi]] *(neu, S29)* · [[Treant]] · [[Weiße Echse (Vision)]] *(neu, S30 — nur als Vision gesehen, Existenz unbestätigt)* · [[Will o Wisp]] · [[Worg]] · [[Wraith]] · [[Zombie]]
 
 ## Items (21) — see [[_index|Items Index]]
 - [[Aalafiels Trank]] · [[Akronisjuwel]] · [[Bastardschwert aus Avernus]] *(S29: identifiziert, +2, 1d4 Selbstschaden)* · [[Blaue Metallbarren]] · [[Bogen +2]] · [[Cloak of Many Fashions]] *(S29: als Höllenkonstrukt enttarnt, dennoch auf Hrímnir attuned)* · [[Demon Core]] · [[Dis-Enchanter]] · [[Drachenzahn]] · [[Goldene Drachenschuppe]] · [[Grünes Erz (Avernus)]] *(S29: identifiziert als Batorianischer Stahl)* · [[Gurde]] · [[Krone des Hohen Rates]] · [[Lady Günthers Flasche]] · [[Lysandriels Ring]] · [[Magischer Schluessel]] · [[Spell-Slot-Anhänger]] · [[Staff of Charming]] · [[Staff of Fire]] · [[Staff of Warning]] · [[Wappen des alten Kalineon]]
 
-## Sessions (30) — see [[_index|Sessions Index]]
-- [[Session 29]] · [[Session 28]] · [[Session 27]] · [[Session 26]] · [[Session 25]] · [[Session 24]] · [[Session 23]] · [[Session 22]] · [[Session 21]] · [[Session 20]] · [[Session 19]] · [[Session 18]] · [[Session 17]] · [[Session 16]] · [[Session 15]] · [[Session 14]] · [[Session 13]] · [[Session 12]] · [[Session 11]] · [[Session 10]] · [[Session 9]] · [[Session 8]] · [[Session 7]] · [[Session 6]] · [[Session 5]] · [[Session 4]] · [[Session 3]] · [[Session 2]] · [[Session 1]] · [[Session 0]]
+## Sessions (31) — see [[_index|Sessions Index]]
+- [[Session 30]] · [[Session 29]] · [[Session 28]] · [[Session 27]] · [[Session 26]] · [[Session 25]] · [[Session 24]] · [[Session 23]] · [[Session 22]] · [[Session 21]] · [[Session 20]] · [[Session 19]] · [[Session 18]] · [[Session 17]] · [[Session 16]] · [[Session 15]] · [[Session 14]] · [[Session 13]] · [[Session 12]] · [[Session 11]] · [[Session 10]] · [[Session 9]] · [[Session 8]] · [[Session 7]] · [[Session 6]] · [[Session 5]] · [[Session 4]] · [[Session 3]] · [[Session 2]] · [[Session 1]] · [[Session 0]]
 
-## Sources (18) — see [[_index|Sources Index]]
-- [[Session 29 transcript]] · [[Session 28 transcript]] · [[Session 27 transcript]] · [[Session 26 transcript]] · [[Session 25 transcript]] · [[Session 24 transcript]] · [[Session 23 transcript]] · [[Session 22 transcript]] · [[Session 21 transcript]] · [[Session 20 transcript]] · [[Session 19 transcript]] · [[Session 17 transcript]] · [[Session 16 transcript]] · [[Session 15 transcript]] · [[Session 12 transcript]] · [[Session 13 transcript]] · [[Session 14 transcript]] · [[Tagebücher Wilhelm Casterwill]]
+## Sources (19) — see [[_index|Sources Index]]
+- [[Session 30 transcript]] · [[Session 29 transcript]] · [[Session 28 transcript]] · [[Session 27 transcript]] · [[Session 26 transcript]] · [[Session 25 transcript]] · [[Session 24 transcript]] · [[Session 23 transcript]] · [[Session 22 transcript]] · [[Session 21 transcript]] · [[Session 20 transcript]] · [[Session 19 transcript]] · [[Session 17 transcript]] · [[Session 16 transcript]] · [[Session 15 transcript]] · [[Session 12 transcript]] · [[Session 13 transcript]] · [[Session 14 transcript]] · [[Tagebücher Wilhelm Casterwill]]
 
 ## Factions (1) — see [[_index|Factions Index]]
 - [[Kalineon-Royalisten]]
@@ -86,15 +87,25 @@ Master catalog. Updated on every ingest.
 
 > [!gap] **Session 28 — Pyraschans „Götterfunke"-Bezug**: Erwähnt beiläufig, für den „Götterfunk" zu arbeiten und einem Konvent Geld zu schicken. *Nachtrag [[Session 29]]: Der DM bestätigt per Wisdom-Save-Narration erstmals ausdrücklich, dass Pyraschan im Auftrag des [[Goetterfunke|Götterfunken]] unterwegs ist.* Weiterhin ungeklärt: Spannungsverhältnis zu seiner in [[Session 26]] gezeigten Kalineon-Unkenntnis.
 
-> [!gap] **Session 29 — Ist Khirin versteinert oder nur bewusstlos?**: Mehrere Äußerungen am Tisch (teils spekulativ, teils wie Tatsache formuliert) behandeln [[Khirin]] als aktuell **versteinert** — im Widerspruch zur bisherigen Annahme, seine Versteinerung sei bereits in [[Session 25]] abgeklungen und nur Arm-/Beinverlust seien dauerhaft. Vom DM nicht eindeutig klargestellt; siehe [[Khirin]].
+> [!gap] **Session 29 — Ist Khirin versteinert oder nur bewusstlos?** — ✅ Geklärt in [[Session 30]]: Er war durchgehend versteinert (als Stein in einer Tasche mitgeführt) und wurde entsteinert. Der separat mitgeführte „Patient" (bei [[Magda]]) ist eine andere Person — siehe [[Khirin]] und neuer Gap-Eintrag unten.
 
 > [!gap] **Session 29 — „Kalden"**: Zweimal beiläufig als Erklärung für Naelis (und laut DM auch Pyraschans) Fluch/Hautveränderung genannt, ohne weitere Erklärung. Unklar, ob dasselbe „Kalden" wie der bestehende Ort [[Kalden]] gemeint ist oder ein unbekanntes Ereignis gleichen Namens.
 
 > [!gap] **Session 29 — Ursache der zerbrechenden fliegenden Inseln im [[Olmea-Wald]]**: Seit jeher vorhanden, zerbröckeln aber laut Tabaxi-Gefangenen erst seit kurzem; eine Insel stürzt sichtbar ein. Grund unbekannt; die Tabaxi geben den Simianern die Schuld, die Gruppe vermutet eher eine Ausrede für Scale Piercers Krieg.
 
-> [!gap] **Session 29 — Ist Sims Heimatdorf tatsächlich [[Cloud Fang]]?**: Die Figuren [[Storm Holder]] und [[Scale Piercer]] stimmen exakt mit der bestehenden Cloud-Fang-Seite überein, aber der Name „Cloud Fang" fällt in [[Session 29]] nicht. Sehr wahrscheinlich, nicht vom DM bestätigt.
+> [!gap] **Session 29 — Ist Sims Heimatdorf tatsächlich [[Cloud Fang]]?** — ✅ Geklärt in [[Session 30]]: [[Sim]] korrigiert sich live „Cloudfang, nicht Firstfang" — bestätigt.
 
 > [!gap] **Session 29 — Olmea-Wald = Kristallhöhlenwald-Arbeitstitel?**: Derselbe Wasserfall/Fluss taucht in beiden Sessions auf, was auf denselben Ort hindeutet, aber der DM hat die Fortsetzung nicht ausdrücklich bestätigt (als Umbenennung/Alias übernommen, siehe [[Olmea-Wald]]).
+
+> [!gap] **Session 30 — Cliffhanger am Druidenschrein**: Unmittelbar nachdem [[Nature's Guide]] den [[Druidenschrein (Cloud Fang)|Schrein]] verlässt, beginnen die Runen des Steinkreises von selbst zu leuchten und ein schwarzer Nebel manifestiert sich — explizit als unnormal markiert, aber völlig ungeklärt.
+
+> [!gap] **Session 30 — Wer ist Magdas Patient wirklich?**: Bestätigt **nicht** [[Khirin]] (siehe oben) — bleibt aber unbenannt; sein Zustand wird nur knapp als „wahrscheinlich einfach tot" kommentiert, nicht überprüft.
+
+> [!gap] **Session 30 — Khirins Eltern: „Junova" statt [[Lunovar]]?**: Als möglicher Preis für Khirins Wiederherstellung deutet der DM an, er habe das Wissen um das Schicksal seiner Eltern „in Junova" verloren — weicht vom bekannten Wohnort [[Lunovar]] ab (dort in [[Session 21]] gerettet). Ob derselbe Ort gemeint ist, bleibt unklar.
+
+> [!gap] **Session 30 — Die weiße Echse und der Energie-Drain im Nordwesten**: [[Nature's Guide]] bestätigt einen seit 3–4 Jahren andauernden Abfluss der Naturenergie der Region; [[Naeli]]s Vision zeigt eine weiße Echse als mutmaßlichen Konvergenzpunkt im Nordwesten — Art, Größe und tatsächliche Existenz der Kreatur sind unbestätigt, siehe [[Weiße Echse (Vision)]].
+
+> [!gap] **Session 30 — Pyraschans Fluch-Entfernung**: Im Gegensatz zu den anderen PCs bleibt am Tisch ausdrücklich offen, ob sein Fluch tatsächlich entfernt wurde oder das beobachtete Phänomen nur ein Verdauungsscherz war; sein neues Rosentattoo um den Hals bleibt ungeklärt.
 
 > [!gap] **Session 27 — Hat die Gruppe Avernus verlassen?**: Nach Fährgeld, Untergang des Boots und Wiederauftauchen im [[Styx]] endet das Transkript ohne Ortsangabe. Der DM koppelte das Level-Up ans Verlassen der Neun Höllen und rief am Ende zum Level-Up auf. Die Erlaubnis von [[Sariel]] (Schreibweise unbestätigt), die laut [[Fährmann des Styx|Fährmann]] nötig ist, wurde nicht ausdrücklich geklärt.
 

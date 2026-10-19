@@ -2,7 +2,7 @@
 type: meta
 title: "Wiki Log"
 created: 2026-05-11
-updated: 2026-10-12
+updated: 2026-10-19
 tags:
   - meta
 status: evergreen
@@ -11,6 +11,31 @@ status: evergreen
 # Wiki Log
 
 Append-only. New entries at the **TOP**. Never edit past entries.
+
+## [2026-10-19] ingest | Session 30 (gespielt 2026-10-19) aus WhisperX-Transkript
+
+- **Quelle**: `/srv/dnd/transcription/output/craig-12nKHYLNNoXG-Zx4MIKRxS_bSRBe_20261019_201857/corrected_obsidian.md` (WhisperX `large-v3`, de, Word-Timestamps, 218 Glossar-Korrekturen, keine Diarisierung). Dauer: ~2h45min, 3366 Segmente, **6** Craig-Spuren.
+- **Sprecher-Mapping**: `_blestem_`=DM (am Tisch „Philipp"), `drore`=[[Berta]], `feeminin`=[[Naeli]], `hansmeier`=[[Hrímnir]], `mep0510`=[[Sim]]/„Plane Walking Eye", `luke_234`=[[Pyraschan]] (spricht ab ca. 01:23:00 zusätzlich für den wiederbelebten [[Khirin]]).
+- **Abweichungen vom Ingest-Auftrag**: Der Auftrag nannte `nightcore0302 = DM` und `luke_234 = Khirin` — beide veraltet (Stand vor [[Session 22]] bzw. vor [[Session 26]]) und widersprechen dem Wiki-Log seit [[Session 26]]; zudem existiert in dieser Aufnahme keine `nightcore0302`-Spur. Anhand des tatsächlichen Transkripts korrigiert.
+- **Rohdatei kopiert**: `.raw/session-transcripts/Session 30 - 19.10.2026.md` (unveränderte Kopie).
+- **Backup vor dem Ingest**: `_backups/session30_ingest_20261019_204719/` (hot, index, log, overview, alle Sub-Indizes, betroffene Charakter-/Location-/Lore-Seiten).
+- **Neue Seiten**: [[Session 30]], [[Session 30 transcript]], [[Nature's Guide]], [[Druidenschrein (Cloud Fang)]], [[Weiße Echse (Vision)]].
+- **Aktualisierte Seiten**: [[Khirin]] (große Korrektur, siehe unten), [[Magda]], [[Sim]], [[Naeli]], [[Hrímnir]], [[Berta]], [[Pyraschan]], [[Storm Holder]], [[Scale Piercer]], [[Magolor]], [[Cloud Fang]], [[Olmea-Wald]], [[Tabaxi]], `wiki/index.md`, `wiki/overview.md`, `wiki/characters/_index.md`, `wiki/locations/_index.md`, `wiki/lore/_index.md`, `wiki/sessions/_index.md`, `wiki/sources/_index.md`, [[hot|Hot Cache]].
+- **Schlüssel-Erkenntnisse**:
+  - **[[Cloud Fang]] bestätigt**: [[Sim]] korrigiert sich bei der Begegnung mit seinem eigenen Stamm live von „First Fang" zu **„Cloudfang"** — damit ist sein Heimatdorf nicht mehr nur „sehr wahrscheinlich", sondern bestätigt.
+  - **Neue Details zu [[Scale Piercer]]**: Wer ihn herausfordert und verliert, verliert laut Stammeszeugen dauerhaft das Recht auf eine erneute Herausforderung — offenbar durch Verstümmelung (ein Stammesmitglied fehlen drei Finger, halber Schwanz). Ideologie: *„Dein Vater war schwach, und darum ist er gestorben."*
+  - **Großer Twist — Khirin vs. „der Patient"**: [[Khirin]] war seit [[Session 25]]/[[Session 26]] die ganze Zeit **separat, als Stein in einer Tasche**, versteinert mitgeführt — **nicht identisch** mit dem bewusstlosen „Patienten", den die Gruppe seit [[Session 26]] fälschlich für ihn hielt und den zuletzt [[Magda]] trug. Der echte Patient bleibt unbenannt und sein Schicksal ungeklärt. Khirin wird von **[[Nature's Guide]]** (neuer NPC, Simian-Druide, Kindheitsbekannter Sims) per Greater Restoration entsteinert; der schon vorher fehlende Arm bleibt dauerhaft verloren. Khirin erhält 3 Level Exhaustion durch einen telepathischen Informations-Dump von [[Berta]].
+  - **Neue Lore**: Die Naturenergie der Region drainiert seit 3-4 Jahren in einen Konvergenzpunkt im Nordwesten; [[Naeli]]s Vision zeigt dort eine **[[Weiße Echse (Vision)|weiße Echse]]** — neues zentrales Mysterium. Geografie ergänzt: Tabaxi-Reich und Menschenreiche im Nordwesten, Orte „Hamas"/„Amas" und „Carabas"/„Carabus" (Schreibweisen unbestätigt).
+  - **Fluch-Entfernung**: [[Nature's Guide]] entfernt reihum die Höllenflüche aller fünf PCs (Berta, Hrímnir, Pyraschan, Naeli, Sim) — kostenlos von ihm verlangt, aber mit Preis einer persönlichen Erinnerung (explizit bei [[Naeli]]: Erinnerung an das Brennen von Alkohol). [[Pyraschan]]s Ergebnis bleibt unklar (neues Rosentattoo um den Hals, stoppt auf halbem Weg).
+  - [[Berta]] zerstört [[Sim]]s gebundenen Abschiedsbrief während der Nachtrast; [[Naeli]]s körperliche Stärkung wird beim Klettern erstmals in der Fiktion bestätigt.
+  - **Cliffhanger**: Unmittelbar nach Nature's Guides Weggang beginnen die Runen des Steinkreis-Schreins von selbst zu leuchten, ein schwarzer Nebel manifestiert sich.
+- **Offene Unsicherheiten dieses Ingests**:
+  - **„Junova" vs. [[Lunovar]]**: Der DM deutet an, Khirin habe das Wissen um das Schicksal seiner Eltern „in Junova" verloren — weicht vom bekannten Wohnort Lunovar ab (dort in [[Session 21]] gerettet). Nicht als Faktenänderung übernommen.
+  - **Pyraschans Fluch-Entfernung**: ausdrücklich unklar, ob real oder nur ein Scherz („Verblähungen").
+  - **Art der weißen Echse**: unbekannt, nur aus einer Vision bekannt — könnte auch rein symbolisch sein.
+  - **Zusammenhang Spinnenbeinige Kreaturen (Cloud-Fang-Angriff vor ~einem halben Jahr) ↔ [[Magolor]]**: von der Gruppe vermutet, nicht bestätigt.
+  - **Orts-Schreibweisen „Hamas"/„Amas" und „Carabas"/„Carabus"/„Kabus"**: unbestätigt.
+  - **Khirins Arm und der im Krater gefundene Ork-Arm**: kein Zusammenhang im Transkript hergestellt — bewusst nicht verknüpft, nur als mögliche Koinzidenz im Hinterkopf behalten.
 
 ## [2026-10-12] ingest | Session 29 (gespielt 2026-10-12) aus WhisperX-Transkript
 

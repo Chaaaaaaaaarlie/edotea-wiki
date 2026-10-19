@@ -2,14 +2,14 @@
 type: meta
 title: "Lore Index"
 created: 2026-05-11
-updated: 2026-10-12
+updated: 2026-10-19
 tags:
   - meta
   - lore
 status: evergreen
 ---
 
-# Lore (19 + Bestiarium 24)
+# Lore (19 + Bestiarium 25)
 
 ## Götter & Höllenfürsten
 - [[Corellon]]
@@ -66,6 +66,7 @@ status: evergreen
 - [[Spinnenwesen]] *(neu, Session 16 — totes Seelenmagie-Konstrukt im Erliorwald)*
 - [[Tabaxi]] *(neu, Session 29 — katzenartiges Volk im [[Olmea-Wald]]; feindlicher Stamm im Krieg mit Sims Heimatdorf)*
 - [[Treant]]
+- [[Weiße Echse (Vision)]] *(neu, Session 30 — nur in Naelis Vision gesehen; mutmaßliche Quelle/Senke des Energie-Drains im Nordwesten; Existenz/Art unbestätigt)*
 - [[Will o Wisp]]
 - [[Worg]] *(neu, Session 16 — Feenwildnis-Bestien, Giftbiss/ätzender Speichel)*
 - [[Wraith]]

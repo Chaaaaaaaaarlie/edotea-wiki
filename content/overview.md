@@ -2,7 +2,7 @@
 type: overview
 title: "Edotea — Willkommen"
 created: 2026-05-11
-updated: 2026-10-12
+updated: 2026-10-19
 tags:
   - overview
   - campaign
@@ -15,7 +15,7 @@ sources: []
 
 ## Einstieg
 
-- [[Session 29|Aktuelle Session: Session 29]]
+- [[Session 30|Aktuelle Session: Session 30]]
 - [[Kontinent Edotea]]
 - [[Kalineon]]
 - [[Lunovar]]
@@ -23,6 +23,7 @@ sources: []
 - [[Imp-Höhle]]
 - [[Styx]]
 - [[Olmea-Wald]]
+- [[Cloud Fang]]
 - [[Cadnix]]
 - [[Oestliche Garnison von Cadnix|Östliche Garnison von Cadnix]]
 
@@ -33,14 +34,15 @@ sources: []
 - [[Naeli]]
 - [[Pyraschan]] — Paladin, Level 7, neu ab [[Session 26]]; in [[Session 27]] krank zurückgelassen, seit [[Session 28]] per DM-Retcon wieder bei der Gruppe
 - [[Sim]] — seit [[Session 29]] trägt er den verdienten Namen **„Plane Walking Eye"** (Sim bleibt gültiger Rufname)
-- [[Khirin]] — seit [[Session 25]] ohne einen Arm und ein Bein; seit [[Session 26]] **nicht mehr aktiv gespielt**, wird als Verletzter mitgeführt (seit [[Session 28]] von [[Magda]] getragen); [[Session 29]] widerspricht uneinheitlich, ob er zusätzlich noch **versteinert** ist (ungeklärt, siehe [[Khirin]])
+- [[Khirin]] — seit [[Session 25]] ohne einen Arm und ein Bein; seit [[Session 26]] **nicht mehr aktiv gespielt**; war die ganze Zeit separat als Stein versteinert mitgeführt und wurde in [[Session 30]] entsteinert (der von [[Magda]] getragene Patient war die ganze Zeit eine andere Person, siehe [[Khirin]])
 
 ## Wichtige NPC
 
-- [[Magda]] — Halbelfin aus dem Käfigwagen, begleitet die Gruppe ([[Session 27]]); trägt seit [[Session 28]] den bewusstlosen Patienten
+- [[Magda]] — Halbelfin aus dem Käfigwagen, begleitet die Gruppe ([[Session 27]]); trägt seit [[Session 28]] einen bewusstlosen Patienten, der laut [[Session 30]] bestätigt **nicht** Khirin ist
 - [[Fährmann des Styx]] — blinder Fährmann am [[Styx]] ([[Session 27]])
-- [[Scale Piercer]] *(neu ausgebaut, Session 29)* — Usurpator-Oberhaupt von [[Sim]]s Heimatdorf (vermutlich [[Cloud Fang]]); tötete [[Storm Holder]] heimtückisch, zentraler neuer Antagonist
+- [[Scale Piercer]] *(ausgebaut Session 29, vertieft Session 30)* — Usurpator-Oberhaupt von [[Sim]]s Heimatdorf [[Cloud Fang]] (seit S30 bestätigt); tötete [[Storm Holder]] heimtückisch, zentraler neuer Antagonist
 - [[Storm Holder]] *(neu ausgebaut, Session 29)* — Sims Vater, ermordetes früheres Dorfoberhaupt
+- [[Nature's Guide]] *(neu, Session 30)* — uralter Simian-Druide, Kindheitsbekannter [[Sim]]s; entsteinert Khirin, entfernt die Flüche der Gruppe
 - [[Elliot]]
 - [[Fürst Alator]]
 - [[Nora]]
@@ -58,24 +60,28 @@ sources: []
 
 ## Aktuelle Fäden
 
-- **Scale Piercer herausfordern ([[Session 29]])**: [[Sim]] (jetzt „Plane Walking Eye") will **[[Scale Piercer]]** für den heimtückischen Mord an seinem Vater [[Storm Holder]] zum Duell stellen und das Dorf (vermutlich [[Cloud Fang]]) retten; die Gruppe unterstützt ihn. Duell-Ausgang offen.
-- **[[Olmea-Wald]] ([[Session 28]]–[[Session 29]])**: Der unbenannte Wald nach der Styx-Überfahrt heißt laut DM „Olmea-Wald" (sehr wahrscheinlich, aber nicht ausdrücklich als Fortsetzung bestätigt). Tabaxi-Überfall abgewehrt; zerbröckelnde fliegende Inseln mit steinwerfenden Riesenvögeln (Ursache unbekannt); ein rätselhafter Gruppenwahn aus Session 28 (Wisdom Save) betrifft alle außer [[Naeli]] — evtl. teilerklärt durch die in Session 29 enttarnten Höllenkonstrukte (unbestätigt).
+- **Scale Piercer herausfordern ([[Session 29]]–[[Session 30]])**: [[Sim]] (jetzt „Plane Walking Eye") will **[[Scale Piercer]]** für den heimtückischen Mord an seinem Vater [[Storm Holder]] zum Duell stellen und das Dorf **[[Cloud Fang]]** (seit S30 bestätigt) retten; die Gruppe unterstützt ihn. Verlieren bedeutet laut Stammeszeugen dauerhafte Verstümmelung und das Ende jeder weiteren Herausforderung. Duell-Ausgang offen.
+- **Cliffhanger am Druidenschrein ([[Session 30]])**: Direkt nach Nature's Guides Weggang beginnen die Runen des [[Druidenschrein (Cloud Fang)|Steinkreises]] von selbst zu leuchten, ein schwarzer Nebel manifestiert sich — völlig ungeklärt.
+- **Die weiße Echse / Energie-Drain im Nordwesten ([[Session 30]])**: Die Naturenergie der Region drainiert seit 3–4 Jahren in einen Konvergenzpunkt im Nordwesten; [[Naeli]]s Vision zeigt dort eine **[[Weiße Echse (Vision)|weiße Echse]]** — neues zentrales Mysterium, vermutlich verknüpft mit dem Zerbröckeln der fliegenden Inseln.
+- **Khirin entsteinert, Magdas Patient weiterhin unbekannt ([[Session 30]])**: [[Khirin]] war die ganze Zeit separat als Stein versteinert und wird von **[[Nature's Guide]]** entsteinert (Arm bleibt fehlend); der von [[Magda]] getragene „Patient" ist bestätigt eine andere Person.
+- **[[Olmea-Wald]] ([[Session 28]]–[[Session 30]])**: Der unbenannte Wald nach der Styx-Überfahrt heißt laut DM „Olmea-Wald" (sehr wahrscheinlich, aber nicht ausdrücklich als Fortsetzung bestätigt). Tabaxi-Überfall abgewehrt; zerbröckelnde fliegende Inseln mit steinwerfenden Riesenvögeln (Ursache unbekannt, evtl. mit dem Nordwesten-Energie-Drain verknüpft); ein rätselhafter Gruppenwahn aus Session 28 (Wisdom Save) betrifft alle außer [[Naeli]] — evtl. teilerklärt durch die in Session 29 enttarnten Höllenkonstrukte (unbestätigt).
 - **Höllenkonstrukte enttarnt ([[Session 29]])**: Alle am [[Styx]] zurückerhaltenen Fährgeld-Gegenstände sind laut [[Berta]] Höllenkonstrukte; ihr Hexenhut wurde bei der Entfluchung zerstört, [[Hrímnir]]s [[Cloak of Many Fashions]] ist überraschend auf ihn attuned.
-- **Neue Flüche entdeckt ([[Session 29]])**: [[Pyraschan]] trägt laut Detect Magic einen eigenen, unbekannten Fluch; [[Naeli]]s Hautveränderung ist laut DM seit einem Ereignis namens „[[Kalden]]" bekannt — Zusammenhang ungeklärt.
-- **[[Pyraschan]]s Auftrag für den [[Goetterfunke|Götterfunken]] ([[Session 29]])**: DM bestätigt erstmals ausdrücklich eine aktive Verbindung; Widerspruch zu Pyraschans Kalineon-Unkenntnis aus [[Session 26]] bleibt ungeklärt.
+- **Flüche entfernt, Preis unklar ([[Session 29]]–[[Session 30]])**: [[Nature's Guide]] entfernt am Druidenschrein die Höllenflüche von Berta, Hrímnir, Naeli und Sim (Pyraschans Fall unklar) — gegen den Verlust einer persönlichen Erinnerung (explizit bei Naeli gezeigt: Erinnerung an das Brennen von Alkohol).
+- **[[Pyraschan]]s Auftrag für den [[Goetterfunke|Götterfunken]] ([[Session 29]])**: DM bestätigt erstmals ausdrücklich eine aktive Verbindung; Widerspruch zu Pyraschans Kalineon-Unkenntnis aus [[Session 26]] bleibt ungeklärt. Neues Detail ([[Session 30]]): ein Rosentattoo wächst um seinen Hals während der Fluch-Entfernung, stoppt aber auf halbem Weg.
 - **Am [[Styx]] ([[Session 27]])**: Ein [[Fährmann des Styx|Fährmann]] verlangte Fährgeld (etwas Unersetzliches); das Boot sank, die Gruppe ertrank und tauchte wieder auf, die Gaben trieben zurück (u. a. ein Lumpen, der wie [[Hrímnir]]s [[Cloak of Many Fashions]] aussieht). Erlaubnis von [[Sariel]] nötig. Level-Up am Ende der Session.
 - **Befreite Elfen**: ~26 Elfen aus dem Käfigwagen, eine davon ([[Magda]]) begleitet die Gruppe.
 - **Gestrandet in [[Avernus]]** *(möglicherweise seit [[Session 28]] beendet, unbestätigt)*: Die Gruppe wurde am Ende von [[Session 25]] durch einen Riss über Lunovar zusammen mit Turmtrümmern in die erste Schicht der Neun Höllen gerissen. **Der Riss schloss sich in [[Session 26]]** und setzte eine Wolkenfront frei, die in [[Session 27]] als **Blutregen** ankam. Der einzige genannte Rückweg war der [[Styx]].
 - **Ursache des Risses wieder offen**: Der [[Drift-Zeppelin]] hat [[Session 25]] überlebt und starb erst in [[Session 26]] in Avernus — sein Tod kann den Riss also nicht ausgelöst haben.
 - **Funde aus der [[Imp-Höhle]] identifiziert ([[Session 29]])**: [[Bastardschwert aus Avernus|Großschwert]] ist ein +2-Großschwert mit 1d4 Selbstschaden; [[Grünes Erz (Avernus)|grünes Erz]] ist Batorianischer Stahl; der [[Demon Core]] wurde durch [[Pyraschan]] in Lava versenkt und verstrahlte dabei die ganze Gruppe — Spätfolgen bei Pyraschan erstmals in Session 29 rückläufig.
 - **[[Magolor]] mutmaßlich tot**: In [[Session 25]] von [[Hrímnir]] aus großer Höhe fallen gelassen — kein Leichenfund, letzte Sicherheit fehlt.
-- **[[Khirin]]s dauerhafte Verstümmelung**: fehlender Arm, amputiertes Bein seit [[Session 25]]; seit [[Session 27]] sehr wahrscheinlich der von [[Berta]] getragene Patient.
+- **[[Khirin]]s dauerhafte Verstümmelung**: fehlender Arm, amputiertes Bein seit [[Session 25]] — **nicht** identisch mit dem von [[Berta]]/[[Magda]] getragenen Patienten (seit [[Session 30]] widerlegt); Khirin wurde in [[Session 30]] entsteinert, der Arm bleibt dauerhaft fehlend.
 - **[[Lunovar]] unter Angriff / Turmeinsturz**: Zustand der Stadt, der Akademie und der Evakuierung nach dem Turmeinsturz aus [[Session 25]] ungeklärt.
 - **[[Naeli]]s Verzauberung**: Essenz-/Seelenbuch wären mögliche Heilwege; das Buch der Seelen ist seit [[Session 25]] vermutlich in Gruppenbesitz, aber noch nicht genutzt.
 - **[[Khirin]]s Kristallkugel-Pendant / gestohlenes Essenz-Buch**: Spur führt weiter Richtung **[[Carbus]]**.
 
 ## Letzte Sessions
 
+- [[Session 30]]
 - [[Session 29]]
 - [[Session 28]]
 - [[Session 27]]
@@ -136,3 +142,6 @@ sources: []
 - [[Dire Wolf]]
 - [[Tabaxi]]
 - [[Riesenvögel (Olmea-Wald)]]
+- [[Cloud Fang]]
+- [[Druidenschrein (Cloud Fang)]]
+- [[Weiße Echse (Vision)]]

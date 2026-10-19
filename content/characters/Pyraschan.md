@@ -20,12 +20,15 @@ related:
   - Tabaxi
   - Kalden
   - Session 29
+  - Session 30
+  - Nature's Guide
 sources:
   - Session 26 transcript
   - Session 28 transcript
   - Session 29 transcript
+  - Session 30 transcript
 created: 2026-09-15
-updated: 2026-10-12
+updated: 2026-10-19
 status: developing
 ---
 
@@ -134,15 +137,26 @@ Fast alles ist noch offen. Belegt ist nur:
 - Verliert nach der Rast seine **Exhaustion** (bestandener Con-Save) — erste Besserung der Demon-Core-Strahlenkrankheit seit Wochen.
 - Im abschließenden Kampf gegen den Vogelschwarm: trifft sich bei einem Fehlwurf versehentlich selbst (11 Schaden).
 
-## Offene Fragen (aktualisiert nach [[Session 29]])
+## [[Session 30]] — Rosentattoo und ein unklares Fluch-Ergebnis
+
+- Fällt beim Mud-Sliding in den Krater vom improvisierten Baumrinden-Schlitten und nimmt 2d6 Sturzschaden.
+- Fliegt mit seinen Flügeln die 100-Fuß-Felswand zum [[Druidenschrein (Cloud Fang)|Druidenschrein]] hoch (statt zu klettern).
+- Lässt sich von **[[Nature's Guide]]** den Höllenfluch entfernen: Während des Rituals beginnt sichtbar ein **Rosentattoo um seinen Hals zu wachsen**, bleibt aber auf halbem Weg stehen — er selbst deutet dies als Zeichen, dass „mächtigere Magie" am Werk ist. Nimmt erheblichen psychischen Schaden (durch Würfelglück gemildert).
+
+> [!contradiction] Fluch tatsächlich entfernt? — Ausdrücklich unklar
+> Im Gegensatz zu Berta, Hrímnir, Naeli und Sim bestätigt der Tisch bei Pyraschan **nicht eindeutig**, ob der entfernte Effekt wirklich sein Fluch war oder nur eine komische Fehldeutung („Verblähungen") — bewusst als Scherz offengelassen. Nicht als abgeschlossen vermerkt.
+
+## Offene Fragen (aktualisiert nach [[Session 30]])
 - Wie lautet sein Name wirklich, und wie schreibt er sich?
 - Welche Rasse, welcher Orden, welcher Schwur?
 - Wie geriet er in den Riss, und woher kam er?
 - Woher stammt seine sichtbare Selbstheilung?
 - Wer ist der „Herr", der ihm befahl, bei der Gruppe zu bleiben? Ist der „Götterfunk", für den er arbeitet, derselbe wie der politische [[Goetterfunke]] von [[Kalineon]]?
 - Wie erklärt sich sein plötzliches „Wiedererwachen" zusammen mit der Gruppe nach der Styx-Überfahrt, obwohl er in [[Session 27]] zurückgelassen wurde?
-- **Neu**: Welche Art Fluch trägt Pyraschan laut Detect Magic — und was hat das mit „Kalden" zu tun?
-- **Neu**: Welche Rolle spielt [[Elliot|Elliot Casterwell]]/[[Elliot]] im Gefolge des Götterfunken, und wie gut kennt Pyraschan ihn wirklich?
+- Welche Art Fluch trägt Pyraschan laut Detect Magic — und was hat das mit „Kalden" zu tun?
+- Welche Rolle spielt [[Elliot|Elliot Casterwell]]/[[Elliot]] im Gefolge des Götterfunken, und wie gut kennt Pyraschan ihn wirklich?
+- **Neu**: Was bedeutet das Rosentattoo um seinen Hals, und welche „mächtigere Magie" hat die Entfluchung dort gestoppt?
+- **Neu**: Ist sein Fluch durch das Druidenritual tatsächlich entfernt worden, oder weiterhin aktiv?
 
 ## Verknüpfungen
 - [[Session 26]] · [[Session 26 transcript]] · [[Avernus]] · [[Imp-Höhle]]
@@ -150,3 +164,4 @@ Fast alles ist noch offen. Belegt ist nur:
 - [[Demon Core]] · [[Bastardschwert aus Avernus]] · [[Grünes Erz (Avernus)]] · [[Kettenteufel]] · [[Imp]] · [[Drift-Zeppelin]] · [[Kalineon]]
 - [[Session 27]] · [[Session 28]] · [[Session 28 transcript]] · [[Goetterfunke]] · [[Olmea-Wald]] · [[Ork (Kreatur)]] · [[Magda]]
 - [[Session 29]] · [[Session 29 transcript]] · [[Elliot]] · [[Tabaxi]] · [[Riesenvögel (Olmea-Wald)]] · [[Kalden]]
+- [[Session 30]] · [[Session 30 transcript]] · [[Nature's Guide]] · [[Druidenschrein (Cloud Fang)]] · [[Cloud Fang]]

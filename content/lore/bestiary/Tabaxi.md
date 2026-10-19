@@ -11,10 +11,12 @@ related:
   - Sim
   - Scale Piercer
   - Session 29
+  - Session 30
 sources:
   - Session 29 transcript
+  - Session 30 transcript
 created: 2026-10-12
-updated: 2026-10-12
+updated: 2026-10-19
 status: developing
 ---
 
@@ -32,10 +34,13 @@ Die Tabaxi geben „den Affen" (Simianern, siehe [[Sim]]s Heimatdorf) die Schuld
 - Verhör: Der erste geweckte Gefangene bleibt trotz gebrochener Finger (Intimidation) feindlich; ein zweiter gibt nach Persuasion (15) Auskunft über den Wald ([[Olmea-Wald]]), die Richtung des Tabaxi-Dorfs und der fliegenden Inseln, sowie über die vermeintliche Kriegsschuld der Simianer.
 - Die Gefangenen werden nach dem Verhör zurückgelassen (nicht getötet, keine dauerhafte Allianz).
 
+## [[Session 30]] — Beiderseitige Narben als Kriegsbeweis
+Bei der Begegnung mit Sims eigenem Stamm (siehe [[Cloud Fang]]) zeigt ein Simianer eine alte Tabaxi-Kratzwunde als Beweis gegen eine Tabaxi-Allianz-Vermutung; [[Hrímnir]] zeigt im Gegenzug seine frische Kratzwunde aus dem Tabaxi-Kampf von [[Session 29]]. Bestätigt indirekt: Der Konflikt zwischen Tabaxi und Simianern ist beiderseitig blutig und nicht neu.
+
 ## Offene Fragen
 - Wie heißt das Tabaxi-Dorf, und wo genau liegt es (Himmelsrichtung am Tisch uneinheitlich)?
 - Gibt es eine Möglichkeit, Frieden zwischen Tabaxi und Sims Heimatdorf zu vermitteln, sobald [[Scale Piercer]] gestürzt ist?
 
 ## Verknüpfungen
-- [[Olmea-Wald]] · [[Session 29]] · [[Session 29 transcript]]
-- [[Sim]] · [[Scale Piercer]] · [[Berta]] · [[Hrímnir]]
+- [[Olmea-Wald]] · [[Session 29]] · [[Session 29 transcript]] · [[Session 30]] · [[Session 30 transcript]]
+- [[Sim]] · [[Scale Piercer]] · [[Berta]] · [[Hrímnir]] · [[Cloud Fang]]

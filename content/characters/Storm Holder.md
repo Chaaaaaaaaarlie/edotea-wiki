@@ -14,16 +14,18 @@ related:
   - Scale Piercer
   - Cloud Fang
   - Session 29
+  - Session 30
 sources:
   - Session 29 transcript
+  - Session 30 transcript
 created: 2026-05-11
-updated: 2026-10-12
+updated: 2026-10-19
 status: developing
 ---
 # Storm Holder
 
 ## At a Glance
-Vater von [[Sim]] und früheres, beliebtes Oberhaupt von [[Sim]]s Heimatdorf (vermutlich [[Cloud Fang]]). Erhielt seinen verdienten Namen, weil er einst Menschen vor einem Sturm rettete. Führte das Dorf jahrzehntelang friedlich. Wurde von **[[Scale Piercer]]** im heiligen Ritualduell um die Dorfführung fair besiegt — und danach heimtückisch getötet, unter Bruch der heiligen Duellregeln.
+Vater von [[Sim]] und früheres, beliebtes Oberhaupt von [[Sim]]s Heimatdorf **[[Cloud Fang]]** (seit [[Session 30]] von Sim selbst bestätigt). Erhielt seinen verdienten Namen, weil er einst Menschen vor einem Sturm rettete. Führte das Dorf jahrzehntelang friedlich. Wurde von **[[Scale Piercer]]** im heiligen Ritualduell um die Dorfführung fair besiegt — und danach heimtückisch getötet, unter Bruch der heiligen Duellregeln.
 
 ## Hintergrund
 - Verdiente sich den Namen „Storm Holder", indem er Menschen vor einem Sturm bewahrte.
@@ -37,7 +39,12 @@ Vater von [[Sim]] und früheres, beliebtes Oberhaupt von [[Sim]]s Heimatdorf (ve
 ## Story Beats
 ### [[Session 29]]
 - Sein Schicksal wird erstmals ausführlich erzählt: [[Sim]] erkennt aus der Beschreibung des neuen Dorfoberhaupts seine Heimat wieder und bricht vor Trauer/Schuld fast zusammen (zerschlägt sich beinahe die Hand an einem Baum).
-- Sims Vermächtnis: ein nicht verbrannter, magisch unzerstörbarer Abschiedsbrief (siehe [[Sim]]), den er sich erst nach dem Tod seines Vaters durchlas, nach einem ungeklärten Streit zwischen beiden.
+- Sims Vermächtnis: ein nicht verbrannter, magisch unzerstörbarer (genauer: gebundener) Abschiedsbrief (siehe [[Sim]]), den er sich erst nach dem Tod seines Vaters durchlas, nach einem ungeklärten Streit zwischen beiden.
+
+### [[Session 30]]
+- [[Cloud Fang]] als Dorf bestätigt (Sims Selbstkorrektur „Cloudfang, nicht Firstfang").
+- Ein Stammesmitglied bestätigt indirekt die Brutalität des Nachfolgers: Wer Scale Piercer herausfordert und verliert, wird verstümmelt und verliert das Recht auf eine erneute Herausforderung — unterstreicht, wie ungleich Storm Holders fairer Tod gegen die eigenen heiligen Regeln war.
+- **Sims gebundener Abschiedsbrief wird von [[Berta]] zerstört** (siehe [[Sim]]) — vermutlich zur Schwächung von Sims Fluch, nicht aus Geringschätzung des Andenkens.
 
 ## Offene Fragen
 - Wie genau lief das Duell und der Verrat danach ab — gibt es Zeugen außer Scale Piercer?
@@ -45,3 +52,4 @@ Vater von [[Sim]] und früheres, beliebtes Oberhaupt von [[Sim]]s Heimatdorf (ve
 
 ## Verknüpfungen
 - [[Cloud Fang]] · [[Scale Piercer]] · [[Sim]] · [[Session 29]] · [[Session 29 transcript]]
+- [[Session 30]] · [[Session 30 transcript]]

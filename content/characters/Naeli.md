@@ -10,8 +10,9 @@ sources:
   - Tagebücher Wilhelm Casterwill
   - Session 17 transcript
   - Session 28 transcript
+  - Session 30 transcript
 created: 2026-05-11
-updated: 2026-09-28
+updated: 2026-10-19
 status: developing
 ---
 ![[Naeli.png|496]]
@@ -172,6 +173,13 @@ status: developing
 - Hält während Bertas Identify-Sitzung ihre gewohnte **vierstündige „Trance"** als Rastform.
 - Laut DM wusste sie bereits **seit einem Ereignis namens „Kalden"**, dass ein magischer Effekt auf ihr lastet — Identify an ihr selbst findet entsprechend „nichts Verändertes" (siehe [[Kalden]], ungeklärt).
 - Wirft im abschließenden Kampf gegen den Vogelschwarm einen schweren Säure-Flächenzauber (vermutlich **Vitriolic Sphere**), der mehrere Vögel vollständig zerätzt — mit sichtbaren Kollateralschäden an Fischen und Vegetation.
+
+## [[Session 30]]
+
+- **Körperliche Stärkung erstmals fiktional bestätigt**: Beim Aufstieg zur 100-Fuß-Felswand zum [[Druidenschrein (Cloud Fang)|Druidenschrein]] beschreibt der DM, wie der Fels unter ihren Schritten erzittert und sich ihre Hände an, als könnten sie Stein zermalmen — eine Veränderung, die eingangs der Session nur scherzhaft angedeutet wurde (*„Naeli ist gewachsen"*).
+- Nimmt als Einzige der Gruppe aktiv am druidischen **Kommunionsritual** von [[Nature's Guide]] teil (Con-Save gegen Gift bestanden) und erlebt die zentrale Vision: Die Welt „blutet", Naturenergie fließt in Richtung eines Konvergenzpunkts im Nordwesten, an dem eine **[[Weiße Echse (Vision)|weiße Echse]]** erscheint.
+- Unterstützt die Greater-Restoration-Entsteinerung [[Khirin]]s aktiv im Kreis (Nature- und Arcana-Check, hält seine Hand).
+- **Lässt im Rahmen der reihum durchgeführten Fluch-Entfernung auch ihren eigenen Fluch entfernen** (nach [[Hrímnir]], vor [[Sim]]) und zahlt dabei explizit einen Preis: Sie **verliert die Erinnerung daran, wie das Brennen von Alkohol sich anfühlt** — bemerkt nur, dass ihr etwas fehlt, ohne zu wissen was, und ist sichtlich traurig. Kann laut DM weiterhin trinken, hat aber „nichts mehr davon".
 
 ## Verknüpfungen
 

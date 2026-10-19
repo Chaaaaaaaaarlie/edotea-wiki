@@ -2,16 +2,17 @@
 type: meta
 title: "Sessions Index"
 created: 2026-05-11
-updated: 2026-10-12
+updated: 2026-10-19
 tags:
   - meta
   - sessions
 status: evergreen
 ---
 
-# Sessions (30)
+# Sessions (31)
 
 Neueste oben.
+- [[Session 30]]
 - [[Session 29]]
 - [[Session 28]]
 - [[Session 27]]
@@ -43,6 +44,7 @@ Neueste oben.
 - [[Session 1]]
 - [[Session 0]]
 
+> [!note] [[Session 30]] wurde am 2026-10-19 aus dem WhisperX-Transkript `craig-12nKHYLNNoXG-Zx4MIKRxS_bSRBe_20261019_201857/corrected_obsidian.md` ingestiert (3366 Segmente, ~2h45min, 6 Craig-Spuren); gespielt 2026-10-19. Fortsetzung durch den [[Olmea-Wald]] bis [[Cloud Fang]] (von [[Sim]] live bestätigt); Fund eines Ork-Arms im Krater; angespannte Begegnung mit Sims Stamm (neue Details zu [[Scale Piercer]]); Zerstörung von Sims gebundenem Brief; Aufstieg zum [[Druidenschrein (Cloud Fang)|Druidenschrein]]; Begegnung mit [[Nature's Guide]]; Entsteinerung [[Khirin]]s (bestätigt eigenständig von Magdas Patient); Fluch-Entfernung bei allen fünf PCs; Cliffhanger mit leuchtenden Runen und schwarzem Nebel.
 > [!note] [[Session 29]] wurde am 2026-10-12 aus dem WhisperX-Transkript `craig-UDD56lLq3YTc-VcE-QRf2vQxLTZO_20261012_202935/corrected_obsidian.md` ingestiert (4195 Segmente, ~3h23min, 6 Craig-Spuren); gespielt 2026-10-12. Fortsetzung des Marsches durch den [[Olmea-Wald]] (benannt vom DM, ersetzt Arbeitstitel „Kristallhöhlenwald"); Kampf gegen einen feindlichen [[Tabaxi]]-Stamm; Enthüllung von [[Sim]]s Vorgeschichte ([[Storm Holder]]/[[Scale Piercer]]); Sim erhält den Namen „Plane Walking Eye"; Begegnung mit steinwerfenden [[Riesenvögel (Olmea-Wald)|Riesenvögeln]] unter den fliegenden Inseln; nächtliche Identify-Sitzung enttarnt Höllenkonstrukte; Kampf gegen einen Vogelschwarm.
 > [!note] [[Session 28]] wurde am 2026-09-28 aus dem WhisperX-Transkript `craig-KI33JbMVeJdA-yYLeJN2A5qYVXRW_20260928_191636/corrected_obsidian.md` ingestiert (2418 Segmente, ~1h56min, 6 Craig-Spuren); gespielt 2026-09-28. Erwachen in einem unbekannten Wald ([[Kristallhöhlenwald]]) nach der Styx-Überfahrt; alle fünf PCs wieder aktiv (Pyraschan per DM-Retcon zurück); Ork-Überfall samt Dire Wolf; [[Magda]] übernimmt den Patienten; Begegnung mit zwei Riesenwesen; rätselhafter Gruppenwahn (Wisdom Save).
 > [!note] [[Session 27]] wurde am 2026-09-21 aus dem WhisperX-Transkript `craig-rM3pIMC8VKVR-Qm5yT0XJOzijFFD_20260921_233828/corrected_obsidian.md` ingestiert (3755 Segmente, ~3h01min, 5 Craig-Spuren; `luke_234` fehlt); gespielt 2026-09-21. Blutregen, Käfigwagen mit Elfen ([[Knochenteufel]]/[[Dornenteufel]]), Befreiung, [[Magda]], der [[Styx]] und der [[Fährmann des Styx|Fährmann]]; Fährgeld; Level-Up.

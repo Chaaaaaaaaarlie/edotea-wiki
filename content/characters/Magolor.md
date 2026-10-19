@@ -144,6 +144,11 @@ Verhört von der Gruppe, bestätigt seine Agentin **Evelyn** (siehe [[Elfaria Al
 - Sein zweites Buch verwandelt während des Kampfs die Leiche des blauen Drachen in eine neue Kreatur, den [[Drift-Zeppelin]] (siehe dort).
 - Beide Bücher (Buch der Schwellen + vermutetes Buch der Seelen) werden von der Gruppe erbeutet und sind seither in [[Hrímnir]]s Besitz.
 
+## [[Session 30]] — Möglicher Bezug zu Cloud Fang (unbestätigt)
+
+> [!gap] Spinnenbeinige Kreaturen bei [[Cloud Fang]]
+> Stammesmitglieder von [[Sim]]s Heimatdorf [[Cloud Fang]] berichten in [[Session 30]], das Dorf sei vor rund einem halben Jahr von „komischen, fetten Viechern mit Spinnenbeinen" überfallen worden — zeitlich etwa gleichauf mit [[Scale Piercer]]s Machtübernahme. Die Gruppe erinnert sich an ähnliche spinnenbeinige Kreaturen aus eigener Vorgeschichte (vermutlich [[Spinnenwesen]], mit Magolor assoziiert) und vermutet einen Zusammenhang — **vom DM nicht bestätigt oder dementiert**. Falls real, wäre dies der erste Hinweis auf Magolor-(oder zumindest Spinnenwesen-)Aktivität weit außerhalb von [[Lunovar]]/[[Kalineon]], auf einem offenbar anderen Kontinent/einer anderen Region als der [[Olmea-Wald]].
+
 ## Offene Fragen
 - Welche zwei Bücher hat er konkret (Raum/Essenz/Seele zu grün/rot)?
 - Wie viele Helfer hat sein Kreis?
@@ -152,6 +157,7 @@ Verhört von der Gruppe, bestätigt seine Agentin **Evelyn** (siehe [[Elfaria Al
 - Hat er die Brosche tatsächlich abgehört oder ist die Funktion **passiv** (nur Ortung permanent)?
 - Ist der Kreis im Norden aus [[Session 24]] Magolors Werk oder nur mit seinem Faden verbunden?
 - Ist Magolor in [[Session 25]] wirklich endgültig gestorben, oder taucht er (z. B. via Seelenmagie) noch einmal auf?
+- **Neu**: Hängt der Überfall spinnenbeiniger Kreaturen auf [[Cloud Fang]] ([[Session 30]]) wirklich mit ihm zusammen?
 
 ## Verknüpfungen
 - [[Anwesen]] · [[Elliot]] · [[Lysanthiriel Vaelora]] · [[Oestliche Garnison von Cadnix]] · [[Wilhelm Casterwill]] · [[Borgrim Runenbrecher]]
@@ -159,3 +165,4 @@ Verhört von der Gruppe, bestätigt seine Agentin **Evelyn** (siehe [[Elfaria Al
 - [[Sophie Marie]] · [[Spymaster]]
 - [[Session 4]] · [[Session 5]] · [[Session 6]] · [[Session 7]] · [[Session 10]] · [[Session 11]] · [[Session 14]] · [[Session 21]] · [[Session 22]] · [[Session 24]] · [[Session 25]]
 - [[Cassomir]] · [[Lunovar]] · [[Kalineon]] · [[Kalineon-Royalisten]] · [[Drift-Zeppelin]] · [[Avernus]]
+- [[Cloud Fang]] · [[Scale Piercer]] · [[Session 30]]

@@ -2,7 +2,7 @@
 type: meta
 title: "Characters Index"
 created: 2026-05-11
-updated: 2026-10-12
+updated: 2026-10-19
 tags:
   - meta
   - characters
@@ -18,9 +18,9 @@ status: evergreen
 - [[Naeli]]
 - [[Pyraschan]] *(neu, Session 26 — Paladin, Level 7; Craig-Spur `luke_234`, zuvor [[Khirin]]; in [[Session 27]] krank zurückgelassen, ab [[Session 28]] per DM-Retcon wieder bei der Gruppe)*
 - [[Sim]] — seit [[Session 29]] trägt er den verdienten Namen **„Plane Walking Eye"** (Sim bleibt gültiger Rufname)
-- [[Khirin]] — *seit [[Session 26]] nicht mehr aktiv gespielt; wird verstümmelt und bewusstlos als Verletzter mitgeführt (seit [[Session 28]] von [[Magda]] getragen; fehlendes Bein dort beiläufig bestätigt)*
+- [[Khirin]] — *seit [[Session 26]] nicht mehr aktiv gespielt; in [[Session 30]] entsteinert und wieder bei Bewusstsein (siehe dort — der zuvor vermutete „Patient" bei [[Magda]] war die ganze Zeit eine andere Person)*
 
-## NPCs (30)
+## NPCs (31)
 
 - [[Aalafiel]] — *(Session 17 persönlich getroffen: ~3200 J., verflucht; Lysantirs Freundin; Trank aus ihrem Blut)*
 - [[Borgrim Runenbrecher]]
@@ -50,5 +50,6 @@ status: evergreen
 - [[Wukong]]
 - [[Y'Chak]]
 - [[Zwergenmeister Schmiedemeisterei]]
-- [[Magda]] *(neu, Session 27 — Halbelfin, befreit aus dem Käfigwagen, begleitet die Gruppe; trägt seit [[Session 28]] den bewusstlosen Patienten)*
+- [[Magda]] *(neu, Session 27 — Halbelfin, befreit aus dem Käfigwagen, begleitet die Gruppe; trägt seit [[Session 28]] einen bewusstlosen Patienten, der laut [[Session 30]] bestätigt **nicht** [[Khirin]] ist)*
 - [[Fährmann des Styx]] *(neu, Session 27 — blinder gehörnter Fährmann am [[Styx]])*
+- [[Nature's Guide]] *(neu, Session 30 — uralter Simian-Druide, Kindheitsbekannter [[Sim]]s; entsteinert [[Khirin]] und entfernt die Flüche der Gruppe)*

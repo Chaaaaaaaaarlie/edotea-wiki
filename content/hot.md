@@ -2,7 +2,7 @@
 type: meta
 title: "Hot Cache"
 created: 2026-05-11
-updated: 2026-10-12
+updated: 2026-10-19
 tags:
   - meta
 status: evergreen
@@ -11,50 +11,45 @@ status: evergreen
 # Recent Context
 
 ## Last Updated
-2026-10-12 — **Session 29** ingestiert (gespielt 2026-10-12). Die Gruppe setzt den Marsch durch den [[Olmea-Wald]] (benannt vom DM — ersetzt den Arbeitstitel „Kristallhöhlenwald" aus [[Session 28]], Gleichsetzung sehr wahrscheinlich, nicht ausdrücklich bestätigt) fort. Ein feindlicher **[[Tabaxi]]**-Stamm überfällt sie (ein Toter, drei gefangen/verhört, einer geflohen); die Gefangenen enthüllen den Waldnamen und dass [[Sim]]s Heimatdorf jenseits einstürzender fliegender Inseln liegt. [[Sim]] erfährt, dass sein Vater **[[Storm Holder]]** von **[[Scale Piercer]]** nach einem fairen Ritualduell heimtückisch ermordet wurde; die Gruppe beschließt, Sim bei einer Herausforderung zu unterstützen. Am Lagerfeuer erhält Sim den verdienten Namen **„Plane Walking Eye"**. Eine nächtliche Identify-Sitzung enttarnt die am [[Styx]] zurückerhaltenen Gegenstände als **Höllenkonstrukte** (Bertas Hexenhut wird dabei zerstört); das Großschwert aus [[Avernus]] wird als +2-Großschwert mit Selbstschaden identifiziert, der Erzbrocken als Batorianischer Stahl. [[Pyraschan]] entdeckt per Detect Magic einen eigenen Fluch, und der DM bestätigt dabei erstmals ausdrücklich seinen Auftrag für den [[Goetterfunke|Götterfunken]]. Session endet mit einem klar gewonnenen Kampf gegen einen Vogelschwarm.
+2026-10-19 — **Session 30** ingestiert (gespielt 2026-10-19). Die Gruppe erreicht die Berge um [[Sim]]s Heimatdorf, das er selbst live als **[[Cloud Fang]]** bestätigt (zuvor nur „sehr wahrscheinlich"). Ein eigener Stammestrupp begegnet ihr misstrauisch und enthüllt neue Details zu **[[Scale Piercer]]**s brutaler Herrschaft: Wer ihn herausfordert und verliert, wird verstümmelt und darf nie wieder herausfordern. Bei der Nachtrast zerstört [[Berta]] Sims gebundenen Abschiedsbrief; beim Aufstieg zu einem alten Druidenschrein wird [[Naeli]]s körperliche Stärkung erstmals in der Fiktion sichtbar. Der uralte Simian-Druide **[[Nature's Guide]]** — ein Kindheitsbekannter Sims — entsteinert mit zwei weiteren Druiden **[[Khirin]]** per Greater Restoration (der fehlende Arm bleibt dauerhaft). **Großer Twist**: Khirin wurde die ganze Zeit separat als Stein in einer Tasche mitgeführt — der seit [[Session 26]] vermutete „Patient", den [[Magda]] trägt, ist eine **andere, weiterhin unbenannte Person**. Nature's Guide enthüllt zudem, dass die Naturenergie der Region seit 3–4 Jahren in einen Konvergenzpunkt im Nordwesten abfließt, den Naeli in einer Vision als **weiße Echse** sieht. Anschließend entfernt er reihum die Höllenflüche aller fünf PCs gegen den Preis einer persönlichen Erinnerung (explizit bei Naeli: Erinnerung an das Brennen von Alkohol; Pyraschans Ergebnis bleibt unklar, neues Rosentattoo um seinen Hals). Cliffhanger: Kurz nach Nature's Guides Weggang leuchten die Runen des Steinkreises von selbst, ein schwarzer Nebel manifestiert sich.
 
-*(Davor: 2026-09-28 — Session 28; 2026-09-21 — Session 27.)*
+*(Davor: 2026-10-12 — Session 29; 2026-09-28 — Session 28.)*
 
 ## Campaign Snapshot
-**Edotea** ist eine D&D-Kampagne auf dem [[Kontinent Edotea]]. Aktive PCs: [[Berta]] (Sorcerer/Warlock), [[Hrímnir]] ([[Goliath]] Cleric/Monk), [[Naeli]] (Halbling Druidin, 88 cm), [[Sim]] (Simian Fighter/Ranger, seit S29 „Plane Walking Eye"), [[Pyraschan]] (Paladin, Level 7 — wieder aktiv seit S28). [[Khirin]] (Halbelf Wizard, ohne Arm und Bein) ist sehr wahrscheinlich der von [[Magda]] getragene Patient; S29 wirft widersprüchlich auf, ob er zusätzlich versteinert ist (ungeklärt). Ort: [[Olmea-Wald]], evtl. nicht mehr [[Avernus]] (unbestätigt).
+**Edotea** ist eine D&D-Kampagne auf dem [[Kontinent Edotea]]. Aktive PCs: [[Berta]] (Sorcerer/Warlock), [[Hrímnir]] ([[Goliath]] Cleric/Monk), [[Naeli]] (Halbling Druidin, körperlich gestärkt seit S30), [[Sim]] (Simian Fighter/Ranger, seit S29 „Plane Walking Eye"), [[Pyraschan]] (Paladin, Level 7). [[Khirin]] (Halbelf Wizard, ohne Arm und Bein) ist seit [[Session 30]] entsteinert und wieder bei Bewusstsein (3 Level Exhaustion), aber kein aktiv gespielter PC. Ort: [[Cloud Fang]] (Sims Heimatdorf, am [[Druidenschrein (Cloud Fang)|Druidenschrein]] davor), jenseits des [[Olmea-Wald]]s, evtl. nicht mehr [[Avernus]] (unbestätigt).
 
-## Aktueller Stand nach Session 29
-Die Gruppe hat die gefährliche Zone unter den zerbröckelnden fliegenden Inseln umgangen (ca. 1,6–3 Tage Mehrweg) und rastet am Rand der Zone. Zentrales neues Ziel: [[Scale Piercer]] im Duell herausfordern, um Sims Heimatdorf (vermutlich [[Cloud Fang]]) zu retten. Mehrere neue Flüche/Rätsel sind offen (Pyraschan, Naeli, „[[Kalden]]").
+## Aktueller Stand nach Session 30
+Die Gruppe steht am Druidenschrein kurz unterhalb von Cloud Fang. Khirin ist zurück, alle fünf PCs haben ihre Höllenflüche (vermutlich) entfernt bekommen. Unmittelbarer Cliffhanger: von selbst leuchtende Runen und ein manifestierender schwarzer Nebel am Schrein — völlig ungeklärt. Mittelfristiges Ziel: Scale Piercer im Duell herausfordern; langfristig die weiße Echse/den Energie-Drain im Nordwesten untersuchen.
 
 ## Aktive Fäden
-1. **Scale Piercer herausfordern**: zentrales neues Ziel, Duell-Ausgang offen.
-2. **Ursache der zerbrechenden fliegenden Inseln**: unbekannt; Tabaxi geben den Simianern die Schuld.
-3. **Pyraschans und Naelis Flüche**: Detect Magic bestätigt, keine Lösung außer vagen Hinweisen auf [[Elliot]] oder die Dorfheilerin.
-4. **„Kalden"**: unklare Verbindung zu Naelis/Pyraschans Fluch, unbestätigt.
-5. **Khirins Versteinerungsstatus**: widersprüchlich beschrieben in S29, siehe [[Khirin]].
-6. **Hrímnirs gesuchte alte Freundin aus dem Norden**: ohne Namen/Details.
-7. **Rätselhafter Gruppenwahn (S28)**: evtl. teilerklärt durch die Höllenkonstrukte aus S29 (Bertas Theorie, unbestätigt).
-8. **Herkunft der Ork-Bande (S28)** und **Identität der zwei Riesenwesen (S28)**: weiter offen.
-9. **Spätfolgen des [[Demon Core]]**: Pyraschans Exhaustion erstmals rückläufig (Con-Save bestanden) — evtl. Trendwende, unbestätigt.
-10. **Magolors Tod unbestätigt** (S25); **Zustand von [[Lunovar]]** unbekannt.
-11. **[[Palamedis]] finden**; **[[Berta]]s Kopfgeld** bei [[Edgar Thorne]] in [[Carbus]].
+1. **Cliffhanger am Druidenschrein**: leuchtende Runen, schwarzer Nebel — unmittelbar ungeklärt.
+2. **Scale Piercer herausfordern**: Verlieren bedeutet laut Stammeszeugen dauerhafte Verstümmelung.
+3. **Weiße Echse / Energie-Drain im Nordwesten**: neues zentrales Mysterium, vermutlich mit den zerbröckelnden Inseln verknüpft.
+4. **Wer ist Magdas Patient wirklich?**: bestätigt nicht Khirin, Identität weiter offen.
+5. **Khirins Eltern/„Junova"**: Schicksal bewusst offengelassen, möglicher Bezug zu [[Lunovar]] unklar.
+6. **Pyraschans Rosentattoo/Fluch-Status**: Ergebnis der Entfluchung unklar.
+7. Weiterhin offen: „[[Kalden]]", Ursache der zerbrechenden Inseln, Hrímnirs gesuchte Freundin, Ursache des Gruppenwahns (S28).
+8. **Magolors mutmaßlicher Tod** unbestätigt; neue, unbestätigte Spur: Spinnenbeinige Kreaturen bei Cloud Fang vor ~einem halben Jahr.
 
 ## Key Facts
-- **[[Olmea-Wald]]**: Name vom DM improvisiert (nach seiner Katze „Olmea" in einem anderen Spiel); umfasst See/Wasserfall/Kristallhöhle (S28) und die Zone mit fliegenden Inseln (S29).
-- **Tabaxi-Kampf**: ein Toter, drei gefangen/verhört, einer geflohen; größtenteils non-lethal.
-- **Identify-Ergebnisse**: Großschwert +2/1d4 Selbstschaden; Erzbrocken = Batorianischer Stahl; Bertas Hexenhut + Hrímnirs [[Cloak of Many Fashions]] = Höllenkonstrukte (Hut zerstört, Umhang auf Hrímnir attuned).
-- **Buchverteilung geändert**: [[Naeli]] trägt jetzt das Buch der Schwellen, [[Hrímnir]] das vermutete Buch der Seelen.
-- **Elliot Casterwell** (vermutlich = [[Elliot]]) dient laut Pyraschan dem Götterfunken in der Hauptstadt.
+- **[[Cloud Fang]]**: Sims Heimatdorf, ~200 Einwohner, 1-2 Tagesmärsche jenseits des Olmea-Walds; Druidenschrein auf dem Bergpfad davor.
+- **Scale Piercer**: tötete Storm Holder nach fairem Duell heimtückisch; verstümmelt gescheiterte Herausforderer dauerhaft.
+- **Khirin**: entsteinert, Arm bleibt fehlend, 3 Level Exhaustion, wieder bei Bewusstsein, aber inaktiv als PC.
+- **Fluch-Entfernung**: kostet eine persönliche Erinnerung (Mechanik erstmals bei Naeli konkret gezeigt).
 
-## Loot / Besitzstatus (Stand Session 29)
-- Vier Scimitare/Speere (Ork, S28) unverändert.
-- [[Bastardschwert aus Avernus]] (identifiziert, +2) und [[Grünes Erz (Avernus)]] (Batorianischer Stahl) bei [[Berta]]/Gruppe.
-- **Verlust**: Bertas Hexenhut (bei Entfluchung zerstört).
-- [[Naeli]]: Buch der Schwellen. [[Hrímnir]]: vermutetes Buch der Seelen, [[Cloak of Many Fashions]] (attuned).
+## Loot / Besitzstatus (Stand Session 30)
+- **Verlust**: Sims gebundener Abschiedsbrief (von Berta zerstört).
+- **Verlust (immateriell)**: Naelis Erinnerung an das Brennen von Alkohol.
+- Keine neuen physischen Gegenstände.
 
 ## Recent Changes
-- 2026-10-12 (Ingest): [[Session 29]]. Tabaxi-Kampf, Olmea-Wald benannt, Sims Vorgeschichte (Storm Holder/Scale Piercer), Namensgebung „Plane Walking Eye", Identify-Sitzung (Höllenkonstrukte), Vogelschwarm-Kampf.
-- 2026-09-28 (Ingest): [[Session 28]]. Erwachen im [[Olmea-Wald]] (damals Arbeitstitel), Ork-Überfall, [[Magda]] trägt den Patienten, Riesenwesen, Gruppenwahn.
-- 2026-09-21 (Ingest): [[Session 27]]. Blutregen, Käfigwagen, Elfen befreit, [[Magda]], [[Styx]], Fährmann, Fährgeld, Level-Up.
+- 2026-10-19 (Ingest): [[Session 30]]. Cloud Fang bestätigt, Scale-Piercer-Details, Khirin entsteinert (≠ Magdas Patient), Nature's Guide, weiße Echse, Flüche entfernt, Cliffhanger.
+- 2026-10-12 (Ingest): [[Session 29]]. Tabaxi-Kampf, Olmea-Wald benannt, Sims Vorgeschichte, „Plane Walking Eye", Identify-Sitzung, Vogelschwarm-Kampf.
+- 2026-09-28 (Ingest): [[Session 28]]. Erwachen im Olmea-Wald, Ork-Überfall, Magda trägt den Patienten, Gruppenwahn.
 
 ## Open Loops
-- Ist die Gruppe aus Avernus heraus? Ist Olmea-Wald = der Ort aus S28?
-- Was verursacht den Gruppenwahn und das Zerbröckeln der fliegenden Inseln?
-- Ist Sims Heimatdorf wirklich [[Cloud Fang]]? Wie läuft das Duell mit Scale Piercer?
-- Ist Khirin versteinert oder nur bewusstlos? Was bedeutet „Kalden"?
-- Ist der Patient wirklich [[Khirin]]?
+- Was verursacht das Leuchten der Runen und den schwarzen Nebel am Druidenschrein?
+- Wer/was ist die weiße Echse, und wie hängt sie mit den fliegenden Inseln zusammen?
+- Wer ist Magdas Patient wirklich, und lebt er noch?
+- Ist „Junova" dasselbe wie Lunovar? Leben Khirins Eltern noch?
+- Ist Pyraschans Fluch wirklich entfernt — und was bedeutet das Rosentattoo?

@@ -11,6 +11,7 @@ tags:
 related:
   - Session 28
   - Session 29
+  - Session 30
   - Avernus
   - Styx
   - Ork (Kreatur)
@@ -20,11 +21,13 @@ related:
   - Riesenvögel (Olmea-Wald)
   - Cloud Fang
   - Sim
+  - Weiße Echse (Vision)
 sources:
   - Session 28 transcript
   - Session 29 transcript
+  - Session 30 transcript
 created: 2026-09-28
-updated: 2026-10-12
+updated: 2026-10-19
 status: developing
 ---
 
@@ -50,9 +53,15 @@ Laut einem Tabaxi-Gefangenen ([[Session 29]]) liegen Teile des Olmea-Walds histo
 - Unter den Inseln (100–500 m Höhe): eine gefährliche Zone, in der steinwerfende Riesenvögel patrouillieren (siehe [[Riesenvögel (Olmea-Wald)]]); Lianen erlauben theoretisch den Aufstieg, gilt aber als riskant.
 - Derselbe Wasserfall/Fluss wie bei der Kristallhöhle bietet an anderer Stelle erneut eine kleine Aushöhlung als Versteck.
 - Tote Dire Wolves am Rand der Gefahrenzone — getötet durch herabfallende Felsbrocken, nicht durch den Ork-Überfall aus [[Session 28]].
-- Jenseits der Inseln, weitere ein bis zwei Tagesmärsche östlich: [[Sim]]s Heimatdorf (vermutlich [[Cloud Fang]]).
+- Jenseits der Inseln, weitere ein bis zwei Tagesmärsche östlich: [[Sim]]s Heimatdorf **[[Cloud Fang]]** (seit [[Session 30]] bestätigt), mit einem Krater voller abgerissener Erde/Wurzeln und einem Ork-Arm auf dem Weg dorthin, sowie einem **[[Druidenschrein (Cloud Fang)|Steinkreis-Schrein]]** kurz unterhalb des Dorfes.
 - Irgendwo südwestlich (Himmelsrichtung am Tisch mehrfach durcheinandergebracht, unsicher): das Dorf des Tabaxi-Stamms.
 - Weit im Westen: eine menschliche Zivilisation (unbenannt).
+
+### Nordwesten (Session 30)
+- Nordwestlich der Region liegt das **Tabaxi-Reich**, dahinter Menschenreiche.
+- Nächste genannte Siedlung: **„Hamas"/„Amas"** (Schreibweise unbestätigt, beide Varianten im Transkript).
+- Eine gesetzlose Stadt, genannt **„Carabas"/„Carabus"/„Kabus"** (Schreibweise unbestätigt).
+- Laut dem Simian-Druiden [[Nature's Guide]] drainiert die Naturenergie der gesamten Region seit **drei bis vier Jahren** in Richtung eines Konvergenzpunkts im Nordwesten — in [[Naeli]]s Vision erscheint dort eine **[[Weiße Echse (Vision)|weiße Echse]]**. Die zerbröckelnden fliegenden Inseln gelten als sichtbares Symptom desselben Phänomens.
 
 ## Bewohner
 ### Session 28
@@ -67,18 +76,20 @@ Laut einem Tabaxi-Gefangenen ([[Session 29]]) liegen Teile des Olmea-Walds histo
 ## Vorfälle
 - [[Session 28]]: Nachtlager mit Long Rest in der Kristallhöhle; nächtlicher Ork-Überfall; rätselhafter Gruppenwahn (Wisdom Save) auf dem Weg nach Osten.
 - [[Session 29]]: Tabaxi-Überfall und -Verhör; Enthüllung von Sims Vorgeschichte; Begegnung mit steinwerfenden Vögeln; [[Pyraschan]]s Wisdom-Save-Anfall von Heimweh; Nachtrast mit Identify-Sitzung (Höllenkonstrukte enttarnt); Kampf gegen einen Vogelschwarm.
+- [[Session 30]]: Fund eines abgerissenen Ork-Arms in einem Krater; angespannte Begegnung mit Sims eigenem Stamm (Cloud Fang bestätigt); Zerstörung von Sims gebundenem Brief; Aufstieg zum [[Druidenschrein (Cloud Fang)|Druidenschrein]]; Begegnung mit [[Nature's Guide]]; Khirins Entsteinerung; reihum durchgeführte Fluch-Entfernungen; Cliffhanger (leuchtende Runen, schwarzer Nebel).
 
 ## Offene Fragen
 - Ist „Olmea-Wald" tatsächlich derselbe Ort wie der „Kristallhöhlenwald"-Arbeitstitel aus Session 28, und auf welcher Ebene/welchem Kontinent liegt er?
 - Ist die Gruppe damit aus [[Avernus]] entkommen?
 - Was verursacht den Gruppenwahn aus Session 28 — hängen die in Session 29 enttarnten Höllenkonstrukte damit zusammen (Bertas Theorie, unbestätigt)?
-- Was verursacht das Zerbröckeln der fliegenden Inseln?
-- Ist Sims Heimatdorf tatsächlich [[Cloud Fang]]?
+- Was verursacht das Zerbröckeln der fliegenden Inseln — hängt es mit dem in [[Session 30]] enthüllten Energie-Drain und der [[Weiße Echse (Vision)|weißen Echse]] im Nordwesten zusammen?
 - Wie heißt das Tabaxi-Dorf, und wo genau liegt es?
-- Woher kamen die Orks aus Session 28, und ist mit weiteren zu rechnen?
+- Woher kamen die Orks aus Session 28, und ist mit weiteren zu rechnen? Stammt der in [[Session 30]] gefundene Ork-Arm von derselben Bande?
+- **Neu ([[Session 30]])**: Wie schreiben sich die Orte „Hamas"/„Amas" und „Carabas"/„Carabus"/„Kabus" korrekt?
+- **Neu ([[Session 30]])**: Was verursacht das plötzliche Leuchten der Runen und den schwarzen Nebel am Druidenschrein?
 
 ## Verknüpfungen
-- [[Session 28]] · [[Session 28 transcript]] · [[Session 29]] · [[Session 29 transcript]] · [[Session 27]] · [[Styx]] · [[Avernus]]
+- [[Session 28]] · [[Session 28 transcript]] · [[Session 29]] · [[Session 29 transcript]] · [[Session 30]] · [[Session 30 transcript]] · [[Session 27]] · [[Styx]] · [[Avernus]]
 - [[Berta]] · [[Hrímnir]] · [[Naeli]] · [[Sim]] · [[Pyraschan]] · [[Magda]] · [[Khirin]]
 - [[Ork (Kreatur)]] · [[Dire Wolf]] · [[Tabaxi]] · [[Riesenvögel (Olmea-Wald)]]
-- [[Cloud Fang]] · [[Scale Piercer]] · [[Storm Holder]]
+- [[Cloud Fang]] · [[Scale Piercer]] · [[Storm Holder]] · [[Druidenschrein (Cloud Fang)]] · [[Nature's Guide]] · [[Weiße Echse (Vision)]]

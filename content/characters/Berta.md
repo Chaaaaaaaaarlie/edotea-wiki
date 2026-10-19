@@ -8,8 +8,9 @@ tags:
 related: []
 sources:
   - Session 28 transcript
+  - Session 30 transcript
 created: 2026-05-11
-updated: 2026-09-28
+updated: 2026-10-19
 status: developing
 ---
 # Berta
@@ -201,6 +202,14 @@ status: developing
   - Findet an [[Naeli]] selbst **nichts Verändertes** — deren Zustand ist laut DM seit einem Ereignis namens **„Kalden"** bereits bekannt (siehe [[Kalden]]).
   - Folgert: *„Alles, was wir in der Hölle abgegeben und wieder zurückgekriegt haben, ist ein Höllenkonstrukt"* — mögliche Teilerklärung für das *„komische Verhalten"* der Gruppe (vgl. Gruppenwahn aus [[Session 28]], unbestätigt).
 
+## [[Session 30]]
+
+- **Zerstört während der Nachtrast [[Sim]]s gebundenen Abschiedsbrief** (sein Fokus-Gegenstand) — er zerfällt zu auffällig dichterem/dunklerem schwarzen Rauch als zuvor ihr eigener Hexenhut; vermutlich, um Sims Fluch im Voraus zu schwächen.
+- Wirkt **Calm Emotions** auf den depressiv/dissoziativ wirkenden [[Hrímnir]] während der Rast — unterdrückt seine Symptome für eine Minute.
+- Klettert mit Vorteil mühelos die 100-Fuß-Felswand zum [[Druidenschrein (Cloud Fang)|Druidenschrein]] hoch.
+- **Lässt als Erste ihren Höllenfluch von [[Nature's Guide]] entfernen**: dunkler Nebel tritt aus Mund/Nase/Augen; alle außerhalb des Kreises spüren gleichzeitig einen Zug — Hinweis auf eine gemeinsame/vernetzte Fluchquelle der Gruppe. Keine sichtbaren Kosten für sie.
+- Überträgt dem frisch entsteinerten [[Khirin]] telepathisch auf einen Schlag das gesamte gesammelte Wissen der Gruppe — er scheitert am Wisdom Save gegen die Informationsflut (3 Level Exhaustion als Folge).
+
 ## Verknüpfungen
 
 - [[Cadnix]]
@@ -275,3 +284,7 @@ status: developing
 - [[Cloak of Many Fashions]]
 - [[Dis-Enchanter]]
 - [[Kalden]]
+- [[Session 30]]
+- [[Nature's Guide]]
+- [[Druidenschrein (Cloud Fang)]]
+- [[Khirin]]

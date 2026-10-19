@@ -8,8 +8,9 @@ tags:
 related: []
 sources:
   - Session 28 transcript
+  - Session 30 transcript
 created: 2026-05-11
-updated: 2026-09-28
+updated: 2026-10-19
 status: developing
 ---
 # Sim
@@ -167,6 +168,18 @@ status: developing
 - Bietet die Dorf-Heilerin („die alte Oma") als mögliche Hilfe gegen Flüche/Versteinerung an, als die Gruppe über Khirins Zustand spricht.
 - Kämpft im abschließenden Vogelschwarm-Kampf im Nahkampf mit dem Stab mit.
 
+## [[Session 30]]
+
+- **Bestätigt sein Heimatdorf selbst**: nennt es erst „First Fang", korrigiert sich sofort live: **„Cloudfang, nicht Firstfang."** Damit ist [[Cloud Fang]] offiziell als Heimat bestätigt, nicht mehr nur „sehr wahrscheinlich".
+- Begegnet eigenen Stammesmitgliedern am Fluss; wird als Sohn [[Storm Holder]]s erkannt. Hält der Gruppe entgegen, Scale Piercer habe seinen Vater „feige" ermordet — ein Krieger widerspricht hart: *„Dein Vater war schwach, und darum ist er gestorben."*
+- Erfährt neue Details zur Bestrafungspraxis von **[[Scale Piercer]]**: wer ihn herausfordert und verliert, verliert für immer das Recht auf eine erneute Herausforderung — offenbar durch Verstümmelung (ein Stammesmitglied fehlen drei Finger, halber Schwanz abgeschnitten).
+- Wird von einem verärgerten Stammesmitglied mit der Armbrust in die Schulter getroffen; schießt gezielt zurück (trifft dessen Hand, wirft ihn samt Armbrust ins Wasser) und intimidiert ihn erfolgreich (25 vs. DM-Wurf 16) — kein offener Kampf.
+- **Sein gebundener Abschiedsbrief wird von [[Berta]] während der Nachtrast zerstört** (zerfällt zu dichtem schwarzen Rauch) — vermutlich, um seinen Fluch zu schwächen.
+- Klettert als Erster die 100-Fuß-Felswand zum [[Druidenschrein (Cloud Fang)|Druidenschrein]] hoch (Sprint, verankert ein 270-Fuß-Seil für die Gruppe).
+- Trifft am Schrein auf seinen Kindheitsbekannten **[[Nature's Guide]]**, der ihn nur vage wiedererkennt.
+- Bittet Nature's Guide im Namen der Gruppe, den versteinerten [[Khirin]] zu heilen — siehe [[Khirin]] für die Enthüllung, dass der zuvor vermutete „Patient" (bei [[Magda]]) eine andere Person ist.
+- **Seine Höllen-Verfluchung wird entfernt** — auffällig unkompliziert im Vergleich zu Hrímnirs und Pyraschans Erfahrung, vermutlich weil sein gebundener Brief bereits zuvor zerstört wurde.
+
 ## Verknüpfungen
 
 - [[Cadnix]]
@@ -233,3 +246,6 @@ status: developing
 - [[Cloud Fang]]
 - [[Tabaxi]]
 - [[Riesenvögel (Olmea-Wald)]]
+- [[Session 30]]
+- [[Nature's Guide]]
+- [[Druidenschrein (Cloud Fang)]]

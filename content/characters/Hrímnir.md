@@ -8,8 +8,9 @@ tags:
 related: []
 sources:
   - Session 28 transcript
+  - Session 30 transcript
 created: 2026-05-11
-updated: 2026-09-28
+updated: 2026-10-19
 status: developing
 ---
 ![[Hrimnir.png|533]]
@@ -178,6 +179,12 @@ status: developing
 - Erfährt bei Bertas Identify-Sitzung, dass sein Umhang ([[Cloak of Many Fashions]]) ein **Höllenkonstrukt** ist — obwohl er ihn zuvor ausdrücklich abgelehnt hatte, ist er inzwischen auf ihn **attuned**.
 - Im abschließenden Kampf gegen den Vogelschwarm: wirkt vorab **Bless**, kämpft als MVP im Nahkampf und schlägt einen Vogel über mehrere Runden fast zu Tode (*„Opfer von sehr schlimmer häuslicher Gewalt"*).
 
+## [[Session 30]]
+
+- Gerät während der Nachtrast in eine schwere **depressive/dissoziative Episode** (Nachteil auf alle Attributswürfe, „im Autopilot"); [[Berta]]s **Calm Emotions** unterdrückt die Symptome für eine Minute, ein folgender Wisdom-Check (15) lässt ihn die bessere Stimmung danach bewusst festhalten.
+- Löst beim Klettern zur 100-Fuß-Felswand (unter dem Einfluss der Episode, mit Nachteil) einen Stein, fängt sich aber am Seil — **1d4 Fallschaden**.
+- Lässt sich am [[Druidenschrein (Cloud Fang)|Druidenschrein]] von **[[Nature's Guide]]** den Höllenfluch entfernen: ein Wisdom-Save ist nötig, um sich überhaupt auf das Ritual einzulassen; der Fluch „verbeißt sich tief in seiner Seele" — **massiver psychischer Schaden**, blutet aus Augen/Nase/Ohren, Krämpfe. [[Naeli]] heilt ihn anschließend für **24 Trefferpunkte**. Der Fluch verlässt ihn bestätigt, er bleibt aber erschöpft zurück.
+
 ## Verknüpfungen
 
 - [[Berta]]
@@ -245,3 +252,7 @@ status: developing
 - [[Cloak of Many Fashions]]
 - [[Tabaxi]]
 - [[Riesenvögel (Olmea-Wald)]]
+- [[Session 30]]
+- [[Nature's Guide]]
+- [[Druidenschrein (Cloud Fang)]]
+- [[Cloud Fang]]

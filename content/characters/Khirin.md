@@ -5,11 +5,16 @@ character_type: pc
 tags:
   - character
   - pc
-related: []
+related:
+  - Session 30
+  - Nature's Guide
+  - Druidenschrein (Cloud Fang)
+  - Magda
 sources:
   - Session 28 transcript
+  - Session 30 transcript
 created: 2026-05-11
-updated: 2026-09-28
+updated: 2026-10-19
 status: developing
 ---
 # Khirin
@@ -29,11 +34,14 @@ status: developing
 - Stammt aus [[Lunovar]].
 - Trägt gelegentlich eine Porzellanmaske.
 
-> [!warning] Dauerhafte Verstümmelung ([[Session 25]])
-> Khirin hat seit [[Session 25]] **einen Arm** (während einer Versteinerung abgebrochen, nicht wiedergefunden) und **ein Bein** (Notamputation durch [[Hrímnir]] wegen Kompartmentsyndrom) verloren. Siehe Abschnitt unten.
+> [!note] Entsteinert und wach seit [[Session 30]]
+> [[Session 30]] löst den seit [[Session 29]] offenen Widerspruch um Khirins Versteinerung auf: Er war tatsächlich **durchgehend versteinert** — und wurde die ganze Zeit separat, als Stein in einer Tasche/einem Beutel, mitgeführt, **nicht** als der bewusstlose „Patient", den [[Berta]] und später [[Magda]] trugen (siehe Callout unter „[[Session 26]]" unten und [[Magda]]). Der Simian-Druide **[[Nature's Guide]]** entsteinert ihn am [[Druidenschrein (Cloud Fang)|Druidenschrein]] per Greater Restoration. Siehe Abschnitt „[[Session 30]]" unten für Details.
 
-> [!warning] Nicht mehr aktiv gespielt (ab [[Session 26]])
-> Khirin ist seit [[Session 26]] **kein handelnder Spielercharakter mehr**. Sein Spieler (Craig-Spur `luke_234`) führt ab dieser Session den Paladin [[Pyraschan]]. Khirin selbst wird nur noch in der dritten Person erwähnt — sowohl von seinem früheren Spieler (*„Khirin hätte das gesagt"*, *„mehr Schaden, als Khirin je gemacht hat"*) als auch vom DM (*„Khirin hätte es getan"*).
+> [!warning] Dauerhafte Verstümmelung ([[Session 25]])
+> Khirin hat seit [[Session 25]] **einen Arm** (während einer Versteinerung abgebrochen, nicht wiedergefunden) und **ein Bein** (Notamputation durch [[Hrímnir]] wegen Kompartmentsyndrom) verloren. Die Entsteinerung in [[Session 30]] bestätigt: der Arm bleibt dauerhaft verloren (Greater Restoration kann einen bereits fehlenden Arm nicht nachwachsen lassen). Siehe Abschnitt unten.
+
+> [!warning] Nicht mehr aktiv gespielt (ab [[Session 26]]), seit [[Session 30]] wieder bei Bewusstsein
+> Khirin ist seit [[Session 26]] **kein handelnder Spielercharakter mehr**. Sein Spieler (Craig-Spur `luke_234`) führt seitdem den Paladin [[Pyraschan]] und übernahm in [[Session 30]] zusätzlich kurzzeitig wieder Khirins Charakterbogen für die Entsteinerungsszene. Khirin selbst wird in den Sessions 26–29 nur in der dritten Person erwähnt — sowohl von seinem früheren Spieler (*„Khirin hätte das gesagt"*, *„mehr Schaden, als Khirin je gemacht hat"*) als auch vom DM (*„Khirin hätte es getan"*); seit [[Session 30]] ist er wieder bei Bewusstsein, aber durch 3 Level Exhaustion und die lange Bewusstlosigkeit vorerst kein aktiv gespielter PC im eigentlichen Sinne.
 
 ## Notizen
 
@@ -149,8 +157,11 @@ status: developing
 
 ## [[Session 26]] — Als Verletzter mitgeführt
 
-> [!gap] Zuordnung nicht ausdrücklich bestätigt
-> Die Gruppe schleppt in [[Session 26]] durchgehend einen bewusstlosen Verletzten mit, der **nie beim Namen genannt** wird — nur als *„unser NPC"*, *„unser Patient"*, scherzhaft *„Stumpi"* und *„Max Mustermann"* sowie (im Rohtranskript als „Kribbel" verschriftet) *„Krüppel"*. Dass es sich um Khirin handelt, ist eine **starke, aber unbestätigte Schlussfolgerung**: Der Spitzname „Stumpi"/„Krüppel" passt auf seine Verstümmelung aus [[Session 25]], sein Zustand am Ende jener Session war bewusstlos und transportunfähig, und sein Spieler führt seit [[Session 26]] einen anderen Charakter. Beim nächsten Spielabend klären.
+> [!contradiction] Rückwirkend widerlegt ([[Session 30]])
+> Die ursprüngliche Annahme unten — der mitgeführte „Patient" sei Khirin — ist laut [[Session 30]] **falsch**. Khirin wurde die ganze Zeit separat, als Stein in einer Tasche, mitgeführt; der bewusstlose „Patient" (später von [[Magda]] getragen) ist eine **andere, weiterhin unbenannte Person**. Die folgenden Abschnitte (Sessions 26–29) sind als historisches Protokoll der damaligen (falschen) Arbeitsannahme erhalten, nicht als bestätigte Fakten über Khirin — siehe [[Magda]] und den Abschnitt „[[Session 30]]" unten.
+
+> [!gap] Ursprüngliche Einschätzung (Stand vor [[Session 30]]), nicht bestätigt
+> Die Gruppe schleppt in [[Session 26]] durchgehend einen bewusstlosen Verletzten mit, der **nie beim Namen genannt** wird — nur als *„unser NPC"*, *„unser Patient"*, scherzhaft *„Stumpi"* und *„Max Mustermann"* sowie (im Rohtranskript als „Kribbel" verschriftet) *„Krüppel"*. Dass es sich um Khirin handelt, war eine **starke, aber unbestätigte Schlussfolgerung**: Der Spitzname „Stumpi"/„Krüppel" passt auf seine Verstümmelung aus [[Session 25]], sein Zustand am Ende jener Session war bewusstlos und transportunfähig, und sein Spieler führt seit [[Session 26]] einen anderen Charakter. **[[Session 30]] widerlegt diese Annahme** — siehe Callout oben.
 
 Unter dieser Annahme gilt für [[Session 26]]:
 
@@ -179,15 +190,29 @@ Unter dieser Annahme gilt für [[Session 26]]:
 
 ## [[Session 29]] — Versteinerungs-Widerspruch und Namensgeber-Cameo
 
-> [!contradiction] Ist Khirin aktuell versteinert, oder nur bewusstlos?
+> [!contradiction] Ist Khirin aktuell versteinert, oder nur bewusstlos? — **Geklärt in [[Session 30]]**
 > Diese Session enthält zwei Stellen, die einander und der bisherigen Wiki-Annahme widersprechen:
 > 1. Bei der Namensfindung für [[Sim]] spekulieren die Spielenden im Konjunktiv, wie es Khirin gerade ginge, „wäre" er noch versteinert und seit dem Moment der Versteinerung bewusstlos-wach, gefangen in einem einzigen Gedanken (*„dann würde ich die ganze Zeit nur denken: Scheiße"*) — eher hypothetisches Table-Talk als DM-Ruling.
 > 2. Kurz danach fragt [[Pyraschan]] jedoch ganz direkt, ob sich die **Versteinerung** des *„werten Freundes, der hier versteinert ist"* auflösen ließe — als gegenwärtige Tatsache formuliert, nicht als Hypothese.
 >
-> Das widerspricht der bisherigen, in [[Session 25]] festgehaltenen Annahme, seine Versteinerung sei nach der Ankunft in [[Avernus]] **abgeklungen** und nur der Arm- und Beinverlust seien dauerhaft geblieben; seit [[Session 26]] wurde er durchgehend als **bewusstlos**, nicht als Statue, geführt. Ob es sich um einen unausgesprochenen DM-Retcon, eine (unerwähnte) erneute Versteinerung oder bloß lockeren/ungenauen Sprachgebrauch am Tisch handelt, lässt sich aus dem Transkript nicht entscheiden. **Nicht übernommen als neuer Fakt** — beim nächsten Spielabend klären.
+> **Auflösung ([[Session 30]])**: Variante 2 war korrekt. Khirin war tatsächlich durchgehend versteinert und wurde als Stein in einer Tasche mitgeführt — getrennt vom bewusstlosen „Patienten", den die Gruppe seit [[Session 26]] fälschlich für ihn hielt (siehe Callout oben unter „[[Session 26]]"). Die frühere Annahme aus [[Session 25]], seine Versteinerung sei bereits in [[Avernus]] abgeklungen, war damit falsch.
 
 - Wird (hypothetisch oder tatsächlich, siehe Callout) kurz aus dem Bag of Holding geholt, damit [[Berta]] seine Reaktion auf eine Frage ablesen kann: Welchen Namen er [[Sim]] geben würde. Seine (von seinem früheren Spieler improvisierte) Antwort: *„Perforanz, der Durchbohrende"* — von der Gruppe als zu absurd abgelehnt.
 - [[Pyraschan]] schlägt vor, den Magier **[[Elliot|Elliot Casterwell]]** (vermutlich [[Elliot]]) um Hilfe gegen die Versteinerung/den Fluch zu bitten, sobald die Gruppe ihn erreichen kann; [[Sim]] bietet alternativ die Heilerin seines Dorfes an.
+
+## [[Session 30]] — Entsteinerung, Erwachen und offene Fragen
+
+- Die Gruppe holt Khirin — als Stein in einer Tasche mitgeführt — hervor und bittet den Simian-Druiden **[[Nature's Guide]]** am **[[Druidenschrein (Cloud Fang)|Druidenschrein]]** um Hilfe.
+- Nature's Guide wirkt mit zwei weiteren Druiden **Greater Restoration**; [[Naeli]] unterstützt im Kreis (Nature- und Arcana-Check) und hält Khirins Hand.
+- Nach ~10 Minuten kehrt Khirin von Stein zu Fleisch zurück. **Der fehlende rechte Arm (seit [[Session 25]]) bleibt dauerhaft verloren** — der Stumpf beginnt frisch zu bluten, da er zuvor als Teil der Statue „eingefroren" war; laut DM war er „fast verreckt" durch eine Explosion, die ihn während der Versteinerung traf (nicht näher spezifiziert).
+- [[Berta]] überträgt ihm telepathisch die gesamten gesammelten Informationen der Gruppe auf einmal; er scheitert am Wisdom Save gegen die Informationsflut. Mechanisch verhängt der Tisch **3 Level Exhaustion** (zunächst war auch Nachteil auf Wisdom-/Intelligence-Saves für die nächste Session im Gespräch).
+- Letzte Erinnerung vor der Versteinerung: *„dass die Bücher runtergefallen sind und plötzlich die Kreaturen böse auf mich waren"* — passt zum Identify-Zwischenfall aus [[Session 29]].
+- Als möglicher Preis für die Wiederherstellung deutet der DM an, Khirin habe das Wissen um das Schicksal seiner Eltern **„in Junova"** verloren — bewusst offengelassen, ob sie noch leben.
+
+> [!contradiction] Khirins Eltern: „Junova" statt [[Lunovar]]?
+> Bekanntes Wiki-Wissen: Khirins Eltern leben in [[Lunovar]] und wurden von ihm in [[Session 21]] gerettet. [[Session 30]] nennt stattdessen „Junova" als ihren Wohnort und lässt ihr Schicksal bewusst offen. Ob es sich um denselben Ort (abweichende Aussprache) oder einen neuen, unbekannten Ort handelt, ist unklar — **nicht als Faktenänderung übernommen**, nur als offene Frage vermerkt.
+
+- Die Gruppe (vor allem [[Sim]]) begrüßt ihn sichtlich erleichtert zurück; sein Spieler übernimmt kurzzeitig wieder seinen Charakterbogen im VTT.
 
 ## Verknüpfungen
 
@@ -246,3 +271,7 @@ Unter dieser Annahme gilt für [[Session 26]]:
 - [[Olmea-Wald]]
 - [[Session 29]]
 - [[Elliot]]
+- [[Session 30]]
+- [[Nature's Guide]]
+- [[Druidenschrein (Cloud Fang)]]
+- [[Magda]]
