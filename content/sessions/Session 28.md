@@ -79,7 +79,7 @@ Nach dem Kampf: Die Gruppe untersucht die Leichen (Investigation) — matschige 
 ### Der rätselhafte Wahn
 Kurz darauf verlangt der DM von allen einen **Wisdom Save** — mit sehr unterschiedlichem Ausgang:
 - **[[Naeli]]** besteht (einzige Widerstandsfähige — der DM deutet an, sie habe „einen stärkeren Geist").
-- **[[Berta]]** fühlt sich plötzlich unerklärlich nackt, verwundbar und paranoid verfolgt (obwohl sie ihren Hut anhat).
+- **[[Berta]]** fühlt sich plötzlich unerklärlich nackt, verwundbar und paranoid verfolgt — sie hat ihren Hut nämlich nicht auf.
 - **[[Pyraschan]]** wird von überwältigendem Heimweh nach seinem **Konvent** und seinen Gefährten übermannt und beginnt zu weinen/in die Ferne zu starren.
 - **[[Hrímnir]]** fällt in eine Trance/Grübelei über „vergangene Tage", reagiert kaum noch auf Ansprache, kniet regungslos.
 - **[[Sim]]** ist plötzlich fest überzeugt, völlig allein zu sein, und zieht sich verzweifelt-traurig zurück, obwohl die ganze Gruppe um ihn steht.
