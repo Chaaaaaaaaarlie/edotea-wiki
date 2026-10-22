@@ -183,7 +183,7 @@ status: developing
 - Im Ork-Kampf ([[Ork (Kreatur)]]): wirkt **Dissonant Whispers** auf einen fliehenden Ork (zwingt ihn, seine Reaktion zur Flucht zu nutzen) und tötet den letzten Überlebenden mit einem Fernschuss ins Herz.
 - Bittet scherzhaft, ihre Goodberry-Portion *„dem Einbeinigen"* (dem Patienten) zu geben — beiläufige Bestätigung des fehlenden Beins (siehe [[Khirin]]).
 - **Übergibt den bewusstlosen Patienten an [[Magda]]**, bindet ihn ihr auf Wunsch mit Lianen auf den Rücken.
-- Vom rätselhaften Gruppenwahn erfasst: fühlt sich plötzlich unerklärlich **nackt, verwundbar und paranoid verfolgt**, weil sie ihren Hut gerade nicht aufhat; kommt erst nach einem Schlag im Ohrfeigen-Spiel der zwei Riesenwesen wieder zu sich.
+- Vom rätselhaften Gruppenwahn erfasst: fühlt sich plötzlich unerklärlich **nackt, verwundbar und paranoid verfolgt** (sie hat ihren Hut dabei nicht auf); kommt erst nach einem Schlag im Ohrfeigen-Spiel der zwei Riesenwesen wieder zu sich.
 
 ## [[Session 29]]
 
