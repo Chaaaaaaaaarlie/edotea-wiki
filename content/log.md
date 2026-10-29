@@ -44,11 +44,11 @@ Append-only. New entries at the **TOP**. Never edit past entries.
 - **Abweichungen vom Ingest-Auftrag**: Der Auftrag nannte `nightcore0302 = DM` und `luke_234 = Khirin` — beide veraltet (Stand vor [[Session 22]] bzw. vor [[Session 26]]); anhand des tatsächlichen Transkripts und des Wiki-Logs korrigiert.
 - **Rohdatei kopiert**: `.raw/session-transcripts/Session 29 - 12.10.2026.md` (unveränderte Kopie).
 - **Backup vor dem Ingest**: `_backups/session29_ingest_20261012_205044/` (25 Dateien: hot, index, log, overview, betroffene Charakter-/Lore-/Item-/Location-/Session-/Sources-Index-Seiten).
-- **Neue Seiten**: [[Session 29]], [[Session 29 transcript]], [[Olmea-Wald]] (ersetzt den Arbeitstitel [[Kristallhöhlenwald]], per Alias erreichbar), [[Tabaxi]], [[Riesenvögel (Olmea-Wald)]].
+- **Neue Seiten**: [[Session 29]], [[Session 29 transcript]], [[Olmea-Wald]] (ersetzt den Arbeitstitel [[Olmea-Wald|Kristallhöhlenwald]], per Alias erreichbar), [[Tabaxi]], [[Riesenvögel (Olmea-Wald)]].
 - **Ausgebaute Seiten**: [[Scale Piercer]], [[Storm Holder]] — von Stub (seit 2026-05-11) zu voll ausgearbeiteten NPC-Seiten.
 - **Aktualisierte Seiten**: [[Berta]], [[Hrímnir]], [[Naeli]], [[Sim]], [[Pyraschan]], [[Khirin]], [[Magda]], [[Elliot]], [[Cloud Fang]], [[Avernus]], [[Goetterfunke]], [[Demon Core]], [[Drei Bücher]], [[Bastardschwert aus Avernus]], [[Grünes Erz (Avernus)]], [[Cloak of Many Fashions]], [[Dis-Enchanter]], [[Dire Wolf]], [[Kalden]], `wiki/index.md`, `wiki/overview.md`, `wiki/characters/_index.md`, `wiki/locations/_index.md`, `wiki/lore/_index.md`, `wiki/sessions/_index.md`, `wiki/sources/_index.md`, [[hot|Hot Cache]].
 - **Schlüssel-Erkenntnisse**:
-  - Der Wald aus [[Session 28]] (Arbeitstitel [[Kristallhöhlenwald]]) erhält laut DM den Namen **[[Olmea-Wald]]** — vermutlich derselbe Ort (gleicher Wasserfall/Fluss taucht erneut auf), aber nicht ausdrücklich als Fortsetzung bestätigt.
+  - Der Wald aus [[Session 28]] (Arbeitstitel [[Olmea-Wald|Kristallhöhlenwald]]) erhält laut DM den Namen **[[Olmea-Wald]]** — vermutlich derselbe Ort (gleicher Wasserfall/Fluss taucht erneut auf), aber nicht ausdrücklich als Fortsetzung bestätigt.
   - Kampf gegen einen feindlichen **[[Tabaxi]]**-Stamm — ein Toter, drei gefangen/verhört, einer geflohen, größtenteils non-lethal; die Gefangenen liefern den Waldnamen und grobe Himmelsrichtungen (am Tisch mehrfach durcheinandergebracht).
   - Große Enthüllung zu [[Sim]]s Vorgeschichte: Sein Vater **[[Storm Holder]]**, früheres Oberhaupt von [[Sim]]s Heimatdorf (vermutlich [[Cloud Fang]]), wurde von **[[Scale Piercer]]** nach einem fairen Ritualduell heimtückisch ermordet; das Dorf führt seither einen Krieg gegen die Tabaxi. Die Gruppe beschließt, Sim bei einer Herausforderung gegen Scale Piercer zu unterstützen.
   - [[Sim]] erhält am Lagerfeuer den nach Simian-Brauch verdienten Namen **„Plane Walking Eye"**.
@@ -72,11 +72,11 @@ Append-only. New entries at the **TOP**. Never edit past entries.
 - **Abweichungen vom Ingest-Auftrag**: Der Auftrag nannte `nightcore0302 = DM` und `luke_234 = Khirin` — beide veraltet (Stand vor Session 20 bzw. vor Session 26); anhand des tatsächlichen Transkripts und des Wiki-Logs korrigiert (siehe [[Session 26 transcript]], [[Session 27 transcript]]). Die automatisch erzeugte `vault_review.md` schlug „Session 29" vor — korrekt ist **28** (der Vault enthielt [[Session 0]]–[[Session 27]]).
 - **Rohdatei kopiert**: `.raw/session-transcripts/Session 28 - 28.09.2026.md` (unveränderte Kopie).
 - **Backup vor dem Ingest**: `_backups/session28_ingest_20260928_192907/` (19 Dateien: hot, index, log, overview, betroffene Charakter-/Lore-/Item-/Location-/Session-/Sources-Index-Seiten).
-- **Neue Seiten**: [[Session 28]], [[Session 28 transcript]], [[Kristallhöhlenwald]], [[Ork (Kreatur)]], [[Dire Wolf]].
+- **Neue Seiten**: [[Session 28]], [[Session 28 transcript]], [[Olmea-Wald|Kristallhöhlenwald]], [[Ork (Kreatur)]], [[Dire Wolf]].
 - **Aktualisierte Seiten**: [[Berta]], [[Hrímnir]], [[Naeli]], [[Sim]], [[Pyraschan]], [[Khirin]], [[Magda]], [[Avernus]], [[Goetterfunke]], [[Demon Core]], `wiki/index.md`, `wiki/overview.md`, `wiki/characters/_index.md`, `wiki/locations/_index.md`, `wiki/lore/_index.md`, `wiki/sessions/_index.md`, `wiki/sources/_index.md`, [[hot|Hot Cache]].
 - **Schlüssel-Erkenntnisse**:
   - Erstmals seit [[Session 25]] sind wieder **alle fünf PCs** aktiv, da [[Pyraschan]]s Spieler zurück ist — per offenkundigem DM-Retcon, der dem in [[Session 27]] festgehaltenen „krank zurückgelassen" widerspricht (nicht rückwirkend geändert, siehe Callout in [[Session 28]]).
-  - Die Gruppe erwacht in einem **unbekannten Wald** mit See, Wasserfall und einer **Kristallhöhle** ([[Kristallhöhlenwald]], Arbeitstitel) — ohne Avernus-typische Umgebung, aber ohne DM-Bestätigung eines Ebenenwechsels.
+  - Die Gruppe erwacht in einem **unbekannten Wald** mit See, Wasserfall und einer **Kristallhöhle** ([[Olmea-Wald|Kristallhöhlenwald]], Arbeitstitel) — ohne Avernus-typische Umgebung, aber ohne DM-Bestätigung eines Ebenenwechsels.
   - **Ork-Überfall** (4 Orks + 1 Dire Wolf) auf das Nachtlager; Gruppe siegt ohne Verluste; [[Pyraschan]] heilt versehentlich einen niedergeschlagenen Ork.
   - **[[Magda]]** übernimmt das Tragen des bewusstlosen Patienten von [[Berta]]; beiläufig bestätigt: dem Patienten fehlt ein Bein (stützt die Khirin-Vermutung weiter).
   - Begegnung mit zwei harmlosen, sprachlich nicht identifizierbaren **Riesenwesen** (Ohrfeigen-Spiel).
@@ -226,7 +226,7 @@ Append-only. New entries at the **TOP**. Never edit past entries.
 - **Schlüssel-Erkenntnisse**:
   - **[[Gruft des Buches]] abgeschlossen**: Grabkammer (Raum 10) → Kampf gegen 3 Ton-Drachen-Golems (AC 17; Death Burst) → Truhe mit Lysandriels Erbe → [[Lysandriels Ring]] öffnet Sarkophag.
   - **[[Lysanthiriel Vaelora|Lysandriels]] Abschiedsbrief**: wusste von ihrem Ende; bat Lunovar-Elfen, Besitztümer + Buch einzuschließen; entschuldigt sich bei [[Aalafiel]].
-  - **[[Buch der Essenzmagie]] gestohlen**: Zwerge bohrten Deckenloch; Buch weg. Dritte Kristallkugel zeigt Zwerg bei Metallarbeiten nahe [[Carbus]].
+  - **[[Drei Bücher|Buch der Essenzmagie]] gestohlen**: Zwerge bohrten Deckenloch; Buch weg. Dritte Kristallkugel zeigt Zwerg bei Metallarbeiten nahe [[Carbus]].
   - **Buchverteilung bestätigt**: [[Magolor]] hat Raum (Wilhelm) + Seele (Borgrim); Zwergengruppe hat Essenz (Lysandriel); Versiegelungs-Buch ([[Palamedis]]) Verbleib unbekannt.
   - **[[Aalafiel]]** erhält Lysandriels Kristallkugel → Kontakt über Lunovar-Akademie möglich. Gibt Gruppe [[Goldene Drachenschuppe]] von [[Palamedis]]. Geht allein [[Palamedis]] suchen.
   - **Nächstes Ziel**: [[Lunovar]] (Resupply + Rektor) → [[Carbus]] (Zwerg mit Kristallkugel).

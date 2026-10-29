@@ -22,7 +22,7 @@ status: developing
 - Laut [[Lucien]] ist [[Marcosias]] für den Schutz der Neuen Höllen zuständig.
 - Seine Diener untersuchen, warum immer mehr fremde Wesen aus anderen Realms in die Neuen Höllen eindringen.
 - Zu diesen Dienern zählen mindestens [[Lucien]], [[Delora]] und ein grosser gepanzerter Begleiter.
-- Laut [[Lucien]] geht [[Marcosias]] vorsichtig mit unbekannten, mächtigen Objekten um und will deshalb auch [[Bertas]] Pergament in seinen Besitz bringen.
+- Laut [[Lucien]] geht [[Marcosias]] vorsichtig mit unbekannten, mächtigen Objekten um und will deshalb auch [[Berta|Bertas]] Pergament in seinen Besitz bringen.
 
 ## Verknüpfungen
 

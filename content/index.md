@@ -77,7 +77,7 @@ Master catalog. Updated on every ingest.
 
 ## Bekannte Lücken
 
-> [!gap] **Session 28 — Wo ist die Gruppe jetzt, und hat sie Avernus verlassen?**: Nach der Styx-Überfahrt erwacht die Gruppe in einem unbenannten Wald mit See, Wasserfall und Kristallhöhle ([[Kristallhöhlenwald]], Arbeitstitel) — ohne Lava/Asche-Umgebung und nur mit gewöhnlichen (nicht-höllischen) Kreaturen (Orks, Dire Wolf, zwei unbenannte Riesenwesen). Das legt einen Ausgang aus [[Avernus]] nahe, wurde vom DM aber nicht ausdrücklich bestätigt.
+> [!gap] **Session 28 — Wo ist die Gruppe jetzt, und hat sie Avernus verlassen?**: Nach der Styx-Überfahrt erwacht die Gruppe in einem unbenannten Wald mit See, Wasserfall und Kristallhöhle ([[Olmea-Wald|Kristallhöhlenwald]], Arbeitstitel) — ohne Lava/Asche-Umgebung und nur mit gewöhnlichen (nicht-höllischen) Kreaturen (Orks, Dire Wolf, zwei unbenannte Riesenwesen). Das legt einen Ausgang aus [[Avernus]] nahe, wurde vom DM aber nicht ausdrücklich bestätigt.
 
 > [!gap] **Session 28 — Pyraschan wieder bei der Gruppe, Widerspruch zu Session 27**: [[Session 27]] hält fest, dass die Gruppe den kranken [[Pyraschan]] bei der [[Imp-Höhle]] zurückließ. [[Session 28]] eröffnet damit, dass er ebenfalls „bis zum letzten Moment nicht aufgewacht" ist und wie die anderen ein Fährgeld am [[Styx]] „abgegeben" hat. Als DM-Retcon zur Wiedereingliederung des zurückgekehrten Spielers übernommen, siehe [[Session 28]].
 

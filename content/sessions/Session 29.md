@@ -41,7 +41,7 @@ sources:
 # Session 29 — Der Olmea-Wald und Sims Rückkehr
 
 ## TL;DR
-Die Gruppe wird in ihrem namenlosen Wald (siehe [[Kristallhöhlenwald]]) von einem feindlichen **Tabaxi-Stamm** überfallen, siegt größtenteils unblutig und erfährt von den Gefangenen, dass der Wald **Olmea-Wald** heißt — und dass [[Sim]]s Heimatdorf jenseits der einsturzgefährdeten fliegenden Inseln liegt. Sim erfährt, dass sein Vater **[[Storm Holder]]** von **[[Scale Piercer]]** nach einem fairen Ritualduell heimtückisch ermordet wurde, der seitdem das Dorf in einen Krieg gegen die Tabaxi treibt; die Gruppe beschließt, Sim zu helfen, Scale Piercer herauszufordern. Am Lagerfeuer gibt die Gruppe Sim den verdienten Namen **„Plane Walking Eye"**. Eine nächtliche Identify-Sitzung enthüllt, dass die am [[Styx]] zurückerhaltenen Fährgeld-Gegenstände **Höllenkonstrukte** sind — Berta zerstört dabei versehentlich ihren Hexenhut; das Großschwert aus [[Avernus]] wird als **+2-Großschwert mit Selbstschaden** identifiziert, der Erzbrocken als **Batorianischer Stahl**. Pyraschan entdeckt per Detect Magic einen eigenen, bisher unbekannten Fluch und erleidet unter Stress einen Wisdom-Save-Anfall von Heimweh nach seinem Auftrag für den [[Goetterfunke|Götterfunken]]. Die Session endet nach einem Kampf gegen einen großen Schwarm riesiger, unnatürlicher Vögel, den die Gruppe deutlich für sich entscheidet.
+Die Gruppe wird in ihrem namenlosen Wald (siehe [[Olmea-Wald|Kristallhöhlenwald]]) von einem feindlichen **Tabaxi-Stamm** überfallen, siegt größtenteils unblutig und erfährt von den Gefangenen, dass der Wald **Olmea-Wald** heißt — und dass [[Sim]]s Heimatdorf jenseits der einsturzgefährdeten fliegenden Inseln liegt. Sim erfährt, dass sein Vater **[[Storm Holder]]** von **[[Scale Piercer]]** nach einem fairen Ritualduell heimtückisch ermordet wurde, der seitdem das Dorf in einen Krieg gegen die Tabaxi treibt; die Gruppe beschließt, Sim zu helfen, Scale Piercer herauszufordern. Am Lagerfeuer gibt die Gruppe Sim den verdienten Namen **„Plane Walking Eye"**. Eine nächtliche Identify-Sitzung enthüllt, dass die am [[Styx]] zurückerhaltenen Fährgeld-Gegenstände **Höllenkonstrukte** sind — Berta zerstört dabei versehentlich ihren Hexenhut; das Großschwert aus [[Avernus]] wird als **+2-Großschwert mit Selbstschaden** identifiziert, der Erzbrocken als **Batorianischer Stahl**. Pyraschan entdeckt per Detect Magic einen eigenen, bisher unbekannten Fluch und erleidet unter Stress einen Wisdom-Save-Anfall von Heimweh nach seinem Auftrag für den [[Goetterfunke|Götterfunken]]. Die Session endet nach einem Kampf gegen einen großen Schwarm riesiger, unnatürlicher Vögel, den die Gruppe deutlich für sich entscheidet.
 
 ## Recap
 
@@ -158,7 +158,7 @@ Ein großer Schwarm unnatürlich großer Vögel (vom DM ausdrücklich **nicht** 
 ## Verknüpfungen
 - [[Session 28]] · [[Session 29 transcript]]
 - [[Berta]] · [[Hrímnir]] · [[Naeli]] · [[Sim]] · [[Pyraschan]] · [[Khirin]] · [[Magda]]
-- [[Olmea-Wald]] · [[Kristallhöhlenwald]] · [[Cloud Fang]] · [[Tabaxi]]
+- [[Olmea-Wald]] · [[Olmea-Wald|Kristallhöhlenwald]] · [[Cloud Fang]] · [[Tabaxi]]
 - [[Scale Piercer]] · [[Storm Holder]] · [[Elliot]]
 - [[Drei Bücher]] · [[Bastardschwert aus Avernus]] · [[Grünes Erz (Avernus)]] · [[Cloak of Many Fashions]] · [[Dis-Enchanter]]
 - [[Goetterfunke]] · [[Demon Core]] · [[Kalden]]

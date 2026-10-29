@@ -100,3 +100,4 @@ In [[Session 28]] befällt die Gruppe (außer [[Naeli]]) zudem ein rätselhafter
 - [[Imp-Höhle]] · [[Imp]] · [[Kettenteufel]] · [[Larvenschwarm]] · [[Demon Core]] · [[Grünes Erz (Avernus)]] · [[Bastardschwert aus Avernus]] · [[Pyraschan]] · [[Risse]]
 - [[Session 27]] · [[Styx]] · [[Sariel]] · [[Fährmann des Styx]] · [[Knochenteufel]] · [[Dornenteufel]] · [[Magda]]
 - [[Session 28]] · [[Olmea-Wald]] · [[Ork (Kreatur)]] · [[Dire Wolf]]
+- [[Session 29]] · [[Session 30]]

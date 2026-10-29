@@ -103,7 +103,7 @@ Nobel auftretender Elf, freundlich-verspielt-warm, lacht leicht. Gibt offen zu, 
 
 ## [[Session 20]] — Prophezeiung & Glasglocke
 
-- **Empfängt Bericht** der Gruppe über das gestohlene [[Buch der Essenzmagie]].
+- **Empfängt Bericht** der Gruppe über das gestohlene [[Drei Bücher|Buch der Essenzmagie]].
 - Informiert über **[[Elfaria Albis von Sylphid]]**: steht unter Hausarrest (angeordnet von [[Cassomir]]), kooperiert nicht.
 - Gibt [[Sim]] die **reparierte [[Lady Günthers Flasche]]** zurück: goldener Lack, Runen erneuert, noch leer.
 - **Wirkt angespannt** — [[Berta]] (Insight): *"Noch nicht fertig."*

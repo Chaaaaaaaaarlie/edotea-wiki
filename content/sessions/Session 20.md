@@ -36,7 +36,7 @@ Die Gruppe kehrt nach **[[Lunovar]]** zurück und berichtet [[Fohlen]] vom gesto
 ## Recap
 
 ### Bericht an Fohlen
-Die Gruppe (ohne [[Khirin]], der abwesend ist) kehrt zur **[[Magische Akademie Lunovar|Magischen Akademie]]** zurück und erstattet [[Fohlen]] Bericht über das gestohlene **[[Buch der Essenzmagie]]**.
+Die Gruppe (ohne [[Khirin]], der abwesend ist) kehrt zur **[[Magische Akademie Lunovar|Magischen Akademie]]** zurück und erstattet [[Fohlen]] Bericht über das gestohlene **[[Drei Bücher|Buch der Essenzmagie]]**.
 
 - **[[Elfaria Albis von Sylphid]]** steht unter **Hausarrest** (angeordnet von [[Cassomir]]) und kooperiert nicht.
 - Lunovar hat die **militärische Präsenz erhöht** — Hintergrund: eine Mordserie in der Stadt.
@@ -131,7 +131,7 @@ Die Session endet **mitten im Kampf** (~22:47 Uhr). Ausgang offen.
 - **Kampf** — drei unbekannte Kreaturen, Angriff auf Lunovar von innen + außen. Ausgang offen.
 - **Lunovar unter Barriere** — Fohlen hält die Glocke? Wer greift an und warum?
 - **[[Verhängnisturm]]** — [[Naeli]] will dorthin für Fluchheilung. Ist der Turm wirklich ein Weg zur Heilung?
-- **[[Buch der Essenzmagie]]** — noch bei Zwergen nahe [[Carbus]]; nicht vergessen.
+- **[[Drei Bücher|Buch der Essenzmagie]]** — noch bei Zwergen nahe [[Carbus]]; nicht vergessen.
 - **[[Borgrim Runenbrecher|Borgrims]] Herkunft bestätigt** (Pharmas, Königssturz-Paria) — hilft, den Zwerg mit der Kristallkugel zu kontextualisieren.
 - **[[Elfaria Albis von Sylphid]] unter Hausarrest** — wie verändert das die Machtstruktur des Hohen Rates?
 - **[[Berta]]s Patron-Kontakt** — Ergebnis unklar.

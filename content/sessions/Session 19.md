@@ -134,7 +134,7 @@ Die Gruppe einigt sich:
 - **Drei Ton-Drachen-Golems** in der Grabkammer besiegt; [[Sim]] macht 80 Schaden in einer Runde.
 - **[[Lysandriels Ring]]** öffnet den Sarkophag und schließt den Dungeon ab.
 - **Lysandriels Abschiedsbrief** bestätigt: Buch in Gruft versiegelt — aber **gestohlen**.
-- **[[Buch der Essenzmagie]] gestohlen** von Zwergen durch Deckenloch.
+- **[[Drei Bücher|Buch der Essenzmagie]] gestohlen** von Zwergen durch Deckenloch.
 - **Dritte Kristallkugel** entdeckt: Zwerg, Metallarbeiten, Carbus-Gebiet.
 - **Buchverteilung bestätigt**: [[Magolor]] hat Raum+Seele; Zwerge haben Essenz.
 - **[[Aalafiel]]** erhält Lysandriels Kristallkugel; geht [[Palamedis]] suchen.
@@ -155,7 +155,7 @@ Die Gruppe einigt sich:
 - **[[Goldene Drachenschuppe]]** — von [[Aalafiel]] (stammt von [[Palamedis]])
 
 ## Open Threads
-- **[[Buch der Essenzmagie]]** in Zwergenbesitz — dritte Kristallkugel zeigt Zwerg bei Metallarbeiten nahe [[Carbus]].
+- **[[Drei Bücher|Buch der Essenzmagie]]** in Zwergenbesitz — dritte Kristallkugel zeigt Zwerg bei Metallarbeiten nahe [[Carbus]].
 - **[[Magolor]]** hat Raum- und Seelen-Buch.
 - **[[Palamedis]] finden** — [[Aalafiel]] übernimmt; ist das Versiegelungs-Buch noch bei ihm?
 - **[[Naeli]]s Fluch** — Essenz-Buch (Verwandlung) + Seelen-Buch (Gedächtnis) nötig.

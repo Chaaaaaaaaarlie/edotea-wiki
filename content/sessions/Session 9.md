@@ -48,7 +48,7 @@ status: mature
 
 - Die Gruppe verbringt noch Zeit auf dem Markt von [[Cadnix]].
   - [[Naeli]] kauft ein altes Geschichtenbuch mit einer bereits bekannten Drachengeschichte für 4 Silber.
-  - [[Berta]] kauft drei Flaschen [[Drachenzorn]] für insgesamt 15 Gold.
+  - [[Berta]] kauft drei Flaschen [[Drachenzahn|Drachenzorn]] für insgesamt 15 Gold.
   - [[Khirin]] lässt Kleidung für 3,5 Gold in Schwarz und Dunkelblau umfärben.
   - [[Hrímnir]] lässt sich beim alten Magiehändler drei magische Tattoos mit Cure Wounds stechen.
   - [[Sim]] lässt die Gurde prüfen.
@@ -82,7 +82,7 @@ status: mature
 - [[Cadnix]]
 - [[Crucellus]]
 - [[Delora]]
-- [[Drachenzorn]]
+- [[Drachenzahn|Drachenzorn]]
 - [[Hrímnir]]
 - [[Khirin]]
 - [[Lucien]]

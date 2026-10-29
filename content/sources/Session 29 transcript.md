@@ -45,7 +45,7 @@ related:
 Siehe [[Session 29]] für den kuratierten Recap. Das Transkript deckt die Fortsetzung des Marsches aus [[Session 28]] ab: einen Kampf gegen einen feindlichen Tabaxi-Stamm, die Benennung des Waldes als „Olmea-Wald", die Enthüllung von Sims Vorgeschichte (Storm Holder/Scale Piercer), eine Begegnung mit steinwerfenden Riesenvögeln unter den fliegenden Inseln, Sims Namensgebung zu „Plane Walking Eye", eine ausführliche nächtliche Identify-Sitzung (Höllenkonstrukte, Großschwert, Erzbrocken, neue Flüche) und einen abschließenden Kampf gegen einen Vogelschwarm.
 
 ## Key Claims
-- Der Wald aus [[Session 28]] (working title [[Kristallhöhlenwald]]) heißt laut DM **Olmea-Wald** — vermutlich derselbe Ort (derselbe Wasserfall/Fluss taucht in beiden Sessions auf), aber nicht ausdrücklich als Fortsetzung benannt.
+- Der Wald aus [[Session 28]] (working title [[Olmea-Wald|Kristallhöhlenwald]]) heißt laut DM **Olmea-Wald** — vermutlich derselbe Ort (derselbe Wasserfall/Fluss taucht in beiden Sessions auf), aber nicht ausdrücklich als Fortsetzung benannt.
 - [[Sim]]s Vater [[Storm Holder]] wurde von [[Scale Piercer]] nach einem fairen Ritualduell heimtückisch getötet; beide Namen waren bereits als Stub-Charakterseiten im Vault vorhanden (angelegt 2026-05-11) und werden hier erstmals ausführlich bespielt.
 - Alle am [[Styx]] ([[Session 27]]) zurückerhaltenen Fährgeld-Gegenstände sind laut Berta **Höllenkonstrukte**; ihr Hexenhut wird beim Entfluchungsversuch zerstört, Hrímnirs Umhang ([[Cloak of Many Fashions]]) ist auf ihn attuned, obwohl er ihn zuvor ablehnte.
 - Das Großschwert aus [[Avernus]] ([[Bastardschwert aus Avernus]]) wird identifiziert: +2-Großschwert, Attunement, 1d4 Selbstschaden pro Nutzung.
@@ -56,7 +56,7 @@ Siehe [[Session 29]] für den kuratierten Recap. Das Transkript deckt die Fortse
 
 ## Pages Created From This
 - [[Session 29]]
-- [[Olmea-Wald]] (ersetzt den Arbeitstitel [[Kristallhöhlenwald]])
+- [[Olmea-Wald]] (ersetzt den Arbeitstitel [[Olmea-Wald|Kristallhöhlenwald]])
 - [[Tabaxi]]
 - [[Riesenvögel (Olmea-Wald)]]
 
