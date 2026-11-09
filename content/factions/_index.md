@@ -2,7 +2,7 @@
 type: meta
 title: "Factions Index"
 created: 2026-05-11
-updated: 2026-05-18
+updated: 2026-11-09
 tags:
   - meta
   - factions
@@ -22,6 +22,8 @@ status: developing
 
 ## Criminal & Shadow Groups
 - [[Kalineon-Royalisten]] *(neu, Session 13 — vermutete Faktion mit Wappen-Brosche, suchen Bertas Pergament)*
+
+> [!note] [[Session 31]]: keine neuen Fraktionsseiten. Die nächtlichen simianischen Angreifer in [[Cloud Fang]] sind keiner benannten Gruppe zugeordnet (Auftraggeber unbekannt).
 
 ## Other Organizations
 *(Anything that acts with a shared agenda.)*

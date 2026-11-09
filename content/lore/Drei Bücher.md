@@ -10,12 +10,14 @@ related:
   - das Nichts
   - Aalafiel
   - Gruft des Buches
+  - Session 31
 sources:
   - Tagebücher Wilhelm Casterwill
   - Session 17 transcript
   - Session 25
+  - Session 31 transcript
 created: 2026-05-11
-updated: 2026-09-02
+updated: 2026-11-09
 status: developing
 ---
 # Die drei Bücher
@@ -83,7 +85,7 @@ Per [[Berta]]s Detect Thoughts auf [[Sophie Marie]]: die zwei Folianten, die [[M
 
 | Buch | Magier | Aktueller Besitzer |
 |------|--------|--------------------|
-| **Buch der Schwellen** (Raum) | [[Wilhelm Casterwill]] | **[[Hrímnir]]** (erbeutet [[Session 25]], zuvor [[Magolor]]) |
+| **Buch der Schwellen** (Raum) | [[Wilhelm Casterwill]] | **[[Naeli]]** (seit [[Session 29]], bestätigt [[Session 31]]; erbeutet [[Session 25]] von Hrímnir, zuvor [[Magolor]]) |
 | **Buch der Essenzmagie** (Essenz) | [[Lysanthiriel Vaelora]] | **Unbekannte Zwergengruppe** (gestohlen aus [[Gruft des Buches]]) |
 | **Buch der Seelen** (Seele) | [[Borgrim Runenbrecher]] | **vermutlich [[Hrímnir]]** (erbeutet [[Session 25]] als das "zweite Buch", nicht offiziell benannt bestätigt; zuvor [[Magolor]]) |
 | **Buch der Versiegelung** | [[Palamedis]] | Unbekannt (Siegel gebrochen) |
@@ -97,6 +99,11 @@ Per [[Berta]]s Detect Thoughts auf [[Sophie Marie]]: die zwei Folianten, die [[M
 - *"Ein Tempel, der nicht zu finden ist — es sei denn, man weiß bereits, wo er ist."*
 - Familie **[[Elfaria Albis von Sylphid|Sylphid]]** ist eine der **Wächter-Familien** für Lysantirs Buch.
 - *"Wir haben Lysantirs Kristallkugel zerstört, nachdem sie starb."* → siehe [[Lysanthiriel Vaelora]].
+
+### [[Session 31]] — Fehlende Seiten und Bertas Attunement-Wunsch
+- **Aktuelle Träger**: [[Naeli]] trägt das **Buch der Schwellen** (seit [[Session 29]]), [[Hrímnir]] das (vermutete) **Buch der Seelen**. Bertas lose Seite zieht weiterhin zu Naeli; zwischen Bertas und Naelis Gepäck sprühen Funken, wenn sie sich zu nahe kommen.
+- **Buch der Seelen**: [[Khirin]] findet ein Kapitel leerer Seiten mit vereinzelten unbekannten Zirkeln und **heraustrennbare Seiten — mindestens eine, vielleicht zwei fehlen**. Khirins Vermutung, mit solchen Seiten würden Kreaturen erschaffen/kontrolliert, ist unbestätigt. Kontext: In [[Scale Piercer]]s Gedanken taucht ein unbekannter grauhaariger Magier auf, der mit den Spinnenkreaturen verbunden scheint.
+- **[[Berta]] will sich auf das Buch der Schwellen attunen** (nur lesen): um die [[Risse]], [[das Nichts]] und ihren eigenen Befreier zu verstehen. Sie argumentiert, mit nur einem Buch drohe kein Wahnsinn, und frühere Besitzer hätten ihre Bücher freiwillig abgegeben. Die Gruppe vertagt die Entscheidung auf nach dem Duell gegen Scale Piercer.
 
 ## Verknüpfungen
 
@@ -126,3 +133,4 @@ Per [[Berta]]s Detect Thoughts auf [[Sophie Marie]]: die zwei Folianten, die [[M
 - [[Cassomir]]
 - [[Hrímnir]]
 - [[Drift-Zeppelin]]
+- [[Session 31]] · [[Session 31 transcript]]

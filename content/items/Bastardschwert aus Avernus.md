@@ -15,11 +15,14 @@ related:
   - Avernus
   - Session 26
   - Session 29
+  - Session 31
+  - Legend Crafter
 sources:
   - Session 26 transcript
   - Session 29 transcript
+  - Session 31 transcript
 created: 2026-09-15
-updated: 2026-10-12
+updated: 2026-11-09
 status: developing
 ---
 
@@ -49,6 +52,10 @@ Nichts bekannt. [[Pyraschan]] merkt an, dass dies bereits die zweite Waffe in di
 ## Current Status
 Im Besitz der Gruppe, **identifiziert** (+2, Attunement, 1d4 Selbstschaden pro Nutzung), noch von niemandem aktiv geführt/attuned.
 
+## [[Session 31]] — Möglicherweise abgegeben? (unklar)
+> [!contradiction] Welches Schwert ging an Legend Crafter?
+> [[Khirin]] gibt dem Schmied [[Legend Crafter]] in [[Cloud Fang]] ein **„etwas krummes Schwert"** als Metall für seine Armprothese; der DM nennt es „baldurianisches Eisen … das aus dem Tempel", Khirin „das etwas minderwertige" Eisen. Diese Beschreibung passt **schlecht** zu diesem Großschwert (sehr guter Zustand, +2). Es ist daher **nicht** als abgegeben vermerkt; Status unverändert, bis der DM klärt, welche Waffe gemeint war.
+
 ## Offene Fragen
 - Wer übernimmt die Waffe trotz des Selbstschadens?
 - Wer hat sie in den Fels getrieben, und was ist mit ihm passiert?
@@ -57,3 +64,4 @@ Im Besitz der Gruppe, **identifiziert** (+2, Attunement, 1d4 Selbstschaden pro N
 ## Verknüpfungen
 - [[Session 26]] · [[Session 26 transcript]] · [[Imp-Höhle]] · [[Avernus]] · [[Session 29]] · [[Session 29 transcript]]
 - [[Hrímnir]] · [[Naeli]] · [[Sim]] · [[Pyraschan]] · [[Berta]]
+- [[Session 31]] · [[Session 31 transcript]]

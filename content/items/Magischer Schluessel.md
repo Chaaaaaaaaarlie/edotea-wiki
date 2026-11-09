@@ -9,10 +9,13 @@ tags:
 related:
   - Berta
   - das Nichts
+  - Session 31
+  - Berthas Bohnen
 sources:
   - Session 12 transcript
+  - Session 31 transcript
 created: 2026-05-12
-updated: 2026-05-26
+updated: 2026-11-09
 status: developing
 ---
 
@@ -53,6 +56,9 @@ Fancy aussehender Schlüssel, den [[Berta]] in [[Session 12]] aus den Händen vo
 - **Zielort offenbar variabel** — zwei Tests, zwei Ergebnisse (verwandt aber nicht identisch).
 - Akademie-Badezimmer als gesicherter Rückzugspunkt nutzbar (5m Stahl von innen).
 
+## [[Session 31]]
+- [[Berta]] öffnet in [[Cloud Fang]] mit dem Schlüssel eine Tür nach [[Berthas Bohnen]] — und stellt fest, dass die frühere Tür nach [[Lunovar]] zerstört ist (Ruß, Holzsplitter). Ob das die Zahl aktiver Türen beeinflusst, wurde nicht besprochen.
+
 ## Offene Fragen
 
 > [!warning] Spoiler-Risiko bei mechanischen Details.
@@ -65,3 +71,4 @@ Fancy aussehender Schlüssel, den [[Berta]] in [[Session 12]] aus den Händen vo
 ## Verknüpfungen
 - [[Berta]] · [[das Nichts]] · [[Isolationsraum]] · [[Berthas Bohnen]]
 - [[Session 12]] · [[Session 14]] · [[Session 15]]
+- [[Session 31]] · [[Session 31 transcript]]

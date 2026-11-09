@@ -12,12 +12,16 @@ related:
   - Berta
   - Magischer Schluessel
   - das Nichts
+  - Session 31
+  - Cloud Fang
+  - Lunovar
 sources:
   - Session 14
   - Session 14 transcript
   - Session 15 transcript
+  - Session 31 transcript
 created: 2026-05-25
-updated: 2026-06-01
+updated: 2026-11-09
 status: developing
 ---
 
@@ -50,6 +54,10 @@ Eine **Kaffeebar an unbekannter Ebene**, die [[Berta]] und die Gruppe am Ende vo
 - **Long Rest möglich**: Die Gruppe hat dort erfolgreich gerastet — der Ort ist vollständig erholend.
 - Die [[Magischer Schluessel|Schlüssel des Nichts]]-Mechanik wurde hier erklärt (3/Tag, 3 Türen max, Schließen ≠ Deaktivieren).
 
+## [[Session 31]] — Die Lunovar-Tür ist zerstört
+- Als [[Berta]] in [[Sim]]s Hütte in [[Cloud Fang]] mit dem [[Magischer Schluessel|Schlüssel]] eine Tür öffnet, stellt sie fest: **Die Tür, die nach [[Lunovar]] führte, ist nicht mehr da** — an ihrer Stelle nur ein Haufen Ruß und kleinere Holzsplitter. Ursache unbekannt.
+- Berta richtet eine Tür im Nebenraum von Sims Hütte ein und trifft ihre üblichen Vorsichtsmaßnahmen gegen unbefugten Zutritt. Ihre „Rüstung" (so der DM) hat beim Betreten bereits eine Kanne Kaffee samt Service bereitgestellt.
+
 ## Offene Fragen
 - Wer braut den Kaffee? Sind dort weitere Personen?
 - Ist es eine **Pocket-Dimension** oder Teil des Nichts-Reichs?
@@ -59,3 +67,4 @@ Eine **Kaffeebar an unbekannter Ebene**, die [[Berta]] und die Gruppe am Ende vo
 
 ## Verknüpfungen
 - [[Berta]] · [[Magischer Schluessel]] · [[das Nichts]] · [[Session 14]]
+- [[Session 31]] · [[Session 31 transcript]]

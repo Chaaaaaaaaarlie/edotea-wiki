@@ -5,10 +5,12 @@ lore_category: concept
 tags:
   - lore
   - concept
-related: []
-sources: []
+related:
+  - Session 31
+sources:
+  - Session 31 transcript
 created: 2026-05-11
-updated: 2026-05-11
+updated: 2026-11-09
 status: developing
 ---
 # Risse
@@ -33,6 +35,9 @@ status: developing
   - Der Lunovar-Riss wurde **vor ca. 2 Wochen** geschlossen — der unbekannte Schließer hat höchstens 2 Wochen Vorsprung.
   - Akademie-Forschung wird maßgeblich von [[Virion Loramis]] (stellv. Schulleiter, Halbelf) geleitet.
 
+## [[Session 31]]
+- „Herausfinden, was es mit diesen komischen Portalen auf sich hat" steht auf [[Berta]]s Liste offener Ziele; sie hofft, über ein Attunement auf das Buch der Schwellen ([[Drei Bücher]]) mehr über die Risse in Raum und Zeit zu erfahren.
+
 ## Verknüpfungen
 
 - [[Borgrim Runenbrecher]]
@@ -45,3 +50,4 @@ status: developing
 - [[Session 12]]
 - [[Virion Loramis]]
 - [[Wilhelm Casterwill]]
+- [[Session 31]] · [[Session 31 transcript]]

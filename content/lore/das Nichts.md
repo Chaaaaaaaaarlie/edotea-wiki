@@ -13,12 +13,14 @@ related:
   - Isolationsraum
   - Drei Bücher
   - Wilhelm Casterwill
+  - Session 31
 sources:
   - Session 12
   - Session 12 transcript
   - Tagebücher Wilhelm Casterwill
+  - Session 31 transcript
 created: 2026-05-12
-updated: 2026-05-26
+updated: 2026-11-09
 status: developing
 ---
 
@@ -103,6 +105,10 @@ Möglicherweise: ein vom Nichts geschenkter **Rückzugsort** für Berta? Oder ei
 > [!warning] Möglich: das Nichts = Aalafiels Fluch-Wesen?
 > [[Aalafiel]] wurde von einem **gestaltwandelnden, chimärenhaften Wesen** verflucht, das im **[[Verhängnisturm]]** lebt und älter ist als sie (~3200 J.). Beide Wesen sind uralt und entziehen sich gewöhnlicher Gestalt. **Aber**: das Nichts wird als *formlose Leere* wahrgenommen, das Fluch-Wesen als *chimärenhafter Gestaltwandler mit wechselnden Tierteilen*. Identität **nicht bestätigt** — könnte ein eigenständiges Wesen sein.
 
+## [[Session 31]]
+- [[Berta]] möchte über das Buch der Schwellen ([[Drei Bücher]]) herausfinden, „was es mit diesem Nichts auf sich hat" und wer sie befreit hat; Entscheidung vertagt.
+- In [[Berthas Bohnen]] ist die Tür nach [[Lunovar]] zerstört.
+
 ## Offene Fragen
 
 > [!warning] **Spoiler-Risiko**: Bertas Pakt-Details sind PC-only / spielerseitig.
@@ -120,3 +126,4 @@ Möglicherweise: ein vom Nichts geschenkter **Rückzugsort** für Berta? Oder ei
 - [[Session 12]] · [[Session 14]] · [[Session 17]]
 - [[Drei Bücher]] · [[Wilhelm Casterwill]] · [[Tagebücher Wilhelm Casterwill]]
 - [[Magolor]] · [[Risse]] · [[Palamedis]] · [[Aalafiel]] · [[Verhängnisturm]]
+- [[Session 31]] · [[Session 31 transcript]]

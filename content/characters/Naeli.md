@@ -5,14 +5,17 @@ character_type: pc
 tags:
   - character
   - pc
-related: []
+related:
+  - Session 31
+  - Seldris
 sources:
   - Tagebücher Wilhelm Casterwill
   - Session 17 transcript
   - Session 28 transcript
   - Session 30 transcript
+  - Session 31 transcript
 created: 2026-05-11
-updated: 2026-10-19
+updated: 2026-11-09
 status: developing
 ---
 ![[Naeli.png|496]]
@@ -181,6 +184,14 @@ status: developing
 - Unterstützt die Greater-Restoration-Entsteinerung [[Khirin]]s aktiv im Kreis (Nature- und Arcana-Check, hält seine Hand).
 - **Lässt im Rahmen der reihum durchgeführten Fluch-Entfernung auch ihren eigenen Fluch entfernen** (nach [[Hrímnir]], vor [[Sim]]) und zahlt dabei explizit einen Preis: Sie **verliert die Erinnerung daran, wie das Brennen von Alkohol sich anfühlt** — bemerkt nur, dass ihr etwas fehlt, ohne zu wissen was, und ist sichtlich traurig. Kann laut DM weiterhin trinken, hat aber „nichts mehr davon".
 
+## [[Session 31]]
+
+- Spricht freundlich mit dem Teufel [[Seldris]] („Nur weil ich klein bin, bin ich noch lange kein Wurm") und dankt [[Nature's Guide]] zum Abschied.
+- **Ihre Kleidung wird zu eng** und platzt an der Schulternaht; ein Mending von Berta hält nicht. [[Berta]] hatte zuvor festgestellt, sie sei bereits „0,2 Naelis" größer geworden.
+- Gespräch mit [[Hrímnir]]: vermisst den Norden und den Schnee; spürt seit der Rückkehr aus dem [[Styx]] eine Veränderung und fragt sich, ob sie etwas verloren hat. Erzählt von **Visionen aus ihrem alten Leben — Schnee und Stille** —, die sie mehrfach hatte (zuerst „in der Kapelle", als es Hrímnir schlecht ging). Fürchtet, früher „ein Fiesling" gewesen zu sein; Hrímnir verspricht, an ihrer Seite zu bleiben. Freut sich, als es nachts schneit.
+- Trägt weiterhin das **Buch der Schwellen**; ist skeptisch gegenüber Bertas Attunement-Wunsch (stimmt weder dafür noch klar dagegen) und erreicht den Aufschub bis nach dem Duell. Kündigt an, notfalls in Sims Duell einzugreifen, wenn Scale Piercer ihn töten will.
+- Hält die erste Nachtwache (Trance) und **entdeckt die Eindringlinge** trotz Silence; im Kampf u. a. Shatter und Chromatic Orb; fesselt einen bewusstlosen Angreifer (Knoten mit Hilfe nachgeprüft).
+
 ## Verknüpfungen
 
 - [[Anwesen]]
@@ -249,3 +260,4 @@ status: developing
 - [[Kalden]]
 - [[Riesenvögel (Olmea-Wald)]]
 - [[Tabaxi]]
+- [[Session 31]] · [[Session 31 transcript]]

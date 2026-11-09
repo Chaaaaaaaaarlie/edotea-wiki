@@ -10,11 +10,15 @@ related:
   - Nature's Guide
   - Druidenschrein (Cloud Fang)
   - Magda
+  - Session 31
+  - Legend Crafter
+  - Fateweaver
 sources:
   - Session 28 transcript
   - Session 30 transcript
+  - Session 31 transcript
 created: 2026-05-11
-updated: 2026-10-19
+updated: 2026-11-09
 status: developing
 ---
 # Khirin
@@ -214,6 +218,17 @@ Unter dieser Annahme gilt für [[Session 26]]:
 
 - Die Gruppe (vor allem [[Sim]]) begrüßt ihn sichtlich erleichtert zurück; sein Spieler übernimmt kurzzeitig wieder seinen Charakterbogen im VTT.
 
+## [[Session 31]] — Wieder gespielt, Prothese in Auftrag
+
+- Ab ca. 00:21:00 spielt `luke_234` wieder Khirin, nachdem [[Pyraschan]] die Gruppe verlassen hat. Khirin hat weiterhin **3 Level Exhaustion**; ein Con-Save in der heißen Quelle, der eine Stufe erlassen hätte, scheitert. Die übliche Regel (−1 pro Long Rest) greift erst nach dem Nachtkampf.
+- [[Hrímnir]] trägt ihn nach [[Cloud Fang]]; er ruht in [[Sim]]s Hütte auf einem Futon.
+- DM präzisiert die Verstümmelung: Vom Arm ist **noch etwa der halbe Oberarm (bis zum Bizeps)** übrig. Benutzt Mage Hand zum Ausgleich.
+- Blättert per Mage Hand im **Buch der Seelen**: findet ein Kapitel leerer Seiten mit unbekannten Zirkeln und **lose, heraustrennbare Seiten — mindestens eine, vielleicht zwei fehlen**; spekuliert, solche Seiten könnten zum Erschaffen/Kontrollieren von Kreaturen dienen (unbestätigt).
+- **Arcana-Fehlwurf (5)** auf die Runen am Mantel des Magiers in Scale Piercers Gedanken: hält ihn fälschlich für eine Unsichtbarkeitsrobe — **falsche Information**.
+- Gibt dem Schmied **[[Legend Crafter]]** ein „etwas krummes Schwert" als Metall für eine **einfache Dreifinger-Armprothese** (30 Gold, davon 5 von Berta; fertig am nächsten Mittag/Abend). Wünscht sich vor allem eine Hand, die seinen Zauberstab halten kann. [[Fateweaver]] vernäht kostenlos seinen leeren Ärmel.
+- Überlegt, sich in [[Lunovar]] später einen akademischen Namen mit Forschung über die Simianer zu machen.
+- Im Nachtkampf: wirkt **Sleep** (ein Angreifer schläft ein) und **Toll the Dead**; vermeidet Feuerzauber, um die Hütte nicht abzufackeln (seine vorbereiteten Zauber sind fast alle Feuer).
+
 ## Verknüpfungen
 
 - [[Carbus]]
@@ -275,3 +290,4 @@ Unter dieser Annahme gilt für [[Session 26]]:
 - [[Nature's Guide]]
 - [[Druidenschrein (Cloud Fang)]]
 - [[Magda]]
+- [[Session 31]] · [[Session 31 transcript]]

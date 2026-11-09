@@ -19,6 +19,8 @@ related:
   - Knochenteufel
   - Dornenteufel
   - Olmea-Wald
+  - Session 31
+  - Seldris
 sources:
   - Session 25
   - Session 25 transcript
@@ -27,8 +29,9 @@ sources:
   - Session 27
   - Session 27 transcript
   - Session 28 transcript
+  - Session 31 transcript
 created: 2026-09-02
-updated: 2026-09-28
+updated: 2026-11-09
 status: developing
 ---
 
@@ -82,6 +85,9 @@ Nach der [[Styx]]-Überfahrt am Ende von [[Session 27]] erwacht die Gruppe zu Be
 
 In [[Session 28]] befällt die Gruppe (außer [[Naeli]]) zudem ein rätselhafter, individueller **Wahn** (Wisdom Save: Einsamkeitsgefühl, Verfolgungswahn, Heimweh, Trance). [[Hrímnir]] vermutet **Nachwirkungen aus Avernus** als Ursache — reine Spielervermutung, vom DM nicht bestätigt oder dementiert.
 
+## [[Session 31]] — Ein Rebell gegen Avernus
+- Der Teufel **[[Seldris]]** war wegen einer **Rebellion gegen die „höheren Lebewesen" von Avernus** im [[Styx]] versiegelt und ist mit der Gruppe in diese Ebene entkommen. Er will hier Kraft durch Handel sammeln und als „zukünftiger Herrscher über Avernus" zurückkehren. Er sieht aus wie aus vielen Avernus-Teufeln zusammengesetzt (u. a. Barbed-Devil-artige, gezackte Stacheln).
+
 ## Offene Fragen
 - Wie und warum wurde ausgerechnet dieser Ort (und nicht eine andere Ebene) durch den Riss erreicht?
 - Besteht ein Zusammenhang mit [[Magolor]]s Büchern (Buch der Schwellen/Buch der Seelen) oder mit dem Tod des [[Drift-Zeppelin|Drift-Zeppelins]]?
@@ -101,3 +107,4 @@ In [[Session 28]] befällt die Gruppe (außer [[Naeli]]) zudem ein rätselhafter
 - [[Session 27]] · [[Styx]] · [[Sariel]] · [[Fährmann des Styx]] · [[Knochenteufel]] · [[Dornenteufel]] · [[Magda]]
 - [[Session 28]] · [[Olmea-Wald]] · [[Ork (Kreatur)]] · [[Dire Wolf]]
 - [[Session 29]] · [[Session 30]]
+- [[Session 31]] · [[Session 31 transcript]]

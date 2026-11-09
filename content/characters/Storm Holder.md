@@ -15,11 +15,14 @@ related:
   - Cloud Fang
   - Session 29
   - Session 30
+  - Session 31
+  - Gnadenpfeile
 sources:
   - Session 29 transcript
   - Session 30 transcript
+  - Session 31 transcript
 created: 2026-05-11
-updated: 2026-10-19
+updated: 2026-11-09
 status: developing
 ---
 # Storm Holder
@@ -46,6 +49,10 @@ Vater von [[Sim]] und früheres, beliebtes Oberhaupt von [[Sim]]s Heimatdorf **[
 - Ein Stammesmitglied bestätigt indirekt die Brutalität des Nachfolgers: Wer Scale Piercer herausfordert und verliert, wird verstümmelt und verliert das Recht auf eine erneute Herausforderung — unterstreicht, wie ungleich Storm Holders fairer Tod gegen die eigenen heiligen Regeln war.
 - **Sims gebundener Abschiedsbrief wird von [[Berta]] zerstört** (siehe [[Sim]]) — vermutlich zur Schwächung von Sims Fluch, nicht aus Geringschätzung des Andenkens.
 
+### [[Session 31]]
+- Seine Hütte in [[Cloud Fang]] steht leer und verstaubt; darin ein „Bastelraum" mit niedergeschriebenen Gedanken und sein altes Pfeillager, aus dem [[Sim]] [[Gnadenpfeile]] und drei Elementarpfeile nimmt.
+- [[Scale Piercer]] behauptet, unter Storm Holder hätte das Dorf dem Angriff der Spinnenkreaturen nie standgehalten. Sim bestätigt, dass der Duellkampf selbst „mit fairen Mitteln" verlief.
+
 ## Offene Fragen
 - Wie genau lief das Duell und der Verrat danach ab — gibt es Zeugen außer Scale Piercer?
 - Was stand im Abschiedsbrief, und worum ging der Streit mit Sim?
@@ -53,3 +60,4 @@ Vater von [[Sim]] und früheres, beliebtes Oberhaupt von [[Sim]]s Heimatdorf **[
 ## Verknüpfungen
 - [[Cloud Fang]] · [[Scale Piercer]] · [[Sim]] · [[Session 29]] · [[Session 29 transcript]]
 - [[Session 30]] · [[Session 30 transcript]]
+- [[Session 31]] · [[Session 31 transcript]]

@@ -16,11 +16,14 @@ related:
   - Berta
   - Session 26
   - Session 29
+  - Session 31
+  - Legend Crafter
 sources:
   - Session 26 transcript
   - Session 29 transcript
+  - Session 31 transcript
 created: 2026-09-15
-updated: 2026-10-12
+updated: 2026-11-09
 status: developing
 ---
 
@@ -45,6 +48,9 @@ Ein **grünlich schimmerndes Metall bzw. Erz**, das im Gestein der [[Imp-Höhle]
 ## Current Status
 [[Berta]] hat sich in [[Session 26]] den **größten herausgebrochenen Brocken** eingesteckt. Der Rest bleibt in der Höhle.
 
+## [[Session 31]]
+- [[Sim]] schlägt vor, das hart-elastische Erz aus den Höllen dem Schmied [[Legend Crafter]] für [[Khirin]]s Prothese zu geben; Khirin wählt stattdessen das „minderwertigere" Eisen eines Schwerts. Das Erz bleibt im Besitz der Gruppe. Erz ist in [[Cloud Fang]] sehr rar — potenziell wertvoll als Handels- oder Schmiedematerial.
+
 ## Offene Fragen
 - Was ist das für ein Material — und ist es in [[Avernus]] gewöhnlich oder besonders?
 - Ist es verarbeitbar, und wofür? Vergleichspunkt für den Vault: die [[Blaue Metallbarren|blauen Metallbarren]] aus [[Lysanthiriel Vaelora|Lysandriels]] Essenzmagie-Forschung.
@@ -53,3 +59,4 @@ Ein **grünlich schimmerndes Metall bzw. Erz**, das im Gestein der [[Imp-Höhle]
 ## Verknüpfungen
 - [[Session 26]] · [[Session 26 transcript]] · [[Imp-Höhle]] · [[Avernus]] · [[Berta]]
 - [[Blaue Metallbarren]] · [[Session 29]] · [[Session 29 transcript]]
+- [[Session 31]] · [[Session 31 transcript]]

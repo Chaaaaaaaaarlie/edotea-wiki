@@ -19,13 +19,16 @@ related:
   - Olmea-Wald
   - Session 29
   - Session 30
+  - Session 31
+  - Cloud Fang
 sources:
   - Session 27 transcript
   - Session 28 transcript
   - Session 29 transcript
   - Session 30 transcript
+  - Session 31 transcript
 created: 2026-09-21
-updated: 2026-10-19
+updated: 2026-11-09
 status: developing
 ---
 
@@ -69,6 +72,9 @@ Eine der ca. 26 Elfen aus dem Käfigwagen in [[Session 27]]. Schüchtern, mit **
 - Nicht persönlich erwähnt, außer in einem beiläufigen Kommentar: [[Sim]] fasst den Stand zusammen, nur „Magda und der Typ, der immer noch ohnmächtig ist", seien noch unterwegs — der „Typ" wird als „wahrscheinlich einfach tot" abgetan, ohne dass die Gruppe dem nachgeht.
 - Ihr Patient wird in derselben Session ausdrücklich **von Khirin unterschieden** (siehe Callout oben) — Khirin war die ganze Zeit separat als Stein in einer Tasche unterwegs.
 
+## [[Session 31]]
+- Bleibt mit dem weiterhin bewusstlosen Patienten in [[Sim]]s Hütte in [[Cloud Fang]] zurück (DM-Transkript: „Martha und der … der bewusstlos ist"). Keine weitere Entwicklung.
+
 ## Offene Fragen
 - Woher stammt sie und wie kam sie in den Käfig (Sturm/Wolke)?
 - Warum fehlt ihr ein Ohr?
@@ -82,3 +88,4 @@ Eine der ca. 26 Elfen aus dem Käfigwagen in [[Session 27]]. Schüchtern, mit **
 - [[Session 28]] · [[Session 28 transcript]] · [[Olmea-Wald]]
 - [[Session 29]] · [[Session 29 transcript]]
 - [[Session 30]] · [[Session 30 transcript]]
+- [[Session 31]] · [[Session 31 transcript]]

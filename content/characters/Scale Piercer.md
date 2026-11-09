@@ -4,7 +4,7 @@ title: "Scale Piercer"
 character_type: antagonist
 race: "Simian"
 class: ""
-location: "Cloud Fang (vermutlich)"
+location: "Cloud Fang (Anwesen des Oberhaupts)"
 affiliations: []
 tags:
   - character
@@ -18,17 +18,22 @@ related:
   - Tabaxi
   - Session 29
   - Session 30
+  - Session 31
+  - Scale Piercer herausfordern
+  - Legend Crafter
+  - Fateweaver
 sources:
   - Session 29 transcript
   - Session 30 transcript
+  - Session 31 transcript
 created: 2026-05-11
-updated: 2026-10-19
+updated: 2026-11-09
 status: developing
 ---
 # Scale Piercer
 
 ## At a Glance
-Usurpator-Oberhaupt von [[Sim]]s Heimatdorf (vermutlich [[Cloud Fang]]) und neuer zentraler Antagonist. Einst ein Freund [[Sim]]s, zog er vor Jahren auf Abenteuer aus und kehrte verändert zurück, nachdem er angeblich einen Drachen erschlagen hatte — woraus sein verdienter Name stammt. Er forderte das damalige, friedliche Oberhaupt **[[Storm Holder]]** (Sims Vater) im heiligen Ritualduell heraus, gewann fair, **tötete ihn danach aber heimtückisch** unter Bruch der Duellregeln, und riss die Macht an sich. Seither führt das zuvor jahrzehntelang friedliche Dorf einen unprovozierten Krieg gegen den [[Tabaxi]]-Stamm des [[Olmea-Wald]]s.
+Usurpator-Oberhaupt („First Fang") von [[Sim]]s Heimatdorf [[Cloud Fang]] und neuer zentraler Antagonist. Einst ein Freund [[Sim]]s, zog er vor Jahren auf Abenteuer aus und kehrte verändert zurück, nachdem er angeblich einen Drachen erschlagen hatte — woraus sein verdienter Name stammt. Er forderte das damalige, friedliche Oberhaupt **[[Storm Holder]]** (Sims Vater) im heiligen Ritualduell heraus, gewann fair, **tötete ihn danach aber heimtückisch** unter Bruch der Duellregeln, und riss die Macht an sich. Seither führt das zuvor jahrzehntelang friedliche Dorf einen unprovozierten Krieg gegen den [[Tabaxi]]-Stamm des [[Olmea-Wald]]s.
 
 ## Hintergrund
 - Ehemaliger Freund [[Sim]]s aus [[Cloud Fang]].
@@ -57,6 +62,19 @@ Usurpator-Oberhaupt von [[Sim]]s Heimatdorf (vermutlich [[Cloud Fang]]) und neue
   - **Ideologie**: Ein Stammesmitglied rechtfertigt Storm Holders Tod offen: *„Dein Vater war schwach, und darum ist er gestorben."* Die implizite Doktrin: Schwäche verdient den Tod, Stärke rechtfertigt Herrschaft.
   - Vor rund einem halben Jahr (ungefähr zeitgleich mit seiner Machtübernahme) überfielen „komische, fette Viecher mit Spinnenbeinen" das Dorf — die Gruppe vermutet einen möglichen Zusammenhang mit [[Magolor]] (unbestätigt, siehe dort).
 
+### [[Session 31]] — Erste persönliche Begegnung und Herausforderung
+- Erscheint verschlafen in Holzsandalen vor seinem **Anwesen am höchsten Punkt von [[Cloud Fang]]** (rotes Tor mit Schild „Oberhaupt", zwei orang-utan-ähnliche Wachen). Trägt den Titel **„First Fang"**.
+- Verhöhnt [[Sim]] als „Faulpelz" und „Schande unseres Dorfes", unterstellt ihm, seinen Namen gekauft zu haben — akzeptiert ihn aber: „Ein Name ist ein Name."
+- Rechtfertigt den Krieg: Unter [[Storm Holder]] hätte das Dorf dem Angriff der Viecher nie standgehalten; die [[Tabaxi]] warteten nur darauf, das Dorf einzunehmen.
+- Reagiert **„sehr, sehr überrascht"**, als Sim sagt, die Gruppe habe die Quelle der Monster beseitigt. [[Berta]]s heimliches Detect Thoughts zeigt dabei in seinen Gedanken einen **unbekannten Magier**: lange, glatt gekämmte graue Haare, geflochtener Bart, streng, langer Mantel mit goldverzierten Rändern und Runen, eine Kugel in der Hand. Bei Sims Drachen-Bemerkung zieht er eine „sehr finstere Miene".
+- **Nimmt die Herausforderung an: Duell am nächsten Tag, wenn die Sonne ihren Höhepunkt erreicht**, am selben Ort. Spuckt aus und geht.
+- Ausrüstung: **Lanze/Speer auf dem Rücken mit Spitze aus Drachenmaterial** (Transkript: „aus Drachenszenen"), hochwertige gegerbte Lederrüstung, Metallarmschienen, eine **Obsidian-Holzkeule** (Holzbrett mit eingeharzten Obsidianscherben, mit Stoffband umwickelt) — eine Waffe, die er laut [[Fateweaver]] „auf seinen Reisen gesehen" und im Dorf eingeführt hat.
+- Laut einem Dorfbewohner führte er nach der Machtübernahme **strenge Trainingsregeln für alle** ein; der Schmied [[Legend Crafter]] muss seine Arbeitsaufträge erfüllen.
+- In der Nacht überfallen bewaffnete Simianer die Gruppe in Sims Hütte — **ob Scale Piercer sie geschickt hat, ist unbestätigt**.
+
+> [!gap] Der Magier in Scale Piercers Gedanken
+> Wer der grauhaarige Magier mit der Kugel ist, bleibt offen. Berta folgert, „dass [[Magolor]] offenbar nicht der Einzige ist, der diese Kreaturen kontrollieren konnte" — Interpretation der Gruppe, nicht bestätigt. Khirins Arcana-Deutung (Robe der Unsichtbarkeit) war ein Fehlwurf und ist **falsch**.
+
 ## Offene Fragen
 - Hat Scale Piercer tatsächlich einen Drachen erschlagen, oder ist das eine Lüge/Übertreibung?
 - Steckt eine fremde Beeinflussung (Magolor-Theorie) hinter seinem Wandel?
@@ -66,3 +84,4 @@ Usurpator-Oberhaupt von [[Sim]]s Heimatdorf (vermutlich [[Cloud Fang]]) und neue
 ## Verknüpfungen
 - [[Cloud Fang]] · [[Sim]] · [[Storm Holder]] · [[Olmea-Wald]] · [[Tabaxi]] · [[Session 29]] · [[Session 29 transcript]] · [[Magolor]]
 - [[Session 30]] · [[Session 30 transcript]]
+- [[Session 31]] · [[Session 31 transcript]]

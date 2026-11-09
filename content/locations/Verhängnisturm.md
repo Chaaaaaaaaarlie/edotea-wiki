@@ -11,10 +11,12 @@ related:
   - Aalafiel
   - das Nichts
   - Palamedis
+  - Session 31
 sources:
   - Session 17 transcript
+  - Session 31 transcript
 created: 2026-06-16
-updated: 2026-07-13
+updated: 2026-11-09
 status: developing
 ---
 
@@ -41,6 +43,9 @@ Ein sagenumwobener Turm, von dem [[Aalafiel]] in [[Session 17]] berichtet. Heima
 ## Bewohner
 - **Das Wesen, das [[Aalafiel]] verfluchte**: gestaltwandelnd, „aus allen möglichen Kreaturen zusammengesetzt, ähnlich einer Chimäre", hält seine Form nicht (Hände aus Schlangen, Kopf einer Ziege, mal ein Baum). Eines von nur **zwei Wesen, die älter sind als Aalafiel** (das andere ist [[Palamedis]]).
 
+## [[Session 31]]
+- Steht als „Verhängnisturm finden" weiterhin auf [[Berta]]s Liste offener Gruppenziele. Keine neuen Informationen.
+
 ## Offene Fragen
 > [!warning] DM-relevant
 > - Ist das Fluch-Wesen identisch mit **[[das Nichts]]** (dem Traumwesen der drei Hofmagier)? Beide sind uralt und entziehen sich gewöhnlicher Gestalt — aber das Nichts wird als *formlos* beschrieben, das Fluch-Wesen als *chimärenhafter Gestaltwandler*. Nicht bestätigt.
@@ -51,3 +56,4 @@ Ein sagenumwobener Turm, von dem [[Aalafiel]] in [[Session 17]] berichtet. Heima
 - [[das Nichts]]
 - [[Palamedis]]
 - [[Session 17]]
+- [[Session 31]] · [[Session 31 transcript]]

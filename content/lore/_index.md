@@ -2,7 +2,7 @@
 type: meta
 title: "Lore Index"
 created: 2026-05-11
-updated: 2026-10-19
+updated: 2026-11-09
 tags:
   - meta
   - lore
@@ -23,9 +23,9 @@ status: evergreen
 ## Konzepte & Mysterien
 
 - [[Apostel]]
-- [[Drei Bücher]]
+- [[Drei Bücher]] *(Session 31: fehlende Seiten im Buch der Seelen; Berta will sich auf das Buch der Schwellen attunen)*
 - [[gesetzlose Stadt]] *(neu, Session 13 — Söldner-Heimat, möglicherweise [[Carbus]])*
-- [[Goetterfunke]] *(Bezug zu [[Pyraschan]] seit Session 28 vermutet; in Session 29 vom DM erstmals bestätigt, dass er im Auftrag des Götterfunken unterwegs ist)*
+- [[Goetterfunke]] *(Session 31: Pyraschan reist zum Götterfunken)* *(Bezug zu [[Pyraschan]] seit Session 28 vermutet; in Session 29 vom DM erstmals bestätigt, dass er im Auftrag des Götterfunken unterwegs ist)*
 - [[Residuum]]
 - [[Risse]]
 
@@ -42,7 +42,7 @@ status: evergreen
 ## Ebenen
 
 - [[Feenwildnis]] *(neu, Session 16 — Feywild; Portal im [[Erliorwald]], Heimat von Treants/Pixies/Worgen)*
-- [[Avernus]] *(neu, Session 25 — erste Schicht der Neun Höllen; erstmals erkundet in [[Session 26]]; möglicherweise seit [[Session 28]] verlassen, unbestätigt)*
+- [[Avernus]] *(Session 31: Rebellen-Teufel [[Seldris]])* *(neu, Session 25 — erste Schicht der Neun Höllen; erstmals erkundet in [[Session 26]]; möglicherweise seit [[Session 28]] verlassen, unbestätigt)*
 
 ## Bestiarium
 
@@ -63,7 +63,7 @@ status: evergreen
 - [[Shadow]]
 - [[Skelett]]
 - [[Spectre]]
-- [[Spinnenwesen]] *(neu, Session 16 — totes Seelenmagie-Konstrukt im Erliorwald)*
+- [[Spinnenwesen]] *(neu, Session 16 — totes Seelenmagie-Konstrukt im Erliorwald; Session 31: als rote Angreifer auf [[Cloud Fang]] beschrieben, unbekannter grauhaariger Magier als möglicher Kontrolleur)*
 - [[Tabaxi]] *(neu, Session 29 — katzenartiges Volk im [[Olmea-Wald]]; feindlicher Stamm im Krieg mit Sims Heimatdorf)*
 - [[Treant]]
 - [[Weiße Echse (Vision)]] *(neu, Session 30 — nur in Naelis Vision gesehen; mutmaßliche Quelle/Senke des Energie-Drains im Nordwesten; Existenz/Art unbestätigt)*

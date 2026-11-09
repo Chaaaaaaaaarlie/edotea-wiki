@@ -4,7 +4,7 @@ title: "Pyraschan"
 character_type: pc
 race: ""
 class: "Paladin"
-location: "Avernus"
+location: "unterwegs zum Götterfunken (seit Session 31 nicht mehr bei der Gruppe)"
 affiliations: []
 tags:
   - character
@@ -22,13 +22,16 @@ related:
   - Session 29
   - Session 30
   - Nature's Guide
+  - Session 31
+  - Seldris
 sources:
   - Session 26 transcript
   - Session 28 transcript
   - Session 29 transcript
   - Session 30 transcript
+  - Session 31 transcript
 created: 2026-09-15
-updated: 2026-10-19
+updated: 2026-11-09
 status: developing
 ---
 
@@ -146,6 +149,14 @@ Fast alles ist noch offen. Belegt ist nur:
 > [!contradiction] Fluch tatsächlich entfernt? — Ausdrücklich unklar
 > Im Gegensatz zu Berta, Hrímnir, Naeli und Sim bestätigt der Tisch bei Pyraschan **nicht eindeutig**, ob der entfernte Effekt wirklich sein Fluch war oder nur eine komische Fehldeutung („Verblähungen") — bewusst als Scherz offengelassen. Nicht als abgeschlossen vermerkt.
 
+## [[Session 31]] — Abschied von der Gruppe
+
+- Erkennt den Teufel **[[Seldris]]** per History-Check nicht eindeutig; will ihm sofort folgen — sonst werde er „zum Oathbreaker" oder reiße alle in den Tod.
+- [[Berta]] hält ihn mit **Telekinesis** zurück und rät, stattdessen seinem „Obermotz" Bericht zu erstatten und einen Plan zu machen.
+- Fragt nach dem Weg nach [[Kalineon]]; [[Sim]] beschreibt ihm die Route (West/Südwest, über [[Kalden]]). Verabschiedet sich und **verlässt die Gruppe**, um dem [[Goetterfunke|Götterfunken]] Bericht zu erstatten.
+- Sein Spieler (`luke_234`) spielt ab hier wieder [[Khirin]]. Ob und wann Pyraschan zurückkehrt, ist offen.
+- Regelnotiz: Eine Radiant-Resistenz auf Bertas Bogen stammte laut DM vermutlich von einem Pyraschan-Effekt; der Spieler verneint das — die Resistenz wurde gestrichen.
+
 ## Offene Fragen (aktualisiert nach [[Session 30]])
 - Wie lautet sein Name wirklich, und wie schreibt er sich?
 - Welche Rasse, welcher Orden, welcher Schwur?
@@ -165,3 +176,4 @@ Fast alles ist noch offen. Belegt ist nur:
 - [[Session 27]] · [[Session 28]] · [[Session 28 transcript]] · [[Goetterfunke]] · [[Olmea-Wald]] · [[Ork (Kreatur)]] · [[Magda]]
 - [[Session 29]] · [[Session 29 transcript]] · [[Elliot]] · [[Tabaxi]] · [[Riesenvögel (Olmea-Wald)]] · [[Kalden]]
 - [[Session 30]] · [[Session 30 transcript]] · [[Nature's Guide]] · [[Druidenschrein (Cloud Fang)]] · [[Cloud Fang]]
+- [[Session 31]] · [[Session 31 transcript]]

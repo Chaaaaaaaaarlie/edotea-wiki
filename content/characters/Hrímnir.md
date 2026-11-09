@@ -5,12 +5,15 @@ character_type: pc
 tags:
   - character
   - pc
-related: []
+related:
+  - Session 31
+  - Seldris
 sources:
   - Session 28 transcript
   - Session 30 transcript
+  - Session 31 transcript
 created: 2026-05-11
-updated: 2026-10-19
+updated: 2026-11-09
 status: developing
 ---
 ![[Hrimnir.png|533]]
@@ -185,6 +188,15 @@ status: developing
 - Löst beim Klettern zur 100-Fuß-Felswand (unter dem Einfluss der Episode, mit Nachteil) einen Stein, fängt sich aber am Seil — **1d4 Fallschaden**.
 - Lässt sich am [[Druidenschrein (Cloud Fang)|Druidenschrein]] von **[[Nature's Guide]]** den Höllenfluch entfernen: ein Wisdom-Save ist nötig, um sich überhaupt auf das Ritual einzulassen; der Fluch „verbeißt sich tief in seiner Seele" — **massiver psychischer Schaden**, blutet aus Augen/Nase/Ohren, Krämpfe. [[Naeli]] heilt ihn anschließend für **24 Trefferpunkte**. Der Fluch verlässt ihn bestätigt, er bleibt aber erschöpft zurück.
 
+## [[Session 31]]
+
+- Stuft den Teufel [[Seldris]] als sehr stark ein; trägt [[Khirin]] nach [[Cloud Fang]].
+- Enttarnt einen jungen simianischen Beobachter mit **Thaumaturgy** (lauter Ruf, lockt das halbe Dorf an) und einem mit Light belegten Kiesel, der ihn vom Baum stürzen lässt.
+- Trägt weiterhin das **Buch der Seelen**; stimmt Bertas Attunement-Plan nur unter Vorbehalt zu.
+- Gespräch mit [[Naeli]]: Bei seiner eigenen Suche sei er „auf einer guten Spur", wolle aber erst sicher sein, bevor er etwas verrät. Verspricht Naeli, auch dann zu ihr zu stehen, wenn ihre Vergangenheit unschön ist. Die heiße Quelle erinnert ihn an zu Hause.
+- Verwahrt nachts [[Sim]]s Ausrüstung in seiner Bag of Holding.
+- Im Nachtkampf: Donner-Reaktion, Deflect Attacks, Stunning Strike, Heroic Inspiration; mehrere Crits; eine Obsidian-Keule zerbricht an ihm.
+
 ## Verknüpfungen
 
 - [[Berta]]
@@ -256,3 +268,4 @@ status: developing
 - [[Nature's Guide]]
 - [[Druidenschrein (Cloud Fang)]]
 - [[Cloud Fang]]
+- [[Session 31]] · [[Session 31 transcript]]

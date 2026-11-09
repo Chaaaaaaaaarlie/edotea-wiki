@@ -5,12 +5,19 @@ character_type: pc
 tags:
   - character
   - pc
-related: []
+related:
+  - Session 31
+  - Seldris
+  - Gnadenpfeile
+  - Scale Piercer herausfordern
+  - Legend Crafter
+  - Fateweaver
 sources:
   - Session 28 transcript
   - Session 30 transcript
+  - Session 31 transcript
 created: 2026-05-11
-updated: 2026-10-19
+updated: 2026-11-09
 status: developing
 ---
 # Sim
@@ -180,6 +187,21 @@ status: developing
 - Bittet Nature's Guide im Namen der Gruppe, den versteinerten [[Khirin]] zu heilen — siehe [[Khirin]] für die Enthüllung, dass der zuvor vermutete „Patient" (bei [[Magda]]) eine andere Person ist.
 - **Seine Höllen-Verfluchung wird entfernt** — auffällig unkompliziert im Vergleich zu Hrímnirs und Pyraschans Erfahrung, vermutlich weil sein gebundener Brief bereits zuvor zerstört wurde.
 
+## [[Session 31]] — Heimkehr und Herausforderung
+
+- Warnt den Teufel **[[Seldris]]** am [[Druidenschrein (Cloud Fang)|Druidenschrein]]: Sollte er Menschen dieser Welt schaden, werde die Gruppe ihn niederstrecken — Seldris lacht nur.
+- Beschreibt dem abreisenden [[Pyraschan]] den Weg Richtung [[Kalineon]] (grob West/Südwest, über [[Kalden]], das Sim selbst bereist hat).
+- Führt die Gruppe nach **[[Cloud Fang]]**; liest das Eingangsschild „Willkommen in Cloudfang". Am Tisch wird er nun oft kurz **„Eye"** (Transkript „Ai"/„I") genannt.
+- Seine Elternhütte steht noch (staubig, weniger Möbel); dort Notizen seines Vaters [[Storm Holder]]. Findet im alten Pfeillager **10 [[Gnadenpfeile]]** und **drei Elementarpfeile** (Blitz, Säure, Feuer).
+- Ein junger Dorfbewohner erkennt ihn als Sohn des früheren Häuptlings; Sim stellt sich als **„Plane Walking Eye"** vor. Mehrere Dorfbewohner halten ihn für einen „Faulpelz", der sich keinen Namen verdient haben könne — Sim räumt ein, früher „eine sehr faule Socke" gewesen zu sein.
+- **Fordert [[Scale Piercer]] offiziell zum Duell heraus** (Intimidation 21 gegen die Wachen, mit Bertas Hilfe). Scale Piercer verhöhnt ihn und seinen Namen, nimmt aber an: **Duell am nächsten Tag zur Mittagszeit** — siehe [[Scale Piercer herausfordern]].
+- Korrigiert sich: Die Arena heißt **First Roar**, „First Fang" ist der **Titel des Oberhaupts**.
+- Behauptet gegenüber Scale Piercer, die Gruppe habe die **Quelle der Monster** beseitigt und einen Drachen erlegt.
+- Erklärt Simianer-Namen: etwa **jeder Zwanzigste** trägt einen; er selbst war über 20 Jahre namenlos. Führt [[Khirin]] zu [[Legend Crafter]] und [[Berta]] zu [[Fateweaver]].
+- Zu [[Wukong]]: Der Stamm stamme laut Legenden von ihm ab; er sei ein mächtiger Simian gewesen, der „bis zum Gottstatus" aufstieg, ohne großen Tempel.
+- Ist vor dem Duell nervös, will aber „ehrlich gewinnen" und lehnt Hilfe ab; glaubt, Scale Piercer habe den Duellkampf gegen seinen Vater fair gewonnen. Seine Ausrüstung lagert nachts in [[Hrímnir]]s Bag of Holding.
+- Im nächtlichen Überfall mehrere Crits; schlägt Angreifer bewusst bewusstlos statt sie zu töten.
+
 ## Verknüpfungen
 
 - [[Cadnix]]
@@ -249,3 +271,4 @@ status: developing
 - [[Session 30]]
 - [[Nature's Guide]]
 - [[Druidenschrein (Cloud Fang)]]
+- [[Session 31]] · [[Session 31 transcript]]

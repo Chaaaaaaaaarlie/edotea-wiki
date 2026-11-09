@@ -5,12 +5,16 @@ character_type: pc
 tags:
   - character
   - pc
-related: []
+related:
+  - Session 31
+  - Seldris
+  - Fateweaver
 sources:
   - Session 28 transcript
   - Session 30 transcript
+  - Session 31 transcript
 created: 2026-05-11
-updated: 2026-10-19
+updated: 2026-11-09
 status: developing
 ---
 # Berta
@@ -210,6 +214,17 @@ status: developing
 - **Lässt als Erste ihren Höllenfluch von [[Nature's Guide]] entfernen**: dunkler Nebel tritt aus Mund/Nase/Augen; alle außerhalb des Kreises spüren gleichzeitig einen Zug — Hinweis auf eine gemeinsame/vernetzte Fluchquelle der Gruppe. Keine sichtbaren Kosten für sie.
 - Überträgt dem frisch entsteinerten [[Khirin]] telepathisch auf einen Schlag das gesamte gesammelte Wissen der Gruppe — er scheitert am Wisdom Save gegen die Informationsflut (3 Level Exhaustion als Folge).
 
+## [[Session 31]]
+
+- Hält [[Pyraschan]] per **Telekinesis** davon ab, dem Teufel [[Seldris]] hinterherzujagen, und schickt ihn stattdessen zum Bericht an seinen Vorgesetzten. Zählt danach die lange Liste offener Gruppenziele auf.
+- Entdeckt beim Öffnen von [[Berthas Bohnen]] mit dem [[Magischer Schluessel|Schlüssel]]: **Die Tür nach [[Lunovar]] ist verschwunden** — nur Ruß und Holzsplitter. Richtet eine Tür in [[Sim]]s Hütte ein. Eine fälschlich eingetragene Radiant-Resistenz wird gestrichen.
+- Erzeugt per Illusion ein [[Spinnenwesen]]-Abbild, um einen jungen Simian zu befragen — er flieht in Panik.
+- Wirkt per **Subtle Spell Detect Thoughts** auf [[Scale Piercer]] und sieht den **grauhaarigen Magier mit der Kugel** (siehe dort); folgert, Magolor sei nicht der Einzige, der die Kreaturen kontrollieren konnte.
+- Möchte sich auf das **Buch der Schwellen** attunen — um die Risse und [[das Nichts]] zu verstehen und herauszufinden, **wer sie befreit hat**; nur lesen, nicht benutzen. Gruppe vertagt die Entscheidung auf nach dem Duell. Ihre lose Buchseite zieht weiterhin zu [[Naeli]]; zwischen ihrem und Naelis Gepäck sprühen Funken.
+- Erhält von **[[Fateweaver]]** einen **neuen Hexenhut** (2 Gold) — „Ich bin endlich wieder komplett." Legt 5 Gold zu Khirins Prothese dazu. Bestätigt per Nature-Check, dass die Klingen der Dorfwaffen gewöhnliches **Obsidian** sind.
+- Nutzt zum ersten Mal **Sending**: Nachricht an **[[Fohlen]]** („Hier ist Berta. Wir haben überlebt. Magolor ist tot. Wir sind im Olmea-Wald. Lagebericht.") — kommt an, keine Antwort.
+- Hält die zweite Nachtwache, bemerkt die Eindringlinge aber nicht (passive Wahrnehmung 15 überboten); kämpft u. a. mit Sorcerous Burst und einem geschleuderten Stuhl.
+
 ## Verknüpfungen
 
 - [[Cadnix]]
@@ -288,3 +303,4 @@ status: developing
 - [[Nature's Guide]]
 - [[Druidenschrein (Cloud Fang)]]
 - [[Khirin]]
+- [[Session 31]] · [[Session 31 transcript]]

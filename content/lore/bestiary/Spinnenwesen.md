@@ -9,9 +9,15 @@ tags:
   - lore
   - bestiarium
 created: 2026-06-09
-updated: 2026-09-02
+updated: 2026-11-09
 status: developing
 NoteIcon: npc
+related:
+  - Session 31
+  - Cloud Fang
+  - Scale Piercer
+sources:
+  - Session 31 transcript
 ---
 
 # Spinnenwesen
@@ -41,6 +47,10 @@ Eine tote, **knallrote** Kreatur, die die Gruppe in [[Session 16]] in der **verb
 - Kämpft in [[Session 25]] gegen die Gruppe, u. a. gegen [[Hrímnir]], während des Kampfs um das Buch der Schwellen.
 - **Ausgang unklar**: Das Transkript löst nicht eindeutig auf, ob es getötet wurde oder floh — offener Punkt.
 
+## [[Session 31]] — Bericht aus Cloud Fang
+- Ein junger Simian beschreibt die Angreifer auf [[Cloud Fang]] (einige Monate nach [[Scale Piercer]]s Machtübernahme) als **rote, spinnenartige Viecher mit Haut so hart wie Holz und Stahl, vielen Beinen und „so vielen Augen"** — passt zur bekannten Beschreibung. Bertas Illusion eines Spinnenwesens versetzt ihn in Panik.
+- In Scale Piercers Gedanken taucht bei der Erwähnung der „Quelle der Monster" ein **unbekannter grauhaariger Magier mit Kugel** auf — möglicherweise ein weiterer Kontrolleur neben [[Magolor]] (Interpretation der Gruppe).
+
 ## Offene Fragen
 - Wer hat das erste Exemplar in [[Session 16]] **verbrannt** — [[Aalafiel]]? Die gepanzerten Elfen?
 - Wonach **suchte** es?
@@ -56,3 +66,4 @@ Eine tote, **knallrote** Kreatur, die die Gruppe in [[Session 16]] in der **verb
 - [[Magolor]]
 - [[Session 24]]
 - [[Session 25]]
+- [[Session 31]] · [[Session 31 transcript]]

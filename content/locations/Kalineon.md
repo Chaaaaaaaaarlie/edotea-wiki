@@ -5,10 +5,12 @@ location_type: realm
 parent_location: "[[Kontinent Edotea]]"
 tags:
   - location
-related: []
-sources: []
+related:
+  - Session 31
+sources:
+  - Session 31 transcript
 created: 2026-05-11
-updated: 2026-08-03
+updated: 2026-11-09
 status: developing
 ---
 # Kalineon
@@ -73,6 +75,9 @@ status: developing
 - Laut [[Session 5]] wurde [[Elliot]] vom Königshaus wegen einer Expedition zu Ruinen in [[Kalineon]] an den Hof gebeten.
 - Laut [[Session 7]] diente [[Fiona Casterwill]] früher im alten [[Kalineon]] als Dienstmagd.
 
+## [[Session 31]]
+- [[Pyraschan]] fragt nach dem Weg nach Kalineon, um dem [[Goetterfunke|Götterfunken]] Bericht zu erstatten; [[Sim]] verortet es von [[Cloud Fang]] aus grob im Westen/Südwesten, mit einer Route über [[Kalden]]. Ob Pyraschans Ziel tatsächlich Kalineon oder [[Lögress]] ist, bleibt offen.
+
 ## Verknüpfungen
 
 - [[Elliot]]
@@ -100,3 +105,4 @@ status: developing
 - [[Kalineon-Royalisten]]
 - [[Zakson]]
 - [[Session 30]]
+- [[Session 31]] · [[Session 31 transcript]]

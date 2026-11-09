@@ -9,10 +9,13 @@ related:
   - Naeli
   - Pyraschan
   - Session 29
+  - Session 31
+  - Cloud Fang
 sources:
   - Session 29 transcript
+  - Session 31 transcript
 created: 2026-05-11
-updated: 2026-10-12
+updated: 2026-11-09
 status: developing
 ---
 # Kalden
@@ -23,6 +26,9 @@ status: developing
 
 > [!gap] Unklarer Bezug zu Naelis/Pyraschans Fluch ([[Session 29]])
 > Während einer Identify-Sitzung im [[Olmea-Wald]] erklärt der DM, [[Naeli]]s andauernde Hautschuppung/Blässe sei **kein neuer Fluch**, sondern bereits seit einem Ereignis namens „Kalden" bekannt; [[Pyraschan]] entdeckt per Detect Magic im selben Moment überrascht einen eigenen, bisher unbekannten Fluch, von dem Naeli laut DM ebenfalls schon seit „Kalden" weiß. Ob „Kalden" hier den Ort auf dieser Seite bezeichnet oder ein bislang unbekanntes Ereignis gleichen Namens, ist **unklar** — im Transkript wird nichts weiter dazu erklärt. Nicht erfinden, bis der DM dies klärt.
+
+## [[Session 31]]
+- [[Sim]] gibt an, von [[Cloud Fang]] aus schon einmal nach Kalden gereist zu sein, und beschreibt [[Pyraschan]] die Route über Kalden Richtung [[Kalineon]].
 
 ## Verknüpfungen
 
@@ -35,3 +41,4 @@ status: developing
 - [[Sim]]
 - [[Naeli]]
 - [[Pyraschan]]
+- [[Session 31]] · [[Session 31 transcript]]

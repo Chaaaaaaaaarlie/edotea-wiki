@@ -14,10 +14,12 @@ related:
   - Risse
   - das Nichts
   - Berta
+  - Session 31
 sources:
   - Session 12 transcript
+  - Session 31 transcript
 created: 2026-05-12
-updated: 2026-08-31
+updated: 2026-11-09
 status: developing
 ---
 
@@ -122,6 +124,9 @@ Nobel auftretender Elf, freundlich-verspielt-warm, lacht leicht. Gibt offen zu, 
 - Kann die Barriere offenbar mit mehreren Magiern/Kristallen kurz kontrolliert öffnen oder absenken, damit die Gruppe den blauen Drachen in eine Kampfposition bekommt.
 - Warnt, dass die Gruppe eigentlich erschöpft ist, trägt den Drachenplan aber mit.
 
+## [[Session 31]] — Bertas Sending
+- [[Berta]] erreicht Fohlen erstmals per **Sending** aus [[Cloud Fang]]: „Hier ist Berta. Wir haben überlebt. Magolor ist tot. Wir sind im Olmea-Wald. Lagebericht." Die Nachricht kommt laut DM an; **keine Antwort**. (Bertas Aussage zu [[Magolor]] ist ihre Einschätzung, keine Bestätigung.)
+
 ## Offene Fragen
 - Wie kam er zu seinem Cloak of Archmage?
 - Was sieht er als Diviner über [[Berta]]s Pakt mit [[das Nichts]]?
@@ -129,3 +134,6 @@ Nobel auftretender Elf, freundlich-verspielt-warm, lacht leicht. Gibt offen zu, 
 - **Wie weit reicht seine Divination?** 3 Tage präzise vorausgeplant ist hoch.
 - Wer hat die Leichen ausgezogen und in die Wanne gelegt? Fohlen, oder ein anderer Mitwisser?
 - Wie stabil ist der neue Teleportationszirkel, und wie lange kann die Barriere noch gehalten werden?
+
+## Verknüpfungen
+- [[Session 31]] · [[Session 31 transcript]]

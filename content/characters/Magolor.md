@@ -18,6 +18,8 @@ related:
   - Wilhelm Casterwill
   - Borgrim Runenbrecher
   - Oestliche Garnison von Cadnix
+  - Session 31
+  - Spinnenwesen
 sources:
   - Session 4
   - Session 5
@@ -28,8 +30,9 @@ sources:
   - Session 14
   - Session 14 transcript
   - Session 25
+  - Session 31 transcript
 created: 2026-05-11
-updated: 2026-09-02
+updated: 2026-11-09
 status: mature
 ---
 # Magolor
@@ -149,6 +152,12 @@ Verhört von der Gruppe, bestätigt seine Agentin **Evelyn** (siehe [[Elfaria Al
 > [!gap] Spinnenbeinige Kreaturen bei [[Cloud Fang]]
 > Stammesmitglieder von [[Sim]]s Heimatdorf [[Cloud Fang]] berichten in [[Session 30]], das Dorf sei vor rund einem halben Jahr von „komischen, fetten Viechern mit Spinnenbeinen" überfallen worden — zeitlich etwa gleichauf mit [[Scale Piercer]]s Machtübernahme. Die Gruppe erinnert sich an ähnliche spinnenbeinige Kreaturen aus eigener Vorgeschichte (vermutlich [[Spinnenwesen]], mit Magolor assoziiert) und vermutet einen Zusammenhang — **vom DM nicht bestätigt oder dementiert**. Falls real, wäre dies der erste Hinweis auf Magolor-(oder zumindest Spinnenwesen-)Aktivität weit außerhalb von [[Lunovar]]/[[Kalineon]], auf einem offenbar anderen Kontinent/einer anderen Region als der [[Olmea-Wald]].
 
+## [[Session 31]] — Ein zweiter Kreaturen-Meister?
+
+- [[Sim]] behauptet gegenüber [[Scale Piercer]], die Gruppe habe die **Quelle der Spinnenkreaturen** beseitigt (bezogen auf Magolor). Scale Piercer ist darüber sehr überrascht; [[Berta]] sieht in seinen Gedanken einen **unbekannten grauhaarigen Magier mit Kugel** und folgert, Magolor sei „nicht der Einzige, der diese Kreaturen kontrollieren konnte" — Interpretation, nicht bestätigt.
+- Ein Dorfbewohner beschreibt die Angreifer auf [[Cloud Fang]] als **rote, spinnenartige Viecher** mit holz-/stahlharter Haut, vielen Beinen und vielen Augen — passend zu den [[Spinnenwesen]].
+- [[Berta]] meldet [[Fohlen]] per Sending: „Magolor ist tot." — Bertas Überzeugung; ein Leichenfund fehlt weiterhin.
+
 ## Offene Fragen
 - Welche zwei Bücher hat er konkret (Raum/Essenz/Seele zu grün/rot)?
 - Wie viele Helfer hat sein Kreis?
@@ -166,3 +175,4 @@ Verhört von der Gruppe, bestätigt seine Agentin **Evelyn** (siehe [[Elfaria Al
 - [[Session 4]] · [[Session 5]] · [[Session 6]] · [[Session 7]] · [[Session 10]] · [[Session 11]] · [[Session 14]] · [[Session 21]] · [[Session 22]] · [[Session 24]] · [[Session 25]]
 - [[Cassomir]] · [[Lunovar]] · [[Kalineon]] · [[Kalineon-Royalisten]] · [[Drift-Zeppelin]] · [[Avernus]]
 - [[Cloud Fang]] · [[Scale Piercer]] · [[Session 30]]
+- [[Session 31]] · [[Session 31 transcript]]

@@ -5,6 +5,8 @@ location_type: landmark
 parent_location: "[[Cloud Fang]]"
 ruling_faction: ""
 population: ""
+tags:
+  - location
 status: developing
 related:
   - Cloud Fang
@@ -12,16 +14,19 @@ related:
   - Khirin
   - Weiße Echse (Vision)
   - Session 30
+  - Session 31
+  - Seldris
 sources:
   - Session 30 transcript
+  - Session 31 transcript
 created: 2026-10-19
-updated: 2026-10-19
+updated: 2026-11-09
 ---
 
 # Druidenschrein (Cloud Fang)
 
 ## Summary
-Ein alter Steinkreis mit einem antiken Altar auf dem Bergpfad kurz unterhalb von [[Cloud Fang]]. Wird von **[[Nature's Guide]]** und zwei weiteren Simian-Druiden gehütet. In [[Session 30]] Schauplatz der Entsteinerung [[Khirin]]s und mehrerer Fluch-Entfernungsrituale — endet mit einem ungeklärten Cliffhanger.
+Ein alter Steinkreis mit einem antiken Altar auf dem Bergpfad kurz unterhalb von [[Cloud Fang]]. Wird von **[[Nature's Guide]]** und zwei weiteren Simian-Druiden gehütet. In [[Session 30]] Schauplatz der Entsteinerung [[Khirin]]s und mehrerer Fluch-Entfernungsrituale — endet mit einem Cliffhanger, der sich in [[Session 31]] auflöst: Aus dem schwarzen Nebel formt sich der Teufel [[Seldris]].
 
 ## Geography
 - Liegt auf dem Bergpfad, der von der 100-Fuß-Felswand hinauf nach [[Cloud Fang]] führt.
@@ -44,8 +49,12 @@ Ein alter Steinkreis mit einem antiken Altar auf dem Bergpfad kurz unterhalb von
 - Reihum durchgeführte Fluch-Entfernungen bei Berta, Hrímnir, Pyraschan (Ergebnis unklar) und Sim — Preis: persönliche Erinnerungen.
 - **Cliffhanger**: Unmittelbar nach Nature's Guides Weggang leuchten die Runen von selbst, ein schwarzer Nebel manifestiert sich — ungeklärt.
 
+### [[Session 31]]
+- **Auflösung des Cliffhangers**: Der schwarze Nebel über dem Altar kondensiert zu einer schwarzen Flüssigkeit, aus der sich der Teufel **[[Seldris]]** formt — er war im [[Styx]] versiegelt und kam mit der Gruppe in diese Ebene. Nach einem Gespräch fliegt er davon. [[Nature's Guide]] bleibt sichtlich erschrocken zurück.
+- [[Pyraschan]] verlässt hier die Gruppe.
+
 ## Hooks
-- Was verursacht das plötzliche Leuchten der Runen und den schwarzen Nebel?
+- ~~Was verursacht das plötzliche Leuchten der Runen und den schwarzen Nebel?~~ → [[Session 31]]: Manifestation des aus dem Styx entkommenen Teufels [[Seldris]]. Warum gerade an diesem Schrein, bleibt offen.
 - Wer hat den Schrein ursprünglich erbaut?
 - Ist der Ort mit der schwindenden Naturenergie der Region ursächlich verbunden, oder nur ein weiterer Leidtragender?
 
@@ -53,3 +62,4 @@ Ein alter Steinkreis mit einem antiken Altar auf dem Bergpfad kurz unterhalb von
 - [[Cloud Fang]] · [[Olmea-Wald]] · [[Nature's Guide]] · [[Khirin]]
 - [[Sim]] · [[Naeli]] · [[Berta]] · [[Hrímnir]] · [[Pyraschan]]
 - [[Weiße Echse (Vision)]] · [[Session 30]] · [[Session 30 transcript]]
+- [[Session 31]] · [[Session 31 transcript]]

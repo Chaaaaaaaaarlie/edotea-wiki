@@ -3,6 +3,9 @@ type: lore
 title: "Weiße Echse (Vision)"
 lore_category: bestiary
 era: ""
+tags:
+  - lore
+  - bestiarium
 status: seed
 related:
   - Naeli
@@ -10,10 +13,12 @@ related:
   - Druidenschrein (Cloud Fang)
   - Olmea-Wald
   - Session 30
+  - Session 31
 sources:
   - Session 30 transcript
+  - Session 31 transcript
 created: 2026-10-19
-updated: 2026-10-19
+updated: 2026-11-09
 ---
 
 # Weiße Echse (Vision)
@@ -35,9 +40,13 @@ Während der Vision erscheint die Welt Naeli als „blutend": Die Lebensenergie 
 > [!warning] DM eyes — secrets and spoilers.
 Nichts bekannt — die Kreatur/das Phänomen ist im Transkript nicht weiter erklärt.
 
+## [[Session 31]]
+- Steht als „merkwürdiges Echsen-Ding finden" auf [[Berta]]s Zielliste. [[Naeli]] möchte der Spur folgen, die Gruppe priorisiert aber zunächst [[Cloud Fang]]. Keine neuen Informationen.
+
 ## Connections
 - [[Naeli]]
 - [[Nature's Guide]]
 - [[Druidenschrein (Cloud Fang)]]
 - [[Olmea-Wald]]
 - [[Session 30]]
+- [[Session 31]] · [[Session 31 transcript]]

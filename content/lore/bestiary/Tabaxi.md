@@ -12,11 +12,13 @@ related:
   - Scale Piercer
   - Session 29
   - Session 30
+  - Session 31
 sources:
   - Session 29 transcript
   - Session 30 transcript
+  - Session 31 transcript
 created: 2026-10-12
-updated: 2026-10-19
+updated: 2026-11-09
 status: developing
 ---
 
@@ -37,6 +39,9 @@ Die Tabaxi geben „den Affen" (Simianern, siehe [[Sim]]s Heimatdorf) die Schuld
 ## [[Session 30]] — Beiderseitige Narben als Kriegsbeweis
 Bei der Begegnung mit Sims eigenem Stamm (siehe [[Cloud Fang]]) zeigt ein Simianer eine alte Tabaxi-Kratzwunde als Beweis gegen eine Tabaxi-Allianz-Vermutung; [[Hrímnir]] zeigt im Gegenzug seine frische Kratzwunde aus dem Tabaxi-Kampf von [[Session 29]]. Bestätigt indirekt: Der Konflikt zwischen Tabaxi und Simianern ist beiderseitig blutig und nicht neu.
 
+## [[Session 31]]
+- [[Scale Piercer]] rechtfertigt den Krieg: Die Tabaxi warteten nur darauf, das geschwächte Dorf anzugreifen und einzunehmen; sie würden die Simianer „mit Pech ausrotten". [[Sim]] hält den Krieg für sinnlos und tödlich für beide Seiten.
+
 ## Offene Fragen
 - Wie heißt das Tabaxi-Dorf, und wo genau liegt es (Himmelsrichtung am Tisch uneinheitlich)?
 - Gibt es eine Möglichkeit, Frieden zwischen Tabaxi und Sims Heimatdorf zu vermitteln, sobald [[Scale Piercer]] gestürzt ist?
@@ -44,3 +49,4 @@ Bei der Begegnung mit Sims eigenem Stamm (siehe [[Cloud Fang]]) zeigt ein Simian
 ## Verknüpfungen
 - [[Olmea-Wald]] · [[Session 29]] · [[Session 29 transcript]] · [[Session 30]] · [[Session 30 transcript]]
 - [[Sim]] · [[Scale Piercer]] · [[Berta]] · [[Hrímnir]] · [[Cloud Fang]]
+- [[Session 31]] · [[Session 31 transcript]]

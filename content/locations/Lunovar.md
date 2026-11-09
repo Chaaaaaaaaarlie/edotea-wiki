@@ -5,11 +5,15 @@ location_type: city
 parent_location: "[[Kalineon]]"
 tags:
   - location
-related: []
+related:
+  - Session 31
+  - Berthas Bohnen
+  - Fohlen
 sources:
   - Session 14
+  - Session 31 transcript
 created: 2026-05-11
-updated: 2026-09-02
+updated: 2026-11-09
 status: developing
 ---
 # Lunovar
@@ -106,6 +110,10 @@ Beim Tod des anschließend besiegten Drift-Zeppelins entlädt sich die seit Woch
 > [!gap] Zustand von Lunovar nach [[Session 25]] unklar
 > Wie stark der Turmeinsturz und der Riss die restliche Stadt, die Akademie und die laufende Evakuierung beschädigt haben, wird im Transkript nicht mehr gezeigt — die Session endet mit der Gruppe bereits in Avernus.
 
+### [[Session 31]] — Verbindung abgerissen
+- Die über [[Berthas Bohnen]] bestehende Tür nach Lunovar ist **zerstört** (nur Ruß und Holzsplitter). Was in Lunovar seit dem Turmeinsturz ([[Session 25]]) geschehen ist, bleibt unbekannt.
+- [[Berta]] sendet per Sending eine Nachricht an [[Fohlen]] — ohne Antwort.
+
 ## Stadtviertel
 
 > [!info] **Adelsviertel Lunovar** ([[Session 14]]): durch eine **separate 21-Meter-Mauer** (Attack-on-Titan-Style) vom Rest der Stadt getrennt. Im Zentrum steht ein riesiges Marmor-Gebäude — der **Ratssaal** mit Thron des Hohen Rates. Reicht-Familien wohnen hier in Halb-Palästen. **Pöbel und Halbelfen** sind ausgeschlossen.
@@ -177,3 +185,4 @@ Nach Audienz mit [[Elfaria Albis von Sylphid]]:
 - [[Avernus]]
 - [[Session 29]]
 - [[Session 30]]
+- [[Session 31]] · [[Session 31 transcript]]
