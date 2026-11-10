@@ -2,7 +2,7 @@
 type: session
 title: "Session 25 - Magolors Sturz und der Riss nach Avernus"
 created: 2026-09-02
-updated: 2026-09-15
+updated: 2026-11-10
 tags:
   - session
 session_number: 25
@@ -54,8 +54,8 @@ Während des Gefechts schlägt das zweite Buch von selbst auf und beginnt, die L
 ### Magolors Sturz
 Mit toten/sterbenden Begleitmagiern und selbst wieder stark geschwächt setzt Magolor die Teleport-Fähigkeit des Buchs der Schwellen ein und flieht vom Turm hinauf in die Luft. [[Sim]] klettert per Enterhaken auf einen Brunnen/eine Statue im Innenhof und springt von dort direkt auf den Drift-Zeppelin, um ihn aus der Nähe zu bekämpfen. [[Naeli]]s länger anhaltende Call-Lightning-Wolke (Rest eines älteren Sturmzaubers) trifft Magolor zusätzlich mitten im Flug. [[Hrímnir]] fängt ihn schließlich in der Luft, stellt fest, dass eine Wiederbelebung dieses Mal ausgeschlossen ist, und lässt ihn bewusst aus großer Höhe auf die Stadt fallen. Magolor „platzt" irgendwo über Lunovar; eine Leiche wird nicht gefunden, doch die Szene wird als endgültiger Tod erzählt — anders als sein vorheriges, per Revivify rückgängig gemachtes „Sterben" im selben Kampf.
 
-> [!note] Magolors Tod unbestätigt durch Leichenfund
-> Anders als bei einem Bag-of-Holding- oder Nahkampf-Kill gibt es diesmal keinen greifbaren Beweis (Leiche, Gegenstand) für Magolors endgültigen Tod — nur den beobachteten Sturz aus großer Höhe. Für die Wiki-Einordnung als „mutmaßlich tot, unbestätigt" behandelt, bis das Gegenteil erzählt wird.
+> [!note] Magolors Tod bestätigt
+> Eine Leiche wurde nicht gefunden, doch Magolor ist tot (bestätigt, siehe [[Session 31]]).
 
 ### Der Drift-Zeppelin
 Mit Magolor aus dem Kampf richtet sich die gesamte Gruppe gegen den noch über dem Turm/der Stadt schwebenden Drift-Zeppelin. [[Berta]] geht durch eine Kombination aus Bezauberungs- und Verlangsamungsstrahl zu Boden; [[Khirin]] wird vom Versteinerungsstrahl getroffen und mitten im Kampf zu Stein — bewusstlos für den Rest des Gefechts. Berta entgeht knapp einer Disintegration (eine Eins auf den Rettungswurf, aber trotzdem überlebt — reines Würfelglück). [[Sim]] klettert wiederholt an der Kreatur herunter, um ihr zentrales Auge (den „Motor" des Antimagie-Kegels) aus nächster Nähe anzugreifen, bis [[Hrímnir]] den finalen Treffer landet und den Drift-Zeppelin tötet.
@@ -81,7 +81,7 @@ Die Gruppe erwacht unter Trümmern, begraben unter Schutt, der erkennbar aus Lun
 - **Zweites Buch (vermutlich Buch der Seelen)** — nach der Verwandlung des Drachenkadavers gesichert; ebenfalls bei [[Hrímnir]]; passt nicht ins Bag of Holding.
 
 ## Open Threads
-- **Magolors Tod**: nur durch Sturz aus großer Höhe erzählt, kein Leichenfund — für den Wiki-Stand als unbestätigt/mutmaßlich behandelt.
+- **Magolors Tod**: durch Sturz aus großer Höhe erzählt, kein Leichenfund — Magolor ist tot (bestätigt, siehe [[Session 31]]).
 - **[[Spinnenwesen]] vom Cliffhanger**: sein Ausgang (getötet/geflohen) wird im Transkript nicht eindeutig aufgelöst.
 - **Schicksal von Lunovar**: Der Turm ist eingestürzt, Teile der Stadt wurden mit hochgerissen; der Zustand der restlichen Stadt und der Evakuierung aus [[Session 24]] bleibt nach diesem Ereignis offen.
 - **Khirins bleibende Verstümmelung**: fehlender Arm und amputiertes Bein — mechanische und narrative Konsequenzen für kommende Sessions ungeklärt.

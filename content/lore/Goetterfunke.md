@@ -11,13 +11,13 @@ related:
   - Session 29
   - Elliot
   - Session 31
-  - Seldris
+  - Zeldris
 sources:
   - Session 28 transcript
   - Session 29 transcript
   - Session 31 transcript
 created: 2026-05-11
-updated: 2026-11-09
+updated: 2026-11-10
 status: developing
 ---
 # Götterfunke
@@ -51,7 +51,7 @@ Im [[Olmea-Wald]], direkt nach einem Beinahe-Treffer durch einen herabfallenden 
 Im selben Gespräch nennt [[Pyraschan]] **[[Elliot|Elliot Casterwell]]** als mächtigen Magier im Gefolge des Götterfunken in der Hauptstadt — mit hoher Wahrscheinlichkeit identisch mit dem bereits bekannten NPC [[Elliot]] (Elliot Casterwill), ehemaligem Hofmagier von [[Kalineon]]. Dass Elliot inzwischen dem Götterfunken dient, ist eine neue, vom DM bestätigte Information, aber nicht aus früheren Sessions ableitbar.
 
 ## [[Session 31]] — Pyraschan reist zum Götterfunken
-- [[Pyraschan]] verlässt die Gruppe, um nach dem Auftauchen des Teufels [[Seldris]] seinem Vorgesetzten Bericht zu erstatten (Berta: „dein komischer Obermotz"). Er fragt nach dem Weg nach [[Kalineon]]; [[Sim]] erwähnt am Tisch den „Götterfunken in [[Lögress]]". Ob Pyraschan nach Kalineon oder Lögress reist, bleibt offen.
+- [[Pyraschan]] verlässt die Gruppe, um nach dem Auftauchen des Teufels [[Zeldris]] seinem Vorgesetzten Bericht zu erstatten (Berta: „dein komischer Obermotz"). Er fragt nach dem Weg nach [[Kalineon]] und reist dorthin zum Götterfunken.
 
 ## Verknüpfungen
 

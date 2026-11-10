@@ -1,8 +1,8 @@
 ---
 type: session
-title: "Session 31 — Seldris, Heimkehr nach Cloud Fang und die Herausforderung"
+title: "Session 31 — Zeldris, Heimkehr nach Cloud Fang und die Herausforderung"
 created: 2026-11-09
-updated: 2026-11-09
+updated: 2026-11-10
 tags:
   - session
 session_number: 31
@@ -24,7 +24,7 @@ related:
   - Pyraschan
   - Khirin
   - Magda
-  - Seldris
+  - Zeldris
   - Nature's Guide
   - Scale Piercer
   - Storm Holder
@@ -50,14 +50,14 @@ sources:
   - Session 31 transcript
 ---
 
-# Session 31 — Seldris, Heimkehr nach Cloud Fang und die Herausforderung
+# Session 31 — Zeldris, Heimkehr nach Cloud Fang und die Herausforderung
 
 ## TL;DR
-Der schwarze Nebel am [[Druidenschrein (Cloud Fang)|Druidenschrein]] formt sich zu einem mächtigen Teufel, der sich als **„hoher Dämon [[Seldris]]"** vorstellt: Er war jahrzehntelang im [[Styx]] versiegelt (Strafe für eine Rebellion gegen die Herrscher von [[Avernus]]) und ist mit der Flucht der Gruppe über den Styx in diese Ebene zurückgekehrt. Er bietet Handel an, wird abgewiesen und fliegt davon. **[[Pyraschan]] verlässt daraufhin die Gruppe**, um seinem Auftraggeber, dem [[Goetterfunke|Götterfunken]], Bericht zu erstatten; `luke_234` spielt ab jetzt wieder [[Khirin]]. In **[[Cloud Fang]]** bezieht die Gruppe [[Sim]]s verlassene Hütte, wo Sim alte Pfeile seines Vaters findet ([[Gnadenpfeile]] + drei Elementarpfeile) und [[Berta]] entdeckt, dass ihre [[Berthas Bohnen|Bohnen]]-Tür nach [[Lunovar]] **zerstört** ist. Sim fordert **[[Scale Piercer]]** offiziell heraus — **Duell am nächsten Mittag**. Bertas heimliches Detect Thoughts zeigt in Scale Piercers Gedanken einen **unbekannten grauhaarigen Magier mit Kugel**, ausgelöst durch Sims Bemerkung, die Quelle der Monster sei beseitigt. Der Schmied **[[Legend Crafter]]** soll Khirin eine einfache Armprothese bauen, die Schneiderin **[[Fateweaver]]** fertigt Berta einen neuen Hexenhut. Nachts dringen mehrere bewaffnete Simianer unter einem Silence-Zauber in die Hütte ein; die Gruppe gewinnt den Kampf und fesselt mindestens einen Gefangenen. Session endet nach dem Kampf.
+Der schwarze Nebel am [[Druidenschrein (Cloud Fang)|Druidenschrein]] formt sich zu einem mächtigen Teufel, der sich als **„hoher Dämon [[Zeldris]]"** vorstellt: Er war jahrzehntelang im [[Styx]] versiegelt (Strafe für eine Rebellion gegen die Herrscher von [[Avernus]]) und ist mit der Flucht der Gruppe über den Styx in diese Ebene zurückgekehrt. Er bietet Handel an, wird abgewiesen und fliegt davon. **[[Pyraschan]] verlässt daraufhin die Gruppe**, um seinem Auftraggeber, dem [[Goetterfunke|Götterfunken]] in [[Kalineon]], Bericht zu erstatten; `luke_234` spielt ab jetzt wieder [[Khirin]]. In **[[Cloud Fang]]** bezieht die Gruppe [[Sim]]s verlassene Hütte, wo Sim alte Pfeile seines Vaters findet ([[Gnadenpfeile]] + drei Elementarpfeile) und [[Berta]] entdeckt, dass ihre [[Berthas Bohnen|Bohnen]]-Tür nach [[Lunovar]] **zerstört** ist. Sim fordert **[[Scale Piercer]]** offiziell heraus — **Duell am nächsten Mittag**. Bertas heimliches Detect Thoughts zeigt in Scale Piercers Gedanken einen **unbekannten grauhaarigen Magier mit Kugel**, ausgelöst durch Sims Bemerkung, die Quelle der Monster sei beseitigt. Der Schmied **[[Legend Crafter]]** soll Khirin eine einfache Armprothese bauen (Metall: das vom Blitz beschädigte Schwert aus der Gasse in [[Lunovar]], siehe [[Session 13]]), die Schneiderin **[[Fateweaver]]** fertigt Berta einen neuen Hexenhut. Nachts dringen mehrere bewaffnete Simianer unter einem Silence-Zauber in die Hütte ein; die Gruppe zerlegt die Angreifer in einem klaren, einseitigen Sieg und fesselt mindestens einen Gefangenen. Session endet nach dem Kampf.
 
 ## Recap
 
-### Seldris am Druidenschrein
+### Zeldris am Druidenschrein
 Der schwarze Nebel des [[Session 30]]-Cliffhangers kondensiert zu einer schwarzen Flüssigkeit, die über den Altar träufelt und ein Wesen formt, das „aus 100.000 anderen Viechern zusammengemischt" scheint — Merkmale von Teufeln, die die Gruppe aus [[Avernus]] kennt (z. B. Stacheln ähnlich denen eines Barbed Devil, aber gezackter/„serrated"), mit vielen Gliedmaßen, Flügeln und rot aufleuchtenden Augen. Der DM: „Definitiv ein Teufel … Teufel Premium."
 
 Das Wesen erkennt die Gruppe als „die, die im Styx versunken sind", und erklärt:
@@ -66,14 +66,14 @@ Das Wesen erkennt die Gruppe als „die, die im Styx versunken sind", und erklä
 - Ziel: in dieser Ebene Kraft sammeln und sich erneut gegen Avernus erheben — „der zukünftige Herrscher über Avernus".
 - Methode: **Handel** — es gewährt „niederen Kreaturen" was sie begehren und erhält im Gegenzug Kraft, sobald es seinen Teil eingehalten hat. An der Welt selbst habe es kein Interesse.
 - Bietet der Gruppe an, ihm als „würdige Untergebene" zu dienen; wird ablehnend und spöttisch abgewiesen.
-- Name: **„Ich bin der hohe Dämon Seldris."** (Siehe Unsicherheiten: der DM korrigiert danach scherzhaft/unklar auf „Selters".)
+- Name: **„Ich bin der hohe Dämon Zeldris."**
 
-[[Berta]] schätzt (Perception/Erfahrung) ein, dass sein Körper wesentlich kräftiger ist als alles, was die Gruppe in den Höllen gesehen hat, und dass er als Handelsteufel Magie besitzt. [[Sim]] warnt ihn: Sollte die Gruppe hören, dass er Menschen dieser Welt Leid zufügt, werde sie ihn niederstrecken — Seldris lacht nur und droht, Sim an diesen Tag zu erinnern, „bevor du deine eigenen Organe auf den Boden verlierst". Er fliegt mit etwa 40 Fuß pro Runde davon und verschwindet aus Sichtweite.
+[[Berta]] schätzt (Perception/Erfahrung) ein, dass sein Körper wesentlich kräftiger ist als alles, was die Gruppe in den Höllen gesehen hat, und dass er als Handelsteufel Magie besitzt. [[Sim]] warnt ihn: Sollte die Gruppe hören, dass er Menschen dieser Welt Leid zufügt, werde sie ihn niederstrecken — Zeldris lacht nur und droht, Sim an diesen Tag zu erinnern, „bevor du deine eigenen Organe auf den Boden verlierst". Er fliegt mit etwa 40 Fuß pro Runde davon und verschwindet aus Sichtweite.
 
 ### Pyraschan verlässt die Gruppe
-[[Pyraschan]] will dem Teufel sofort hinterherjagen — er fürchtet, sonst „zum Oathbreaker" zu werden oder alle in den Tod zu reißen. [[Berta]] hält ihn per **Telekinesis** zurück und überredet ihn, stattdessen seinem Vorgesetzten Bericht zu erstatten und einen Plan zu machen. Pyraschan fragt nach dem Weg nach [[Kalineon]]; [[Sim]] schätzt die Richtung grob auf West/Südwest und beschreibt ihm den Weg über [[Kalden]], den er selbst schon gereist ist. Pyraschan verabschiedet sich und **verlässt die Gruppe** in Richtung des [[Goetterfunke|Götterfunken]]. Der Spieler (`luke_234`) spielt ab hier wieder **[[Khirin]]** (mit 3 Level Exhaustion).
+[[Pyraschan]] will dem Teufel sofort hinterherjagen — er fürchtet, sonst „zum Oathbreaker" zu werden oder alle in den Tod zu reißen. [[Berta]] hält ihn per **Telekinesis** zurück und überredet ihn, stattdessen seinem Vorgesetzten Bericht zu erstatten und einen Plan zu machen. Pyraschan fragt nach dem Weg nach [[Kalineon]]; [[Sim]] schätzt die Richtung grob auf West/Südwest und beschreibt ihm den Weg über [[Kalden]], den er selbst schon gereist ist. Pyraschan verabschiedet sich und **verlässt die Gruppe** — sein Ziel ist der [[Goetterfunke|Götterfunke]] in [[Kalineon]]. Der Spieler (`luke_234`) spielt ab hier wieder **[[Khirin]]** (mit 3 Level Exhaustion).
 
-Danach zählt Berta die offenen Ziele der Gruppe auf: [[Verhängnisturm]] finden, [[Scale Piercer]] aufhalten, das „merkwürdige Echsen-Ding" ([[Weiße Echse (Vision)]]) finden, [[Hrímnir]]s Gesuchte finden, herausfinden, was mit [[Naeli]] los ist, die Portale ([[Risse]]) und [[das Nichts]] verstehen — und nun Seldris im Auge behalten.
+Danach zählt Berta die offenen Ziele der Gruppe auf: [[Verhängnisturm]] finden, [[Scale Piercer]] aufhalten, das „merkwürdige Echsen-Ding" ([[Weiße Echse (Vision)]]) finden, [[Hrímnir]]s Gesuchte finden, herausfinden, was mit [[Naeli]] los ist, die Portale ([[Risse]]) und [[das Nichts]] verstehen — und nun Zeldris im Auge behalten.
 
 [[Nature's Guide]] verabschiedet sich sichtlich erschrocken, bietet erneut Hilfe an und warnt Sim: „Pass gut auf dich auf, wenn du zum Dorf gehst. Es haben sich viele Sachen geändert."
 
@@ -120,7 +120,7 @@ Auf Khirins Bitte blättert man im **Buch der Seelen** (getragen von [[Hrímnir]
 [[Berta]] beantragt, sich auf das **Buch der Schwellen** zu attunen: um über die Risse und [[das Nichts]] zu lernen und — aus Sentimentalität — herauszufinden, **wer sie befreit hat**. Sie will es nur lesen, nicht benutzen, und hält Wahnsinn bei nur einem Buch für ausgeschlossen. [[Naeli]] ist skeptisch (Erinnerung an die Tagebücher), Sim und Hrímnir stimmen unter Vorbehalt zu. **Kompromiss: Erst nach dem Duell und in einer ruhigen Phase.** Berta merkt an, Attunement ende erfahrungsgemäß mit dem Tod des Anwenders.
 
 ### Abend im Dorf
-- **Schmied [[Legend Crafter]]** (tiefe Schnitte an den Fingern vom widerspenstigen, scharfen Material): Erz ist in der Gegend rar, das Dorf baut deshalb Waffen aus „komischen Steinen" und Holz. Er kann nur eine **einfache Dreifinger-Prothese** bauen. Khirin gibt ihm ein **„etwas krummes Schwert"** als Metall (vom DM „baldurianisches Eisen … das aus dem Tempel" genannt — Identität unklar, siehe Unsicherheiten); das hochwertigere Erz ([[Grünes Erz (Avernus)|Batorianischer Stahl]]) behält die Gruppe. Preis 30 Gold (Khirins Handeln scheitert; Berta legt 5 Gold dazu); fertig **bis morgen Mittag oder Abend**. Legend Crafter muss laut eigener Aussage Arbeitsaufträge des Oberhaupts erfüllen.
+- **Schmied [[Legend Crafter]]** (tiefe Schnitte an den Fingern vom widerspenstigen, scharfen Material): Erz ist in der Gegend rar, das Dorf baut deshalb Waffen aus „komischen Steinen" und Holz. Er kann nur eine **einfache Dreifinger-Prothese** bauen. Khirin gibt ihm als Metall das **vom Blitz beschädigte Schwert aus der Gasse in [[Lunovar]]** (siehe [[Session 13]]: Griff vom Blitzschlag verformt, –1, Altmetall) — „etwas krumm" und minderwertig, aber für die Prothese brauchbar; das hochwertigere Erz ([[Grünes Erz (Avernus)|Batorianischer Stahl]]) behält die Gruppe. Preis 30 Gold (Khirins Handeln scheitert; Berta legt 5 Gold dazu); fertig **bis morgen Mittag oder Abend**. Legend Crafter muss laut eigener Aussage Arbeitsaufträge des Oberhaupts erfüllen.
 - **Schneiderin [[Fateweaver]]** (Ehefrau von Legend Crafter; beide erwarben ihre Namen auf Reisen, um Schmiede-/Schneidertechniken zu lernen) fertigt [[Berta]] für 2 Gold in ~45 Minuten einen **neuen Hexenhut** (Filz innen, Samt außen, wetterfest) — „nicht perfekt wie der alte, aber gut". Berta: „Ich bin endlich wieder komplett." Fateweaver kürzt und vernäht kostenlos Khirins leeren Ärmel. Berta wechselt 1 Silber in 10 Kupfer.
 - Fateweaver fertigt **Stoffbänder**, die Berta an Scale Piercers Holzwaffe wiedererkennt. Die Waffe: ein Holzbrett, halb eingeschnitten, mit eingebetteten **schwarzen Steinscherben**, mit Harz verklebt und mit Band umwickelt — **eine Waffe, die der Häuptling „auf seinen Reisen gesehen" habe**. Bertas Nature-Check bestätigt: gewöhnliches **Obsidian**, in groben Brocken abgebaut. Handel ist seit dem Angriff der Viecher stark abgeflacht.
 - Sim zu Simianer-Namen: Etwa **jeder Zwanzigste** trägt einen Namen; viele wollen gar keinen; Namenlose werden mit Rufen oder Berufsbezeichnungen angesprochen. Sim selbst war über 20 Jahre namenlos.
@@ -133,22 +133,22 @@ Auf Khirins Bitte blättert man im **Buch der Seelen** (getragen von [[Hrímnir]
 ### Nachtüberfall
 Naeli hält die erste Wache (4 Std., Trance), dann Berta (drinnen). Ein **Silence**-Zauber wird so gelegt, dass die Tür nicht zu hören ist; mehrere Eindringlinge schleichen sich an Bertas passiver Wahrnehmung vorbei, doch **Naeli sieht in Trance jemanden vorbeihuschen** und schlägt Alarm. Kampf in und vor Sims Hütte gegen **mehrere bewaffnete Simianer** — mit Obsidian-Holzkeulen, Bögen/Armbrüsten und mindestens einem Zauberwirker (wirkt Silence; ein Call-Lightning-Versuch drinnen wird regeltechnisch zurückgenommen). Highlights: Hrímnirs Donner-Reaktion, Deflect Attacks und Stunning Strike; Sims Crits (mit Rücksicht auf nichttödliche Treffer); Khirins Sleep; Naelis Shatter und Chromatic Orb; Berta schleudert u. a. einen Stuhl. Eine Obsidian-Keule zerbricht am Angriff gegen Hrímnir.
 
-**Ergebnis**: Die Gruppe gewinnt; mehrere Angreifer liegen bewusstlos/schwer verletzt am Boden, einer schläft (Sleep), **mindestens einer wird gefesselt und geknebelt**. Ob ein Angreifer starb oder einer entkam, ist aus dem Transkript nicht eindeutig (siehe Unsicherheiten). Wer die Angreifer geschickt hat, wird **nicht** aufgeklärt. Der DM verschob den Long Rest bewusst auf nach diesem Kampf. Session endet direkt nach dem Kampf.
+**Ergebnis**: Die Gruppe zerlegt die angreifenden Simianer — ein klarer, einseitiger Sieg. Mehrere Angreifer liegen bewusstlos/schwer verletzt am Boden, einer schläft (Sleep), **mindestens einer wird gefesselt und geknebelt**. Wer die Angreifer geschickt hat, wird **nicht** aufgeklärt. Der DM verschob den Long Rest bewusst auf nach diesem Kampf. Session endet direkt nach dem Kampf.
 
 ## Key Events
-- **[[Seldris]]** — ein im [[Styx]] versiegelter Rebellen-Teufel aus [[Avernus]] — ist mit der Gruppe in diese Ebene entkommen, bietet Handel an und fliegt davon.
-- **[[Pyraschan]] verlässt die Gruppe**, um dem [[Goetterfunke|Götterfunken]] Bericht zu erstatten; `luke_234` spielt wieder [[Khirin]].
+- **[[Zeldris]]** — ein im [[Styx]] versiegelter Rebellen-Teufel aus [[Avernus]] — ist mit der Gruppe in diese Ebene entkommen, bietet Handel an und fliegt davon.
+- **[[Pyraschan]] verlässt die Gruppe**, um dem [[Goetterfunke|Götterfunken]] in [[Kalineon]] Bericht zu erstatten; `luke_234` spielt wieder [[Khirin]].
 - Ankunft in **[[Cloud Fang]]**; Sims verlassene Hütte als Basis; [[Gnadenpfeile]] und Elementarpfeile gefunden.
 - **Bertas Tür nach [[Lunovar]] in [[Berthas Bohnen]] ist zerstört** (nur Ruß und Splitter).
 - **Sim fordert [[Scale Piercer]] heraus — Duell am nächsten Mittag** (Treffpunkt: Anwesen des Oberhaupts; die Duell-Arena heißt First Roar).
 - Detect Thoughts enthüllt einen **unbekannten grauhaarigen Magier mit Kugel** in Scale Piercers Gedanken, verknüpft mit den Spinnenkreaturen.
 - Buch der Seelen: Hinweise auf **fehlende, heraustrennbare Seiten**. Berta will sich nach dem Duell auf das Buch der Schwellen attunen.
 - Neue NPCs: **[[Legend Crafter]]** (Schmied) und **[[Fateweaver]]** (Schneiderin). Berta hat wieder einen Hexenhut.
-- Bertas erstes **Sending an [[Fohlen]]** (keine Antwort).
-- Nächtlicher Überfall bewaffneter Simianer in Sims Hütte abgewehrt; Gefangene gemacht.
+- Bertas erstes **Sending an [[Fohlen]]** (keine Antwort); darin meldet sie den Tod von [[Magolor]], der tatsächlich tot ist.
+- Nächtlicher Überfall bewaffneter Simianer in Sims Hütte: Die Gruppe zerlegt die Angreifer; Gefangene gemacht.
 
 ## NPCs Encountered
-- **[[Seldris]]** — hoher Teufel/„Dämon", aus dem Styx entkommen.
+- **[[Zeldris]]** — hoher Teufel/„Dämon", aus dem Styx entkommen.
 - **[[Nature's Guide]]** — Abschied am Schrein.
 - **Junger namenloser Simian** — Beobachter, Speer-/Bogenschütze; flieht vor Bertas Spinnen-Illusion.
 - **Breiter namenloser Simian** und **Bretterträger** — weisen den Weg; misstrauisch gegenüber Sims Namen.
@@ -162,15 +162,15 @@ Naeli hält die erste Wache (4 Std., Trance), dann Berta (drinnen). Ein **Silenc
 - [[Sim]]: **10 [[Gnadenpfeile]]**, **3 Elementarpfeile** (Blitz, Säure, Feuer; je einmal +1d4).
 - [[Berta]]: **neuer Hexenhut** (Fateweaver, 2 Gold); 1 Silber → 10 Kupfer gewechselt.
 - [[Khirin]]: **Armprothese in Auftrag** (30 Gold: 25 von Khirin, 5 von Berta; fertig morgen Mittag/Abend); Ärmel gratis repariert.
-- *Abgegeben*: ein „krummes Schwert" als Prothesenmetall an Legend Crafter.
+- *Abgegeben*: das vom Blitz beschädigte Schwert (–1, Altmetall) aus der Gasse in [[Lunovar]] ([[Session 13]]) als Prothesenmetall an Legend Crafter.
 - Keine Beute der Angreifer im Transkript ausgewertet (eine Obsidian-Keule zerbrochen).
 
 ## Open Threads
 - **Duell Sim vs. [[Scale Piercer]]** am nächsten Mittag — siehe [[Scale Piercer herausfordern]].
 - **Wer sind die nächtlichen Angreifer, wer hat sie geschickt?** Verhör der Gefangenen steht aus.
 - **Der grauhaarige Magier mit der Kugel**: Wer ist er, und kontrolliert er die [[Spinnenwesen]]-artigen Kreaturen?
-- **[[Seldris]]**: Wo ist er hin, mit wem schließt er Handel?
-- **Pyraschans Reise** zum Götterfunken.
+- **[[Zeldris]]**: Wo ist er hin, mit wem schließt er Handel?
+- **Pyraschans Reise** zum Götterfunken nach [[Kalineon]].
 - **Zerstörte Lunovar-Tür** in Berthas Bohnen — was ist in [[Lunovar]] passiert?
 - **Fehlende Seiten im Buch der Seelen**; Bertas geplantes Attunement auf das Buch der Schwellen.
 - **Naelis Wachstum/Veränderung** und ihre Visionen von Schnee und Stille.
@@ -183,20 +183,15 @@ Naeli hält die erste Wache (4 Std., Trance), dann Berta (drinnen). Ein **Silenc
 - Long Rest wurde bewusst hinter den Nachtkampf gelegt.
 
 ## Unsicherheiten dieser Session
-- **Name des Teufels**: Der DM sagt in der Fiktion klar „Ich bin der hohe Dämon **Seldris**", murmelt dann, er müsse den Namen „kurz googeln", und sagt schließlich „er stellt sich mit **Selters** vor" — vermutlich ein Scherz (Mineralwasser-Marke) oder eine spontane Umbenennung. Seite unter „Seldris" angelegt; Bestätigung ausstehend. Auch „Dämon" vs. „Teufel": DM sagt beides.
 - **Arena-Name**: Transkript „First War"; Vault seit früher „First Roar" — als First Roar übernommen.
-- **„Krummes Schwert" / „baldurianisches Eisen … aus dem Tempel"**: Welche Waffe Khirin abgab, ist unklar. Das [[Bastardschwert aus Avernus]] (sehr guter Zustand, +2) passt nicht gut zur Beschreibung „krumm"/„minderwertig"; möglich wäre auch einer der Ork-Scimitare aus [[Session 28]]. Nicht zugeordnet.
 - **Scale Piercers Lanzenspitze**: „aus Drachenszenen" — Drachenschuppen oder -zähne? Unklar.
-- **Ausgang des Nachtkampfs**: Hrímnir sagt einmal „Der hier ist tot", der DM spricht später von „bewusstlos"/„near death"; ein Angreifer „dasht" am Fenster vorbei, „Onkel Doktor versucht abzuhauen". Zahl der Angreifer, Tote und Flüchtige nicht sicher bestimmbar.
-- **Bertas Sending**: „Magolor ist tot" ist Bertas Aussage an Fohlen, **keine** Bestätigung von [[Magolor]]s Tod.
-- **Pyraschans Ziel**: Gefragt wurde nach [[Kalineon]]; Sim fragt auf der Karte nach dem „Götterfunken in Lögress" — ob Pyraschan nach Kalineon oder [[Lögress]] reist, bleibt offen.
 - **Wukongs Status**: „Geierstatus" im Transkript, vermutlich „Gottstatus".
 
 ## Verknüpfungen
-- [[Session 30]] · [[Session 31 transcript]]
+- [[Session 13]] · [[Session 30]] · [[Session 31 transcript]]
 - [[Berta]] · [[Hrímnir]] · [[Naeli]] · [[Sim]] · [[Pyraschan]] · [[Khirin]] · [[Magda]]
-- [[Seldris]] · [[Nature's Guide]] · [[Scale Piercer]] · [[Storm Holder]] · [[Legend Crafter]] · [[Fateweaver]] · [[Fohlen]] · [[Magolor]] · [[Wukong]]
-- [[Druidenschrein (Cloud Fang)]] · [[Cloud Fang]] · [[Berthas Bohnen]] · [[Lunovar]] · [[Styx]] · [[Avernus]] · [[Kalden]] · [[Kalineon]] · [[Lögress]]
+- [[Zeldris]] · [[Nature's Guide]] · [[Scale Piercer]] · [[Storm Holder]] · [[Legend Crafter]] · [[Fateweaver]] · [[Fohlen]] · [[Magolor]] · [[Wukong]]
+- [[Druidenschrein (Cloud Fang)]] · [[Cloud Fang]] · [[Berthas Bohnen]] · [[Lunovar]] · [[Styx]] · [[Avernus]] · [[Kalden]] · [[Kalineon]]
 - [[Goetterfunke]] · [[Drei Bücher]] · [[das Nichts]] · [[Risse]] · [[Spinnenwesen]] · [[Tabaxi]] · [[Weiße Echse (Vision)]] · [[Verhängnisturm]]
-- [[Gnadenpfeile]] · [[Magischer Schluessel]] · [[Grünes Erz (Avernus)]] · [[Bastardschwert aus Avernus]]
+- [[Gnadenpfeile]] · [[Magischer Schluessel]] · [[Grünes Erz (Avernus)]]
 - [[Scale Piercer herausfordern]]

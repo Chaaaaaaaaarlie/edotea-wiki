@@ -10,7 +10,7 @@ related:
 sources:
   - Session 31 transcript
 created: 2026-05-11
-updated: 2026-11-09
+updated: 2026-11-10
 status: developing
 ---
 # Kalineon
@@ -76,7 +76,7 @@ status: developing
 - Laut [[Session 7]] diente [[Fiona Casterwill]] früher im alten [[Kalineon]] als Dienstmagd.
 
 ## [[Session 31]]
-- [[Pyraschan]] fragt nach dem Weg nach Kalineon, um dem [[Goetterfunke|Götterfunken]] Bericht zu erstatten; [[Sim]] verortet es von [[Cloud Fang]] aus grob im Westen/Südwesten, mit einer Route über [[Kalden]]. Ob Pyraschans Ziel tatsächlich Kalineon oder [[Lögress]] ist, bleibt offen.
+- [[Pyraschan]] fragt nach dem Weg nach Kalineon, um dem [[Goetterfunke|Götterfunken]] Bericht zu erstatten; [[Sim]] verortet es von [[Cloud Fang]] aus grob im Westen/Südwesten, mit einer Route über [[Kalden]]. Pyraschan reist nach Kalineon zum Götterfunken.
 
 ## Verknüpfungen
 

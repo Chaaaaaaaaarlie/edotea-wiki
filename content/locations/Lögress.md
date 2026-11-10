@@ -11,11 +11,9 @@ related:
   - Kalineon
   - Kontinent Edotea
   - Nora
-  - Session 31
-sources:
-  - Session 31 transcript
+sources: []
 created: 2026-05-11
-updated: 2026-11-09
+updated: 2026-11-10
 status: developing
 ---
 # Lögress
@@ -28,9 +26,6 @@ status: developing
 - Laut [[Nora]] ([[Session 8]]) haben die Inkursionen aus anderen Ebenen zuerst in [[Lögress]] zugenommen, bevor sie sich nach [[Kalineon]] ausbreiteten.
 - Das östlich gelegene Reich [[Falmers]] steht [[Lögress]] feindlich gegenüber, ein Krieg droht, der auch [[Kalineon]] betreffen könnte.
 
-## [[Session 31]]
-- Am Tisch fragt [[Sim]] auf der Karte nach dem „Götterfunken in Lögress", als [[Pyraschan]] zum [[Goetterfunke|Götterfunken]] aufbricht. Das ist keine In-Game-Bestätigung, dass der Götterfunke in Lögress sitzt.
-
 ## Verknüpfungen
 
 - [[Falmers]]
@@ -39,4 +34,3 @@ status: developing
 - [[Nora]]
 - [[Session 8]]
 - [[Zakson]]
-- [[Session 31]] · [[Session 31 transcript]]

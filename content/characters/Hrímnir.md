@@ -7,13 +7,13 @@ tags:
   - pc
 related:
   - Session 31
-  - Seldris
+  - Zeldris
 sources:
   - Session 28 transcript
   - Session 30 transcript
   - Session 31 transcript
 created: 2026-05-11
-updated: 2026-11-09
+updated: 2026-11-10
 status: developing
 ---
 ![[Hrimnir.png|533]]
@@ -190,7 +190,7 @@ status: developing
 
 ## [[Session 31]]
 
-- Stuft den Teufel [[Seldris]] als sehr stark ein; trägt [[Khirin]] nach [[Cloud Fang]].
+- Stuft den Teufel [[Zeldris]] als sehr stark ein; trägt [[Khirin]] nach [[Cloud Fang]].
 - Enttarnt einen jungen simianischen Beobachter mit **Thaumaturgy** (lauter Ruf, lockt das halbe Dorf an) und einem mit Light belegten Kiesel, der ihn vom Baum stürzen lässt.
 - Trägt weiterhin das **Buch der Seelen**; stimmt Bertas Attunement-Plan nur unter Vorbehalt zu.
 - Gespräch mit [[Naeli]]: Bei seiner eigenen Suche sei er „auf einer guten Spur", wolle aber erst sicher sein, bevor er etwas verrät. Verspricht Naeli, auch dann zu ihr zu stehen, wenn ihre Vergangenheit unschön ist. Die heiße Quelle erinnert ihn an zu Hause.

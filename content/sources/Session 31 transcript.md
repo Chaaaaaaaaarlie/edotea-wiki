@@ -3,7 +3,7 @@ type: source
 title: "Session 31 transcript"
 source_type: transcript
 created: 2026-11-09
-updated: 2026-11-09
+updated: 2026-11-10
 tags:
   - source
   - transcript
@@ -11,7 +11,7 @@ tags:
 status: processed
 related:
   - Session 31
-  - Seldris
+  - Zeldris
   - Cloud Fang
   - Scale Piercer
   - Khirin
@@ -60,10 +60,9 @@ sources: []
 | Fade Weaver / Feldweber | [[Fateweaver]] |
 | Legend / Legendary Crafter / letzte Crafter | [[Legend Crafter]] |
 | Bukang | [[Wukong]] |
-| Seldris / Selters | [[Seldris]] (unsicher) |
 
 ## Inhalt (Kurz)
-Siehe [[Session 31]]. Seldris am Druidenschrein; Pyraschan geht; Ankunft in [[Cloud Fang]]; zerstörte Lunovar-Tür in [[Berthas Bohnen]]; Herausforderung an [[Scale Piercer]]; Detect Thoughts zeigt einen grauhaarigen Magier; [[Legend Crafter]] und [[Fateweaver]]; Bertas Sending an [[Fohlen]]; nächtlicher Überfall.
+Siehe [[Session 31]]. Zeldris am Druidenschrein; Pyraschan geht; Ankunft in [[Cloud Fang]]; zerstörte Lunovar-Tür in [[Berthas Bohnen]]; Herausforderung an [[Scale Piercer]]; Detect Thoughts zeigt einen grauhaarigen Magier; [[Legend Crafter]] und [[Fateweaver]]; Bertas Sending an [[Fohlen]]; nächtlicher Überfall.
 
 ## Verknüpfungen
 - [[Session 31]] · [[Session 30 transcript]]

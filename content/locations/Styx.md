@@ -14,12 +14,12 @@ related:
   - Sariel
   - Session 27
   - Session 31
-  - Seldris
+  - Zeldris
 sources:
   - Session 27 transcript
   - Session 31 transcript
 created: 2026-09-21
-updated: 2026-11-09
+updated: 2026-11-10
 status: developing
 ---
 
@@ -42,7 +42,7 @@ Der schwarze, güllenartige Fluss, der in [[Session 27]] am Ende des Tales in [[
 - Für die Fahrt verlangt der Fährmann **Fährgeld**: etwas, das der Zahlende wirklich nicht verlieren will (Wahrheit wird geprüft; irdischer Besitz zählt nicht).
 
 ## [[Session 31]] — Ein Gefangener entkommt
-- Der Teufel **[[Seldris]]** war nach eigener Aussage **„ewige Jahrzehnte" im Styx versiegelt** — als Strafe für seine Rebellion gegen die Herrscher von [[Avernus]] — und musste dort das Geheul der Sterblichen anhören. Mit der Flucht der Gruppe über den Styx ([[Session 27]]) gelangte er „mit zurück in dieses Plane", indem er sich an die Gruppe „heftete".
+- Der Teufel **[[Zeldris]]** war nach eigener Aussage **„ewige Jahrzehnte" im Styx versiegelt** — als Strafe für seine Rebellion gegen die Herrscher von [[Avernus]] — und musste dort das Geheul der Sterblichen anhören. Mit der Flucht der Gruppe über den Styx ([[Session 27]]) gelangte er „mit zurück in dieses Plane", indem er sich an die Gruppe „heftete".
 
 ## Offene Fragen
 - Ist der Styx tatsächlich der Ausgang aus Avernus, und wohin führt die Fahrt der Gruppe?

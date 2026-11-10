@@ -4,7 +4,7 @@ title: "Pyraschan"
 character_type: pc
 race: ""
 class: "Paladin"
-location: "unterwegs zum Götterfunken (seit Session 31 nicht mehr bei der Gruppe)"
+location: "unterwegs nach Kalineon zum Götterfunken (seit Session 31 nicht mehr bei der Gruppe)"
 affiliations: []
 tags:
   - character
@@ -23,7 +23,7 @@ related:
   - Session 30
   - Nature's Guide
   - Session 31
-  - Seldris
+  - Zeldris
 sources:
   - Session 26 transcript
   - Session 28 transcript
@@ -31,7 +31,7 @@ sources:
   - Session 30 transcript
   - Session 31 transcript
 created: 2026-09-15
-updated: 2026-11-09
+updated: 2026-11-10
 status: developing
 ---
 
@@ -151,9 +151,9 @@ Fast alles ist noch offen. Belegt ist nur:
 
 ## [[Session 31]] — Abschied von der Gruppe
 
-- Erkennt den Teufel **[[Seldris]]** per History-Check nicht eindeutig; will ihm sofort folgen — sonst werde er „zum Oathbreaker" oder reiße alle in den Tod.
+- Erkennt den Teufel **[[Zeldris]]** per History-Check nicht eindeutig; will ihm sofort folgen — sonst werde er „zum Oathbreaker" oder reiße alle in den Tod.
 - [[Berta]] hält ihn mit **Telekinesis** zurück und rät, stattdessen seinem „Obermotz" Bericht zu erstatten und einen Plan zu machen.
-- Fragt nach dem Weg nach [[Kalineon]]; [[Sim]] beschreibt ihm die Route (West/Südwest, über [[Kalden]]). Verabschiedet sich und **verlässt die Gruppe**, um dem [[Goetterfunke|Götterfunken]] Bericht zu erstatten.
+- Fragt nach dem Weg nach [[Kalineon]]; [[Sim]] beschreibt ihm die Route (West/Südwest, über [[Kalden]]). Verabschiedet sich und **verlässt die Gruppe**, um dem [[Goetterfunke|Götterfunken]] in [[Kalineon]] Bericht zu erstatten.
 - Sein Spieler (`luke_234`) spielt ab hier wieder [[Khirin]]. Ob und wann Pyraschan zurückkehrt, ist offen.
 - Regelnotiz: Eine Radiant-Resistenz auf Bertas Bogen stammte laut DM vermutlich von einem Pyraschan-Effekt; der Spieler verneint das — die Resistenz wurde gestrichen.
 

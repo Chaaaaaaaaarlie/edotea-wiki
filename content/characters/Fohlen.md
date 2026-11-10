@@ -19,7 +19,7 @@ sources:
   - Session 12 transcript
   - Session 31 transcript
 created: 2026-05-12
-updated: 2026-11-09
+updated: 2026-11-10
 status: developing
 ---
 
@@ -125,7 +125,7 @@ Nobel auftretender Elf, freundlich-verspielt-warm, lacht leicht. Gibt offen zu, 
 - Warnt, dass die Gruppe eigentlich erschöpft ist, trägt den Drachenplan aber mit.
 
 ## [[Session 31]] — Bertas Sending
-- [[Berta]] erreicht Fohlen erstmals per **Sending** aus [[Cloud Fang]]: „Hier ist Berta. Wir haben überlebt. Magolor ist tot. Wir sind im Olmea-Wald. Lagebericht." Die Nachricht kommt laut DM an; **keine Antwort**. (Bertas Aussage zu [[Magolor]] ist ihre Einschätzung, keine Bestätigung.)
+- [[Berta]] erreicht Fohlen erstmals per **Sending** aus [[Cloud Fang]]: „Hier ist Berta. Wir haben überlebt. Magolor ist tot. Wir sind im Olmea-Wald. Lagebericht." Die Nachricht kommt laut DM an; **keine Antwort**. [[Magolor]] ist tatsächlich tot.
 
 ## Offene Fragen
 - Wie kam er zu seinem Cloak of Archmage?

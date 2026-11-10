@@ -7,14 +7,14 @@ tags:
   - pc
 related:
   - Session 31
-  - Seldris
+  - Zeldris
   - Fateweaver
 sources:
   - Session 28 transcript
   - Session 30 transcript
   - Session 31 transcript
 created: 2026-05-11
-updated: 2026-11-09
+updated: 2026-11-10
 status: developing
 ---
 # Berta
@@ -216,13 +216,13 @@ status: developing
 
 ## [[Session 31]]
 
-- Hält [[Pyraschan]] per **Telekinesis** davon ab, dem Teufel [[Seldris]] hinterherzujagen, und schickt ihn stattdessen zum Bericht an seinen Vorgesetzten. Zählt danach die lange Liste offener Gruppenziele auf.
+- Hält [[Pyraschan]] per **Telekinesis** davon ab, dem Teufel [[Zeldris]] hinterherzujagen, und schickt ihn stattdessen zum Bericht an seinen Vorgesetzten. Zählt danach die lange Liste offener Gruppenziele auf.
 - Entdeckt beim Öffnen von [[Berthas Bohnen]] mit dem [[Magischer Schluessel|Schlüssel]]: **Die Tür nach [[Lunovar]] ist verschwunden** — nur Ruß und Holzsplitter. Richtet eine Tür in [[Sim]]s Hütte ein. Eine fälschlich eingetragene Radiant-Resistenz wird gestrichen.
 - Erzeugt per Illusion ein [[Spinnenwesen]]-Abbild, um einen jungen Simian zu befragen — er flieht in Panik.
 - Wirkt per **Subtle Spell Detect Thoughts** auf [[Scale Piercer]] und sieht den **grauhaarigen Magier mit der Kugel** (siehe dort); folgert, Magolor sei nicht der Einzige, der die Kreaturen kontrollieren konnte.
 - Möchte sich auf das **Buch der Schwellen** attunen — um die Risse und [[das Nichts]] zu verstehen und herauszufinden, **wer sie befreit hat**; nur lesen, nicht benutzen. Gruppe vertagt die Entscheidung auf nach dem Duell. Ihre lose Buchseite zieht weiterhin zu [[Naeli]]; zwischen ihrem und Naelis Gepäck sprühen Funken.
 - Erhält von **[[Fateweaver]]** einen **neuen Hexenhut** (2 Gold) — „Ich bin endlich wieder komplett." Legt 5 Gold zu Khirins Prothese dazu. Bestätigt per Nature-Check, dass die Klingen der Dorfwaffen gewöhnliches **Obsidian** sind.
-- Nutzt zum ersten Mal **Sending**: Nachricht an **[[Fohlen]]** („Hier ist Berta. Wir haben überlebt. Magolor ist tot. Wir sind im Olmea-Wald. Lagebericht.") — kommt an, keine Antwort.
+- Nutzt zum ersten Mal **Sending**: Nachricht an **[[Fohlen]]** („Hier ist Berta. Wir haben überlebt. Magolor ist tot. Wir sind im Olmea-Wald. Lagebericht.") — kommt an, keine Antwort. [[Magolor]] ist tatsächlich tot.
 - Hält die zweite Nachtwache, bemerkt die Eindringlinge aber nicht (passive Wahrnehmung 15 überboten); kämpft u. a. mit Sorcerous Burst und einem geschleuderten Stuhl.
 
 ## Verknüpfungen

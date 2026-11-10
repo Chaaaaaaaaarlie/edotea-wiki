@@ -7,7 +7,7 @@ tags:
   - pc
 related:
   - Session 31
-  - Seldris
+  - Zeldris
   - Gnadenpfeile
   - Scale Piercer herausfordern
   - Legend Crafter
@@ -17,7 +17,7 @@ sources:
   - Session 30 transcript
   - Session 31 transcript
 created: 2026-05-11
-updated: 2026-11-09
+updated: 2026-11-10
 status: developing
 ---
 # Sim
@@ -189,7 +189,7 @@ status: developing
 
 ## [[Session 31]] — Heimkehr und Herausforderung
 
-- Warnt den Teufel **[[Seldris]]** am [[Druidenschrein (Cloud Fang)|Druidenschrein]]: Sollte er Menschen dieser Welt schaden, werde die Gruppe ihn niederstrecken — Seldris lacht nur.
+- Warnt den Teufel **[[Zeldris]]** am [[Druidenschrein (Cloud Fang)|Druidenschrein]]: Sollte er Menschen dieser Welt schaden, werde die Gruppe ihn niederstrecken — Zeldris lacht nur.
 - Beschreibt dem abreisenden [[Pyraschan]] den Weg Richtung [[Kalineon]] (grob West/Südwest, über [[Kalden]], das Sim selbst bereist hat).
 - Führt die Gruppe nach **[[Cloud Fang]]**; liest das Eingangsschild „Willkommen in Cloudfang". Am Tisch wird er nun oft kurz **„Eye"** (Transkript „Ai"/„I") genannt.
 - Seine Elternhütte steht noch (staubig, weniger Möbel); dort Notizen seines Vaters [[Storm Holder]]. Findet im alten Pfeillager **10 [[Gnadenpfeile]]** und **drei Elementarpfeile** (Blitz, Säure, Feuer).

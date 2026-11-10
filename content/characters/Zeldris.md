@@ -1,14 +1,14 @@
 ---
 type: character
-title: "Seldris"
+title: "Zeldris"
 character_type: antagonist
 race: 'Teufel (vom DM auch „Dämon“ genannt)'
 class: ""
 location: "unbekannt (davongeflogen vom Druidenschrein bei Cloud Fang)"
 affiliations: []
 aliases:
-  - Selters
-  - hoher Dämon Seldris
+  - Seldris
+  - hoher Dämon Zeldris
 tags:
   - character
   - npc
@@ -24,16 +24,13 @@ related:
 sources:
   - Session 31 transcript
 created: 2026-11-09
-updated: 2026-11-09
+updated: 2026-11-10
 ---
 
-# Seldris
-
-> [!warning] Name unsicher
-> In der Fiktion stellt er sich als **„der hohe Dämon Seldris"** vor. Unmittelbar danach murmelt der DM, er müsse den Namen „kurz googeln", und sagt dann „er stellt sich mit **Selters** vor" — vermutlich ein Scherz, möglicherweise eine spontane Umbenennung. Bestätigung beim DM ausstehend.
+# Zeldris
 
 ## At a Glance
-Ein mächtiger Teufel aus [[Avernus]], der **jahrzehntelang im [[Styx]] versiegelt** war — verbannt wegen einer **Rebellion gegen die höheren Wesen von Avernus**. Als die Gruppe in [[Session 27]] über den Styx floh, „heftete" er sich an sie und gelangte so mit in diese Ebene. In [[Session 31]] manifestiert er sich aus dem schwarzen Nebel am [[Druidenschrein (Cloud Fang)|Druidenschrein]] und fliegt davon. Er will Kraft sammeln und als „zukünftiger Herrscher über Avernus" zurückkehren.
+Ein mächtiger Teufel aus [[Avernus]], der **jahrzehntelang im [[Styx]] versiegelt** war — verbannt wegen einer **Rebellion gegen die höheren Wesen von Avernus**. Als die Gruppe in [[Session 27]] über den Styx floh, „heftete" er sich an sie und gelangte so mit in diese Ebene. In [[Session 31]] stellt er sich als **„der hohe Dämon Zeldris"** vor, manifestiert sich aus dem schwarzen Nebel am [[Druidenschrein (Cloud Fang)|Druidenschrein]] und fliegt davon. Er will Kraft sammeln und als „zukünftiger Herrscher über Avernus" zurückkehren.
 
 ## Appearance
 - Formt sich aus schwarzem Nebel, der zu einer schwarzen Flüssigkeit kondensiert und über den Altar träufelt.
@@ -59,7 +56,6 @@ Ein mächtiger Teufel aus [[Avernus]], der **jahrzehntelang im [[Styx]] versiege
 - Manifestation am Druidenschrein (Auflösung des [[Session 30]]-Cliffhangers); Gespräch mit der Gruppe; fliegt in unbekannte Richtung davon.
 
 ## Offene Fragen
-- Heißt er wirklich Seldris?
 - Wohin ist er geflogen, und mit wem schließt er Handel?
 - Gegen wen genau in Avernus hat er rebelliert?
 - Hängt der schwarze Nebel der Höllenflüche (siehe [[Session 30]]) mit ihm zusammen? (Nicht im Transkript verknüpft.)

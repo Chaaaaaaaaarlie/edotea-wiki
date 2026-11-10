@@ -2,7 +2,7 @@
 type: meta
 title: "Quests Index"
 created: 2026-05-11
-updated: 2026-11-09
+updated: 2026-11-10
 tags:
   - meta
   - quests
@@ -21,7 +21,7 @@ status: developing
 - [[Hrímnir]]s gesuchte Person finden
 - Herausfinden, was mit [[Naeli]] los ist
 - [[Risse]] und [[das Nichts]] verstehen
-- [[Seldris]] im Auge behalten
+- [[Zeldris]] im Auge behalten
 
 ## Completed
 *(Resolved — kept for callbacks and history.)*

@@ -18,7 +18,7 @@ sources:
   - Session 30 transcript
   - Session 31 transcript
 created: 2026-05-11
-updated: 2026-11-09
+updated: 2026-11-10
 status: developing
 ---
 # Khirin
@@ -225,7 +225,7 @@ Unter dieser Annahme gilt für [[Session 26]]:
 - DM präzisiert die Verstümmelung: Vom Arm ist **noch etwa der halbe Oberarm (bis zum Bizeps)** übrig. Benutzt Mage Hand zum Ausgleich.
 - Blättert per Mage Hand im **Buch der Seelen**: findet ein Kapitel leerer Seiten mit unbekannten Zirkeln und **lose, heraustrennbare Seiten — mindestens eine, vielleicht zwei fehlen**; spekuliert, solche Seiten könnten zum Erschaffen/Kontrollieren von Kreaturen dienen (unbestätigt).
 - **Arcana-Fehlwurf (5)** auf die Runen am Mantel des Magiers in Scale Piercers Gedanken: hält ihn fälschlich für eine Unsichtbarkeitsrobe — **falsche Information**.
-- Gibt dem Schmied **[[Legend Crafter]]** ein „etwas krummes Schwert" als Metall für eine **einfache Dreifinger-Armprothese** (30 Gold, davon 5 von Berta; fertig am nächsten Mittag/Abend). Wünscht sich vor allem eine Hand, die seinen Zauberstab halten kann. [[Fateweaver]] vernäht kostenlos seinen leeren Ärmel.
+- Gibt dem Schmied **[[Legend Crafter]]** das vom Blitz beschädigte Schwert aus der Gasse in [[Lunovar]] (–1, Altmetall; mitgenommen in [[Session 13]]) als Metall für eine **einfache Dreifinger-Armprothese** (30 Gold, davon 5 von Berta; fertig am nächsten Mittag/Abend). Wünscht sich vor allem eine Hand, die seinen Zauberstab halten kann. [[Fateweaver]] vernäht kostenlos seinen leeren Ärmel.
 - Überlegt, sich in [[Lunovar]] später einen akademischen Namen mit Forschung über die Simianer zu machen.
 - Im Nachtkampf: wirkt **Sleep** (ein Angreifer schläft ein) und **Toll the Dead**; vermeidet Feuerzauber, um die Hütte nicht abzufackeln (seine vorbereiteten Zauber sind fast alle Feuer).
 

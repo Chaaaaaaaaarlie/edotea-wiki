@@ -20,7 +20,7 @@ related:
 sources:
   - Session 13 transcript
 created: 2026-05-18
-updated: 2026-05-18
+updated: 2026-11-10
 status: mature
 ---
 
@@ -120,7 +120,7 @@ Direkte Fortsetzung nach [[Session 12]]. Die Gruppe wird aus dem Reich von [[das
 #### Loot
 - **Vom [[Spymaster]]**: **Brosche** mit *seltsamem Wappen*, ursprünglich am Herzen getragen.
 - **Auftragszettel**: Sehr schlecht gezeichnete Skizze von [[Berta]] mit Hexenhut.
-- **Schwert** mit leicht performtem Griff (Blitzschlag-Schaden) — laut DM tatsächlich **–1, Altmetall**; [[Khirin]] nimmt es trotzdem mit.
+- **Schwert** mit leicht performtem Griff (Blitzschlag-Schaden) — laut DM tatsächlich **–1, Altmetall**; [[Khirin]] nimmt es trotzdem mit (in [[Session 31]] als Prothesenmetall an [[Legend Crafter]] gegeben).
 - **~28 Gold Silber** (Berta-Suchwurf), **~1 Gold** (Khirin-Suchwurf).
 
 #### Wappen-Identifikation

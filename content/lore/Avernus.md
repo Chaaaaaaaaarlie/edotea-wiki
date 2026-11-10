@@ -20,7 +20,7 @@ related:
   - Dornenteufel
   - Olmea-Wald
   - Session 31
-  - Seldris
+  - Zeldris
 sources:
   - Session 25
   - Session 25 transcript
@@ -31,7 +31,7 @@ sources:
   - Session 28 transcript
   - Session 31 transcript
 created: 2026-09-02
-updated: 2026-11-09
+updated: 2026-11-10
 status: developing
 ---
 
@@ -86,7 +86,7 @@ Nach der [[Styx]]-Überfahrt am Ende von [[Session 27]] erwacht die Gruppe zu Be
 In [[Session 28]] befällt die Gruppe (außer [[Naeli]]) zudem ein rätselhafter, individueller **Wahn** (Wisdom Save: Einsamkeitsgefühl, Verfolgungswahn, Heimweh, Trance). [[Hrímnir]] vermutet **Nachwirkungen aus Avernus** als Ursache — reine Spielervermutung, vom DM nicht bestätigt oder dementiert.
 
 ## [[Session 31]] — Ein Rebell gegen Avernus
-- Der Teufel **[[Seldris]]** war wegen einer **Rebellion gegen die „höheren Lebewesen" von Avernus** im [[Styx]] versiegelt und ist mit der Gruppe in diese Ebene entkommen. Er will hier Kraft durch Handel sammeln und als „zukünftiger Herrscher über Avernus" zurückkehren. Er sieht aus wie aus vielen Avernus-Teufeln zusammengesetzt (u. a. Barbed-Devil-artige, gezackte Stacheln).
+- Der Teufel **[[Zeldris]]** war wegen einer **Rebellion gegen die „höheren Lebewesen" von Avernus** im [[Styx]] versiegelt und ist mit der Gruppe in diese Ebene entkommen. Er will hier Kraft durch Handel sammeln und als „zukünftiger Herrscher über Avernus" zurückkehren. Er sieht aus wie aus vielen Avernus-Teufeln zusammengesetzt (u. a. Barbed-Devil-artige, gezackte Stacheln).
 
 ## Offene Fragen
 - Wie und warum wurde ausgerechnet dieser Ort (und nicht eine andere Ebene) durch den Riss erreicht?

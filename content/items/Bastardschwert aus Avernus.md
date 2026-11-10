@@ -22,7 +22,7 @@ sources:
   - Session 29 transcript
   - Session 31 transcript
 created: 2026-09-15
-updated: 2026-11-09
+updated: 2026-11-10
 status: developing
 ---
 
@@ -52,9 +52,8 @@ Nichts bekannt. [[Pyraschan]] merkt an, dass dies bereits die zweite Waffe in di
 ## Current Status
 Im Besitz der Gruppe, **identifiziert** (+2, Attunement, 1d4 Selbstschaden pro Nutzung), noch von niemandem aktiv geführt/attuned.
 
-## [[Session 31]] — Möglicherweise abgegeben? (unklar)
-> [!contradiction] Welches Schwert ging an Legend Crafter?
-> [[Khirin]] gibt dem Schmied [[Legend Crafter]] in [[Cloud Fang]] ein **„etwas krummes Schwert"** als Metall für seine Armprothese; der DM nennt es „baldurianisches Eisen … das aus dem Tempel", Khirin „das etwas minderwertige" Eisen. Diese Beschreibung passt **schlecht** zu diesem Großschwert (sehr guter Zustand, +2). Es ist daher **nicht** als abgegeben vermerkt; Status unverändert, bis der DM klärt, welche Waffe gemeint war.
+## [[Session 31]] — Bleibt bei der Gruppe
+- Wird **nicht** abgegeben: Das Schwert, das [[Khirin]] dem Schmied [[Legend Crafter]] als Prothesenmetall überlässt, ist das vom Blitz beschädigte Schwert aus [[Session 13]], nicht dieses Großschwert.
 
 ## Offene Fragen
 - Wer übernimmt die Waffe trotz des Selbstschadens?

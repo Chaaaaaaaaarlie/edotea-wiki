@@ -2,7 +2,7 @@
 type: meta
 title: "Wiki Index"
 created: 2026-05-11
-updated: 2026-11-09
+updated: 2026-11-10
 tags:
   - meta
 status: mature
@@ -24,7 +24,7 @@ Master catalog. Updated on every ingest.
 > Nach [[Pyraschan]]s krankheitsbedingter Trennung von der Gruppe in [[Session 27]] eröffnet [[Session 28]] damit, dass er per DM-Retcon wieder bei der Gruppe ist (siehe Seite für den Widerspruch).
 
 ### NPCs (34)
-- [[Seldris]] *(neu, S31 — aus dem Styx entkommener Rebellen-Teufel; Name unsicher)* · [[Legend Crafter]] *(neu, S31 — Schmied in Cloud Fang)* · [[Fateweaver]] *(neu, S31 — Schneiderin in Cloud Fang)* · [[Aalafiel]] · [[Borgrim Runenbrecher]] · [[Crucellus]] · [[Edgar Thorne]] · [[Elfaria Albis von Sylphid]] · [[Elliot]] *(S29: steht laut Pyraschan im Gefolge des [[Goetterfunke|Götterfunken]])* · [[Fiona Casterwill]] · [[Fohlen]] · [[Fürst Alator]] · [[Jack]] · [[Cassomir]] · [[Lucien]] · [[Lysanthiriel Vaelora]] · [[Magilanikas Maven]] · [[Magolor]] *(S30: unbestätigte Verbindung zum Spinnenbeinige-Kreaturen-Angriff auf [[Cloud Fang]])* · [[Markus L. Kalinion]] · [[Nora]] · [[Palamedis]] · [[Scale Piercer]] *(S29 ausgebaut, S30: neue Details zu Verstümmelungs-Strafpraxis)* · [[Sophie Marie]] · [[Spymaster]] · [[Storm Holder]] *(Stub→ausgebaut S29)* · [[Twilight (Pony)]] · [[Virion Loramis]] · [[Wilhelm Casterwill]] · [[Wukong]] · [[Y'Chak]] · [[Zwergenmeister Schmiedemeisterei]] · [[Magda]] *(neu, S27 — S30: ihr Patient ist bestätigt nicht Khirin)* · [[Fährmann des Styx]] *(neu, S27)* · [[Nature's Guide]] *(neu, S30 — Simian-Druide, entsteinert Khirin, entfernt die Flüche der Gruppe)*
+- [[Zeldris]] *(neu, S31 — aus dem Styx entkommener Rebellen-Teufel)* · [[Legend Crafter]] *(neu, S31 — Schmied in Cloud Fang)* · [[Fateweaver]] *(neu, S31 — Schneiderin in Cloud Fang)* · [[Aalafiel]] · [[Borgrim Runenbrecher]] · [[Crucellus]] · [[Edgar Thorne]] · [[Elfaria Albis von Sylphid]] · [[Elliot]] *(S29: steht laut Pyraschan im Gefolge des [[Goetterfunke|Götterfunken]])* · [[Fiona Casterwill]] · [[Fohlen]] · [[Fürst Alator]] · [[Jack]] · [[Cassomir]] · [[Lucien]] · [[Lysanthiriel Vaelora]] · [[Magilanikas Maven]] · [[Magolor]] *(S30: unbestätigte Verbindung zum Spinnenbeinige-Kreaturen-Angriff auf [[Cloud Fang]])* · [[Markus L. Kalinion]] · [[Nora]] · [[Palamedis]] · [[Scale Piercer]] *(S29 ausgebaut, S30: neue Details zu Verstümmelungs-Strafpraxis)* · [[Sophie Marie]] · [[Spymaster]] · [[Storm Holder]] *(Stub→ausgebaut S29)* · [[Twilight (Pony)]] · [[Virion Loramis]] · [[Wilhelm Casterwill]] · [[Wukong]] · [[Y'Chak]] · [[Zwergenmeister Schmiedemeisterei]] · [[Magda]] *(neu, S27 — S30: ihr Patient ist bestätigt nicht Khirin)* · [[Fährmann des Styx]] *(neu, S27)* · [[Nature's Guide]] *(neu, S30 — Simian-Druide, entsteinert Khirin, entfernt die Flüche der Gruppe)*
 
 ## Locations (37) — see [[_index|Locations Index]]
 - Kontinent: [[Kontinent Edotea]] · [[Cloud Fang]] *(S30: bestätigt Sims Heimatdorf; S31: Gruppe im Dorf, Sims Hütte als Basis)* · [[Erliorwald]] · [[Nebelwald]] · [[Wesh]]
@@ -77,13 +77,9 @@ Master catalog. Updated on every ingest.
 
 ## Bekannte Lücken
 
-> [!gap] **Session 31 — Name des Teufels**: „hoher Dämon **[[Seldris]]**" in der Fiktion, danach DM-Scherz/Korrektur „Selters" — Bestätigung ausstehend.
-
 > [!gap] **Session 31 — Der grauhaarige Magier mit der Kugel**: In [[Scale Piercer]]s Gedanken (Bertas Detect Thoughts) bei Erwähnung der „Quelle der Monster". Identität unbekannt; Zusammenhang mit den [[Spinnenwesen]] nur Interpretation.
 
-> [!gap] **Session 31 — Wer schickte die nächtlichen Angreifer?**: Mehrere bewaffnete Simianer (inkl. Zauberwirker) überfallen Sims Hütte unter Silence. Auftraggeber, genaue Zahl, Tote/Flüchtige unklar; mindestens ein Gefangener gefesselt.
-
-> [!gap] **Session 31 — Welches „krumme Schwert" ging an [[Legend Crafter]]?**: „Baldurianisches Eisen … aus dem Tempel" — nicht dem [[Bastardschwert aus Avernus]] zugeordnet.
+> [!gap] **Session 31 — Wer schickte die nächtlichen Angreifer?**: Mehrere bewaffnete Simianer (inkl. Zauberwirker) überfallen Sims Hütte unter Silence; die Gruppe zerlegt sie in einem einseitigen Kampf, mindestens ein Gefangener ist gefesselt. Auftraggeber unklar.
 
 > [!gap] **Session 31 — Zerstörte Lunovar-Tür in [[Berthas Bohnen]]**: nur Ruß und Splitter; Ursache unbekannt.
 
@@ -107,7 +103,7 @@ Master catalog. Updated on every ingest.
 
 > [!gap] **Session 29 — Olmea-Wald = Kristallhöhlenwald-Arbeitstitel?**: Derselbe Wasserfall/Fluss taucht in beiden Sessions auf, was auf denselben Ort hindeutet, aber der DM hat die Fortsetzung nicht ausdrücklich bestätigt (als Umbenennung/Alias übernommen, siehe [[Olmea-Wald]]).
 
-> [!gap] **Session 30 — Cliffhanger am Druidenschrein** — ✅ Aufgelöst in [[Session 31]]: Aus dem Nebel formt sich der Teufel [[Seldris]]. Unmittelbar nachdem [[Nature's Guide]] den [[Druidenschrein (Cloud Fang)|Schrein]] verlässt, beginnen die Runen des Steinkreises von selbst zu leuchten und ein schwarzer Nebel manifestiert sich — explizit als unnormal markiert, aber völlig ungeklärt.
+> [!gap] **Session 30 — Cliffhanger am Druidenschrein** — ✅ Aufgelöst in [[Session 31]]: Aus dem Nebel formt sich der Teufel [[Zeldris]]. Unmittelbar nachdem [[Nature's Guide]] den [[Druidenschrein (Cloud Fang)|Schrein]] verlässt, beginnen die Runen des Steinkreises von selbst zu leuchten und ein schwarzer Nebel manifestiert sich — explizit als unnormal markiert, aber völlig ungeklärt.
 
 > [!gap] **Session 30 — Wer ist Magdas Patient wirklich?**: Bestätigt **nicht** [[Khirin]] (siehe oben) — bleibt aber unbenannt; sein Zustand wird nur knapp als „wahrscheinlich einfach tot" kommentiert, nicht überprüft.
 
@@ -135,7 +131,7 @@ Master catalog. Updated on every ingest.
 
 > [!gap] **Session 26 — Herkunft von [[Demon Core]], [[Bastardschwert aus Avernus|Großschwert]] und [[Grünes Erz (Avernus)|grünem Erz]]**: Alle drei Funde aus der [[Imp-Höhle]] waren unidentifiziert. *Nachtrag [[Session 29]]: Großschwert und Erz identifiziert (+2-Großschwert/1d4 Selbstschaden bzw. Batorianischer Stahl); nur noch Herkunft/Hersteller offen.* Weiterhin ungeklärt: Wer die Höhlengänge mit gegossenem Metall abgestützt hat.
 
-> [!gap] **Session 25 — Magolors Tod unbestätigt & Grund für Avernus**: [[Magolor]] wurde in [[Session 25]] von [[Hrímnir]] aus großer Höhe fallen gelassen, aber ohne Leichenfund. Unklar bleibt außerdem, warum der Riss über Lunovar die Gruppe ausgerechnet nach [[Avernus]] zog, und wie sie zurückkommen. Auch das Schicksal des mit Magolor erschienenen [[Spinnenwesen]] und der Zustand von Lunovar nach dem Turmeinsturz sind ungeklärt.
+> [!gap] **Session 25 — Grund für Avernus**: [[Magolor]] wurde in [[Session 25]] von [[Hrímnir]] aus großer Höhe fallen gelassen; *Nachtrag [[Session 31]]: Magolor ist tot.* Unklar bleibt, warum der Riss über Lunovar die Gruppe ausgerechnet nach [[Avernus]] zog, und wie sie zurückkommen. Auch das Schicksal des mit Magolor erschienenen [[Spinnenwesen]] und der Zustand von Lunovar nach dem Turmeinsturz sind ungeklärt.
 
 > [!gap] **[[Delora]]** — als NPC in [[Session 9]], [[Lucien]], [[Marcosias]] erwähnt (Marcosias-Diener, Tiefling-artig, zerfiel beim Tod zu Schatten). DM-Frage offen: soll eigene NPC-Seite angelegt werden?
 

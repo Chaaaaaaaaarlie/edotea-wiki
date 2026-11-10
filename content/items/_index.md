@@ -2,7 +2,7 @@
 type: meta
 title: "Items Index"
 created: 2026-05-11
-updated: 2026-11-09
+updated: 2026-11-10
 tags:
   - meta
   - items
@@ -14,7 +14,7 @@ status: developing
 ## Waffen & Munition (neu)
 - [[Gnadenpfeile]] *(neu, Session 31)* — Sims Erbe aus [[Storm Holder]]s Pfeillager: 10 Gnadenpfeile (lassen 1 HP übrig) + 3 Elementarpfeile (Blitz/Säure/Feuer, je einmal +1d4)
 
-> [!note] Session 31: [[Bastardschwert aus Avernus]] — unklar, ob es das „krumme Schwert" war, das Khirin an [[Legend Crafter]] gab (nicht als abgegeben vermerkt). [[Grünes Erz (Avernus)]] bleibt bei der Gruppe.
+> [!note] Session 31: Khirin gibt [[Legend Crafter]] das vom Blitz beschädigte Schwert aus der Gasse in [[Lunovar]] ([[Session 13]]) als Prothesenmetall. [[Bastardschwert aus Avernus]] und [[Grünes Erz (Avernus)]] bleiben bei der Gruppe.
 
 ## Tränke
 - [[Aalafiels Trank]] *(neu, Session 16)* — Abscheu-Aura-Trank der Treants; 10 Min./Schluck (größenabhängig); Voraussetzung, um mit [[Aalafiel]] zu sprechen

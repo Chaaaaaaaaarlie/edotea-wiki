@@ -7,7 +7,7 @@ tags:
   - pc
 related:
   - Session 31
-  - Seldris
+  - Zeldris
 sources:
   - Tagebücher Wilhelm Casterwill
   - Session 17 transcript
@@ -15,7 +15,7 @@ sources:
   - Session 30 transcript
   - Session 31 transcript
 created: 2026-05-11
-updated: 2026-11-09
+updated: 2026-11-10
 status: developing
 ---
 ![[Naeli.png|496]]
@@ -186,7 +186,7 @@ status: developing
 
 ## [[Session 31]]
 
-- Spricht freundlich mit dem Teufel [[Seldris]] („Nur weil ich klein bin, bin ich noch lange kein Wurm") und dankt [[Nature's Guide]] zum Abschied.
+- Spricht freundlich mit dem Teufel [[Zeldris]] („Nur weil ich klein bin, bin ich noch lange kein Wurm") und dankt [[Nature's Guide]] zum Abschied.
 - **Ihre Kleidung wird zu eng** und platzt an der Schulternaht; ein Mending von Berta hält nicht. [[Berta]] hatte zuvor festgestellt, sie sei bereits „0,2 Naelis" größer geworden.
 - Gespräch mit [[Hrímnir]]: vermisst den Norden und den Schnee; spürt seit der Rückkehr aus dem [[Styx]] eine Veränderung und fragt sich, ob sie etwas verloren hat. Erzählt von **Visionen aus ihrem alten Leben — Schnee und Stille** —, die sie mehrfach hatte (zuerst „in der Kapelle", als es Hrímnir schlecht ging). Fürchtet, früher „ein Fiesling" gewesen zu sein; Hrímnir verspricht, an ihrer Seite zu bleiben. Freut sich, als es nachts schneit.
 - Trägt weiterhin das **Buch der Schwellen**; ist skeptisch gegenüber Bertas Attunement-Wunsch (stimmt weder dafür noch klar dagegen) und erreicht den Aufschub bis nach dem Duell. Kündigt an, notfalls in Sims Duell einzugreifen, wenn Scale Piercer ihn töten will.

@@ -2,7 +2,7 @@
 type: meta
 title: "Locations Index"
 created: 2026-05-11
-updated: 2026-11-09
+updated: 2026-11-10
 tags:
   - meta
   - locations
@@ -64,7 +64,7 @@ status: evergreen
 
 ## Unter [[Cloud Fang]]
 
-- [[Druidenschrein (Cloud Fang)]] *(Session 31: Cliffhanger aufgelöst — [[Seldris]])* *(neu, Session 30)* — alter Steinkreis-Schrein auf dem Bergpfad, gehütet von [[Nature's Guide]]; Schauplatz von Khirins Entsteinerung und der Fluch-Entfernungen; Cliffhanger (leuchtende Runen, schwarzer Nebel)
+- [[Druidenschrein (Cloud Fang)]] *(Session 31: Cliffhanger aufgelöst — [[Zeldris]])* *(neu, Session 30)* — alter Steinkreis-Schrein auf dem Bergpfad, gehütet von [[Nature's Guide]]; Schauplatz von Khirins Entsteinerung und der Fluch-Entfernungen; Cliffhanger (leuchtende Runen, schwarzer Nebel)
 
 ## Unbekannte Region / Andere Ebene
 
@@ -77,7 +77,7 @@ status: evergreen
 
 - [[Imp-Höhle]] *(neu, Session 26)* — Höhle an einem Bergpfad; metallverstärkte Gänge, [[Imp|Imps]], ein [[Kettenteufel]], [[Grünes Erz (Avernus)|grünes Erz]] und der [[Demon Core]]-Fund
 
-- [[Styx]] *(Session 31: [[Seldris]] war hier versiegelt)* *(neu, Session 27)* — schwarzer Fluss, verbindet die Ebenen der Hölle; Fährmann, Fährgeld, Erlaubnis von [[Sariel]]
+- [[Styx]] *(Session 31: [[Zeldris]] war hier versiegelt)* *(neu, Session 27)* — schwarzer Fluss, verbindet die Ebenen der Hölle; Fährmann, Fährgeld, Erlaubnis von [[Sariel]]
 
 ## Riss-Standorte
 

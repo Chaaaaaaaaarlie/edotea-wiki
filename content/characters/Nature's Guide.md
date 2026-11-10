@@ -17,12 +17,12 @@ related:
   - Weiße Echse (Vision)
   - Session 30
   - Session 31
-  - Seldris
+  - Zeldris
 sources:
   - Session 30 transcript
   - Session 31 transcript
 created: 2026-10-19
-updated: 2026-11-09
+updated: 2026-11-10
 status: developing
 ---
 
@@ -69,7 +69,7 @@ Kaum bekannt. Named-Status ist unter Simianern selten und muss verdient werden (
 - Verlässt den Schrein kurz vor dem Cliffhanger-Ereignis (spontan leuchtende Runen, schwarzer Nebel) — seine Reaktion darauf wird nicht mehr gezeigt.
 
 ### [[Session 31]]
-- Erlebt die Manifestation des Teufels [[Seldris]] an seinem Schrein mit und wirkt danach sichtlich erschrocken. Verabschiedet sich herzlich von [[Naeli]] („Solltest du noch einmal Hilfe benötigen, komm gerne zurück") und warnt [[Sim]]: „Es haben sich viele Sachen geändert."
+- Erlebt die Manifestation des Teufels [[Zeldris]] an seinem Schrein mit und wirkt danach sichtlich erschrocken. Verabschiedet sich herzlich von [[Naeli]] („Solltest du noch einmal Hilfe benötigen, komm gerne zurück") und warnt [[Sim]]: „Es haben sich viele Sachen geändert."
 
 ## Offene Fragen
 - Wer ist er wirklich, und warum hat er (selten für Simianer) einen Namen?

@@ -16,7 +16,7 @@ related:
 sources:
   - Session 13 transcript
 created: 2026-05-18
-updated: 2026-05-18
+updated: 2026-11-10
 status: developing
 ---
 
@@ -58,7 +58,7 @@ Hatte eine Crew von **Schwarzmänteln** (Söldner-Spies + Assassine) aus der "ge
 ## Loot
 - **[[Wappen des alten Kalineon|Brosche]]** mit dem Wappen des alten Kalineon-Königshauses
 - Auftragszettel mit schlecht gezeichneter [[Berta]]
-- Schwert (–1, nach Blitzschlag entstellt, Altmetall)
+- Schwert (–1, nach Blitzschlag entstellt, Altmetall) — von [[Khirin]] mitgenommen; in [[Session 31]] als Prothesenmetall an [[Legend Crafter]] gegeben
 
 ## Bedeutung
 Der Spymaster ist tot, aber:

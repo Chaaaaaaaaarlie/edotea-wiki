@@ -2,7 +2,7 @@
 type: meta
 title: "Wiki Log"
 created: 2026-05-11
-updated: 2026-11-09
+updated: 2026-11-10
 tags:
   - meta
 status: evergreen
@@ -12,6 +12,16 @@ status: evergreen
 
 Append-only. New entries at the **TOP**. Never edit past entries.
 
+## [2026-11-10] fix | Session 31 — DM-bestätigte Korrekturen
+
+- **Quelle**: Bestätigung durch Peter (DM/Spieler) nach dem Session-31-Ingest.
+- **Umbenennung**: `characters/Seldris.md` → `characters/Zeldris.md`. Der Teufel heißt **[[Zeldris]]**; alle Links und Erwähnungen im Wiki angepasst (Alias „Seldris" für die Suche behalten). Namens-Unsicherheit entfernt.
+- **Prothesenmetall**: Khirin gab [[Legend Crafter]] das vom Blitz beschädigte Schwert aus der Gasse in [[Lunovar]] (–1, Altmetall; [[Session 13]], [[Spymaster]]). Das [[Bastardschwert aus Avernus]] (+2) bleibt bei der Gruppe.
+- **Nachtkampf**: Die Gruppe hat die angreifenden Simianer in einem klaren, einseitigen Sieg zerlegt; mindestens ein Gefangener gefesselt. Auftraggeber weiter offen.
+- **Pyraschans Ziel**: [[Kalineon]], zum [[Goetterfunke|Götterfunken]]. Spekulation zu [[Lögress]] entfernt.
+- **[[Magolor]] ist tot** (bestätigt, nicht nur Bertas Aussage). Tag `tot` ergänzt.
+- **Aktualisierte Seiten**: [[Session 31]], [[Session 31 transcript]], [[Session 25]], [[Session 13]], [[Zeldris]], [[Legend Crafter]], [[Khirin]], [[Spymaster]], [[Pyraschan]], [[Magolor]], [[Fohlen]], [[Berta]], [[Naeli]], [[Hrímnir]], [[Sim]], [[Nature's Guide]], [[Kalineon]], [[Lögress]], [[Styx]], [[Druidenschrein (Cloud Fang)]], [[Avernus]], [[Goetterfunke]], [[Bastardschwert aus Avernus]], `wiki/index.md`, `wiki/overview.md`, [[hot|Hot Cache]], `_index.md` (characters, locations, lore, items, quests, sessions).
+
 ## [2026-11-09] ingest | Session 31 (gespielt 2026-11-09) aus WhisperX-Transkript
 
 - **Quelle**: `craig-TLzrQOPtXkyq-UlM2a1mnjzpmwU5_20261109_213933/corrected_obsidian.md` (WhisperX `large-v3`, cuda/float16, de, Word-Timestamps, keine Diarisierung, 97 Glossar-Korrekturen). Dauer: ~3h56min, 4759 Segmente, **6** Craig-Spuren.
@@ -19,10 +29,10 @@ Append-only. New entries at the **TOP**. Never edit past entries.
 - **Abweichungen vom Ingest-Auftrag**: `nightcore0302 = DM` ist veraltet (keine solche Spur; DM ist `_blestem_`); `luke_234 = Khirin` gilt erst ab ~00:21:00. `vault_review.md` schlug fälschlich „Session 32" vor; korrekt ist **Session 31**.
 - **Rohdatei kopiert**: `.raw/session-transcripts/Session 31 - 09.11.2026.md` (unveränderte Kopie).
 - **Backup vor dem Ingest**: `_backups/session31_ingest_20261109_221741/` (hot, index, log, overview, alle Sub-Indizes, betroffene Charakter-/Location-/Lore-/Item-Seiten).
-- **Neue Seiten**: [[Session 31]], [[Session 31 transcript]], [[Seldris]], [[Legend Crafter]], [[Fateweaver]], [[Gnadenpfeile]], [[Scale Piercer herausfordern]] (erste Quest-Seite).
+- **Neue Seiten**: [[Session 31]], [[Session 31 transcript]], [[Zeldris]], [[Legend Crafter]], [[Fateweaver]], [[Gnadenpfeile]], [[Scale Piercer herausfordern]] (erste Quest-Seite).
 - **Aktualisierte Seiten**: [[Sim]], [[Berta]], [[Naeli]], [[Hrímnir]], [[Khirin]], [[Pyraschan]], [[Magda]], [[Scale Piercer]], [[Storm Holder]], [[Nature's Guide]], [[Fohlen]], [[Magolor]], [[Wukong]], [[Cloud Fang]], [[Druidenschrein (Cloud Fang)]], [[Berthas Bohnen]], [[Lunovar]], [[Styx]], [[Kalden]], [[Verhängnisturm]], [[Avernus]], [[Goetterfunke]], [[Drei Bücher]] (Buchträger-Tabelle korrigiert: Buch der Schwellen bei Naeli), [[Risse]], [[das Nichts]], [[Spinnenwesen]], [[Tabaxi]], [[Weiße Echse (Vision)]], [[Magischer Schluessel]], [[Bastardschwert aus Avernus]], [[Grünes Erz (Avernus)]], [[Drachenzahn]], `wiki/index.md`, `wiki/overview.md`, alle Domain-`_index.md` (characters, locations, factions, lore, items, quests, sessions, sources), [[hot|Hot Cache]].
 - **Schlüssel-Erkenntnisse**:
-  - **Cliffhanger aufgelöst**: Der schwarze Nebel am Druidenschrein ist der Teufel **[[Seldris]]**. Er war wegen einer Rebellion gegen Avernus im Styx versiegelt, ist mit der Gruppe entkommen und will durch Handel Kraft sammeln.
+  - **Cliffhanger aufgelöst**: Der schwarze Nebel am Druidenschrein ist der Teufel **[[Zeldris]]**. Er war wegen einer Rebellion gegen Avernus im Styx versiegelt, ist mit der Gruppe entkommen und will durch Handel Kraft sammeln.
   - **Besetzungswechsel**: [[Pyraschan]] verlässt die Gruppe Richtung [[Goetterfunke|Götterfunke]]; [[Khirin]] ist wieder aktiver PC.
   - **[[Cloud Fang]] betreten**: „First Fang" ist der Titel des Oberhaupts, First Roar die Arena. Sims Hütte ist die Basis. Erz ist rar, Waffen sind aus Obsidian.
   - **Herausforderung angenommen**: Duell Sim vs. [[Scale Piercer]] am nächsten Mittag.
@@ -31,7 +41,7 @@ Append-only. New entries at the **TOP**. Never edit past entries.
   - Buch der Seelen: 1–2 heraustrennbare Seiten fehlen. Bertas Attunement auf das Buch der Schwellen ist bis nach dem Duell vertagt.
   - Nachtüberfall bewaffneter Simianer unter Silence; Gruppe siegt, Gefangene gefesselt.
 - **Offene Unsicherheiten dieses Ingests**:
-  - Name **Seldris vs. „Selters"** (DM-Scherz oder Umbenennung); „Dämon" vs. „Teufel".
+  - Name des Teufels (DM-Scherz oder Umbenennung); „Dämon" vs. „Teufel".
   - Welches **„krumme Schwert"** Khirin abgab („baldurianisches Eisen … aus dem Tempel"): nicht dem Bastardschwert zugeordnet.
   - Scale Piercers Lanzenspitze „aus Drachenszenen" (Schuppen? Zähne?).
   - Nachtkampf: Zahl der Angreifer, Tote und Flüchtige nicht eindeutig.

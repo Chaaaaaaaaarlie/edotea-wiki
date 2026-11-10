@@ -19,7 +19,7 @@ related:
 sources:
   - Session 31 transcript
 created: 2026-11-09
-updated: 2026-11-09
+updated: 2026-11-10
 ---
 
 # Legend Crafter
@@ -33,8 +33,8 @@ Schmied in [[Cloud Fang]], laut [[Sim]] „ein sehr, sehr fähiger Schmied". Ver
 ## Story Beats
 ### [[Session 31]]
 - Erz ist in der Region rar und schwer abzubauen; das Dorf fertigt Waffen daher aus Holz und „komischen Steinen" (Obsidian-Klingenkeulen nach einem Entwurf, den der Häuptling [[Scale Piercer]] von seinen Reisen mitbrachte).
-- Nimmt den Auftrag für eine **einfache Armprothese** für [[Khirin]] an (drei Finger: Daumen + zwei Finger, „wie ein B1-Kampfdroide"); Metall: ein „krummes Schwert", das Khirin ihm gibt. Preis 30 Gold (nicht verhandelbar, er muss Aufträge des Oberhaupts erfüllen und sonst „anderweitig Dinge bezahlen"). Fertig bis zum nächsten Mittag oder Abend.
+- Nimmt den Auftrag für eine **einfache Armprothese** für [[Khirin]] an (drei Finger: Daumen + zwei Finger, „wie ein B1-Kampfdroide"); Metall: das vom Blitz beschädigte, „etwas krumme" Schwert aus der Gasse in [[Lunovar]] (–1, Altmetall; siehe [[Session 13]]), das Khirin ihm gibt. Preis 30 Gold (nicht verhandelbar, er muss Aufträge des Oberhaupts erfüllen und sonst „anderweitig Dinge bezahlen"). Fertig bis zum nächsten Mittag oder Abend.
 - Blickt Khirin mitleidig an.
 
 ## Verknüpfungen
-- [[Fateweaver]] · [[Cloud Fang]] · [[Khirin]] · [[Sim]] · [[Scale Piercer]] · [[Session 31]]
+- [[Fateweaver]] · [[Cloud Fang]] · [[Khirin]] · [[Sim]] · [[Scale Piercer]] · [[Session 13]] · [[Session 31]]

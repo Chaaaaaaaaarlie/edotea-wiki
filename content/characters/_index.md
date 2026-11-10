@@ -2,7 +2,7 @@
 type: meta
 title: "Characters Index"
 created: 2026-05-11
-updated: 2026-11-09
+updated: 2026-11-10
 tags:
   - meta
   - characters
@@ -36,7 +36,7 @@ status: evergreen
 - [[Lucien]]
 - [[Lysanthiriel Vaelora]]
 - [[Magilanikas Maven]]
-- [[Magolor]] — Aussehen erstmals enthüllt in [[Session 14]]
+- [[Magolor]] — Aussehen erstmals enthüllt in [[Session 14]]; tot
 - [[Markus L. Kalinion]]
 - [[Nora]]
 - [[Palamedis]] — *(Session 17: goldener Drache; hält das vierte Buch der Versiegelung; schläft im Nordvulkan)*
@@ -52,7 +52,7 @@ status: evergreen
 - [[Zwergenmeister Schmiedemeisterei]]
 - [[Magda]] *(neu, Session 27 — Halbelfin, befreit aus dem Käfigwagen, begleitet die Gruppe; trägt seit [[Session 28]] einen bewusstlosen Patienten, der laut [[Session 30]] bestätigt **nicht** [[Khirin]] ist)*
 - [[Fährmann des Styx]] *(neu, Session 27 — blinder gehörnter Fährmann am [[Styx]])*
-- [[Seldris]] *(neu, Session 31 — Teufel/„hoher Dämon" aus Avernus, im Styx versiegelt, mit der Gruppe entkommen; Name unsicher)*
+- [[Zeldris]] *(neu, Session 31 — Teufel/„hoher Dämon" aus Avernus, im Styx versiegelt, mit der Gruppe entkommen)*
 - [[Legend Crafter]] *(neu, Session 31 — Schmied in [[Cloud Fang]], baut Khirins Prothese)*
 - [[Fateweaver]] *(neu, Session 31 — Schneiderin in [[Cloud Fang]], Bertas neuer Hut)*
 - [[Nature's Guide]] *(neu, Session 30 — uralter Simian-Druide, Kindheitsbekannter [[Sim]]s; entsteinert [[Khirin]] und entfernt die Flüche der Gruppe)*

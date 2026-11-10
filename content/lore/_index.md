@@ -2,7 +2,7 @@
 type: meta
 title: "Lore Index"
 created: 2026-05-11
-updated: 2026-11-09
+updated: 2026-11-10
 tags:
   - meta
   - lore
@@ -42,7 +42,7 @@ status: evergreen
 ## Ebenen
 
 - [[Feenwildnis]] *(neu, Session 16 — Feywild; Portal im [[Erliorwald]], Heimat von Treants/Pixies/Worgen)*
-- [[Avernus]] *(Session 31: Rebellen-Teufel [[Seldris]])* *(neu, Session 25 — erste Schicht der Neun Höllen; erstmals erkundet in [[Session 26]]; möglicherweise seit [[Session 28]] verlassen, unbestätigt)*
+- [[Avernus]] *(Session 31: Rebellen-Teufel [[Zeldris]])* *(neu, Session 25 — erste Schicht der Neun Höllen; erstmals erkundet in [[Session 26]]; möglicherweise seit [[Session 28]] verlassen, unbestätigt)*
 
 ## Bestiarium
 
