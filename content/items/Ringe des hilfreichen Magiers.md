@@ -3,7 +3,7 @@ type: item
 title: "Ringe des hilfreichen Magiers"
 item_type: ring
 rarity: unknown
-attunement: "unbekannt (DM: „adaptiert")"
+attunement: "unbekannt (DM: „adaptiert“)"
 current_holder: "Gruppe (in der Tabaxi-Puzzlebox)"
 tags:
   - item
