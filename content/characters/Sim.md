@@ -12,12 +12,16 @@ related:
   - Scale Piercer herausfordern
   - Legend Crafter
   - Fateweaver
+  - Session 32
+  - Frieden mit den Tabaxi
+  - Scale Piercers Drachenspeer
 sources:
   - Session 28 transcript
   - Session 30 transcript
   - Session 31 transcript
+  - Session 32 transcript
 created: 2026-05-11
-updated: 2026-11-10
+updated: 2026-11-16
 status: developing
 ---
 # Sim
@@ -202,6 +206,17 @@ status: developing
 - Ist vor dem Duell nervös, will aber „ehrlich gewinnen" und lehnt Hilfe ab; glaubt, Scale Piercer habe den Duellkampf gegen seinen Vater fair gewonnen. Seine Ausrüstung lagert nachts in [[Hrímnir]]s Bag of Holding.
 - Im nächtlichen Überfall mehrere Crits; schlägt Angreifer bewusst bewusstlos statt sie zu töten.
 
+## [[Session 32]] — Duellsieg und neues Oberhaupt
+
+- Erfährt durch das Verhör, dass [[Scale Piercer]] die Gruppe vergiften lassen wollte („also ein Feigling"). Er will die überlebenden Angreifer nicht töten, „es muss Konsequenzen geben, aber das wird nicht der Tod sein".
+- **Begräbt die zwei toten Angreifer** hinter seiner Hütte unter einem kleinen Steinturm und teilt mit den Überlebenden Sake aus einem Lehmfass (ca. 5 l) aus der Vorratskammer. Er verspricht, die „Schreckensherrschaft" zu beenden.
+- Lehnt magische Hilfe vor dem Duell ab. **Besiegt Scale Piercer** mit kritischem Disarming Attack und Menacing Attack, hebt dessen [[Scale Piercers Drachenspeer|Drachenspeer]] auf und schlägt ihn damit **bewusstlos**. Obsidiansplitter der zerbrochenen Keule werden per Second Wind herausgedrückt. Er benutzt im Kampf auch seine [[Gurde]].
+- **[[Nature's Guide]] ruft ihn zum neuen Oberhaupt von [[Cloud Fang]] aus.** Seine Rede: Ende der Tyrannei, Ende des „sinnlosen Krieges", eine friedliche Lösung. Etwa drei Viertel des Dorfes stimmen zu.
+- Im Verhör erinnert er Scale Piercer daran, dass [[Storm Holder]] ihn großgezogen hat. Sein Urteil: **keine Verbannung**, Scale Piercer soll täglich am Grab seines Vaters um Vergebung bitten. Er gibt ihm den Speer zurück, damit er das Dorf beschützen kann.
+- Will den Konflikt mit den [[Tabaxi]] persönlich lösen → [[Frieden mit den Tabaxi]], aber erst nach der [[Weiße Echse aufspüren|weißen Echse]].
+- Will den [[Drachenzahn]] in seinen Stab einbauen lassen, eventuell zusammen mit [[Blaue Metallbarren|Metall aus der Gruft]]. Die Ausarbeitung erfolgt off-session.
+- Erleidet 32 Force-Schaden durch die Schockwelle des Buchs der Schwellen und sieht die farbige Lichtwelle am Horizont.
+
 ## Verknüpfungen
 
 - [[Cadnix]]
@@ -272,3 +287,4 @@ status: developing
 - [[Nature's Guide]]
 - [[Druidenschrein (Cloud Fang)]]
 - [[Session 31]] · [[Session 31 transcript]]
+- [[Session 32]] · [[Session 32 transcript]]

@@ -8,12 +8,15 @@ tags:
 related:
   - Session 31
   - Zeldris
+  - Session 32
+  - Tabaxi-Puzzlebox
 sources:
   - Session 28 transcript
   - Session 30 transcript
   - Session 31 transcript
+  - Session 32 transcript
 created: 2026-05-11
-updated: 2026-11-10
+updated: 2026-11-16
 status: developing
 ---
 ![[Hrimnir.png|533]]
@@ -197,6 +200,15 @@ status: developing
 - Verwahrt nachts [[Sim]]s Ausrüstung in seiner Bag of Holding.
 - Im Nachtkampf: Donner-Reaktion, Deflect Attacks, Stunning Strike, Heroic Inspiration; mehrere Crits; eine Obsidian-Keule zerbricht an ihm.
 
+## [[Session 32]]
+
+- Hält dem gefangenen Gelehrten seinen Säbel an den Hals. Trägt die Toten zum Grab.
+- Kauft bei [[Fateweaver]] eine **weiße Seidenfahne für 100 Gold** (Zweck nicht genannt).
+- Sein geplanter Schutzzauber für das Duell (15-Fuß-Radius, niemand kann sterben) passt nicht zur Arenagröße. Stattdessen überwacht er mit Naeli bewaffnete Zuschauer und beruhigt sie mit einer Hand auf der Schulter.
+- Wirkt **Zone of Truth** auf Scale Piercer, der den Save besteht.
+- Merkt sich die 44-schrittige Öffnungsfolge der [[Tabaxi-Puzzlebox]].
+- Meta: AC 18, 59 HP. Er wünscht sich Bracers of Defense, der DM nimmt das als Item-Wunsch für Händler auf.
+
 ## Verknüpfungen
 
 - [[Berta]]
@@ -269,3 +281,4 @@ status: developing
 - [[Druidenschrein (Cloud Fang)]]
 - [[Cloud Fang]]
 - [[Session 31]] · [[Session 31 transcript]]
+- [[Session 32]] · [[Session 32 transcript]]

@@ -13,12 +13,14 @@ related:
   - Lysanthiriel Vaelora
   - Drei Bücher
   - Palamedis
+  - Session 32
 sources:
   - Session 17 transcript
   - Session 18 transcript
   - Session 19 transcript
+  - Session 32 transcript
 created: 2026-06-16
-updated: 2026-06-29
+updated: 2026-11-16
 status: developing
 ---
 
@@ -70,6 +72,10 @@ Der Dungeon gilt als **vollständig abgeschlossen** (alle Räume bewältigt, Sar
 - ~~Wer hat das **Siegel gebrochen**?~~ Wahrscheinlich die Zwerge beim Einbruch.
 - Hat [[Aalafiel]] inzwischen [[Palamedis]] erreicht?
 
+## [[Session 32]]
+
+- [[Sim]] erinnert an das Metall „mit anderen Eigenschaften" aus der Grabkammer ([[Blaue Metallbarren]]) und möchte es eventuell zusammen mit dem [[Drachenzahn]] in seinen Stab einarbeiten lassen. Die Gruppe ist einverstanden, die Umsetzung erfolgt off-session.
+
 ## Verknüpfungen
 - [[Erliorwald]]
 - [[Aalafiel]]
@@ -84,3 +90,4 @@ Der Dungeon gilt als **vollständig abgeschlossen** (alle Räume bewältigt, Sar
 - [[Session 17]]
 - [[Session 18]]
 - [[Session 19]]
+- [[Session 32]] · [[Session 32 transcript]]

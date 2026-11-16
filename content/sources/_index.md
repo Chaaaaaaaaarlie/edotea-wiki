@@ -2,20 +2,21 @@
 type: meta
 title: "Sources Index"
 created: 2026-05-11
-updated: 2026-11-09
+updated: 2026-11-16
 tags:
   - meta
   - sources
 status: developing
 ---
 
-# Sources (20)
+# Sources (21)
 
 > [!note] Diese Seite wurde zuletzt nicht bei jedem Ingest vollständig gepflegt (Session 19/20 transcripts fehlten). Vollständige Liste siehe [[index|Wiki Index]].
 
 Eine Übersichtsseite pro Roh-Quelle aus `.raw/` (oder ggf. `_transcribex_backups/`).
 
 ## Session Transcripts
+- [[Session 32 transcript]] — WhisperX-Transkript (`large-v3`), Session 32, ingestiert 2026-11-16, `.raw/session-transcripts/Session 32 - 16.11.2026.md` (3455 Segmente, ~3h04min, 6 Craig-Spuren, 47 Glossar-Korrekturen). Ingest-Auftrag nannte veraltet `nightcore0302 = DM`, DM ist `_blestem_`. `vault_review.md` schlug fälschlich „Session 33" vor.
 - [[Session 31 transcript]] — WhisperX-Transkript (`large-v3`), Session 31, ingestiert 2026-11-09, `.raw/session-transcripts/Session 31 - 09.11.2026.md` (4759 Segmente, ~3h56min, 6 Craig-Spuren, 97 Glossar-Korrekturen)
 - [[Session 30 transcript]] — WhisperX-Transkript (`large-v3`), Session 30, ingestiert 2026-10-19, `.raw/session-transcripts/Session 30 - 19.10.2026.md` (3366 Segmente, ~2h45min, 6 Craig-Spuren). **Achtung**: Ingest-Auftrag nannte veraltetes Sprecher-Mapping (`nightcore0302 = DM`, `luke_234 = Khirin`); korrigiert zu `_blestem_ = DM`, `luke_234 = Pyraschan`.
 - [[Session 29 transcript]] — WhisperX-Transkript (`large-v3`), Session 29, ingestiert 2026-10-12, `.raw/session-transcripts/Session 29 - 12.10.2026.md` (4195 Segmente, ~3h23min, 6 Craig-Spuren). **Achtung**: Ingest-Auftrag nannte veraltetes Sprecher-Mapping (`nightcore0302 = DM`, `luke_234 = Khirin`); korrigiert zu `_blestem_ = DM`, `luke_234 = Pyraschan`.

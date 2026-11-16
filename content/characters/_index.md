@@ -2,7 +2,7 @@
 type: meta
 title: "Characters Index"
 created: 2026-05-11
-updated: 2026-11-10
+updated: 2026-11-16
 tags:
   - meta
   - characters
@@ -17,11 +17,12 @@ status: evergreen
 - [[Hrímnir]]
 - [[Naeli]]
 - [[Pyraschan]] *(Session 31: verlässt die Gruppe, um dem Götterfunken Bericht zu erstatten)* *(neu, Session 26 — Paladin, Level 7; Craig-Spur `luke_234`, zuvor [[Khirin]]; in [[Session 27]] krank zurückgelassen, ab [[Session 28]] per DM-Retcon wieder bei der Gruppe)*
-- [[Sim]] — seit [[Session 29]] trägt er den verdienten Namen **„Plane Walking Eye"** (Sim bleibt gültiger Rufname)
-- [[Khirin]] — *ab [[Session 31]] wieder aktiv gespielt (`luke_234`), Armprothese bei [[Legend Crafter]] in Auftrag; [[Session 26]]–[[Session 30]] nicht aktiv gespielt; in [[Session 30]] entsteinert und wieder bei Bewusstsein (siehe dort — der zuvor vermutete „Patient" bei [[Magda]] war die ganze Zeit eine andere Person)*
+- [[Sim]] — seit [[Session 29]] trägt er den verdienten Namen **„Plane Walking Eye"** (Sim bleibt gültiger Rufname) *(Session 32: gewinnt das Duell, neues Oberhaupt von [[Cloud Fang]])*
+- [[Khirin]] — *[[Session 32]]: Hakenprothese angenagelt (Nachteil bei zweihändigen Str-/Dex-Aufgaben); ab [[Session 31]] wieder aktiv gespielt (`luke_234`), Armprothese bei [[Legend Crafter]] in Auftrag; [[Session 26]]–[[Session 30]] nicht aktiv gespielt; in [[Session 30]] entsteinert und wieder bei Bewusstsein (siehe dort — der zuvor vermutete „Patient" bei [[Magda]] war die ganze Zeit eine andere Person)*
 
-## NPCs (34)
+## NPCs (35)
 
+- [[Alter Magier auf dem schwarzen Drachen]] *(neu, Session 32 — grauhaariger Magier mit Kugel, reitet einen schwarzen Drachen, befehligt einen roten und einen blauen; schickte laut Scale Piercer die Spinnenwesen nach Cloud Fang)*
 - [[Aalafiel]] — *(Session 17 persönlich getroffen: ~3200 J., verflucht; Lysantirs Freundin; Trank aus ihrem Blut)*
 - [[Borgrim Runenbrecher]]
 - [[Crucellus]]
@@ -40,7 +41,7 @@ status: evergreen
 - [[Markus L. Kalinion]]
 - [[Nora]]
 - [[Palamedis]] — *(Session 17: goldener Drache; hält das vierte Buch der Versiegelung; schläft im Nordvulkan)*
-- [[Scale Piercer]] *(Session 31: erstmals persönlich getroffen; Duell gegen Sim am nächsten Mittag angesetzt)* *(Stub seit 2026-05-11, ausgebaut Session 29 — Usurpator-Oberhaupt von [[Sim]]s Heimatdorf, mutmaßlich [[Cloud Fang]]; tötete [[Storm Holder]] heimtückisch nach fairem Duell)*
+- [[Scale Piercer]] *(Session 32: Auftraggeber des Giftanschlags, verliert das Duell gegen Sim, begnadigt; tötete einst einen grünen Drachen)* *(Session 31: erstmals persönlich getroffen; Duell gegen Sim am nächsten Mittag angesetzt)* *(Stub seit 2026-05-11, ausgebaut Session 29 — Usurpator-Oberhaupt von [[Sim]]s Heimatdorf, mutmaßlich [[Cloud Fang]]; tötete [[Storm Holder]] heimtückisch nach fairem Duell)*
 - [[Sophie Marie]] *(neu, Session 14 — Magolor-Agentin, wahrscheinlich tot)*
 - [[Spymaster]] *(Session 13 — tot)*
 - [[Storm Holder]] *(Stub seit 2026-05-11, ausgebaut Session 29 — Sims Vater, ermordetes früheres Dorfoberhaupt)*

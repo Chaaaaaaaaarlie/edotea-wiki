@@ -7,10 +7,12 @@ tags:
   - location
 related:
   - Session 31
+  - Session 32
 sources:
   - Session 31 transcript
+  - Session 32 transcript
 created: 2026-05-11
-updated: 2026-11-10
+updated: 2026-11-16
 status: developing
 ---
 # Kalineon
@@ -78,6 +80,10 @@ status: developing
 ## [[Session 31]]
 - [[Pyraschan]] fragt nach dem Weg nach Kalineon, um dem [[Goetterfunke|Götterfunken]] Bericht zu erstatten; [[Sim]] verortet es von [[Cloud Fang]] aus grob im Westen/Südwesten, mit einer Route über [[Kalden]]. Pyraschan reist nach Kalineon zum Götterfunken.
 
+## [[Session 32]]
+
+- [[Khirin]] wählt beim Scryen mit seiner Kristallkugel die Gegenstelle, die er Richtung Kalineon und Gebirge für näher hält. Er sieht viele Zwerge mit Spitzhacken und schwerer Maschinerie. Der Ort ist nicht bestätigt.
+
 ## Verknüpfungen
 
 - [[Elliot]]
@@ -106,3 +112,4 @@ status: developing
 - [[Zakson]]
 - [[Session 30]]
 - [[Session 31]] · [[Session 31 transcript]]
+- [[Session 32]] · [[Session 32 transcript]]

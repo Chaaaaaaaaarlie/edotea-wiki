@@ -2,16 +2,17 @@
 type: meta
 title: "Items Index"
 created: 2026-05-11
-updated: 2026-11-10
+updated: 2026-11-16
 tags:
   - meta
   - items
 status: developing
 ---
 
-# Items (22)
+# Items (26)
 
 ## Waffen & Munition (neu)
+- [[Scale Piercers Drachenspeer]] *(neu, Session 32)* — Speer aus dem Material eines grünen Drachen, von Legend Crafter gefertigt; Spitze zersetzt Holz; bei Scale Piercer
 - [[Gnadenpfeile]] *(neu, Session 31)* — Sims Erbe aus [[Storm Holder]]s Pfeillager: 10 Gnadenpfeile (lassen 1 HP übrig) + 3 Elementarpfeile (Blitz/Säure/Feuer, je einmal +1d4)
 
 > [!note] Session 31: Khirin gibt [[Legend Crafter]] das vom Blitz beschädigte Schwert aus der Gasse in [[Lunovar]] ([[Session 13]]) als Prothesenmetall. [[Bastardschwert aus Avernus]] und [[Grünes Erz (Avernus)]] bleiben bei der Gruppe.
@@ -29,6 +30,9 @@ status: developing
 - [[Staff of Warning]] *(neu, Session 22)* — aus Evelyns Zellenraum, Gruppenzuteilung noch offen; genaue Funktionsliste offen
 
 ## Schmuck / Magische Container
+- [[Tabaxi-Puzzlebox]] *(neu, Session 32)* — den Tabaxi gestohlene Trickkiste aus Scale Piercers Anwesen, 44–45 Schritte zum Öffnen; Rückgabe geplant
+- [[Ring des blutenden Magiers]] *(neu, Session 32)* — goldener Ring: 1d12 Schaden pro Slot-Stufe statt Spell Slot; Runen „… und Sterblichkeit ist Macht"
+- [[Ringe des hilfreichen Magiers]] *(neu, Session 32)* — Ringpaar: Träger teilen Spell Slots
 - [[Spell-Slot-Anhänger]] *(neu, Session 14)* — Khirins Bestellung bei Magilanika, speichert Spell-Slot bis Stufe 3
 - [[Lady Günthers Flasche]] *(neu, Session 14)* — Pferdeflasche, Lady Günther einsperren/freilassen
 - [[Krone des Hohen Rates]] *(neu, Session 14)* — von Khirin im Adelsviertel-Ratssaal vom Thron geklaut
@@ -57,6 +61,6 @@ status: developing
 - [[Cloak of Many Fashions]] *(neu, Session 27)* — [[Hrímnir]]s persönlicher Umhang; als Fährgeld am [[Styx]] gegeben; ein ähnlicher Lumpen trieb zurück (Echtheit offen)
 
 ## Trophäen
-- [[Drachenzahn]] *(neu, Session 24)* — Zahn des getöteten blauen erwachsenen Drachen, von [[Berta]] geborgen; genaue Verarbeitung/Mechanik offen
+- [[Drachenzahn]] *(neu, Session 24; S32: überzeugt Scale Piercer; soll in Sims Stab eingebaut werden)* — Zahn des getöteten blauen erwachsenen Drachen, von [[Berta]] geborgen
 
 > [!gap] Andere Gegenstände der Gruppe (Bertas Pergament, Khirins Kristallkugel + goldene Rose, Hrímnirs Bag of Holding, Naelis Froststab, Lucien-Münze, **Magolors Loyalitäts-Brosche** im Bag of Holding) haben noch keine eigenen Item-Seiten — bei Bedarf ergänzen.

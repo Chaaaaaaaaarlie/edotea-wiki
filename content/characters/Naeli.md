@@ -8,14 +8,18 @@ tags:
 related:
   - Session 31
   - Zeldris
+  - Session 32
+  - Tabaxi-Puzzlebox
+  - Weiße Echse aufspüren
 sources:
   - Tagebücher Wilhelm Casterwill
   - Session 17 transcript
   - Session 28 transcript
   - Session 30 transcript
   - Session 31 transcript
+  - Session 32 transcript
 created: 2026-05-11
-updated: 2026-11-10
+updated: 2026-11-16
 status: developing
 ---
 ![[Naeli.png|496]]
@@ -192,6 +196,16 @@ status: developing
 - Trägt weiterhin das **Buch der Schwellen**; ist skeptisch gegenüber Bertas Attunement-Wunsch (stimmt weder dafür noch klar dagegen) und erreicht den Aufschub bis nach dem Duell. Kündigt an, notfalls in Sims Duell einzugreifen, wenn Scale Piercer ihn töten will.
 - Hält die erste Nachtwache (Trance) und **entdeckt die Eindringlinge** trotz Silence; im Kampf u. a. Shatter und Chromatic Orb; fesselt einen bewusstlosen Angreifer (Knoten mit Hilfe nachgeprüft).
 
+## [[Session 32]]
+
+- Knebelt die Gefangenen, friert dem Gelehrten im Verhör die Schwanzspitze ein. Ihre Intimidation scheitert an ihrer „niedlichen Proportion".
+- Löst die Fesseln der Überlebenden, damit sie Abschied nehmen können, und hilft beim Graben.
+- [[Fateweaver]] erweitert ihre Kleidung für 1 Gold mit Lederflicken, „da ihr euch noch im Wachstum befindet". Naeli: *„Ich wachse nicht … normalerweise."*
+- Schwört, Scale Piercer zu töten, falls er Sim töten will. Sammelt Wetten ein (16 Gold Pott, 10 davon ihr Einsatz) und gewinnt. Behält mit Hrímnir verdächtige Zuschauer im Auge.
+- **Öffnet die [[Tabaxi-Puzzlebox]]** (Sleight of Hand, 44–45 Schritte) und verschließt sie wieder. Laut ihr können nur sie und Hrímnir sie öffnen.
+- Besteht darauf, der **[[Weiße Echse (Vision)|weißen Echse]]** zu folgen („Mein Gefühl sagt mir, dass ich ihm folgen soll"). Ihre Vision: eher klein, vielleicht mit Drachenschuppen, verschwommen → [[Weiße Echse aufspüren]].
+- Übergibt Berta widerwillig das **Buch der Schwellen** („Im Zweifel müssen wir dich töten") und wird von der Schockwelle getroffen.
+
 ## Verknüpfungen
 
 - [[Anwesen]]
@@ -261,3 +275,4 @@ status: developing
 - [[Riesenvögel (Olmea-Wald)]]
 - [[Tabaxi]]
 - [[Session 31]] · [[Session 31 transcript]]
+- [[Session 32]] · [[Session 32 transcript]]

@@ -12,9 +12,11 @@ related:
   - Wukong
   - Magilanikas Maven
   - Virion Loramis
-sources: []
+  - Session 32
+sources:
+  - Session 32 transcript
 created: 2026-05-12
-updated: 2026-05-26
+updated: 2026-11-16
 status: developing
 ---
 
@@ -60,7 +62,13 @@ Alternative Magie-Anlaufstelle wäre [[Magilanikas Maven]] gewesen (sie bot in S
 - Erkennt jemand in [[Lunovar]] sie als Wukongs Erbstück?
 - Erbt mit der Gurde auch ein Wukong-spezifischer Vertrag / eine Verpflichtung?
 
+## [[Session 32]]
+
+- [[Sim]] benutzt seine Gurde im Duell gegen [[Scale Piercer]] (am Tisch als Bonusaktion, die genaue Wirkung nennt das Transkript nicht). Sie scheint also wieder einsatzfähig zu sein. Wann sie von [[Virion Loramis]] zurückkam, ist im Vault nicht dokumentiert.
+- Sim findet in seiner Vorratskammer ein Lehmfass mit etwa 5 l Sake, das der Form der Gurde ähnelt. Berta nennt die Gurde ein Artefakt „unbekannter Herkunft", das nicht zum Fähigkeitsniveau der Simianer passe.
+
 ## Verknüpfungen
 - [[Sim]] · [[Wukong]] · [[Magilanikas Maven]] · [[Virion Loramis]] · [[Fohlen]]
 - [[Schmiedemeisterei Lunovar]] · [[Zwergenmeister Schmiedemeisterei]]
 - [[Session 6]] · [[Session 7]] · [[Session 8]] · [[Session 12]] · [[Session 13]] · [[Session 14]]
+- [[Session 32]] · [[Session 32 transcript]]

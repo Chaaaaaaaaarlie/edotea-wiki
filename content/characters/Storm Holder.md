@@ -17,12 +17,14 @@ related:
   - Session 30
   - Session 31
   - Gnadenpfeile
+  - Session 32
 sources:
   - Session 29 transcript
   - Session 30 transcript
   - Session 31 transcript
+  - Session 32 transcript
 created: 2026-05-11
-updated: 2026-11-09
+updated: 2026-11-16
 status: developing
 ---
 # Storm Holder
@@ -57,7 +59,13 @@ Vater von [[Sim]] und früheres, beliebtes Oberhaupt von [[Sim]]s Heimatdorf **[
 - Wie genau lief das Duell und der Verrat danach ab — gibt es Zeugen außer Scale Piercer?
 - Was stand im Abschiedsbrief, und worum ging der Streit mit Sim?
 
+## [[Session 32]]
+
+- [[Scale Piercer]] gesteht, dass Storm Holder ihn als elternloses Kind **mit großgezogen** hat. Er tötete ihn, um das Dorf „umzukrempeln". Laut Sim gab es in der Geschichte des Dorfes nur **einen Tod in der Arena**, und den verschuldete Scale Piercer.
+- Sims Urteil nach seinem Sieg: Scale Piercer soll **täglich an Storm Holders Grab** um Vergebung bitten und ihm die letzte Ehre erweisen. Sim: „Mein Vater hätte das nicht gewollt" (Scale Piercers Tod).
+
 ## Verknüpfungen
 - [[Cloud Fang]] · [[Scale Piercer]] · [[Sim]] · [[Session 29]] · [[Session 29 transcript]]
 - [[Session 30]] · [[Session 30 transcript]]
 - [[Session 31]] · [[Session 31 transcript]]
+- [[Session 32]] · [[Session 32 transcript]]

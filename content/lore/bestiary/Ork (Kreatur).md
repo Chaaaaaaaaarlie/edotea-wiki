@@ -11,10 +11,13 @@ related:
   - Olmea-Wald
   - Dire Wolf
   - Session 28
+  - Session 32
+  - Tabaxi-Puzzlebox
 sources:
   - Session 28 transcript
+  - Session 32 transcript
 created: 2026-09-28
-updated: 2026-09-28
+updated: 2026-11-16
 status: seed
 NoteIcon: npc
 ---
@@ -34,6 +37,11 @@ Eine kleine Bande von vier bewaffneten Angreifern, die in [[Session 28]] nachts 
 - Alle vier werden getötet, einer davon versehentlich zwischenzeitlich von [[Pyraschan]] wiederbelebt (Fehlwurf beim Heilzauber) und im nächsten Zug erneut niedergeschlagen.
 - Verstehen offenbar keine der von der Gruppe versuchten Sprachen; die Gruppe versteht ihrerseits nichts von ihnen.
 
+## [[Session 32]]
+
+- Laut [[Sim]] ziehen „ab und zu" Orks durch den [[Olmea-Wald]], und einige von ihnen können Magie wirken. Das kam als mögliche Erklärung für die Herkunft der [[Tabaxi-Puzzlebox]] zur Sprache.
+
 ## Verknüpfungen
 - [[Dire Wolf]] · [[Olmea-Wald]] · [[Session 28]] · [[Session 28 transcript]]
 - [[Berta]] · [[Hrímnir]] · [[Naeli]] · [[Sim]] · [[Pyraschan]]
+- [[Session 32]] · [[Session 32 transcript]]

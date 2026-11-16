@@ -9,11 +9,14 @@ related:
   - Session 31
   - Berthas Bohnen
   - Fohlen
+  - Session 32
+  - Alter Magier auf dem schwarzen Drachen
 sources:
   - Session 14
   - Session 31 transcript
+  - Session 32 transcript
 created: 2026-05-11
-updated: 2026-11-09
+updated: 2026-11-16
 status: developing
 ---
 # Lunovar
@@ -147,6 +150,12 @@ Nach Audienz mit [[Elfaria Albis von Sylphid]]:
 - Laut [[Nora]] hat sich [[Lunovar]] seit den zunehmenden Inkursionen stark abgeschottet.
 - [[Crucellus]] wurde als Kontaktperson für die Gruppe angekündigt.
 
+## [[Session 32]]
+
+- **Bestätigt (DM):** Die zwei Drachen, die in [[Session 21]] über der Barriere kreisten, waren ein **blauer und ein roter**. Laut [[Scale Piercer]]s Erinnerung gehören beide zum Gefolge des [[Alter Magier auf dem schwarzen Drachen|alten Magiers auf dem schwarzen Drachen]]. Der blaue ist der in [[Session 24]] getötete.
+- [[Fohlen]] antwortet auf Bertas Sending und will einen Familiar mit Rückkehr-Schriftrolle schicken. Die Lage in der Stadt bleibt unklar.
+- Sim: Cloud Fang hat bei Weitem nicht die Bibliotheksauswahl von Lunovar.
+
 ## Verknüpfungen
 
 - [[Corellon]]
@@ -186,3 +195,4 @@ Nach Audienz mit [[Elfaria Albis von Sylphid]]:
 - [[Session 29]]
 - [[Session 30]]
 - [[Session 31]] · [[Session 31 transcript]]
+- [[Session 32]] · [[Session 32 transcript]]

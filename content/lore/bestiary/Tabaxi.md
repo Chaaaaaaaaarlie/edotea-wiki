@@ -13,12 +13,16 @@ related:
   - Session 29
   - Session 30
   - Session 31
+  - Session 32
+  - Tabaxi-Puzzlebox
+  - Frieden mit den Tabaxi
 sources:
   - Session 29 transcript
   - Session 30 transcript
   - Session 31 transcript
+  - Session 32 transcript
 created: 2026-10-12
-updated: 2026-11-09
+updated: 2026-11-16
 status: developing
 ---
 
@@ -46,7 +50,14 @@ Bei der Begegnung mit Sims eigenem Stamm (siehe [[Cloud Fang]]) zeigt ein Simian
 - Wie heißt das Tabaxi-Dorf, und wo genau liegt es (Himmelsrichtung am Tisch uneinheitlich)?
 - Gibt es eine Möglichkeit, Frieden zwischen Tabaxi und Sims Heimatdorf zu vermitteln, sobald [[Scale Piercer]] gestürzt ist?
 
+## [[Session 32]]
+
+- [[Scale Piercer]] nennt die Tabaxi weiterhin eine Bedrohung. Laut ihm sind sie in vielen Praktiken „weniger fortgeschritten".
+- In seinem Anwesen liegt eine den Tabaxi gestohlene **[[Tabaxi-Puzzlebox]]** mit drei magischen Ringen. Herkunft und Hersteller sind unklar.
+- [[Sim]] will als neues Oberhaupt **Frieden** schließen und das persönlich regeln → [[Frieden mit den Tabaxi]]. Das Tabaxi-Dorf liegt laut Sim im Nordwesten.
+
 ## Verknüpfungen
 - [[Olmea-Wald]] · [[Session 29]] · [[Session 29 transcript]] · [[Session 30]] · [[Session 30 transcript]]
 - [[Sim]] · [[Scale Piercer]] · [[Berta]] · [[Hrímnir]] · [[Cloud Fang]]
 - [[Session 31]] · [[Session 31 transcript]]
+- [[Session 32]] · [[Session 32 transcript]]

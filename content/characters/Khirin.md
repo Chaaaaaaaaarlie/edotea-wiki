@@ -13,12 +13,17 @@ related:
   - Session 31
   - Legend Crafter
   - Fateweaver
+  - Session 32
+  - Tabaxi-Puzzlebox
+  - Ring des blutenden Magiers
+  - Ringe des hilfreichen Magiers
 sources:
   - Session 28 transcript
   - Session 30 transcript
   - Session 31 transcript
+  - Session 32 transcript
 created: 2026-05-11
-updated: 2026-11-10
+updated: 2026-11-16
 status: developing
 ---
 # Khirin
@@ -229,6 +234,15 @@ Unter dieser Annahme gilt für [[Session 26]]:
 - Überlegt, sich in [[Lunovar]] später einen akademischen Namen mit Forschung über die Simianer zu machen.
 - Im Nachtkampf: wirkt **Sleep** (ein Angreifer schläft ein) und **Toll the Dead**; vermeidet Feuerzauber, um die Hütte nicht abzufackeln (seine vorbereiteten Zauber sind fast alle Feuer).
 
+## [[Session 32]] — Hakenprothese
+
+- Durchsucht die Angreifer (findet Glasphiolen) und findet im Anwesen die **[[Tabaxi-Puzzlebox]]**. Identifiziert die Ringe ([[Ring des blutenden Magiers]], [[Ringe des hilfreichen Magiers]]) und übersetzt per Comprehend Languages die Runen: *„… und Sterblichkeit ist Macht."*
+- **Prothese von [[Legend Crafter]]**: Sie wird mit Nägeln in den Stumpf geschlagen (1d12 Schaden, 8). Sie hat ein Scharniergelenk und einen kleinen Haken, dazu gibt es braunes Schmerzpulver für jeden Abend. **Nachteil bei zweihändigen Str-/Dex-Aufgaben.** Kauft ein Taschentuch (2 Silber), gibt einem Taschendieb 1 Silber.
+- Exhaustion nach dem Long Rest vermutlich auf 2 gesunken (Berta: „zwei Exhaustion").
+- Scryt mit seiner **Kristallkugel** (Arcana 20): Er sieht viele Zwerge mit Spitzhacken und schwerer Maschinerie und vermutet die Suche nach dem dritten Buch. Er plaudert vor Scale Piercer über die Bücher, Naeli weist ihn zurecht.
+- Inhalt seiner Tasche laut Spieler: Drachenschuppen, „Steinfleisch" eines formbaren Drachen, Knochen, Zähne, Messer.
+- Schlägt vor, vor der Echse eine Bibliothek oder ein Orakel zu befragen, wird abgewiesen. Erleidet Force-Schaden durch die Schockwelle (auf 18 HP) und erbricht sich.
+
 ## Verknüpfungen
 
 - [[Carbus]]
@@ -291,3 +305,4 @@ Unter dieser Annahme gilt für [[Session 26]]:
 - [[Druidenschrein (Cloud Fang)]]
 - [[Magda]]
 - [[Session 31]] · [[Session 31 transcript]]
+- [[Session 32]] · [[Session 32 transcript]]

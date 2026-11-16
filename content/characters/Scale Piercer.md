@@ -22,12 +22,18 @@ related:
   - Scale Piercer herausfordern
   - Legend Crafter
   - Fateweaver
+  - Session 32
+  - Alter Magier auf dem schwarzen Drachen
+  - Scale Piercers Drachenspeer
+  - Tabaxi-Puzzlebox
+  - Frieden mit den Tabaxi
 sources:
   - Session 29 transcript
   - Session 30 transcript
   - Session 31 transcript
+  - Session 32 transcript
 created: 2026-05-11
-updated: 2026-11-09
+updated: 2026-11-16
 status: developing
 ---
 # Scale Piercer
@@ -81,7 +87,21 @@ Usurpator-Oberhaupt („First Fang") von [[Sim]]s Heimatdorf [[Cloud Fang]] und 
 - Wie läuft das angekündigte Duell gegen „Plane Walking Eye" ab?
 - **Neu**: Hängt der spinnenbeinige Kreaturenangriff auf Cloud Fang (vor ca. einem halben Jahr) wirklich mit [[Magolor]] zusammen?
 
+## [[Session 32]] — Entlarvt, besiegt, begnadigt
+
+> [!success] Nicht mehr Oberhaupt
+> Scale Piercer hat das Duell gegen [[Sim]] verloren. Sim ist neues Oberhaupt von [[Cloud Fang]]. Scale Piercer lebt, wird **nicht verbannt** und bleibt in seinem Anwesen.
+
+- **Auftraggeber des Nachtüberfalls** (Geständnis eines Angreifers unter Suggestion): Er wollte die Gruppe **vergiften** lassen, damit Sim nicht antritt. Bei einer Konfrontation sollte die Gruppe beseitigt und Sims „Flucht" vorgetäuscht werden. Grund: Nach dem Unmut über Storm Holders Tod wollte er kein weiteres Duell gegen einen Simian. In der Arena bestreitet er alles.
+- **Duell:** wird entwaffnet, verfehlt dreimal mit der Obsidiankeule (sie zerbricht dabei) und wird mit seinem eigenen [[Scale Piercers Drachenspeer|Drachenspeer]] bewusstlos geschlagen. Bei ihm finden sich **intakte Glasphiolen** mit geruchloser Flüssigkeit, aber keine Kugel.
+- **Hintergrund enthüllt:** [[Storm Holder]] hat den elternlosen Scale Piercer mit großgezogen. Er tötete Storm Holder, *„weil das der einzige Weg gewesen ist, wie ich das Dorf habe umkrempeln können"*. Er fürchtet die [[Tabaxi]], die Spinnenviecher und etwas Drittes, das er nicht ausspricht.
+- **Drachen-Wahrheit (Bertas Detect Thoughts):** Er hat tatsächlich einen Drachen getötet, einen **schlafenden grünen**. Danach verfolgten ihn ein roter, ein blauer und ein schwarzer Drache mit dem [[Alter Magier auf dem schwarzen Drachen|alten Magier]] auf dem schwarzen. Wenige Wochen später kamen die [[Spinnenwesen]]. Er gibt sich selbst die Schuld. Bertas Urteil: „nicht böse, einfach nur ein Vollidiot".
+- Hält es zuerst für unmöglich, dass die Gruppe einen wachen Drachen getötet hat, und ist nach Bertas Drachenzahn (Persuasion, natürliche 20) überzeugt.
+- **Sims Urteil:** täglich zum Grab von Storm Holder gehen und sich entschuldigen. Insight: tiefe Reue und Dankbarkeit für die Gnade. Er bekommt seinen Speer zurück.
+- Die [[Tabaxi-Puzzlebox]] in seinem Anwesen war Beute von den Tabaxi. Er hört interessiert mit, als die Gruppe über die Bücher spricht.
+
 ## Verknüpfungen
 - [[Cloud Fang]] · [[Sim]] · [[Storm Holder]] · [[Olmea-Wald]] · [[Tabaxi]] · [[Session 29]] · [[Session 29 transcript]] · [[Magolor]]
 - [[Session 30]] · [[Session 30 transcript]]
 - [[Session 31]] · [[Session 31 transcript]]
+- [[Session 32]] · [[Session 32 transcript]]

@@ -9,12 +9,15 @@ related:
   - Session 31
   - Zeldris
   - Fateweaver
+  - Session 32
+  - Alter Magier auf dem schwarzen Drachen
 sources:
   - Session 28 transcript
   - Session 30 transcript
   - Session 31 transcript
+  - Session 32 transcript
 created: 2026-05-11
-updated: 2026-11-10
+updated: 2026-11-16
 status: developing
 ---
 # Berta
@@ -225,6 +228,16 @@ status: developing
 - Nutzt zum ersten Mal **Sending**: Nachricht an **[[Fohlen]]** („Hier ist Berta. Wir haben überlebt. Magolor ist tot. Wir sind im Olmea-Wald. Lagebericht.") — kommt an, keine Antwort. [[Magolor]] ist tatsächlich tot.
 - Hält die zweite Nachtwache, bemerkt die Eindringlinge aber nicht (passive Wahrnehmung 15 überboten); kämpft u. a. mit Sorcerous Burst und einem geschleuderten Stuhl.
 
+## [[Session 32]]
+
+- Hält Wache (nur Short Rest). Droht den Gefangenen telepathisch, Intimidation 23 im Verhör.
+- **Suggestion mit Heightened Spell** auf den Gelehrten: Er gesteht, dass [[Scale Piercer]] den Giftanschlag in Auftrag gab.
+- Zeigt Scale Piercer in der Arena kurz den [[Drachenzahn]] (keine Reaktion). Im Anwesen wirkt sie ein tiefes **Detect Thoughts**: Erinnerung an den getöteten grünen Drachen, die verfolgenden roten, blauen und schwarzen Drachen und den [[Alter Magier auf dem schwarzen Drachen|alten Magier auf dem schwarzen Drachen]]. Den blauen Drachen erkennt sie als den in [[Session 24]] getöteten. Mit Inspiration und einer natürlichen 20 bei Persuasion überzeugt sie Scale Piercer per Drachenzahn.
+- Erhält **endlich [[Fohlen]]s Antwort** auf ihr Sending: Ein Familiar mit Rückkehr-Schriftrolle ist unterwegs.
+- Legt **ihre lose Seite in das Buch der Schwellen**. Das Buch vervollständigt sich, die Schockwelle trifft alle mit 4d10 Force (Berta 30). Sie ist **noch nicht eingestimmt** → [[Drei Bücher]]. Zitat: *„Ich bin zum ersten Mal meine eigene Herrin."*
+- Fühlt sich in Hrímnirs Zone of Truth unwohl („fühlt sich nicht wohl, wenn sie nicht lügen kann").
+- Schlägt vor, erst die Echse und dann die Tabaxi anzugehen.
+
 ## Verknüpfungen
 
 - [[Cadnix]]
@@ -304,3 +317,4 @@ status: developing
 - [[Druidenschrein (Cloud Fang)]]
 - [[Khirin]]
 - [[Session 31]] · [[Session 31 transcript]]
+- [[Session 32]] · [[Session 32 transcript]]

@@ -14,11 +14,14 @@ related:
   - Olmea-Wald
   - Session 30
   - Session 31
+  - Session 32
+  - Weiße Echse aufspüren
 sources:
   - Session 30 transcript
   - Session 31 transcript
+  - Session 32 transcript
 created: 2026-10-19
-updated: 2026-11-09
+updated: 2026-11-16
 ---
 
 # Weiße Echse (Vision)
@@ -43,6 +46,11 @@ Nichts bekannt — die Kreatur/das Phänomen ist im Transkript nicht weiter erkl
 ## [[Session 31]]
 - Steht als „merkwürdiges Echsen-Ding finden" auf [[Berta]]s Zielliste. [[Naeli]] möchte der Spur folgen, die Gruppe priorisiert aber zunächst [[Cloud Fang]]. Keine neuen Informationen.
 
+## [[Session 32]]
+
+- Berta fragt, ob die Echse ein Drache sein könnte. Naeli: eher klein, „wie eine Echse eben", vielleicht mit Schuppen wie ein Drache. Die Vision war verschwommen.
+- Die Gruppe macht die Echse zum **nächsten Ziel** → [[Weiße Echse aufspüren]]. Sim verortet sie im **Nordosten**, das widerspricht dem Nordwesten aus [[Session 30]] und ist ungeklärt.
+
 ## Connections
 - [[Naeli]]
 - [[Nature's Guide]]
@@ -50,3 +58,4 @@ Nichts bekannt — die Kreatur/das Phänomen ist im Transkript nicht weiter erkl
 - [[Olmea-Wald]]
 - [[Session 30]]
 - [[Session 31]] · [[Session 31 transcript]]
+- [[Session 32]] · [[Session 32 transcript]]

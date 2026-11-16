@@ -17,13 +17,15 @@ related:
   - Jack
   - Edgar Thorne
   - Spymaster
+  - Session 32
 sources:
   - Session 12 transcript
   - Session 13
   - Session 14
   - Session 14 transcript
+  - Session 32 transcript
 created: 2026-05-12
-updated: 2026-06-01
+updated: 2026-11-16
 status: developing
 ---
 
@@ -54,3 +56,10 @@ Stadt, deren genaue Lage und Region bisher unbekannt sind. In [[Session 12]] von
 - Wer besitzt die zweite Kristallkugel — wurde sie entwendet? Wer schmiedet dort gerade (Hammerschläge)?
 - Hat [[Magolor]] eine Basis in Carbus, oder operiert er primär aus [[Lunovar]]?
 - Wie kommt die Gruppe von [[Lunovar]] dorthin (sie sind jetzt offen verfolgt)?
+
+## [[Session 32]]
+
+- [[Khirin]] scryt erneut mit seiner Kristallkugel und wählt die Gegenstelle, die er für näher hält (Richtung Gebirge/[[Kalineon]]). Er sieht diesmal **viele Zwerge mit Spitzhacken und schwerer Maschinerie**. Ob das die Zwergen-Kugel bei Carbus ist, wird nicht bestätigt.
+
+## Verknüpfungen
+- [[Session 32]] · [[Session 32 transcript]]

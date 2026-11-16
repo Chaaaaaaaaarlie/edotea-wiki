@@ -13,10 +13,14 @@ related:
   - Akronisjuwel
   - Gruft des Buches
   - Session 19
+  - Session 32
+  - Sim
+  - Drachenzahn
 sources:
   - Session 19 transcript
+  - Session 32 transcript
 created: 2026-06-29
-updated: 2026-06-29
+updated: 2026-11-16
 status: developing
 ---
 
@@ -35,5 +39,10 @@ Mehrere Barren aus einer **neuen Legierung**, die [[Lysanthiriel Vaelora|Lysandr
 - Kann es zu Waffen oder Rüstungen verarbeitet werden?
 - Sind die Barren vollständig oder Zwischenprodukte eines unvollendeten Experiments?
 
+## [[Session 32]]
+
+- [[Sim]] erinnert sich an das Metall „mit anderen Eigenschaften" aus der Grabkammer der [[Gruft des Buches]] und möchte es eventuell zusammen mit dem [[Drachenzahn]] in seinen Stab einarbeiten lassen. Wer die Barren trägt, weiß Sim nicht. Die Umsetzung erfolgt off-session.
+
 ## Verknüpfungen
 - [[Lysanthiriel Vaelora]] · [[Akronisjuwel]] · [[Gruft des Buches]] · [[Session 19]]
+- [[Session 32]] · [[Session 32 transcript]]

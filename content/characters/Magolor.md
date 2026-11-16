@@ -21,6 +21,8 @@ related:
   - Oestliche Garnison von Cadnix
   - Session 31
   - Spinnenwesen
+  - Session 32
+  - Alter Magier auf dem schwarzen Drachen
 sources:
   - Session 4
   - Session 5
@@ -32,8 +34,9 @@ sources:
   - Session 14 transcript
   - Session 25
   - Session 31 transcript
+  - Session 32 transcript
 created: 2026-05-11
-updated: 2026-11-10
+updated: 2026-11-16
 status: mature
 ---
 # Magolor
@@ -169,6 +172,12 @@ Verhört von der Gruppe, bestätigt seine Agentin **Evelyn** (siehe [[Elfaria Al
 - Ist Magolor in [[Session 25]] wirklich endgültig gestorben, oder taucht er (z. B. via Seelenmagie) noch einmal auf?
 - **Neu**: Hängt der Überfall spinnenbeiniger Kreaturen auf [[Cloud Fang]] ([[Session 30]]) wirklich mit ihm zusammen?
 
+## [[Session 32]]
+
+- Sim sucht bei [[Scale Piercer]] vergeblich nach einer Kugel, wie sie Magolors Leute bei sich hatten.
+- Die Gruppe stellt klar, dass der [[Alter Magier auf dem schwarzen Drachen|alte Magier auf dem schwarzen Drachen]], der laut Scale Piercer die Spinnenwesen nach Cloud Fang schickte, **nicht Magolor** ist. Die Kontrolle über die [[Spinnenwesen]] lag also nicht allein bei Magolor.
+- Auf Bertas Frage, wann sie Magolor getötet haben, antwortet der DM „ein bis zwei Wochen her" (Bezug unklar).
+
 ## Verknüpfungen
 - [[Anwesen]] · [[Elliot]] · [[Lysanthiriel Vaelora]] · [[Oestliche Garnison von Cadnix]] · [[Wilhelm Casterwill]] · [[Borgrim Runenbrecher]]
 - [[Drei Bücher]] · [[das Nichts]] · [[Risse]] · [[Tagebücher Wilhelm Casterwill]]
@@ -177,3 +186,4 @@ Verhört von der Gruppe, bestätigt seine Agentin **Evelyn** (siehe [[Elfaria Al
 - [[Cassomir]] · [[Lunovar]] · [[Kalineon]] · [[Kalineon-Royalisten]] · [[Drift-Zeppelin]] · [[Avernus]]
 - [[Cloud Fang]] · [[Scale Piercer]] · [[Session 30]]
 - [[Session 31]] · [[Session 31 transcript]]
+- [[Session 32]] · [[Session 32 transcript]]

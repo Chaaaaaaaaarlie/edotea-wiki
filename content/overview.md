@@ -2,7 +2,7 @@
 type: overview
 title: "Edotea — Willkommen"
 created: 2026-05-11
-updated: 2026-11-10
+updated: 2026-11-16
 tags:
   - overview
   - campaign
@@ -15,7 +15,7 @@ sources: []
 
 ## Einstieg
 
-- [[Session 31|Aktuelle Session: Session 31]]
+- [[Session 32|Aktuelle Session: Session 32]]
 - [[Kontinent Edotea]]
 - [[Kalineon]]
 - [[Lunovar]]
@@ -33,14 +33,15 @@ sources: []
 - [[Hrímnir]]
 - [[Naeli]]
 - [[Pyraschan]] — Paladin, Level 7, neu ab [[Session 26]]; **verlässt in [[Session 31]] die Gruppe**, um dem [[Goetterfunke|Götterfunken]] in [[Kalineon]] vom Teufel [[Zeldris]] zu berichten; in [[Session 27]] krank zurückgelassen, seit [[Session 28]] per DM-Retcon wieder bei der Gruppe
-- [[Sim]] — seit [[Session 29]] trägt er den verdienten Namen **„Plane Walking Eye"** (Sim bleibt gültiger Rufname); hat in [[Session 31]] [[Scale Piercer]] zum Duell gefordert
-- [[Khirin]] — seit [[Session 25]] ohne einen Arm und ein Bein; [[Session 26]]–[[Session 30]] nicht aktiv gespielt, **ab [[Session 31]] wieder gespielt** (`luke_234`), Armprothese in Auftrag; war die ganze Zeit separat als Stein versteinert mitgeführt und wurde in [[Session 30]] entsteinert (der von [[Magda]] getragene Patient war die ganze Zeit eine andere Person, siehe [[Khirin]])
+- [[Sim]] — seit [[Session 29]] trägt er den verdienten Namen **„Plane Walking Eye"** (Sim bleibt gültiger Rufname); hat in [[Session 31]] [[Scale Piercer]] zum Duell gefordert und **in [[Session 32]] gewonnen — neues Oberhaupt von [[Cloud Fang]]**
+- [[Khirin]] — seit [[Session 25]] ohne einen Arm und ein Bein; [[Session 26]]–[[Session 30]] nicht aktiv gespielt, **ab [[Session 31]] wieder gespielt** (`luke_234`), seit [[Session 32]] mit einfacher, angenagelter Hakenprothese (Nachteil bei zweihändigen Str-/Dex-Aufgaben); war die ganze Zeit separat als Stein versteinert mitgeführt und wurde in [[Session 30]] entsteinert (der von [[Magda]] getragene Patient war die ganze Zeit eine andere Person, siehe [[Khirin]])
 
 ## Wichtige NPC
 
 - [[Magda]] — Halbelfin aus dem Käfigwagen, begleitet die Gruppe ([[Session 27]]); trägt seit [[Session 28]] einen bewusstlosen Patienten, der laut [[Session 30]] bestätigt **nicht** Khirin ist
 - [[Fährmann des Styx]] — blinder Fährmann am [[Styx]] ([[Session 27]])
-- [[Scale Piercer]] *(ausgebaut Session 29, vertieft Session 30)* — Usurpator-Oberhaupt von [[Sim]]s Heimatdorf [[Cloud Fang]] (seit S30 bestätigt); tötete [[Storm Holder]] heimtückisch, zentraler neuer Antagonist
+- [[Scale Piercer]] *(ausgebaut Session 29, vertieft Session 30, besiegt Session 32)* — ehemaliger Usurpator von [[Cloud Fang]]; tötete [[Storm Holder]]; ließ die Gruppe vergiften; verlor das Duell gegen Sim und wurde begnadigt. Tötete einst einen grünen Drachen.
+- [[Alter Magier auf dem schwarzen Drachen]] *(neu, Session 32)* — grauhaariger Magier mit Kugel auf einem schwarzen Drachen, mit rotem und blauem Drachen (die Drachen von [[Lunovar]]); schickte laut Scale Piercer die [[Spinnenwesen]]
 - [[Storm Holder]] *(neu ausgebaut, Session 29)* — Sims Vater, ermordetes früheres Dorfoberhaupt
 - [[Zeldris]] *(neu, Session 31)* — Rebellen-Teufel aus [[Avernus]], war im [[Styx]] versiegelt und ist mit der Gruppe entkommen; sammelt Kraft durch Handel
 - [[Legend Crafter]] / [[Fateweaver]] *(neu, Session 31)* — Schmied und Schneiderin in [[Cloud Fang]]
@@ -62,10 +63,15 @@ sources: []
 
 ## Aktuelle Fäden
 
-- **Duell gegen Scale Piercer ([[Session 31]])**: Herausforderung angenommen — Duell am Mittag des folgenden Tages, siehe [[Scale Piercer herausfordern]]. In der Nacht davor überfallen bewaffnete Simianer die Gruppe in Sims Hütte (Auftraggeber unbekannt, Gefangene gemacht).
+- **Sim ist Oberhaupt von [[Cloud Fang]] ([[Session 32]])**: Duell gewonnen, Scale Piercer begnadigt. Abgeschlossen → [[Scale Piercer herausfordern]].
+- **Der Drachenreiter ([[Session 32]])**: [[Alter Magier auf dem schwarzen Drachen]] mit rotem und schwarzem Drachen (der blaue ist tot) gilt als Urheber der Spinnenangriffe auf Cloud Fang.
+- **Nächstes Ziel: [[Weiße Echse aufspüren]]**, danach [[Frieden mit den Tabaxi]] (Rückgabe der [[Tabaxi-Puzzlebox]]).
+- **Buch der Schwellen vervollständigt ([[Session 32]])**: Bertas Seite eingefügt, Schockwelle bis zum Horizont, Bertas Attunement steht aus → [[Drei Bücher]].
+- **Fohlen antwortet ([[Session 32]])**: Ein Familiar mit Rückkehr-Schriftrolle ist unterwegs.
+- **~~Duell gegen Scale Piercer~~ ([[Session 31]], entschieden in [[Session 32]])**: Herausforderung angenommen — Duell am Mittag des folgenden Tages, siehe [[Scale Piercer herausfordern]]. In der Nacht davor überfallen bewaffnete Simianer die Gruppe in Sims Hütte (Auftraggeber unbekannt, Gefangene gemacht).
 - **[[Zeldris]] ([[Session 31]])**: Der Cliffhanger am Druidenschrein war ein aus dem Styx entkommener Teufel, der „niederen Kreaturen" Handel anbietet und als Herrscher nach Avernus zurückkehren will. Davongeflogen.
-- **Der grauhaarige Magier mit der Kugel ([[Session 31]])**: erscheint in Scale Piercers Gedanken im Zusammenhang mit den Spinnenkreaturen — möglicher zweiter Kreaturen-Meister neben [[Magolor]].
-- **Lunovar-Tür zerstört ([[Session 31]])**: In [[Berthas Bohnen]] ist die Tür nach [[Lunovar]] nur noch Ruß; Bertas Sending an [[Fohlen]] blieb unbeantwortet.
+- **Der grauhaarige Magier mit der Kugel ([[Session 31]]; S32 → [[Alter Magier auf dem schwarzen Drachen]])**: erscheint in Scale Piercers Gedanken im Zusammenhang mit den Spinnenkreaturen — möglicher zweiter Kreaturen-Meister neben [[Magolor]].
+- **Lunovar-Tür zerstört ([[Session 31]])**: In [[Berthas Bohnen]] ist die Tür nach [[Lunovar]] nur noch Ruß; Bertas Sending an [[Fohlen]] blieb zunächst unbeantwortet (Antwort in [[Session 32]]).
 - **Scale Piercer herausfordern ([[Session 29]]–[[Session 30]])**: [[Sim]] (jetzt „Plane Walking Eye") will **[[Scale Piercer]]** für den heimtückischen Mord an seinem Vater [[Storm Holder]] zum Duell stellen und das Dorf **[[Cloud Fang]]** (seit S30 bestätigt) retten; die Gruppe unterstützt ihn. Verlieren bedeutet laut Stammeszeugen dauerhafte Verstümmelung und das Ende jeder weiteren Herausforderung. Duell-Ausgang offen.
 - **~~Cliffhanger am Druidenschrein~~ ([[Session 30]], aufgelöst in [[Session 31]] → [[Zeldris]])**: Direkt nach Nature's Guides Weggang beginnen die Runen des [[Druidenschrein (Cloud Fang)|Steinkreises]] von selbst zu leuchten, ein schwarzer Nebel manifestiert sich — völlig ungeklärt.
 - **Die weiße Echse / Energie-Drain im Nordwesten ([[Session 30]])**: Die Naturenergie der Region drainiert seit 3–4 Jahren in einen Konvergenzpunkt im Nordwesten; [[Naeli]]s Vision zeigt dort eine **[[Weiße Echse (Vision)|weiße Echse]]** — neues zentrales Mysterium, vermutlich verknüpft mit dem Zerbröckeln der fliegenden Inseln.
@@ -87,6 +93,7 @@ sources: []
 
 ## Letzte Sessions
 
+- [[Session 32]]
 - [[Session 31]]
 - [[Session 30]]
 - [[Session 29]]

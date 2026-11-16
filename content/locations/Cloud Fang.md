@@ -16,12 +16,16 @@ related:
   - Fateweaver
   - Scale Piercer herausfordern
   - Gnadenpfeile
+  - Session 32
+  - Frieden mit den Tabaxi
+  - Alter Magier auf dem schwarzen Drachen
 sources:
   - Session 29 transcript
   - Session 30 transcript
   - Session 31 transcript
+  - Session 32 transcript
 created: 2026-05-11
-updated: 2026-11-09
+updated: 2026-11-16
 status: developing
 ---
 # Cloud Fang
@@ -54,6 +58,15 @@ status: developing
 - **Glaube**: Kleine Gebetsstätten und Hausschreine für [[Wukong]], kein großer Tempel.
 - **Spinnenkreaturen-Angriff** (präzisiert): Einige Monate nach Scale Piercers Machtübernahme griffen **rote, spinnenartige Viecher** mit holz-/stahlharter Haut, vielen Beinen und vielen Augen an (vgl. [[Spinnenwesen]]).
 
+## [[Session 32]] — Machtwechsel
+
+- **Neues Oberhaupt: [[Sim]] („Plane Walking Eye")**, nach seinem Duellsieg über [[Scale Piercer]] von [[Nature's Guide]] ausgerufen. Etwa drei Viertel des Dorfes stimmen Sims Friedenskurs zu, ein Viertel schweigt.
+- **Arena (First Roar):** von unzähligen Kämpfen gezeichnet (Furchen, Pfeillöcher). Nur Duellanten dürfen auf den Kampfplatz, Zuschauer sitzen auf einer Tribüne. Das Duell gilt als **heilige Angelegenheit**. Laut Sim gab es in der Geschichte des Dorfes nur einen Tod in der Arena ([[Storm Holder]]). Gesetze verbieten Mord und Diebstahl, gegen Manipulation vor einem Duell gibt es keine Regel, weil so etwas nie vorkam.
+- Im Dorf hat sich das Duell herumgesprochen: Manche reagieren mit Misstrauen, andere mit Hoffnung. Es gibt Taschendiebe.
+- **Anwesen des Oberhaupts** (auf Stelzen): nach dem Duell unbewacht. Scale Piercer bleibt dort. Ein Säureloch von seinem Speer frisst sich in den Boden.
+- **Sims Hütte:** zwei Nachtangreifer liegen im Garten begraben (Steinturm). Bei der Schockwelle des Buchs der Schwellen fliegen alle Fenster heraus, der Schnee um die Hütte wird weggeblasen. Andere Häuser bleiben unbeschädigt.
+- Sim kündigt Frieden mit den [[Tabaxi]] an → [[Frieden mit den Tabaxi]].
+
 ## Verknüpfungen
 
 - [[Kontinent Edotea]]
@@ -67,3 +80,4 @@ status: developing
 - [[Druidenschrein (Cloud Fang)]]
 - [[Magolor]]
 - [[Session 31]] · [[Session 31 transcript]]
+- [[Session 32]] · [[Session 32 transcript]]

@@ -2,7 +2,7 @@
 type: meta
 title: "Wiki Log"
 created: 2026-05-11
-updated: 2026-11-10
+updated: 2026-11-16
 tags:
   - meta
 status: evergreen
@@ -11,6 +11,35 @@ status: evergreen
 # Wiki Log
 
 Append-only. New entries at the **TOP**. Never edit past entries.
+
+## [2026-11-16] ingest | Session 32 (gespielt 2026-11-16) aus WhisperX-Transkript
+
+- **Quelle**: `craig-CiqZ0lEdV2a3-R7j4f3RWl3kJAQ6_20261116_211657/corrected_obsidian.md` (WhisperX `large-v3`, cuda/float16, de, Word-Timestamps, keine Diarisierung, 47 Glossar-Korrekturen). Dauer: ~3h04min, 3455 Segmente, **6** Craig-Spuren.
+- **Sprecher-Mapping**: `_blestem_`=DM („Philipp"), `drore`=[[Berta]], `feeminin`=[[Naeli]], `hansmeier`=[[Hrímnir]], `mep0510`=[[Sim]], `luke_234`=[[Khirin]].
+- **Abweichungen vom Ingest-Auftrag**: `nightcore0302 = DM` ist veraltet (keine solche Spur, DM ist `_blestem_`). `vault_review.md` schlug fälschlich „Session 33" vor, korrekt ist **Session 32**.
+- **Rohdatei kopiert**: `.raw/session-transcripts/Session 32 - 16.11.2026.md` (unveränderte Kopie, per `cmp` geprüft).
+- **Backup vor dem Ingest**: `_backups/session32_ingest_20261116_212858/wiki/` (vollständige Kopie von `wiki/`).
+- **Neue Seiten**: [[Session 32]], [[Session 32 transcript]], [[Alter Magier auf dem schwarzen Drachen]], [[Tabaxi-Puzzlebox]], [[Ring des blutenden Magiers]], [[Ringe des hilfreichen Magiers]], [[Scale Piercers Drachenspeer]], [[Weiße Echse aufspüren]], [[Frieden mit den Tabaxi]].
+- **Aktualisierte Seiten**: [[Sim]], [[Berta]], [[Naeli]], [[Hrímnir]], [[Khirin]], [[Scale Piercer]], [[Legend Crafter]], [[Fateweaver]], [[Nature's Guide]], [[Fohlen]], [[Storm Holder]], [[Magolor]], [[Cloud Fang]], [[Olmea-Wald]], [[Lunovar]], [[Kalineon]], [[Carbus]], [[Gruft des Buches]], [[Drei Bücher]] (Buchträger-Tabelle: Buch der Schwellen jetzt bei Berta), [[Spinnenwesen]], [[Tabaxi]], [[Weiße Echse (Vision)]], [[Ork (Kreatur)]], [[Drift-Zeppelin]], [[Drachenzahn]], [[Gurde]], [[Blaue Metallbarren]], [[Grünes Erz (Avernus)]], [[Scale Piercer herausfordern]] (→ completed), `wiki/index.md`, `wiki/overview.md`, alle Domain-`_index.md` (characters, locations, factions, lore, items, quests, sessions, sources), [[hot|Hot Cache]].
+- **Geprüft, nicht geändert** (Treffer der Vorab-Suche ohne Session-Bezug, meist Stichwort-Fehltreffer): Edgar Thorne, Elfaria, Jack, Magda, Magilanikas Maven, Sophie Marie, Spymaster, Twilight (Pony), Virion Loramis, Zwergenmeister Schmiedemeisterei, Pyraschan, Kalineon-Royalisten, Aalafiels Trank, Akronisjuwel, Bastardschwert aus Avernus, Bogen +2, Cloak of Many Fashions, Demon Core, Dis-Enchanter, Goldene Drachenschuppe, Krone des Hohen Rates, Lady Günthers Flasche, Lysandriels Ring, Magischer Schluessel, Spell-Slot-Anhänger, Staff of Charming/Fire/Warning, Wappen des alten Kalineon, Gnadenpfeile, Anwesen (Casterwill, nicht Scale Piercers Anwesen), Berthas Bohnen, Druidenschrein, Eiswueste-Vulkan-Riss, Erliorwald, Isolationsraum, Kalden, Magilanikas Zauberladen, Schmiedemeisterei Lunovar, alle Götter-/Ebenen-Lore-Seiten, die übrigen Bestiarium-Seiten, das Nichts, gesetzlose Stadt, Risse.
+- **Schlüssel-Erkenntnisse**:
+  - **Nachtüberfall aufgeklärt**: Unter Bertas Suggestion gesteht ein Gelehrter in blauer Robe, dass [[Scale Piercer]] die Gruppe **vergiften** lassen wollte. Fünf Angreifer, zwei tot (von Sim begraben), drei leben.
+  - **Khirin** hat eine angenagelte Hakenprothese von [[Legend Crafter]] (Nachteil bei zweihändigen Str-/Dex-Aufgaben).
+  - **Sim gewinnt das Duell** und wird von [[Nature's Guide]] zum **Oberhaupt von [[Cloud Fang]]** ausgerufen. Scale Piercer wird begnadigt (tägliche Buße am Grab von [[Storm Holder]]) und behält seinen Speer.
+  - **Drachen-Enthüllung**: Scale Piercer tötete einen schlafenden **grünen Drachen**. Ihn verfolgten ein roter, ein blauer und ein schwarzer Drache mit dem [[Alter Magier auf dem schwarzen Drachen|alten Magier]]. Danach kamen die [[Spinnenwesen]]. Der DM bestätigt: Die Drachen über [[Lunovar]] waren blau und rot, der blaue ist der von der Gruppe getötete.
+  - **[[Tabaxi-Puzzlebox]]** mit [[Ring des blutenden Magiers]] und [[Ringe des hilfreichen Magiers]]. Rückgabe an die Tabaxi geplant.
+  - **[[Fohlen]] antwortet**: Ein Familiar mit Rückkehr-Schriftrolle ist unterwegs.
+  - **Buch der Schwellen vervollständigt**: Bertas Seite eingefügt, Schockwelle 4d10 Force, Lichtwelle bis zum Horizont. Bertas Attunement steht aus.
+  - Khirins Kristallkugel zeigt viele Zwerge mit schwerer Maschinerie.
+  - Pläne: erst [[Weiße Echse aufspüren]], dann [[Frieden mit den Tabaxi]]. Sim will den [[Drachenzahn]] in seinen Stab einbauen lassen.
+- **Offene Unsicherheiten dieses Ingests**:
+  - Richtung der weißen Echse: Sim sagt Nordosten, Vault seit [[Session 30]] Nordwesten. Nordwesten bleibt stehen.
+  - „Ein bis zwei Wochen": unklar, ob es sich auf den letzten Spinnenangriff oder auf Magolors Tod bezieht. Teilweise im Widerspruch zu „vor rund einem halben Jahr" ([[Session 30]]).
+  - Speermaterial „Szenen des Drachen" (vermutlich Schuppen). „Vier Tage" als vier Charges gelesen.
+  - Khirins Exhaustion vermutlich 2. Eröffner des Duells vermutlich Nature's Guide.
+  - Träger der Puzzlebox nicht genannt (vermutlich Naeli). Dass Berta das Buch der Schwellen jetzt trägt, ist aus dem Kontext erschlossen.
+  - Die Gurde wird im Duell benutzt. Ihre Rückgabe durch [[Virion Loramis]] ist im Vault nicht dokumentiert.
+  - Welche Kristallkugel-Gegenstelle die Zwerge zeigt, bleibt offen.
 
 ## [2026-11-10] fix | Session 31 — DM-bestätigte Korrekturen
 

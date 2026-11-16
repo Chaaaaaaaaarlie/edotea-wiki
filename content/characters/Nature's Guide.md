@@ -18,11 +18,14 @@ related:
   - Session 30
   - Session 31
   - Zeldris
+  - Session 32
+  - Scale Piercer
 sources:
   - Session 30 transcript
   - Session 31 transcript
+  - Session 32 transcript
 created: 2026-10-19
-updated: 2026-11-10
+updated: 2026-11-16
 status: developing
 ---
 
@@ -76,7 +79,12 @@ Kaum bekannt. Named-Status ist unter Simianern selten und muss verdient werden (
 - Was weiß er über den abgebrochenen Kindheits-Spitznamen Sims?
 - Hat sein Weggang etwas mit dem Cliffhanger (leuchtende Runen, schwarzer Nebel) zu tun?
 
+## [[Session 32]]
+
+- Erklärt im Duell um die Führung von [[Cloud Fang]] **„Plane Walking Eye" ([[Sim]]) zum Sieger und neuen Oberhaupt**, stampft mit seinem Stab auf und lässt Lichter aufsteigen. Vermutlich ist er auch der „älteste Simian des Dorfes", der den „heiligen Kampf" eröffnet (im Transkript nicht namentlich).
+
 ## Verknüpfungen
 - [[Sim]] · [[Cloud Fang]] · [[Druidenschrein (Cloud Fang)]] · [[Khirin]] · [[Naeli]] · [[Berta]] · [[Hrímnir]] · [[Pyraschan]]
 - [[Weiße Echse (Vision)]] · [[Session 30]] · [[Session 30 transcript]]
 - [[Session 31]] · [[Session 31 transcript]]
+- [[Session 32]] · [[Session 32 transcript]]

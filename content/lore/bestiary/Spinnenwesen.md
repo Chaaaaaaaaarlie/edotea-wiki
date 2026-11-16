@@ -9,15 +9,19 @@ tags:
   - lore
   - bestiarium
 created: 2026-06-09
-updated: 2026-11-09
+updated: 2026-11-16
 status: developing
 NoteIcon: npc
 related:
   - Session 31
   - Cloud Fang
   - Scale Piercer
+  - Session 32
+  - Alter Magier auf dem schwarzen Drachen
 sources:
   - Session 31 transcript
+  - Session 32 transcript
+
 ---
 
 # Spinnenwesen
@@ -58,6 +62,12 @@ Eine tote, **knallrote** Kreatur, die die Gruppe in [[Session 16]] in der **verb
 - Ist das [[Session 24]]/[[Session 25]]-Exemplar dieselbe Art Konstrukt wie in [[Session 16]], oder eine eigenständige, von Magolor mitgebrachte Kreatur?
 - Was ist sein Ausgang in [[Session 25]] — getötet oder entkommen?
 
+## [[Session 32]] — Spur zum Drachenreiter
+
+- Laut [[Scale Piercer]] (Bertas Detect Thoughts) kamen die Spinnenviecher **wenige Wochen** nachdem er einen grünen Drachen getötet hatte und vor einem roten, blauen und schwarzen Drachen samt dem [[Alter Magier auf dem schwarzen Drachen|alten Magier auf dem schwarzen Drachen]] geflohen war. Er ist sicher, dass der alte Mann sie geschickt hat und dass sie **wiederkommen**.
+- Den letzten Angriff datiert er auf etwa ein bis zwei Wochen nach Sims Weggang aus dem Dorf (Zeitangaben unsicher).
+- Scale Piercer: „gegen eine Flut von Unendlichen … sind wir machtlos." Sim hält dagegen: Man kann sie töten, und ihren Meister ([[Magolor]]) hat die Gruppe getötet.
+
 ## Verknüpfungen
 - [[Erliorwald]]
 - [[Borgrim Runenbrecher]]
@@ -67,3 +77,4 @@ Eine tote, **knallrote** Kreatur, die die Gruppe in [[Session 16]] in der **verb
 - [[Session 24]]
 - [[Session 25]]
 - [[Session 31]] · [[Session 31 transcript]]
+- [[Session 32]] · [[Session 32 transcript]]

@@ -15,11 +15,13 @@ related:
   - das Nichts
   - Berta
   - Session 31
+  - Session 32
 sources:
   - Session 12 transcript
   - Session 31 transcript
+  - Session 32 transcript
 created: 2026-05-12
-updated: 2026-11-10
+updated: 2026-11-16
 status: developing
 ---
 
@@ -135,5 +137,10 @@ Nobel auftretender Elf, freundlich-verspielt-warm, lacht leicht. Gibt offen zu, 
 - Wer hat die Leichen ausgezogen und in die Wanne gelegt? Fohlen, oder ein anderer Mitwisser?
 - Wie stabil ist der neue Teleportationszirkel, und wie lange kann die Barriere noch gehalten werden?
 
+## [[Session 32]] — Antwort auf das Sending
+
+- **Antwortet endlich** auf [[Berta]]s Sending. Er ist überglücklich, von der Gruppe zu hören, und will ihnen einen **Familiar mit einer Schriftrolle** schicken, mit der sie zurückkehren können (vermutlich nach [[Lunovar]]). Mit seinem Familiar kommen auch die Familiars der Gruppe mit. Was mit der zerstörten Lunovar-Tür in Berthas Bohnen passiert ist, sagt die Nachricht nicht (zumindest nicht im Transkript).
+
 ## Verknüpfungen
 - [[Session 31]] · [[Session 31 transcript]]
+- [[Session 32]] · [[Session 32 transcript]]

@@ -2,7 +2,7 @@
 type: meta
 title: "Hot Cache"
 created: 2026-05-11
-updated: 2026-11-10
+updated: 2026-11-16
 tags:
   - meta
 status: evergreen
@@ -11,42 +11,44 @@ status: evergreen
 # Recent Context
 
 ## Last Updated
-2026-11-10 — **Session 31** korrigiert (DM-Bestätigungen: Name Zeldris, Prothesenschwert, Nachtkampf, Pyraschans Ziel, Magolors Tod). Session 31 (gespielt 2026-11-09): Der schwarze Nebel am [[Druidenschrein (Cloud Fang)|Druidenschrein]] formt sich zum Teufel **[[Zeldris]]** („hoher Dämon"). Er war jahrzehntelang im [[Styx]] versiegelt, weil er gegen die Herrscher von [[Avernus]] rebelliert hatte, und ist mit der Gruppe entkommen. Er will durch Handel Kraft sammeln, wird abgewiesen und fliegt davon. **[[Pyraschan]] verlässt die Gruppe**, um dem [[Goetterfunke|Götterfunken]] in [[Kalineon]] Bericht zu erstatten; `luke_234` spielt wieder **[[Khirin]]**. In **[[Cloud Fang]]** wird [[Sim]]s verlassene Elternhütte zur Basis (dort: [[Gnadenpfeile]] und Elementarpfeile). [[Berta]] entdeckt, dass ihre Tür nach [[Lunovar]] in [[Berthas Bohnen]] **zerstört** ist. Sim fordert **[[Scale Piercer]]** heraus: **Duell am nächsten Mittag**. Bertas Detect Thoughts zeigt in Scale Piercers Gedanken einen **unbekannten grauhaarigen Magier mit Kugel**, verknüpft mit den Spinnenkreaturen. Schmied [[Legend Crafter]] baut Khirin eine einfache Prothese aus dem blitzgeschädigten Schwert aus [[Lunovar]] ([[Session 13]]), Schneiderin [[Fateweaver]] näht Berta einen neuen Hexenhut. Berta schickt ein erstes Sending an [[Fohlen]] (keine Antwort) und meldet [[Magolor]]s Tod — Magolor ist tot. Nachts überfallen bewaffnete Simianer die Hütte; die Gruppe zerlegt sie in einem einseitigen Kampf und fesselt Gefangene.
+2026-11-16: **[[Session 32]]** ingestiert (gespielt 2026-11-16). Das Verhör der Nachtangreifer zeigt: **[[Scale Piercer]] wollte die Gruppe vergiften lassen.** [[Sim]] begräbt die zwei toten Angreifer. [[Legend Crafter]] nagelt [[Khirin]] eine einfache Hakenprothese an. **Sim gewinnt das Duell** (entwaffnet Scale Piercer, schlägt ihn mit dessen eigenem Drachenspeer K.O.) und wird von [[Nature's Guide]] zum **Oberhaupt von [[Cloud Fang]]** ausgerufen. Scale Piercer wird begnadigt. Bertas Detect Thoughts zeigt: Er tötete einst einen schlafenden **grünen Drachen** und wurde dann von einem roten, einem blauen und einem schwarzen Drache verfolgt. Auf dem schwarzen ritt der **[[Alter Magier auf dem schwarzen Drachen|alte Magier]]**, der laut Scale Piercer die [[Spinnenwesen]] schickte. Der blaue war der Drache, den die Gruppe bei [[Lunovar]] getötet hat. Im Anwesen liegt eine **[[Tabaxi-Puzzlebox]]** mit drei magischen Ringen. [[Fohlen]] antwortet endlich. [[Berta]] fügt ihre Seite ins **Buch der Schwellen** ein. Die Schockwelle (4d10 Force für alle) drückt die Fenster von Sims Hütte heraus, eine Lichtwelle zieht bis zum Horizont.
 
-*(Davor: 2026-11-09 — Session 31 Ingest; 2026-10-19 — Session 30.)*
+*(Davor: 2026-11-10, Korrektur Session 31; 2026-11-09, Session 31.)*
 
 ## Campaign Snapshot
-Aktive PCs: [[Berta]], [[Hrímnir]], [[Naeli]] (wächst, Kleidung platzt; Visionen von Schnee/Stille), [[Sim]] („Plane Walking Eye"), [[Khirin]] (wieder gespielt, 3 Level Exhaustion, halber Oberarm). [[Pyraschan]] ist nach [[Kalineon]] abgereist. NPC-Begleiter: [[Magda]] mit dem bewusstlosen Patienten (bleiben in Sims Hütte). Ort: Sims Hütte in [[Cloud Fang]], Nacht vor dem Duell, Schnee.
+Aktive PCs (Level 8): [[Berta]], [[Hrímnir]], [[Naeli]] (wächst weiter, Kleidung mit Lederflicken erweitert), [[Sim]] („Plane Walking Eye", **neues Oberhaupt von Cloud Fang**), [[Khirin]] (Hakenprothese, Exhaustion vermutlich 2). [[Pyraschan]] ist in [[Kalineon]]. [[Magda]] und der Patient sind ohne neue Entwicklung. Ort: Sims Hütte in [[Cloud Fang]] (Fenster zerstört), Nachmittag nach dem Duell, alle angeschlagen.
 
 ## Aktive Fäden
-1. **Duell Sim vs. Scale Piercer** am Mittag, Treffpunkt Anwesen des Oberhaupts → [[Scale Piercer herausfordern]]. Prothese und Duell fallen zeitlich zusammen.
-2. **Nächtliche Angreifer**: Gefangene verhören; Auftraggeber unbekannt (Scale Piercer nicht bestätigt).
-3. **Grauhaariger Magier mit Kugel**: möglicher Kontrolleur der [[Spinnenwesen]] neben dem toten [[Magolor]].
-4. **[[Zeldris]]** frei in dieser Ebene.
-5. **Bücher**: Im Buch der Seelen fehlen 1–2 heraustrennbare Seiten. Berta will sich nach dem Duell auf das Buch der Schwellen (trägt [[Naeli]]) attunen → [[Drei Bücher]].
-6. **Lunovar-Tür zerstört**: Lage in Lunovar unbekannt, Fohlen schweigt.
-7. Bertas Liste: [[Verhängnisturm]], [[Weiße Echse (Vision)|weiße Echse]], Hrímnirs Gesuchte (er sei „auf einer guten Spur"), Naelis Geheimnis, [[Risse]], [[das Nichts]].
+1. **[[Weiße Echse aufspüren]]**: nächstes Ziel, auf Naelis Drängen. Richtung unklar (Sim: Nordosten, bisher Nordwesten).
+2. **[[Frieden mit den Tabaxi]]**: danach. Sim will es persönlich regeln. Die Puzzlebox soll zurückgegeben werden.
+3. **[[Alter Magier auf dem schwarzen Drachen]]**: Name unbekannt. Roter und schwarzer Drache leben noch. Die Spinnenwesen kommen laut Scale Piercer wieder.
+4. **Buch der Schwellen** jetzt vollständig und bei Berta, das Attunement steht aus → [[Drei Bücher]]. Wer hat die Lichtwelle gesehen?
+5. **Fohlens Familiar** mit Rückkehr-Schriftrolle ist unterwegs, die Familiars der Gruppe kommen mit. Lage in Lunovar unklar.
+6. **Zwerge** mit schwerer Maschinerie in Khirins Kristallkugel.
+7. **Waffen-Upgrade**: [[Drachenzahn]] (eventuell mit [[Blaue Metallbarren]]) in Sims Stab, off-session.
+8. Weiter offen: [[Zeldris]], [[Verhängnisturm]], Hrímnirs Gesuchte, Naelis Geheimnis, [[Risse]], [[das Nichts]].
 
 ## Key Facts
-- Cloud Fang: „First Fang" ist der **Titel** des Oberhaupts, die Arena heißt **First Roar**. Nur ~1 von 20 Simianern trägt einen Namen. Erz ist rar, die Waffen sind Obsidian-Holzkeulen nach Scale Piercers Reise-Entwurf. Es gibt kein Bier, nur Reiswein.
-- Scale Piercer: Lanze mit Spitze aus Drachenmaterial, gute Lederrüstung, Obsidian-Keule.
-- Khirins Arcana-Deutung „Unsichtbarkeitsrobe" war ein **Fehlwurf** und ist kein Fakt.
+- Scale Piercer wurde von [[Storm Holder]] mit großgezogen. Er tötete ihn, „um das Dorf umzukrempeln", aus Angst vor Tabaxi, Spinnen und „etwas Drittem". Jetzt tägliche Buße am Grab.
+- [[Scale Piercers Drachenspeer]] stammt von Legend Crafter, aus Material des grünen Drachen. Die Spitze zersetzt Holz. Sim gab ihn zurück.
+- [[Ring des blutenden Magiers]]: 1d12 Schaden pro Slot-Stufe statt Spell Slot, Runen „… und Sterblichkeit ist Macht". [[Ringe des hilfreichen Magiers]]: Spell Slots teilen.
+- Nur Naeli und Hrímnir können die Puzzlebox öffnen (44–45 Schritte).
+- In Cloud Fang ist das Duell heilig. Laut Sim gab es nur einen Arena-Tod (Storm Holder).
 
-## Loot / Besitzstatus (Stand Session 31)
-- Sim: 10 Gnadenpfeile, 3 Elementarpfeile (Blitz/Säure/Feuer).
-- Berta: neuer Hexenhut.
-- Khirin: Prothese in Auftrag (30 Gold bezahlt); das blitzgeschädigte Schwert (–1, Altmetall) aus [[Session 13]] als Metall abgegeben.
-- [[Bastardschwert aus Avernus]] (+2) weiter bei der Gruppe.
-- Grünes Erz (Batorianischer Stahl) weiter bei der Gruppe.
+## Loot / Besitzstatus (Stand Session 32)
+- Gruppe: Tabaxi-Puzzlebox mit 3 Ringen (vermutlich bei Naeli). Glasphiolen mit unbekannter Flüssigkeit (Gift?).
+- Berta: Buch der Schwellen (vollständig), Drachenzahn.
+- Naeli: +6 Gold Wettgewinn. Hrímnir: weiße Seidenfahne (100 Gold).
+- Khirin: Hakenprothese, Schmerzpulver, Taschentuch.
+- Weiter bei der Gruppe: [[Bastardschwert aus Avernus]], [[Grünes Erz (Avernus)]], [[Gnadenpfeile]].
 
 ## Recent Changes
-- 2026-11-10 (Korrektur): [[Session 31]] nach DM-Bestätigung bereinigt — [[Zeldris]], Prothesenschwert, Nachtkampf, Pyraschan → Kalineon, Magolor tot.
-- 2026-11-09 (Ingest): [[Session 31]]. Zeldris, Pyraschan geht, Cloud Fang, Herausforderung, Legend Crafter/Fateweaver, Nachtüberfall.
-- 2026-10-19 (Ingest): [[Session 30]]. Cloud Fang bestätigt, Khirin entsteinert, Flüche entfernt.
-- 2026-10-12 (Ingest): [[Session 29]]. Tabaxi, Olmea-Wald, Sims Vorgeschichte.
+- 2026-11-16 (Ingest): [[Session 32]] — Duell gewonnen, Drachenreiter, Puzzlebox, Buch-Schockwelle. Neue Quests [[Weiße Echse aufspüren]] und [[Frieden mit den Tabaxi]]. [[Scale Piercer herausfordern]] ist abgeschlossen.
+- 2026-11-10 (Korrektur): [[Session 31]] bereinigt (Zeldris, Prothesenschwert, Magolor tot).
+- 2026-11-09 (Ingest): [[Session 31]].
 
 ## Open Loops
-- Gewinnt Sim das Duell, und hält sich Scale Piercer an die Regeln?
-- Wer ist der Magier mit der Kugel?
-- Wer schickte die Angreifer?
-- Wo ist [[Zeldris]], und mit wem schließt er Handel?
+- Ist die weiße Echse ein Drache, und hängt sie mit dem Drachenreiter zusammen?
+- Wer hat die Ringe gefertigt?
+- Was tut das stille Viertel von Cloud Fang unter Sims Führung?
+- Was wollte Scale Piercer als „drittes" Übel nennen?

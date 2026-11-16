@@ -11,7 +11,7 @@ tags:
   - lore
   - bestiarium
 created: 2026-09-02
-updated: 2026-09-15
+updated: 2026-11-16
 status: developing
 NoteIcon: npc
 ---
@@ -59,5 +59,10 @@ Der Rest der Leiche verrottet in der Lava. [[Sim]] bekommt sein Seil und den Ent
 - **Was war der säure- und nekrotisch-immune Knoten** im Zentrum des Auges? Er wurde ungeprüft in die Lava geworfen. [[Sim]] merkte an, das Zischen habe geklungen wie damals, als die Gruppe „die Brosche" in Lava warf.
 - Warum wurde die Kreatur mit durch den Riss gezogen — Zufall, Nähe oder Verbindung zu den Büchern?
 
+## [[Session 32]]
+
+- Der blaue Drache, aus dessen Leiche der Drift-Zeppelin entstand, gehörte laut [[Scale Piercer]]s Erinnerung (Bertas Detect Thoughts, vom DM bestätigt) zum Gefolge des [[Alter Magier auf dem schwarzen Drachen|alten Magiers auf dem schwarzen Drachen]].
+
 ## Verknüpfungen
 - [[Magolor]] · [[Drei Bücher]] · [[Spinnenwesen]] · [[Avernus]] · [[Session 24]] · [[Session 25]] · [[Session 26]]
+- [[Session 32]] · [[Session 32 transcript]]

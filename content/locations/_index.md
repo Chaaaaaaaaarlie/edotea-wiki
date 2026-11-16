@@ -2,7 +2,7 @@
 type: meta
 title: "Locations Index"
 created: 2026-05-11
-updated: 2026-11-10
+updated: 2026-11-16
 tags:
   - meta
   - locations
@@ -12,7 +12,7 @@ status: evergreen
 # Orte (37)
 
 ## Kontinent
-- [[Cloud Fang]] *(Session 31: Ankunft im Dorf; Sims Hütte, Anwesen des Oberhaupts, Schmiede/Schneiderei; nächtlicher Überfall)* *(Session 30: bestätigt [[Sim]]s Heimatdorf — Sim korrigiert sich live „Cloudfang, nicht Firstfang"; Druidenschrein auf dem Bergpfad)*
+- [[Cloud Fang]] *(Session 32: Sim gewinnt das Duell in der Arena First Roar und wird Oberhaupt; Schockwelle an Sims Hütte)* *(Session 31: Ankunft im Dorf; Sims Hütte, Anwesen des Oberhaupts, Schmiede/Schneiderei; nächtlicher Überfall)* *(Session 30: bestätigt [[Sim]]s Heimatdorf — Sim korrigiert sich live „Cloudfang, nicht Firstfang"; Druidenschrein auf dem Bergpfad)*
 - [[Erliorwald]]
 - [[Kontinent Edotea]] — Wurzel
 - [[Nebelwald]]

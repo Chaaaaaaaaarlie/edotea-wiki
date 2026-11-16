@@ -22,12 +22,17 @@ related:
   - Cloud Fang
   - Sim
   - Weiße Echse (Vision)
+  - Session 32
+  - Alter Magier auf dem schwarzen Drachen
+  - Weiße Echse aufspüren
+  - Frieden mit den Tabaxi
 sources:
   - Session 28 transcript
   - Session 29 transcript
   - Session 30 transcript
+  - Session 32 transcript
 created: 2026-09-28
-updated: 2026-10-19
+updated: 2026-11-16
 status: developing
 ---
 
@@ -88,8 +93,15 @@ Laut einem Tabaxi-Gefangenen ([[Session 29]]) liegen Teile des Olmea-Walds histo
 - **Neu ([[Session 30]])**: Wie schreiben sich die Orte „Hamas"/„Amas" und „Carabas"/„Carabus"/„Kabus" korrekt?
 - **Neu ([[Session 30]])**: Was verursacht das plötzliche Leuchten der Runen und den schwarzen Nebel am Druidenschrein?
 
+## [[Session 32]]
+
+- [[Scale Piercer]] will „den Wald absolut im Griff haben", um gegen die [[Tabaxi]], die [[Spinnenwesen]] und die Ungetüme des [[Alter Magier auf dem schwarzen Drachen|Drachenreiters]] zu bestehen. Der alte Magier wurde während des Spinnenangriffs im Wald gesichtet, danach nie wieder.
+- Laut [[Sim]] ziehen gelegentlich [[Ork (Kreatur)|Orks]] durch den Wald, einige wirken Magie.
+- Die Gruppe plant, die [[Weiße Echse aufspüren|weiße Echse]] aufzusuchen (Sim: Nordosten, bisher Nordwesten) und danach die Tabaxi im Nordwesten.
+
 ## Verknüpfungen
 - [[Session 28]] · [[Session 28 transcript]] · [[Session 29]] · [[Session 29 transcript]] · [[Session 30]] · [[Session 30 transcript]] · [[Session 27]] · [[Styx]] · [[Avernus]]
 - [[Berta]] · [[Hrímnir]] · [[Naeli]] · [[Sim]] · [[Pyraschan]] · [[Magda]] · [[Khirin]]
 - [[Ork (Kreatur)]] · [[Dire Wolf]] · [[Tabaxi]] · [[Riesenvögel (Olmea-Wald)]]
 - [[Cloud Fang]] · [[Scale Piercer]] · [[Storm Holder]] · [[Druidenschrein (Cloud Fang)]] · [[Nature's Guide]] · [[Weiße Echse (Vision)]]
+- [[Session 32]] · [[Session 32 transcript]]
