@@ -9,7 +9,7 @@ tags:
   - lore
   - bestiarium
 created: 2026-06-09
-updated: 2026-11-16
+updated: 2026-11-23
 status: developing
 NoteIcon: npc
 related:
@@ -18,9 +18,11 @@ related:
   - Scale Piercer
   - Session 32
   - Alter Magier auf dem schwarzen Drachen
+  - Session 33
 sources:
   - Session 31 transcript
   - Session 32 transcript
+  - Session 33 transcript
 
 ---
 
@@ -68,6 +70,10 @@ Eine tote, **knallrote** Kreatur, die die Gruppe in [[Session 16]] in der **verb
 - Den letzten Angriff datiert er auf etwa ein bis zwei Wochen nach Sims Weggang aus dem Dorf (Zeitangaben unsicher).
 - Scale Piercer: „gegen eine Flut von Unendlichen … sind wir machtlos." Sim hält dagegen: Man kann sie töten, und ihren Meister ([[Magolor]]) hat die Gruppe getötet.
 
+## [[Session 33]]
+
+- [[Nature's Guide]] fürchtet ihre Rückkehr, wenn Sim fort ist. Sim will den Kriegern von [[Cloud Fang]] alles erzählen, was er darüber weiß, wie man die Wesen vernichtet.
+
 ## Verknüpfungen
 - [[Erliorwald]]
 - [[Borgrim Runenbrecher]]
@@ -78,3 +84,4 @@ Eine tote, **knallrote** Kreatur, die die Gruppe in [[Session 16]] in der **verb
 - [[Session 25]]
 - [[Session 31]] · [[Session 31 transcript]]
 - [[Session 32]] · [[Session 32 transcript]]
+- [[Session 33]] · [[Session 33 transcript]]

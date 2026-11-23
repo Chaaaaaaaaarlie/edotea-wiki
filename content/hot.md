@@ -2,7 +2,7 @@
 type: meta
 title: "Hot Cache"
 created: 2026-05-11
-updated: 2026-11-16
+updated: 2026-11-23
 tags:
   - meta
 status: evergreen
@@ -11,44 +11,41 @@ status: evergreen
 # Recent Context
 
 ## Last Updated
-2026-11-16: **[[Session 32]]** ingestiert (gespielt 2026-11-16). Das Verhör der Nachtangreifer zeigt: **[[Scale Piercer]] wollte die Gruppe vergiften lassen.** [[Sim]] begräbt die zwei toten Angreifer. [[Legend Crafter]] nagelt [[Khirin]] eine einfache Hakenprothese an. **Sim gewinnt das Duell** (entwaffnet Scale Piercer, schlägt ihn mit dessen eigenem Drachenspeer K.O.) und wird von [[Nature's Guide]] zum **Oberhaupt von [[Cloud Fang]]** ausgerufen. Scale Piercer wird begnadigt. Bertas Detect Thoughts zeigt: Er tötete einst einen schlafenden **grünen Drachen** und wurde dann von einem roten, einem blauen und einem schwarzen Drache verfolgt. Auf dem schwarzen ritt der **[[Alter Magier auf dem schwarzen Drachen|alte Magier]]**, der laut Scale Piercer die [[Spinnenwesen]] schickte. Der blaue war der Drache, den die Gruppe bei [[Lunovar]] getötet hat. Im Anwesen liegt eine **[[Tabaxi-Puzzlebox]]** mit drei magischen Ringen. [[Fohlen]] antwortet endlich. [[Berta]] fügt ihre Seite ins **Buch der Schwellen** ein. Die Schockwelle (4d10 Force für alle) drückt die Fenster von Sims Hütte heraus, eine Lichtwelle zieht bis zum Horizont.
+2026-11-23: **[[Session 33]]** ingestiert (gespielt 2026-11-23). [[Sim]] setzt **[[Nature's Guide]] als stellvertretendes Oberhaupt** von [[Cloud Fang]] ein und bekommt einen **[[Runenstein von Nature's Guide|Runenstein]]**, über den ihn dessen Familiars finden. Er kündigt öffentlich einen **Waffenstillstand mit den [[Tabaxi]]** an. Stab, [[Drachenzahn]] und Metall liegen beim Schmied: Daraus wird ein Quarterstaff mit Zahn-Ende. **[[Berta]] ist auf das Buch der Schwellen eingestimmt** und liest Theorie zu Magolors Zaubern, einen Weg zum Schließen von Rissen findet sie nicht. **[[Naeli]] ist etwa 26 cm gewachsen**, blasser und hat schuppige Hautstellen. Am Morgen Aufbruch nach **Nordwesten** (damit geklärt), Naeli auf Lady Günther. Zwei **[[Eulen-Harpyie|Eulen-Harpyien]]** greifen an: eine tot, eine geflohen. An einer Furt lässt die Gruppe friedliche Pflanzenwesen hinter sich. Naelis innerer Ruf führt zum **[[Verborgener Blütenbaum|verborgenen Blütenbaum]]**: Laut Identify ist er **eine Tür, die sich öffnet, wenn der Baum vollständig erblüht**. Die Session endet mitten in den Versuchen, als Nächstes Plant Growth.
 
-*(Davor: 2026-11-10, Korrektur Session 31; 2026-11-09, Session 31.)*
+*(Davor: 2026-11-16, Session 32; 2026-11-10, Korrektur Session 31.)*
 
 ## Campaign Snapshot
-Aktive PCs (Level 8): [[Berta]], [[Hrímnir]], [[Naeli]] (wächst weiter, Kleidung mit Lederflicken erweitert), [[Sim]] („Plane Walking Eye", **neues Oberhaupt von Cloud Fang**), [[Khirin]] (Hakenprothese, Exhaustion vermutlich 2). [[Pyraschan]] ist in [[Kalineon]]. [[Magda]] und der Patient sind ohne neue Entwicklung. Ort: Sims Hütte in [[Cloud Fang]] (Fenster zerstört), Nachmittag nach dem Duell, alle angeschlagen.
+Aktive PCs (Level 8): [[Berta]] (eingestimmt auf das Buch der Schwellen), [[Hrímnir]], [[Naeli]] (Verwandlung: Wachstum, Blässe, Schuppen), [[Sim]] („Plane Walking Eye", Oberhaupt von Cloud Fang auf Reisen, zurzeit ohne Stab), [[Khirin]] (Hakenprothese, Exhaustion vermutlich 1). [[Pyraschan]] ist in [[Kalineon]]. Ort: oben im **verborgenen Blütenbaum** im [[Olmea-Wald]], etwa einen halben Tagesmarsch von Cloud Fang, etwa 10–20 Minuten nach der Ankunft.
 
 ## Aktive Fäden
-1. **[[Weiße Echse aufspüren]]**: nächstes Ziel, auf Naelis Drängen. Richtung unklar (Sim: Nordosten, bisher Nordwesten).
-2. **[[Frieden mit den Tabaxi]]**: danach. Sim will es persönlich regeln. Die Puzzlebox soll zurückgegeben werden.
-3. **[[Alter Magier auf dem schwarzen Drachen]]**: Name unbekannt. Roter und schwarzer Drache leben noch. Die Spinnenwesen kommen laut Scale Piercer wieder.
-4. **Buch der Schwellen** jetzt vollständig und bei Berta, das Attunement steht aus → [[Drei Bücher]]. Wer hat die Lichtwelle gesehen?
-5. **Fohlens Familiar** mit Rückkehr-Schriftrolle ist unterwegs, die Familiars der Gruppe kommen mit. Lage in Lunovar unklar.
-6. **Zwerge** mit schwerer Maschinerie in Khirins Kristallkugel.
-7. **Waffen-Upgrade**: [[Drachenzahn]] (eventuell mit [[Blaue Metallbarren]]) in Sims Stab, off-session.
-8. Weiter offen: [[Zeldris]], [[Verhängnisturm]], Hrímnirs Gesuchte, Naelis Geheimnis, [[Risse]], [[das Nichts]].
+1. **[[Verborgener Blütenbaum]]** öffnen: Er muss „komplett erblühen". Druidcraft wirkt nicht, Naeli hat es nicht vorbereitet. Plant Growth? Muss etwas „repariert" werden? → [[Weiße Echse aufspüren]].
+2. **Naelis Verwandlung**: Hängt sie mit der Echse oder dem Wald zusammen? Der Wald wird Richtung Senke gesünder statt kränker.
+3. **[[Frieden mit den Tabaxi]]**: Waffenstillstand angekündigt, Rückgabe der [[Tabaxi-Puzzlebox]] geplant.
+4. **[[Alter Magier auf dem schwarzen Drachen]]**: roter und schwarzer Drache leben noch, die [[Spinnenwesen]] kommen laut Scale Piercer zurück.
+5. **Sims neue Waffe** (Quarterstaff mit Drachenzahn) beim Schmied. Welches Metall (blaue Barren oder Batorianischer Stahl)?
+6. **Fohlens Familiar** mit Rückkehr-Schriftrolle ist unterwegs. Zwerge mit schwerer Maschinerie ([[Drei Bücher]]).
+7. Weiter offen: Khirins Besuch beim Jäger, die geflohene Harpyie, [[Zeldris]], [[Verhängnisturm]], [[Risse]], [[das Nichts]].
 
 ## Key Facts
-- Scale Piercer wurde von [[Storm Holder]] mit großgezogen. Er tötete ihn, „um das Dorf umzukrempeln", aus Angst vor Tabaxi, Spinnen und „etwas Drittem". Jetzt tägliche Buße am Grab.
-- [[Scale Piercers Drachenspeer]] stammt von Legend Crafter, aus Material des grünen Drachen. Die Spitze zersetzt Holz. Sim gab ihn zurück.
-- [[Ring des blutenden Magiers]]: 1d12 Schaden pro Slot-Stufe statt Spell Slot, Runen „… und Sterblichkeit ist Macht". [[Ringe des hilfreichen Magiers]]: Spell Slots teilen.
-- Nur Naeli und Hrímnir können die Puzzlebox öffnen (44–45 Schritte).
-- In Cloud Fang ist das Duell heilig. Laut Sim gab es nur einen Arena-Tod (Storm Holder).
+- Baum-Identify: magisch, kein Attunement, keine Charges, durch einen Zauber geschaffen, Funktion Tür. Die Plattform in der Krone ist nur mit Khirins Maske sichtbar (Blüten, Ranken). Sake lässt Knospen sprießen, Kitzeln lässt Moos wachsen.
+- Khirins Maske: zeigt Verborgenes, einmal am Tag, endet beim Abnehmen.
+- Taschendimension: Bertas alte Tür ist weg. Die geöffnete Tür ist eine Einbahnstraße.
+- Buch der Schwellen: schwebt im Leerlauf um Berta, im Rucksack nicht. Magolors Zauber liegen über ihrer Attunement-Stufe.
+- Lady Günther ist (am Tisch festgelegt) männlich. Naeli ist in Foundry Owner.
 
-## Loot / Besitzstatus (Stand Session 32)
-- Gruppe: Tabaxi-Puzzlebox mit 3 Ringen (vermutlich bei Naeli). Glasphiolen mit unbekannter Flüssigkeit (Gift?).
-- Berta: Buch der Schwellen (vollständig), Drachenzahn.
-- Naeli: +6 Gold Wettgewinn. Hrímnir: weiße Seidenfahne (100 Gold).
-- Khirin: Hakenprothese, Schmerzpulver, Taschentuch.
+## Loot / Besitzstatus (Stand Session 33)
+- Sim: [[Runenstein von Nature's Guide]], [[Goldene Drachenschuppe]]. Stab, Drachenzahn und Metall beim Schmied.
+- Naeli: kleiner Rubin (20 Gold), [[Lady Günthers Flasche]] mit Lady Günther. Vermutlich die [[Tabaxi-Puzzlebox]].
+- Berta: Buch der Schwellen (eingestimmt). Khirin: Sake (Rest), Harpyienfedern, Hakenprothese.
 - Weiter bei der Gruppe: [[Bastardschwert aus Avernus]], [[Grünes Erz (Avernus)]], [[Gnadenpfeile]].
 
 ## Recent Changes
-- 2026-11-16 (Ingest): [[Session 32]] — Duell gewonnen, Drachenreiter, Puzzlebox, Buch-Schockwelle. Neue Quests [[Weiße Echse aufspüren]] und [[Frieden mit den Tabaxi]]. [[Scale Piercer herausfordern]] ist abgeschlossen.
-- 2026-11-10 (Korrektur): [[Session 31]] bereinigt (Zeldris, Prothesenschwert, Magolor tot).
-- 2026-11-09 (Ingest): [[Session 31]].
+- 2026-11-23 (Ingest): [[Session 33]]. Neu: [[Verborgener Blütenbaum]], [[Eulen-Harpyie]], [[Runenstein von Nature's Guide]]. Richtung der Echse geklärt (Nordwesten).
+- 2026-11-16 (Ingest): [[Session 32]]: Duell, Drachenreiter, Puzzlebox, Buch-Schockwelle.
 
 ## Open Loops
-- Ist die weiße Echse ein Drache, und hängt sie mit dem Drachenreiter zusammen?
-- Wer hat die Ringe gefertigt?
-- Was tut das stille Viertel von Cloud Fang unter Sims Führung?
-- Was wollte Scale Piercer als „drittes" Übel nennen?
+- Was liegt hinter der Baum-Tür? Ist das die weiße Echse?
+- Warum ruft der Baum ausgerechnet Naeli?
+- Woher kennt Hrímnir die Pflanzenwesen an der Furt?
+- Wer hat die Tabaxi-Ringe gefertigt? Was wollte Scale Piercer als „drittes" Übel nennen?

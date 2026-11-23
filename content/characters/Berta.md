@@ -11,13 +11,16 @@ related:
   - Fateweaver
   - Session 32
   - Alter Magier auf dem schwarzen Drachen
+  - Session 33
+  - Verborgener Blütenbaum
 sources:
   - Session 28 transcript
   - Session 30 transcript
   - Session 31 transcript
   - Session 32 transcript
+  - Session 33 transcript
 created: 2026-05-11
-updated: 2026-11-16
+updated: 2026-11-23
 status: developing
 ---
 # Berta
@@ -238,6 +241,15 @@ status: developing
 - Fühlt sich in Hrímnirs Zone of Truth unwohl („fühlt sich nicht wohl, wenn sie nicht lügen kann").
 - Schlägt vor, erst die Echse und dann die Tabaxi anzugehen.
 
+## [[Session 33]]
+
+- Repariert und putzt Sims Hütte. Ihre alte Tür zur **Taschendimension** existiert nicht mehr, sie öffnet eine neue. Laut DM ist die geöffnete Tür eine Einbahnstraße.
+- **Ist auf das Buch der Schwellen eingestimmt** (vom DM bestätigt). Es schwebt im Leerlauf ominös um sie herum, im Rucksack nicht. Sie liest Theorie zu Zaubern, die [[Magolor]] im Kampf benutzte (Schild, Teleport, Abhörschutz), kann sie aber noch nicht wirken. Bekannt ist ihr die „Weltentrennende Barriere" ihrer eigenen Seite → [[Drei Bücher]].
+- Versucht auf der ersten Nachtwache, einen Weg zum Schließen von [[Risse|Rissen]] zu entwerfen (Arcana mit Memories of a Past Life, 13). Ohne Erfolg.
+- Vermutet bei Naeli eine **Verwandlung**, ausgelöst durch etwas im Wald. Sie stellt die Frage, warum der Wald nahe der Energie-Senke lebendiger ist.
+- Im Harpyienkampf schwer getroffen („Pass auf den Hut auf, der ist brandneu!"). Ihr Zauber zerschmettert die zweite Harpyie (vermutlich Shatter).
+- An der Furt: Telepathie ohne Antwort, Ablenkung mit Thaumaturgy. Am [[Verborgener Blütenbaum|Blütenbaum]] hilft sie Khirin mit Telekinesis und wirkt **Identify als Ritual**: Der Baum ist eine Tür, die sich durch vollständiges Erblühen öffnet. Ihr Druidcraft bewirkt nichts.
+
 ## Verknüpfungen
 
 - [[Cadnix]]
@@ -318,3 +330,4 @@ status: developing
 - [[Khirin]]
 - [[Session 31]] · [[Session 31 transcript]]
 - [[Session 32]] · [[Session 32 transcript]]
+- [[Session 33]] · [[Session 33 transcript]]

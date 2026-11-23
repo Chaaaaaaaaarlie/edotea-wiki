@@ -23,6 +23,7 @@ related:
   - Spinnenwesen
   - Session 32
   - Alter Magier auf dem schwarzen Drachen
+  - Session 33
 sources:
   - Session 4
   - Session 5
@@ -35,8 +36,9 @@ sources:
   - Session 25
   - Session 31 transcript
   - Session 32 transcript
+  - Session 33 transcript
 created: 2026-05-11
-updated: 2026-11-16
+updated: 2026-11-23
 status: mature
 ---
 # Magolor
@@ -178,6 +180,10 @@ Verhört von der Gruppe, bestätigt seine Agentin **Evelyn** (siehe [[Elfaria Al
 - Die Gruppe stellt klar, dass der [[Alter Magier auf dem schwarzen Drachen|alte Magier auf dem schwarzen Drachen]], der laut Scale Piercer die Spinnenwesen nach Cloud Fang schickte, **nicht Magolor** ist. Die Kontrolle über die [[Spinnenwesen]] lag also nicht allein bei Magolor.
 - Auf Bertas Frage, wann sie Magolor getötet haben, antwortet der DM „ein bis zwei Wochen her" (Bezug unklar).
 
+## [[Session 33]] — Zauber im Buch der Schwellen
+
+- [[Berta]] entschlüsselt im Buch der Schwellen Theorie zu mehreren Zaubern, die Magolor im Kampf ([[Session 25]]) benutzte: einen Schild, einen Teleport und vermutlich die Abschirmung gegen Belauschen zu Kampfbeginn → [[Drei Bücher]].
+
 ## Verknüpfungen
 - [[Anwesen]] · [[Elliot]] · [[Lysanthiriel Vaelora]] · [[Oestliche Garnison von Cadnix]] · [[Wilhelm Casterwill]] · [[Borgrim Runenbrecher]]
 - [[Drei Bücher]] · [[das Nichts]] · [[Risse]] · [[Tagebücher Wilhelm Casterwill]]
@@ -187,3 +193,4 @@ Verhört von der Gruppe, bestätigt seine Agentin **Evelyn** (siehe [[Elfaria Al
 - [[Cloud Fang]] · [[Scale Piercer]] · [[Session 30]]
 - [[Session 31]] · [[Session 31 transcript]]
 - [[Session 32]] · [[Session 32 transcript]]
+- [[Session 33]] · [[Session 33 transcript]]

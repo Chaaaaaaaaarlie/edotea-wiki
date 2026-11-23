@@ -12,14 +12,16 @@ related:
   - Gruft des Buches
   - Session 31
   - Session 32
+  - Session 33
 sources:
   - Tagebücher Wilhelm Casterwill
   - Session 17 transcript
   - Session 25
   - Session 31 transcript
   - Session 32 transcript
+  - Session 33 transcript
 created: 2026-05-11
-updated: 2026-11-16
+updated: 2026-11-23
 status: developing
 ---
 # Die drei Bücher
@@ -87,7 +89,7 @@ Per [[Berta]]s Detect Thoughts auf [[Sophie Marie]]: die zwei Folianten, die [[M
 
 | Buch | Magier | Aktueller Besitzer |
 |------|--------|--------------------|
-| **Buch der Schwellen** (Raum) | [[Wilhelm Casterwill]] | **[[Berta]]** (seit [[Session 32]]; mit Bertas Seite vervollständigt, Attunement ausstehend; zuvor [[Naeli]] seit [[Session 29]], erbeutet [[Session 25]] von Hrímnir, davor [[Magolor]]) |
+| **Buch der Schwellen** (Raum) | [[Wilhelm Casterwill]] | **[[Berta]]** (seit [[Session 32]]; mit Bertas Seite vervollständigt, **eingestimmt** laut [[Session 33]]; zuvor [[Naeli]] seit [[Session 29]], erbeutet [[Session 25]] von Hrímnir, davor [[Magolor]]) |
 | **Buch der Essenzmagie** (Essenz) | [[Lysanthiriel Vaelora]] | **Unbekannte Zwergengruppe** (gestohlen aus [[Gruft des Buches]]) |
 | **Buch der Seelen** (Seele) | [[Borgrim Runenbrecher]] | **vermutlich [[Hrímnir]]** (erbeutet [[Session 25]] als das "zweite Buch", nicht offiziell benannt bestätigt; zuvor [[Magolor]]) |
 | **Buch der Versiegelung** | [[Palamedis]] | Unbekannt (Siegel gebrochen) |
@@ -113,6 +115,13 @@ Per [[Berta]]s Detect Thoughts auf [[Sophie Marie]]: die zwei Folianten, die [[M
 - Mit Zustimmung der Gruppe (Naeli widerwillig) legt [[Berta]] **ihre lose Seite** in das **Buch der Schwellen**. Das Buch reißt ihr die Seite aus der Hand und **vervollständigt sich**. Dabei entlädt sich die angestaute Energie (vier Charges) als **Schockwelle in der Farbe des Buches**: 4d10 Force-Schaden für alle Anwesenden. Die Fenster von Sims Hütte fliegen heraus, eine farbige Lichtwelle wandert bis zum Horizont. Danach funkt das Buch nur noch harmlos.
 - Berta ist **noch nicht eingestimmt**. Das Attunement steht aus, sie will das Buch nur lesen. Der Zug der Seite Richtung Naeli ist damit erledigt.
 - [[Khirin]]s Kristallkugel zeigt **viele Zwerge mit Spitzhacken und schwerer Maschinerie**. Khirin vermutet die Suche nach dem dritten Buch. Berta hält dagegen, sie hätten das Essenz-Buch schon. Sim erinnert an das **vierte Buch** zur Versiegelung. [[Scale Piercer]] hört interessiert zu.
+
+## [[Session 33]] — Berta eingestimmt
+
+- **[[Berta]] ist auf das Buch der Schwellen eingestimmt** (vom DM bestätigt, Zeitpunkt nach [[Session 32]] nicht genannt). Im Leerlauf schwebt das Buch ominös um sie herum, im Rucksack nicht (DM-Entscheid).
+- Beim Lesen versteht sie die Theorie mehrerer Zauber, die [[Magolor]] im Kampf benutzte (Schild, Teleport, Abhörschutz). Diese liegen noch **über ihrer Attunement-Stufe**, sie kann sie nicht wirken. Ihre eigene Seite enthält die **„Weltentrennende Barriere"**. Der DM spricht von einem „wachsenden Relikt": Der Zugriff wächst offenbar mit der Zeit, die Regeln dafür will er noch nachlesen.
+- Ihr Versuch, daraus einen Weg zum Schließen eines [[Risse|Risses]] zu konstruieren, scheitert (Arcana 13).
+- **Aktueller Träger: Berta**, eingestimmt.
 
 ## Verknüpfungen
 
@@ -144,3 +153,4 @@ Per [[Berta]]s Detect Thoughts auf [[Sophie Marie]]: die zwei Folianten, die [[M
 - [[Drift-Zeppelin]]
 - [[Session 31]] · [[Session 31 transcript]]
 - [[Session 32]] · [[Session 32 transcript]]
+- [[Session 33]] · [[Session 33 transcript]]

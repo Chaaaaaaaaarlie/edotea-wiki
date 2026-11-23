@@ -2,14 +2,14 @@
 type: meta
 title: "Items Index"
 created: 2026-05-11
-updated: 2026-11-16
+updated: 2026-11-23
 tags:
   - meta
   - items
 status: developing
 ---
 
-# Items (26)
+# Items (27)
 
 ## Waffen & Munition (neu)
 - [[Scale Piercers Drachenspeer]] *(neu, Session 32)* — Speer aus dem Material eines grünen Drachen, von Legend Crafter gefertigt; Spitze zersetzt Holz; bei Scale Piercer
@@ -30,6 +30,7 @@ status: developing
 - [[Staff of Warning]] *(neu, Session 22)* — aus Evelyns Zellenraum, Gruppenzuteilung noch offen; genaue Funktionsliste offen
 
 ## Schmuck / Magische Container
+- [[Runenstein von Nature's Guide]] *(neu, Session 33)* — Stein mit Rune, über den Nature's Guides Familiars Sim Nachrichten bringen; bei Sim
 - [[Tabaxi-Puzzlebox]] *(neu, Session 32)* — den Tabaxi gestohlene Trickkiste aus Scale Piercers Anwesen, 44–45 Schritte zum Öffnen; Rückgabe geplant
 - [[Ring des blutenden Magiers]] *(neu, Session 32)* — goldener Ring: 1d12 Schaden pro Slot-Stufe statt Spell Slot; Runen „… und Sterblichkeit ist Macht"
 - [[Ringe des hilfreichen Magiers]] *(neu, Session 32)* — Ringpaar: Träger teilen Spell Slots
@@ -61,6 +62,6 @@ status: developing
 - [[Cloak of Many Fashions]] *(neu, Session 27)* — [[Hrímnir]]s persönlicher Umhang; als Fährgeld am [[Styx]] gegeben; ein ähnlicher Lumpen trieb zurück (Echtheit offen)
 
 ## Trophäen
-- [[Drachenzahn]] *(neu, Session 24; S32: überzeugt Scale Piercer; soll in Sims Stab eingebaut werden)* — Zahn des getöteten blauen erwachsenen Drachen, von [[Berta]] geborgen
+- [[Drachenzahn]] *(neu, Session 24; S32: überzeugt Scale Piercer; soll in Sims Stab eingebaut werden)* — Zahn des getöteten blauen erwachsenen Drachen, von [[Berta]] geborgen *(Session 33: von Sim zum Schmied gegeben, wird Ende eines Quarterstaffs)*
 
 > [!gap] Andere Gegenstände der Gruppe (Bertas Pergament, Khirins Kristallkugel + goldene Rose, Hrímnirs Bag of Holding, Naelis Froststab, Lucien-Münze, **Magolors Loyalitäts-Brosche** im Bag of Holding) haben noch keine eigenen Item-Seiten — bei Bedarf ergänzen.

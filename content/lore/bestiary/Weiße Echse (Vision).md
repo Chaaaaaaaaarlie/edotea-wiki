@@ -16,12 +16,15 @@ related:
   - Session 31
   - Session 32
   - Weiße Echse aufspüren
+  - Session 33
+  - Verborgener Blütenbaum
 sources:
   - Session 30 transcript
   - Session 31 transcript
   - Session 32 transcript
+  - Session 33 transcript
 created: 2026-10-19
-updated: 2026-11-16
+updated: 2026-11-23
 ---
 
 # Weiße Echse (Vision)
@@ -51,6 +54,13 @@ Nichts bekannt — die Kreatur/das Phänomen ist im Transkript nicht weiter erkl
 - Berta fragt, ob die Echse ein Drache sein könnte. Naeli: eher klein, „wie eine Echse eben", vielleicht mit Schuppen wie ein Drache. Die Vision war verschwommen.
 - Die Gruppe macht die Echse zum **nächsten Ziel** → [[Weiße Echse aufspüren]]. Sim verortet sie im **Nordosten**, das widerspricht dem Nordwesten aus [[Session 30]] und ist ungeklärt.
 
+## [[Session 33]]
+
+- **Richtung geklärt**: Naeli erinnert sich an die grobe Himmelsrichtung **Nordwesten**, später fühlt sie sich „weiter in Richtung Norden gezogen". Der Nordosten aus Sims Aussage in [[Session 32]] ist damit hinfällig.
+- Naeli zeichnet die Echse für Lady Günther auf Pergament.
+- Sim vermutet einen Zusammenhang zwischen der Echse und **Naelis Verwandlung** (Wachstum, Blässe, schuppige Hautstellen). Naeli: „Das kann ich mir nicht vorstellen."
+- Naelis innerer Drang führt zum **[[Verborgener Blütenbaum|verborgenen Blütenbaum]]**, einer magischen Tür. Ob die Echse dahinter liegt, ist offen.
+
 ## Connections
 - [[Naeli]]
 - [[Nature's Guide]]
@@ -59,3 +69,4 @@ Nichts bekannt — die Kreatur/das Phänomen ist im Transkript nicht weiter erkl
 - [[Session 30]]
 - [[Session 31]] · [[Session 31 transcript]]
 - [[Session 32]] · [[Session 32 transcript]]
+- [[Session 33]] · [[Session 33 transcript]]

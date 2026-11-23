@@ -8,10 +8,12 @@ tags:
 related:
   - Session 31
   - Cloud Fang
+  - Session 33
 sources:
   - Session 31 transcript
+  - Session 33 transcript
 created: 2026-05-11
-updated: 2026-11-09
+updated: 2026-11-23
 status: developing
 ---
 # Wukong
@@ -32,8 +34,13 @@ status: developing
 - Es gibt keinen größeren Tempel, nur vereinzelte kleine Gebetsstätten und Hausschreine in [[Cloud Fang]].
 - Er sei seinem Volk immer nah gewesen und habe sich nichts aus Anbetung gemacht; den Königstitel hätten ihm die Leute gegeben. [[Berta]] wundert sich über den „plebejischen" Rahmen für einen „Sonnenkönig".
 
+## [[Session 33]]
+
+- [[Sim]] gießt am [[Verborgener Blütenbaum|Blütenbaum]] einen Schluck Drachenzorn an die Wurzeln: *„Auf die Götter … auf Wukong."*
+
 ## Verknüpfungen
 
 - [[Session 11]]
 - [[Sim]]
 - [[Session 31]] · [[Session 31 transcript]]
+- [[Session 33]] · [[Session 33 transcript]]

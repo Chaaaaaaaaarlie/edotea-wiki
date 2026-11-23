@@ -16,11 +16,13 @@ related:
   - Twilight (Pony)
   - Virion Loramis
   - Fohlen
+  - Session 33
 sources:
   - Session 14
   - Session 14 transcript
+  - Session 33 transcript
 created: 2026-05-25
-updated: 2026-07-13
+updated: 2026-11-23
 status: developing
 ---
 
@@ -60,5 +62,11 @@ status: developing
 ## Offene Fragen
 - Was passiert, wenn die Flasche **zerbricht** während das Pony drin ist? Hrímnir-OOC-Tipp: *"Eine Flasche zertrümmern und reparieren mit Mending."*
 
+## [[Session 33]]
+
+- [[Naeli]] lässt Lady Günther ([[Twilight (Pony)]]) aus der Flasche und steckt sie vor dem Aufstieg auf den [[Verborgener Blütenbaum|Blütenbaum]] wieder hinein, damit sie „im Zweifel oben wieder rauslassen" kann. Die Flasche ist also bei Naeli und funktioniert.
+- Wann Lady Günther nach der Rückgabe der reparierten, leeren Flasche ([[Session 20]]) wieder hineinkam, ist nicht dokumentiert.
+
 ## Verknüpfungen
 - [[Naeli]] · [[Twilight (Pony)]] (= Lady Günther) · [[Virion Loramis]] · [[Fohlen]] · [[Magische Akademie Lunovar]]
+- [[Session 33]] · [[Session 33 transcript]]

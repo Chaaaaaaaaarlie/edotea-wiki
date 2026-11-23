@@ -18,11 +18,13 @@ related:
   - Session 31
   - Session 32
   - Scale Piercers Drachenspeer
+  - Session 33
 sources:
   - Session 31 transcript
   - Session 32 transcript
+  - Session 33 transcript
 created: 2026-11-09
-updated: 2026-11-16
+updated: 2026-11-23
 ---
 
 # Legend Crafter
@@ -44,6 +46,11 @@ Schmied in [[Cloud Fang]], laut [[Sim]] „ein sehr, sehr fähiger Schmied". Ver
 - Fertigt [[Khirin]]s Prothese, seine **erste überhaupt**: ein dürres Konstrukt mit Scharniergelenk und Haken. Er nagelt sie ohne Vorwarnung in den Armstumpf (1d12 Schaden) und gibt ein braunes Schmerzpulver dazu. Er entschuldigt sich, dass sie so einfach ausgefallen ist.
 - Laut [[Scale Piercer]] hat er dessen [[Scale Piercers Drachenspeer|Drachenspeer]] aus Material des erlegten grünen Drachen gefertigt.
 
+## [[Session 33]]
+
+- [[Sim]] gibt beim Schmied seinen Stab, den [[Drachenzahn]] und eine Metalllegierung ab. Daraus soll ein Quarterstaff mit Zahn an einem Ende werden. Im Transkript heißt es nur „der Schmied", vermutlich Legend Crafter als einziger bekannter Schmied in [[Cloud Fang]].
+
 ## Verknüpfungen
 - [[Fateweaver]] · [[Cloud Fang]] · [[Khirin]] · [[Sim]] · [[Scale Piercer]] · [[Session 13]] · [[Session 31]]
 - [[Session 32]] · [[Session 32 transcript]]
+- [[Session 33]] · [[Session 33 transcript]]

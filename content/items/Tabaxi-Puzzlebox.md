@@ -21,10 +21,12 @@ related:
   - Ringe des hilfreichen Magiers
   - Frieden mit den Tabaxi
   - Session 32
+  - Session 33
 sources:
   - Session 32 transcript
+  - Session 33 transcript
 created: 2026-11-16
-updated: 2026-11-16
+updated: 2026-11-23
 ---
 
 # Tabaxi-Puzzlebox
@@ -45,7 +47,12 @@ Laut Scale Piercer ist sie **Beute, die die Simianer den [[Tabaxi]] gestohlen** 
 ## Current Status
 Bei der Gruppe, Träger nicht explizit genannt (vermutlich Naeli). **Plan:** als Teil einer Entschuldigung an die Tabaxi zurückgeben → [[Frieden mit den Tabaxi]]. Berta möchte, dass niemand die Ringe anlegt.
 
+## [[Session 33]]
+
+- Nicht im Spiel benutzt. Sim kündigt in [[Cloud Fang]] einen Waffenstillstand mit den [[Tabaxi]] an. Die Rückgabe der Kiste bleibt Teil des Plans → [[Frieden mit den Tabaxi]]. Die Gruppe zieht aber zuerst zur weißen Echse.
+
 ## Verknüpfungen
 - [[Tabaxi]] · [[Scale Piercer]] · [[Naeli]] · [[Hrímnir]] · [[Khirin]] · [[Cloud Fang]]
 - [[Ring des blutenden Magiers]] · [[Ringe des hilfreichen Magiers]] · [[Frieden mit den Tabaxi]]
 - [[Session 32]] · [[Session 32 transcript]]
+- [[Session 33]] · [[Session 33 transcript]]

@@ -10,13 +10,16 @@ related:
   - Zeldris
   - Session 32
   - Tabaxi-Puzzlebox
+  - Session 33
+  - Verborgener Blütenbaum
 sources:
   - Session 28 transcript
   - Session 30 transcript
   - Session 31 transcript
   - Session 32 transcript
+  - Session 33 transcript
 created: 2026-05-11
-updated: 2026-11-16
+updated: 2026-11-23
 status: developing
 ---
 ![[Hrimnir.png|533]]
@@ -209,6 +212,14 @@ status: developing
 - Merkt sich die 44-schrittige Öffnungsfolge der [[Tabaxi-Puzzlebox]].
 - Meta: AC 18, 59 HP. Er wünscht sich Bracers of Defense, der DM nimmt das als Item-Wunsch für Händler auf.
 
+## [[Session 33]]
+
+- Läuft eine Runde ums Dorf, springt in den Fluss und döst in der heißen Quelle (Inspiration). Er schläft draußen auf einem Steg.
+- Prüft die Hängebrücke (hält zwei bis drei auf einmal).
+- Im Kampf gegen die [[Eulen-Harpyie|Eulen-Harpyien]] rettet er sich mit Heroic Inspiration vor dem Sleeping Song, zieht Berta per Grapple aus der Gefahr, **befiehlt einer Harpyie zu fliehen** („Fly, you fool") und trifft sie mit dem Säbel. Er legt den Kadaver an den Rand der Lichtung, den hölzernen Helm lässt er liegen.
+- Erkennt die Wesen an der Furt: *„Das sind Pflanzen, keine Kreaturen."* Er habe solche schon einmal gesehen.
+- Hebt Khirin in **Riesenform (2,40 m)** in den [[Verborgener Blütenbaum|Blütenbaum]], springt nach, lässt ein Seil herunter und hängt sich dort eine Hängematte auf. Sein Kitzeln lässt Moos wachsen.
+
 ## Verknüpfungen
 
 - [[Berta]]
@@ -282,3 +293,4 @@ status: developing
 - [[Cloud Fang]]
 - [[Session 31]] · [[Session 31 transcript]]
 - [[Session 32]] · [[Session 32 transcript]]
+- [[Session 33]] · [[Session 33 transcript]]

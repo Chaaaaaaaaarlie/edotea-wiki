@@ -19,13 +19,16 @@ related:
   - Session 32
   - Frieden mit den Tabaxi
   - Alter Magier auf dem schwarzen Drachen
+  - Session 33
+  - Runenstein von Nature's Guide
 sources:
   - Session 29 transcript
   - Session 30 transcript
   - Session 31 transcript
   - Session 32 transcript
+  - Session 33 transcript
 created: 2026-05-11
-updated: 2026-11-16
+updated: 2026-11-23
 status: developing
 ---
 # Cloud Fang
@@ -67,6 +70,14 @@ status: developing
 - **Sims Hütte:** zwei Nachtangreifer liegen im Garten begraben (Steinturm). Bei der Schockwelle des Buchs der Schwellen fliegen alle Fenster heraus, der Schnee um die Hütte wird weggeblasen. Andere Häuser bleiben unbeschädigt.
 - Sim kündigt Frieden mit den [[Tabaxi]] an → [[Frieden mit den Tabaxi]].
 
+## [[Session 33]] — Stellvertretung und Abschied
+
+- **[[Nature's Guide]] führt das Dorf als Stellvertreter**, solange [[Sim]] auf Reisen ist. Sim hat den [[Runenstein von Nature's Guide]] als Verbindung.
+- Sim verkündet öffentlich seinen Weggang und einen **Waffenstillstand mit den [[Tabaxi]]**. Einige sind unzufrieden, weil er das alte Oberhaupt besiegt hat und gleich wieder geht. Viele sind aber erleichtert und „recht frohen Mutes". Berta schätzt, dass etwa ein Viertel des Dorfes mit dem Ausgang nicht einverstanden ist.
+- Sims Hütte ist aufgeräumt, die Fenster sind wieder eingesetzt. Bei der Hütte gibt es heiße Quellen mit Stegen.
+- Neu erwähnt: ein **Jäger** (Khirin besucht ihn) und eine **Hängebrücke über eine Schlucht** am eigentlichen Dorfeingang mit einem Aussichtswachturm. In der Gegend steigt Nebel von vielen heißen Quellen auf, tief unten fließt ein Fluss.
+- Beim Aufbruch winken die Simianer, werfen Blütenblätter und einen Apfel.
+
 ## Verknüpfungen
 
 - [[Kontinent Edotea]]
@@ -81,3 +92,4 @@ status: developing
 - [[Magolor]]
 - [[Session 31]] · [[Session 31 transcript]]
 - [[Session 32]] · [[Session 32 transcript]]
+- [[Session 33]] · [[Session 33 transcript]]

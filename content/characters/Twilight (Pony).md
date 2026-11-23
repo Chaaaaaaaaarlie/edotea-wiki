@@ -17,12 +17,14 @@ related:
   - Naeli
   - Sim
   - Magische Akademie Lunovar
+  - Session 33
 sources:
   - Session 13 transcript
   - Session 14
   - Session 14 transcript
+  - Session 33 transcript
 created: 2026-05-18
-updated: 2026-05-26
+updated: 2026-11-23
 status: developing
 ---
 
@@ -74,8 +76,16 @@ Der Schüler verlangt sein "Reagenz" zurück, droht mit seiner Familie. **[[Nael
 - Hat das Pony magische Fähigkeiten (Horn? Flügel)?
 - Warum hat [[Fohlen]] die Pferdeflasche 3 Tage vorher per Divination bestellt — sah er das Pony kommen?
 
+## [[Session 33]] — Wieder unterwegs
+
+- [[Naeli]] lässt Lady Günther nach langer Zeit aus der [[Lady Günthers Flasche|Flasche]] („Entschuldige, dass ich dich so lange habe in der Flasche gelassen"), kuschelt mit ihr und füttert eine gefrorene Beere. Sie versteht Naelis Echsen-Zeichnung nicht (Animal Handling) und leckt sie ab. Der DM spricht vom „pferdeartigen Maul" und erklärt das nicht weiter.
+- **Am Tisch festgelegt: Lady Günther ist männlich.** Der Name bleibt.
+- Naeli reitet auf Lady Günther aus Cloud Fang. Im Harpyienkampf versteckt sie sich zwischen den Bäumen und **schläft durch den Sleeping Song ein** (als Einzige). Vor dem Klettern auf den Blütenbaum steckt Naeli sie wieder in die Flasche.
+- In Foundry ist Naeli jetzt Owner von Lady Günther, angelegt als „Vehikel" zum Reiten.
+
 ## Verknüpfungen
 - [[Naeli]] · [[Sim]] · [[Fohlen]] · [[Virion Loramis]]
 - [[Lady Günthers Flasche]]
 - [[Magische Akademie Lunovar]]
 - [[Session 13]] · [[Session 14]]
+- [[Session 33]] · [[Session 33 transcript]]

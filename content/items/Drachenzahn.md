@@ -3,7 +3,7 @@ type: item
 title: "Drachenzahn"
 item_type: trophy
 created: 2026-08-31
-updated: 2026-11-16
+updated: 2026-11-23
 tags:
   - item
   - trophy
@@ -18,11 +18,15 @@ related:
   - Session 32
   - Sim
   - Alter Magier auf dem schwarzen Drachen
+  - Session 33
+  - Legend Crafter
 sources:
   - Session 24 transcript
   - Session 31 transcript
   - Session 32 transcript
+  - Session 33 transcript
 
+current_holder: "Schmied in Cloud Fang (Auftrag von Sim)"
 ---
 
 # Drachenzahn
@@ -48,7 +52,12 @@ Trophäe aus dem blauen Adult-Drachen, den die Gruppe in [[Session 24]] während
 - Laut Bertas Detect Thoughts gehörte der blaue Drache zum Gefolge des [[Alter Magier auf dem schwarzen Drachen|alten Magiers auf dem schwarzen Drachen]] (vom DM bestätigt: blauer und roter Drache über Lunovar).
 - **Geplante Verwendung:** [[Sim]] will den Zahn mit Zustimmung der Gruppe in seinen Stab einbauen lassen und ihn als Stab behalten. Ausarbeitung durch den DM off-session.
 
+## [[Session 33]]
+
+- [[Sim]] gibt den Zahn zusammen mit seinem Stab und einer Metalllegierung beim Schmied (vermutlich [[Legend Crafter]]) ab. Die neue Waffe **bleibt ein Quarterstaff**: **an einem Ende der Zahn**, das andere stumpf. Der DM entwirft sie („Ich lasse mir was Schönes einfallen"). Der Zahn ist damit nicht mehr bei Berta.
+
 ## Verknüpfungen
 - [[Berta]] · [[Session 24]] · [[Lunovar]] · [[Magische Akademie Lunovar]]
 - [[Session 31]] · [[Session 31 transcript]]
 - [[Session 32]] · [[Session 32 transcript]]
+- [[Session 33]] · [[Session 33 transcript]]

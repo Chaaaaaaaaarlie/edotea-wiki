@@ -2,7 +2,7 @@
 type: meta
 title: "Quests Index"
 created: 2026-05-11
-updated: 2026-11-16
+updated: 2026-11-23
 tags:
   - meta
   - quests
@@ -12,10 +12,10 @@ status: developing
 # Quests
 
 ## Active
-- [[Weiße Echse aufspüren]] *(neu, [[Session 32]] — nächstes Ziel der Gruppe; Richtung Nordwest/Nordost unklar)*
+- [[Weiße Echse aufspüren]] *(neu, [[Session 32]]; [[Session 33]]: Richtung Nordwesten bestätigt, Spur führt zum [[Verborgener Blütenbaum|verborgenen Blütenbaum]])*
 
 ## Pending
-- [[Frieden mit den Tabaxi]] *(neu, [[Session 32]] — Sims Friedensmission als neues Oberhaupt, nach der Echse; Rückgabe der [[Tabaxi-Puzzlebox]])*
+- [[Frieden mit den Tabaxi]] *([[Session 33]]: Waffenstillstand öffentlich angekündigt)* *(neu, [[Session 32]] — Sims Friedensmission als neues Oberhaupt, nach der Echse; Rückgabe der [[Tabaxi-Puzzlebox]])*
 *(Hooks ohne eigene Quest-Seite, Stand [[Session 31]] — Bertas Liste)*
 - [[Verhängnisturm]] finden
 - [[Hrímnir]]s gesuchte Person finden

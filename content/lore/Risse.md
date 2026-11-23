@@ -7,10 +7,12 @@ tags:
   - concept
 related:
   - Session 31
+  - Session 33
 sources:
   - Session 31 transcript
+  - Session 33 transcript
 created: 2026-05-11
-updated: 2026-11-09
+updated: 2026-11-23
 status: developing
 ---
 # Risse
@@ -38,6 +40,10 @@ status: developing
 ## [[Session 31]]
 - „Herausfinden, was es mit diesen komischen Portalen auf sich hat" steht auf [[Berta]]s Liste offener Ziele; sie hofft, über ein Attunement auf das Buch der Schwellen ([[Drei Bücher]]) mehr über die Risse in Raum und Zeit zu erfahren.
 
+## [[Session 33]]
+
+- [[Berta]] fragt, ob ihr das Buch der Schwellen beim Schließen eines Risses helfen kann. Auf ihrer Nachtwache entwirft sie Runenkreise, bekommt aber nichts Brauchbares zustande (Arcana 13) → [[Drei Bücher]].
+
 ## Verknüpfungen
 
 - [[Borgrim Runenbrecher]]
@@ -51,3 +57,4 @@ status: developing
 - [[Virion Loramis]]
 - [[Wilhelm Casterwill]]
 - [[Session 31]] · [[Session 31 transcript]]
+- [[Session 33]] · [[Session 33 transcript]]

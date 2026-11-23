@@ -26,13 +26,17 @@ related:
   - Alter Magier auf dem schwarzen Drachen
   - Weiße Echse aufspüren
   - Frieden mit den Tabaxi
+  - Session 33
+  - Verborgener Blütenbaum
+  - Eulen-Harpyie
 sources:
   - Session 28 transcript
   - Session 29 transcript
   - Session 30 transcript
   - Session 32 transcript
+  - Session 33 transcript
 created: 2026-09-28
-updated: 2026-11-16
+updated: 2026-11-23
 status: developing
 ---
 
@@ -99,9 +103,17 @@ Laut einem Tabaxi-Gefangenen ([[Session 29]]) liegen Teile des Olmea-Walds histo
 - Laut [[Sim]] ziehen gelegentlich [[Ork (Kreatur)|Orks]] durch den Wald, einige wirken Magie.
 - Die Gruppe plant, die [[Weiße Echse aufspüren|weiße Echse]] aufzusuchen (Sim: Nordosten, bisher Nordwesten) und danach die Tabaxi im Nordwesten.
 
+## [[Session 33]]
+
+- Nordwestlich bzw. nördlich von [[Cloud Fang]] ist der Wald **außergewöhnlich gesund**, je weiter die Gruppe kommt. Er liegt weit weg von den Schwebefelsen, „lange ist hier nichts runtergekommen". Berta fragt, warum der Wald ausgerechnet in Richtung der vermuteten Energie-Senke lebendiger wird. Sim vermutet, dass die Energie dort gesammelt wird.
+- Kratzspuren großer Vögel, tote Kaninchen und Federn. Angriff zweier **[[Eulen-Harpyie|Eulen-Harpyien]]**.
+- An einer **Furt** leben etwa vier **Pflanzenwesen mit Mäulern**, die wie bewegliche Bäume oder Laubhaufen aussehen, keine Ents. Sie sind friedlich, solange man sie nicht berührt. Hrímnir kennt solche, Sim nicht aus diesem Waldteil.
+- Etwa einen halben Tagesmarsch von Cloud Fang entfernt liegt der **[[Verborgener Blütenbaum|verborgene Blütenbaum]]**.
+
 ## Verknüpfungen
 - [[Session 28]] · [[Session 28 transcript]] · [[Session 29]] · [[Session 29 transcript]] · [[Session 30]] · [[Session 30 transcript]] · [[Session 27]] · [[Styx]] · [[Avernus]]
 - [[Berta]] · [[Hrímnir]] · [[Naeli]] · [[Sim]] · [[Pyraschan]] · [[Magda]] · [[Khirin]]
 - [[Ork (Kreatur)]] · [[Dire Wolf]] · [[Tabaxi]] · [[Riesenvögel (Olmea-Wald)]]
 - [[Cloud Fang]] · [[Scale Piercer]] · [[Storm Holder]] · [[Druidenschrein (Cloud Fang)]] · [[Nature's Guide]] · [[Weiße Echse (Vision)]]
 - [[Session 32]] · [[Session 32 transcript]]
+- [[Session 33]] · [[Session 33 transcript]]

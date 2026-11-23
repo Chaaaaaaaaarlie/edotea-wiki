@@ -20,12 +20,15 @@ related:
   - Zeldris
   - Session 32
   - Scale Piercer
+  - Session 33
+  - Runenstein von Nature's Guide
 sources:
   - Session 30 transcript
   - Session 31 transcript
   - Session 32 transcript
+  - Session 33 transcript
 created: 2026-10-19
-updated: 2026-11-16
+updated: 2026-11-23
 status: developing
 ---
 
@@ -83,8 +86,15 @@ Kaum bekannt. Named-Status ist unter Simianern selten und muss verdient werden (
 
 - Erklärt im Duell um die Führung von [[Cloud Fang]] **„Plane Walking Eye" ([[Sim]]) zum Sieger und neuen Oberhaupt**, stampft mit seinem Stab auf und lässt Lichter aufsteigen. Vermutlich ist er auch der „älteste Simian des Dorfes", der den „heiligen Kampf" eröffnet (im Transkript nicht namentlich).
 
+## [[Session 33]] — Stellvertreter des Oberhaupts
+
+- [[Sim]] bittet ihn, **in seiner Abwesenheit als Oberhaupt über [[Cloud Fang]] zu wachen**. Er verneigt sich grinsend vor dem „neuen Oberhaupt" und nimmt an: *„Dann werde ich mein Fähigstes geben, in deiner Abwesenheit den Frieden im Dorf zu bewahren, bis zu dem Tag, an dem du zu uns zurückkehrst."*
+- Seine Sorge gilt der Rückkehr der [[Spinnenwesen]]. Sim will ihm erklären, wie man sie vernichtet.
+- Er gibt Sim den **[[Runenstein von Nature's Guide]]**, über den seine Familiars Sim Nachrichten bringen können.
+
 ## Verknüpfungen
 - [[Sim]] · [[Cloud Fang]] · [[Druidenschrein (Cloud Fang)]] · [[Khirin]] · [[Naeli]] · [[Berta]] · [[Hrímnir]] · [[Pyraschan]]
 - [[Weiße Echse (Vision)]] · [[Session 30]] · [[Session 30 transcript]]
 - [[Session 31]] · [[Session 31 transcript]]
 - [[Session 32]] · [[Session 32 transcript]]
+- [[Session 33]] · [[Session 33 transcript]]

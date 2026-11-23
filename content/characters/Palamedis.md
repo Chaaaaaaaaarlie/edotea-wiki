@@ -12,11 +12,13 @@ related:
   - das Nichts
   - Aalafiel
   - Eiswueste-Vulkan-Riss
+  - Session 33
 sources:
   - Tagebücher Wilhelm Casterwill
   - Session 17 transcript
+  - Session 33 transcript
 created: 2026-05-11
-updated: 2026-06-22
+updated: 2026-11-23
 status: developing
 ---
 # Palamedis
@@ -49,6 +51,10 @@ Implikation: Palamedis (oder die Elfen, die die Gruft bauten) hat seine Drachens
 - [[Palamedis]] könnte identisch mit dem goldenen Drachen sein, der in der Reichsgeschichte von [[Kalineon]] als Auslöser des Umsturzes beschrieben wird.
 - Laut [[Crucellus]] gibt es in [[Session 11]] keine neuen Erkenntnisse über [[Palamedis]] jenseits dieser bekannten Entstehungsgeschichte.
 
+## [[Session 33]]
+
+- [[Sim]] trägt die [[Goldene Drachenschuppe]] von Palamedis bei sich. Er hält sie für zu wertvoll, um sie [[Nature's Guide]] als Abschiedsgeschenk zu geben.
+
 ## Verknüpfungen
 
 - [[Borgrim Runenbrecher]]
@@ -66,3 +72,4 @@ Implikation: Palamedis (oder die Elfen, die die Gruft bauten) hat seine Drachens
 - [[Gruft des Buches]]
 - [[Eiswueste-Vulkan-Riss]]
 - [[Tagebücher Wilhelm Casterwill]]
+- [[Session 33]] · [[Session 33 transcript]]

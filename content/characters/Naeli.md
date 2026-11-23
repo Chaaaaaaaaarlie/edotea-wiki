@@ -11,6 +11,8 @@ related:
   - Session 32
   - Tabaxi-Puzzlebox
   - Weiße Echse aufspüren
+  - Session 33
+  - Verborgener Blütenbaum
 sources:
   - Tagebücher Wilhelm Casterwill
   - Session 17 transcript
@@ -18,8 +20,9 @@ sources:
   - Session 30 transcript
   - Session 31 transcript
   - Session 32 transcript
+  - Session 33 transcript
 created: 2026-05-11
-updated: 2026-11-16
+updated: 2026-11-23
 status: developing
 ---
 ![[Naeli.png|496]]
@@ -206,6 +209,15 @@ status: developing
 - Besteht darauf, der **[[Weiße Echse (Vision)|weißen Echse]]** zu folgen („Mein Gefühl sagt mir, dass ich ihm folgen soll"). Ihre Vision: eher klein, vielleicht mit Drachenschuppen, verschwommen → [[Weiße Echse aufspüren]].
 - Übergibt Berta widerwillig das **Buch der Schwellen** („Im Zweifel müssen wir dich töten") und wird von der Schockwelle getroffen.
 
+## [[Session 33]]
+
+- Will nicht „Oberhaupt der Affen" werden und drängt auf frühen Aufbruch („keine Sekunde später").
+- Räumt Sims Hütte in einem Dienstmädchen-Outfit auf und findet einen **kleinen Rubin (20 Gold)**, vermutlich von einem der Angreifer. Sie behält ihn.
+- **Wachstum und Verwandlung**: Mit dem „Naeli-Seil" gemessen ist sie deutlich größer geworden, etwa 0,2 bis 0,3 „Naelis", nach eigener Rechnung **etwa 26 cm**. *„Ich bin seit ungefähr 40 Jahren nicht mehr gewachsen."* Laut DM ist sie **blasser** und hat **ein, zwei schuppige Hautstellen**. Berta vermutet eine Verwandlung („wie eine Kaulquappe zu einem Frosch"), ausgelöst durch etwas **hier im Wald**. Naeli fragt sich, ob der Höllenbesuch den Zauber auf ihr „zum Bröckeln" gebracht hat, und fürchtet, „irgendwas ganz Schreckliches" zu sein. Sim bringt die weiße Echse ins Spiel.
+- Lässt auf ihrer Nachtwache **Lady Günther** ([[Twilight (Pony)]]) aus der [[Lady Günthers Flasche|Flasche]] frei, zeichnet ihr die Echse auf und reitet am nächsten Tag auf ihr. Am Tisch wird festgelegt, dass Lady Günther männlich ist.
+- Führt die Gruppe nach **Nordwesten**, später fühlt sie sich nach Norden gezogen. Ihre innere Stimme („als würde der Wald selbst dich rufen") führt sie zum **[[Verborgener Blütenbaum|verborgenen Blütenbaum]]**, der nach ihr ruft. Sie kriecht unter die Wurzeln, malt druidische Zeichen und gießt **Drachenzorn** an die Wurzeln („auf die Götter und auf euch"). Sie hat **Druidcraft nicht vorbereitet**. Plant Growth ist der nächste Versuch.
+- Sagt, sie könne in ihrer Trance über Nacht lernen, mit Pflanzen zu sprechen.
+
 ## Verknüpfungen
 
 - [[Anwesen]]
@@ -276,3 +288,4 @@ status: developing
 - [[Tabaxi]]
 - [[Session 31]] · [[Session 31 transcript]]
 - [[Session 32]] · [[Session 32 transcript]]
+- [[Session 33]] · [[Session 33 transcript]]

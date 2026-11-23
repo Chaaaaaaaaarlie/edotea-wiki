@@ -11,12 +11,14 @@ related:
   - Fohlen
   - Session 32
   - Alter Magier auf dem schwarzen Drachen
+  - Session 33
 sources:
   - Session 14
   - Session 31 transcript
   - Session 32 transcript
+  - Session 33 transcript
 created: 2026-05-11
-updated: 2026-11-16
+updated: 2026-11-23
 status: developing
 ---
 # Lunovar
@@ -156,6 +158,10 @@ Nach Audienz mit [[Elfaria Albis von Sylphid]]:
 - [[Fohlen]] antwortet auf Bertas Sending und will einen Familiar mit Rückkehr-Schriftrolle schicken. Die Lage in der Stadt bleibt unklar.
 - Sim: Cloud Fang hat bei Weitem nicht die Bibliotheksauswahl von Lunovar.
 
+## [[Session 33]]
+
+- Bei der Frage nach Bertas Taschendimension erinnert sich die Gruppe an den Vorfall in der [[Magische Akademie Lunovar|Akademie]], als versehentlich die Toilettentür als Portal geöffnet wurde. Laut DM ist eine geöffnete Tür eine Einbahnstraße. Sonst keine Neuigkeiten aus Lunovar, Fohlens Familiar ist noch unterwegs.
+
 ## Verknüpfungen
 
 - [[Corellon]]
@@ -196,3 +202,4 @@ Nach Audienz mit [[Elfaria Albis von Sylphid]]:
 - [[Session 30]]
 - [[Session 31]] · [[Session 31 transcript]]
 - [[Session 32]] · [[Session 32 transcript]]
+- [[Session 33]] · [[Session 33 transcript]]

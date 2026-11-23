@@ -2,16 +2,17 @@
 type: meta
 title: "Sessions Index"
 created: 2026-05-11
-updated: 2026-11-16
+updated: 2026-11-23
 tags:
   - meta
   - sessions
 status: evergreen
 ---
 
-# Sessions (33)
+# Sessions (34)
 
 Neueste oben.
+- [[Session 33]]
 - [[Session 32]]
 - [[Session 31]]
 - [[Session 30]]
@@ -45,6 +46,8 @@ Neueste oben.
 - [[Session 2]]
 - [[Session 1]]
 - [[Session 0]]
+
+> [!note] [[Session 33]] wurde am 2026-11-23 aus dem WhisperX-Transkript `craig-uDVVTnBW4Adc-a13OnMR00u86LsG_20261123_211125/corrected_obsidian.md` ingestiert (3346 Segmente, ~2h55min, 6 Craig-Spuren); gespielt 2026-11-23. [[Nature's Guide]] vertritt Sim als Oberhaupt, Waffenstillstand mit den Tabaxi angekündigt, Berta auf das Buch der Schwellen eingestimmt, Naelis Verwandlung, Kampf gegen zwei [[Eulen-Harpyie|Eulen-Harpyien]], Entdeckung des [[Verborgener Blütenbaum|verborgenen Blütenbaums]] (Baum-Tür).
 
 > [!note] [[Session 32]] wurde am 2026-11-16 aus dem WhisperX-Transkript `craig-CiqZ0lEdV2a3-R7j4f3RWl3kJAQ6_20261116_211657/corrected_obsidian.md` ingestiert (3455 Segmente, ~3h04min, 6 Craig-Spuren); gespielt 2026-11-16. Verhör der Nachtangreifer ([[Scale Piercer]] wollte die Gruppe vergiften), Khirins Hakenprothese, **Sim gewinnt das Duell und wird Oberhaupt von [[Cloud Fang]]**, Drachen-Enthüllung ([[Alter Magier auf dem schwarzen Drachen]]), [[Tabaxi-Puzzlebox]] mit drei Ringen, Fohlens Antwort, Bertas Seite vervollständigt das Buch der Schwellen (Schockwelle).
 > [!note] [[Session 31]] wurde am 2026-11-09 aus dem WhisperX-Transkript `craig-TLzrQOPtXkyq-UlM2a1mnjzpmwU5_20261109_213933/corrected_obsidian.md` ingestiert (4759 Segmente, ~3h56min, 6 Craig-Spuren); gespielt 2026-11-09. Teufel [[Zeldris]] entsteigt dem Nebel am Druidenschrein; [[Pyraschan]] verlässt die Gruppe Richtung [[Kalineon]], `luke_234` spielt wieder [[Khirin]]; Ankunft in [[Cloud Fang]]; Lunovar-Tür in [[Berthas Bohnen]] zerstört; Sim fordert [[Scale Piercer]] heraus (Duell am nächsten Mittag); [[Legend Crafter]] & [[Fateweaver]]; nächtlicher Überfall, bei dem die Gruppe die Angreifer zerlegt.

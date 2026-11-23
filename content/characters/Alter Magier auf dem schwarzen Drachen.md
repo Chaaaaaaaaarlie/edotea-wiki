@@ -25,11 +25,13 @@ related:
   - Magolor
   - Session 31
   - Session 32
+  - Session 33
 sources:
   - Session 31 transcript
   - Session 32 transcript
+  - Session 33 transcript
 created: 2026-11-16
-updated: 2026-11-16
+updated: 2026-11-23
 ---
 
 # Alter Magier auf dem schwarzen Drachen
@@ -60,7 +62,12 @@ Lange, glatt gekämmte **graue Haare**, **geflochtener Bart**, alt, aber sehr st
 - Kommen die Spinnenwesen nach Cloud Fang zurück?
 - Hängt er mit der [[Weiße Echse (Vision)|weißen Echse]] zusammen? Naeli fragt sich, ob die Echse ein Drache sein könnte.
 
+## [[Session 33]]
+
+- Keine neuen Informationen. [[Nature's Guide]] fürchtet die Rückkehr der [[Spinnenwesen]], wenn Sim Cloud Fang verlässt. Sim will den Kriegern erklären, wie man sie vernichtet.
+
 ## Verknüpfungen
 - [[Scale Piercer]] · [[Berta]] · [[Spinnenwesen]] · [[Magolor]] · [[Drachenzahn]]
 - [[Cloud Fang]] · [[Olmea-Wald]] · [[Lunovar]]
 - [[Session 21]] · [[Session 24]] · [[Session 31]] · [[Session 32]] · [[Session 32 transcript]]
+- [[Session 33]] · [[Session 33 transcript]]

@@ -16,11 +16,13 @@ related:
   - Session 32
   - Sim
   - Drachenzahn
+  - Session 33
 sources:
   - Session 19 transcript
   - Session 32 transcript
+  - Session 33 transcript
 created: 2026-06-29
-updated: 2026-11-16
+updated: 2026-11-23
 status: developing
 ---
 
@@ -43,6 +45,11 @@ Mehrere Barren aus einer **neuen Legierung**, die [[Lysanthiriel Vaelora|Lysandr
 
 - [[Sim]] erinnert sich an das Metall „mit anderen Eigenschaften" aus der Grabkammer der [[Gruft des Buches]] und möchte es eventuell zusammen mit dem [[Drachenzahn]] in seinen Stab einarbeiten lassen. Wer die Barren trägt, weiß Sim nicht. Die Umsetzung erfolgt off-session.
 
+## [[Session 33]]
+
+- [[Sim]] gibt beim Schmied eine Metalllegierung „aus dem Tempel" ab, die „dehnbar, aber gleichzeitig hart" ist, für seinen neuen Quarterstaff mit [[Drachenzahn]]. „Tempel" und „Legierung" sprechen für diese Barren aus der [[Gruft des Buches]]. Die Beschreibung passt aber auch zum Batorianischen Stahl ([[Grünes Erz (Avernus)]]), den der DM als Alternative nannte. **Nicht eindeutig.**
+
 ## Verknüpfungen
 - [[Lysanthiriel Vaelora]] · [[Akronisjuwel]] · [[Gruft des Buches]] · [[Session 19]]
 - [[Session 32]] · [[Session 32 transcript]]
+- [[Session 33]] · [[Session 33 transcript]]

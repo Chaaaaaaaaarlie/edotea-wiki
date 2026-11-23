@@ -20,13 +20,15 @@ related:
   - Legend Crafter
   - Session 32
   - Sim
+  - Session 33
 sources:
   - Session 26 transcript
   - Session 29 transcript
   - Session 31 transcript
   - Session 32 transcript
+  - Session 33 transcript
 created: 2026-09-15
-updated: 2026-11-16
+updated: 2026-11-23
 status: developing
 ---
 
@@ -63,8 +65,13 @@ Ein **grünlich schimmerndes Metall bzw. Erz**, das im Gestein der [[Imp-Höhle]
 
 - Der DM erwähnt bei Sims Waffen-Upgrade „das baldurianische Eisen", vermutlich dieser Batorianische Stahl. Berta: „Wir könnten es höchstens verkaufen", sie überlässt es Sim, falls er damit eine Waffe will. Ob es verwendet wird, ist offen.
 
+## [[Session 33]]
+
+- Der DM bietet Sim für seine neue Waffe „das baldorianische Eisen oder das, was ihr aus dem Dingens habt" an. Sim wählt „das aus dem Tempel", vermutlich die [[Blaue Metallbarren]]. Seine Beschreibung („dehnbar, aber gleichzeitig hart") passt allerdings auch zu diesem Erz. Ob das Erz verwendet wurde, ist offen.
+
 ## Verknüpfungen
 - [[Session 26]] · [[Session 26 transcript]] · [[Imp-Höhle]] · [[Avernus]] · [[Berta]]
 - [[Blaue Metallbarren]] · [[Session 29]] · [[Session 29 transcript]]
 - [[Session 31]] · [[Session 31 transcript]]
 - [[Session 32]] · [[Session 32 transcript]]
+- [[Session 33]] · [[Session 33 transcript]]

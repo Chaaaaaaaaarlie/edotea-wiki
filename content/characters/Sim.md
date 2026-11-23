@@ -15,13 +15,17 @@ related:
   - Session 32
   - Frieden mit den Tabaxi
   - Scale Piercers Drachenspeer
+  - Session 33
+  - Runenstein von Nature's Guide
+  - Verborgener Blütenbaum
 sources:
   - Session 28 transcript
   - Session 30 transcript
   - Session 31 transcript
   - Session 32 transcript
+  - Session 33 transcript
 created: 2026-05-11
-updated: 2026-11-16
+updated: 2026-11-23
 status: developing
 ---
 # Sim
@@ -217,6 +221,14 @@ status: developing
 - Will den [[Drachenzahn]] in seinen Stab einbauen lassen, eventuell zusammen mit [[Blaue Metallbarren|Metall aus der Gruft]]. Die Ausarbeitung erfolgt off-session.
 - Erleidet 32 Force-Schaden durch die Schockwelle des Buchs der Schwellen und sieht die farbige Lichtwelle am Horizont.
 
+## [[Session 33]] — Abschied als Oberhaupt
+
+- Bittet **[[Nature's Guide]], ihn als Oberhaupt zu vertreten**: *„Ich glaube, mein Abenteuer ist noch nicht vorbei."* Erhält den **[[Runenstein von Nature's Guide]]**. Er überlegt, ihm die [[Goldene Drachenschuppe]] zu schenken, die ihm aber zu wertvoll ist, und schwört zurückzukehren.
+- Verkündet im Dorf seinen Weggang und einen **Waffenstillstand mit den [[Tabaxi]]** → [[Frieden mit den Tabaxi]]. Einige murren, viele sind erleichtert.
+- Gibt beim Schmied (vermutlich [[Legend Crafter]]) **Stab, [[Drachenzahn]] und eine Metalllegierung** ab („aus dem Tempel", dehnbar und hart, vermutlich [[Blaue Metallbarren]]). Daraus wird ein **Quarterstaff mit Zahn an einem Ende**. Bis dahin hat er keinen Stab und kämpft mit dem Bogen.
+- Gibt eine überzählige Inspiration an Khirin weiter. Misst Naelis Wachstum mit dem „Naeli-Seil".
+- Unterwegs: Er erkennt Krallenspuren großer Vögel (Nature 21), entdeckt die angreifenden [[Eulen-Harpyie|Eulen-Harpyien]] und rettet sich mit Heroic Inspiration vor dem Sleeping Song. An der Furt schleicht er durchs Wasser. Am [[Verborgener Blütenbaum|Blütenbaum]] klopft er den hohlen Stamm ab, gräbt mit der Axt und trinkt „auf [[Wukong]]".
+
 ## Verknüpfungen
 
 - [[Cadnix]]
@@ -288,3 +300,4 @@ status: developing
 - [[Druidenschrein (Cloud Fang)]]
 - [[Session 31]] · [[Session 31 transcript]]
 - [[Session 32]] · [[Session 32 transcript]]
+- [[Session 33]] · [[Session 33 transcript]]

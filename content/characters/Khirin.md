@@ -17,13 +17,16 @@ related:
   - Tabaxi-Puzzlebox
   - Ring des blutenden Magiers
   - Ringe des hilfreichen Magiers
+  - Session 33
+  - Verborgener Blütenbaum
 sources:
   - Session 28 transcript
   - Session 30 transcript
   - Session 31 transcript
   - Session 32 transcript
+  - Session 33 transcript
 created: 2026-05-11
-updated: 2026-11-16
+updated: 2026-11-23
 status: developing
 ---
 # Khirin
@@ -243,6 +246,13 @@ Unter dieser Annahme gilt für [[Session 26]]:
 - Inhalt seiner Tasche laut Spieler: Drachenschuppen, „Steinfleisch" eines formbaren Drachen, Knochen, Zähne, Messer.
 - Schlägt vor, vor der Echse eine Bibliothek oder ein Orakel zu befragen, wird abgewiesen. Erleidet Force-Schaden durch die Schockwelle (auf 18 HP) und erbricht sich.
 
+## [[Session 33]] — Heiße Quelle und Maske
+
+- Kauft drei kleine Flaschen Sake und besucht den **Jäger** von Cloud Fang. Das Ergebnis wird schriftlich mit dem DM geklärt und ist unbekannt.
+- Natürliche 20 beim Con-Save in der heißen Quelle: **eine Stufe Exhaustion weniger**, vermutlich jetzt 1. Er bekommt Sims Inspiration.
+- Kontert den Sleeping Song der [[Eulen-Harpyie|Eulen-Harpyien]] mit einem Merkmal, das er „Lethargie Resilience" nennt, und zupft danach Federn aus der Leiche.
+- Setzt am [[Verborgener Blütenbaum|Blütenbaum]] seine **Maske** auf. Sie macht Verborgenes sichtbar (Tiere, Pavillonkrone, Blüten), lädt sich einmal am Tag auf und endet beim Abnehmen. Er klettert trotz Prothesenschmerzen hoch (erster Versuch gescheitert) und lotst die anderen. Sein geträufelter Sake lässt Knospen sprießen.
+
 ## Verknüpfungen
 
 - [[Carbus]]
@@ -306,3 +316,4 @@ Unter dieser Annahme gilt für [[Session 26]]:
 - [[Magda]]
 - [[Session 31]] · [[Session 31 transcript]]
 - [[Session 32]] · [[Session 32 transcript]]
+- [[Session 33]] · [[Session 33 transcript]]

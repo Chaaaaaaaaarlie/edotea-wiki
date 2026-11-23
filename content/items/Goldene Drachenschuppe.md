@@ -12,11 +12,15 @@ related:
   - Palamedis
   - Aalafiel
   - Session 19
+  - Session 33
+  - Sim
 sources:
   - Session 19 transcript
+  - Session 33 transcript
 created: 2026-06-29
-updated: 2026-06-29
+updated: 2026-11-23
 status: developing
+current_holder: "Sim"
 ---
 
 # Goldene Drachenschuppe
@@ -37,5 +41,10 @@ Eine goldene Drachenschuppe von **[[Palamedis]]**, dem goldenen Drachen. [[Aalaf
 - Kann sie einmal verwendet werden und erlischt dann, oder ist sie dauerhaft?
 - Hat sie eine Verbindung zu Palamedis selbst (z. B. Kommunikation oder Ortung)?
 
+## [[Session 33]]
+
+- **Aktueller Träger: [[Sim]]** („Ich habe die goldene Schuppe von Palamedes"). Er überlegt, sie [[Nature's Guide]] zu schenken, „aber das wäre ein bisschen zu krass".
+
 ## Verknüpfungen
 - [[Palamedis]] · [[Aalafiel]] · [[Session 19]]
+- [[Session 33]] · [[Session 33 transcript]]

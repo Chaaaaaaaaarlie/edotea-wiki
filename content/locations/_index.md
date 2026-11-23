@@ -2,17 +2,17 @@
 type: meta
 title: "Locations Index"
 created: 2026-05-11
-updated: 2026-11-16
+updated: 2026-11-23
 tags:
   - meta
   - locations
 status: evergreen
 ---
 
-# Orte (37)
+# Orte (38)
 
 ## Kontinent
-- [[Cloud Fang]] *(Session 32: Sim gewinnt das Duell in der Arena First Roar und wird Oberhaupt; Schockwelle an Sims Hütte)* *(Session 31: Ankunft im Dorf; Sims Hütte, Anwesen des Oberhaupts, Schmiede/Schneiderei; nächtlicher Überfall)* *(Session 30: bestätigt [[Sim]]s Heimatdorf — Sim korrigiert sich live „Cloudfang, nicht Firstfang"; Druidenschrein auf dem Bergpfad)*
+- [[Cloud Fang]] *(Session 33: Nature's Guide als Stellvertreter, Waffenstillstand mit den Tabaxi angekündigt, Hängebrücke und heiße Quellen)* *(Session 32: Sim gewinnt das Duell in der Arena First Roar und wird Oberhaupt; Schockwelle an Sims Hütte)* *(Session 31: Ankunft im Dorf; Sims Hütte, Anwesen des Oberhaupts, Schmiede/Schneiderei; nächtlicher Überfall)* *(Session 30: bestätigt [[Sim]]s Heimatdorf — Sim korrigiert sich live „Cloudfang, nicht Firstfang"; Druidenschrein auf dem Bergpfad)*
 - [[Erliorwald]]
 - [[Kontinent Edotea]] — Wurzel
 - [[Nebelwald]]
@@ -68,7 +68,8 @@ status: evergreen
 
 ## Unbekannte Region / Andere Ebene
 
-- [[Olmea-Wald]] *(neu, Session 28 als Arbeitstitel „Kristallhöhlenwald", benannt Session 29 — evtl. nicht mehr [[Avernus]], unbestätigt)* — ausgedehnter Wald mit See/Wasserfall/Kristallhöhle (S28) und zerbröckelnden fliegenden Inseln im Osten (S29); Tabaxi-Stamm, steinwerfende Riesenvögel; Krater mit Ork-Arm (S30)
+- [[Olmea-Wald]] *(neu, Session 28 als Arbeitstitel „Kristallhöhlenwald", benannt Session 29 — evtl. nicht mehr [[Avernus]], unbestätigt)* — ausgedehnter Wald mit See/Wasserfall/Kristallhöhle (S28) und zerbröckelnden fliegenden Inseln im Osten (S29); Tabaxi-Stamm, steinwerfende Riesenvögel; Krater mit Ork-Arm (S30); gesünder Richtung Nordwesten, Furt mit Pflanzenwesen (S33)
+- [[Verborgener Blütenbaum]] *(neu, Session 33)* — magischer Riesenbaum im Olmea-Wald, Krone als verborgener Pavillon; laut Identify eine Tür, die sich durch vollständiges Erblühen öffnet
 - [[Carbus]] — = [[gesetzlose Stadt|gesetzlose Stadt]] (bestätigt in [[Session 14]]); Heimat von [[Jack]], [[Edgar Thorne]], und den Spymaster-Söldnern
 - [[Berthas Bohnen]] *(Session 31: Tür nach Lunovar zerstört)* *(neu, Session 14)* — Kaffeebar an unbekannter Ebene, erreichbar via [[Magischer Schluessel|Schlüssel des Nichts]]
 - [[Verhängnisturm]] *(neu, Session 17)* — mythischer Turm, in jedem Realm am selben Ort; hier mitten im Meer; Heimat von [[Aalafiel]]s Fluch-Wesen

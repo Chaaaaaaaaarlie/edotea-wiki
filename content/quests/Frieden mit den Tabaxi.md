@@ -2,7 +2,7 @@
 type: quest
 title: "Frieden mit den Tabaxi"
 created: 2026-11-16
-updated: 2026-11-16
+updated: 2026-11-23
 tags:
   - quest
 quest_status: pending
@@ -19,8 +19,10 @@ related:
   - Tabaxi-Puzzlebox
   - Olmea-Wald
   - Session 32
+  - Session 33
 sources:
   - Session 32 transcript
+  - Session 33 transcript
 ---
 
 # Frieden mit den Tabaxi
@@ -41,6 +43,7 @@ Scale Piercer bezweifelt, dass die Tabaxi sich je verbünden würden, „vor all
 
 ## Progress
 - [[Session 32]]: beschlossen, aber **nach** [[Weiße Echse aufspüren]].
+- [[Session 33]]: Sim verkündet in Cloud Fang öffentlich das **Ende des Krieges** und will einen **Waffenstillstand** verhandeln. Die meisten Simianer sind erleichtert. [[Nature's Guide]] vertritt Sim derweil als Oberhaupt. Die Gruppe zieht zuerst zur weißen Echse.
 
 ## Resolution
 *(offen)*
@@ -48,3 +51,4 @@ Scale Piercer bezweifelt, dass die Tabaxi sich je verbünden würden, „vor all
 ## Verknüpfungen
 - [[Tabaxi]] · [[Sim]] · [[Cloud Fang]] · [[Scale Piercer]] · [[Tabaxi-Puzzlebox]] · [[Olmea-Wald]]
 - [[Session 32]]
+- [[Session 33]] · [[Session 33 transcript]]

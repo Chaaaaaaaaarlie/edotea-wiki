@@ -14,13 +14,15 @@ related:
   - Drei Bücher
   - Palamedis
   - Session 32
+  - Session 33
 sources:
   - Session 17 transcript
   - Session 18 transcript
   - Session 19 transcript
   - Session 32 transcript
+  - Session 33 transcript
 created: 2026-06-16
-updated: 2026-11-16
+updated: 2026-11-23
 status: developing
 ---
 
@@ -76,6 +78,10 @@ Der Dungeon gilt als **vollständig abgeschlossen** (alle Räume bewältigt, Sar
 
 - [[Sim]] erinnert an das Metall „mit anderen Eigenschaften" aus der Grabkammer ([[Blaue Metallbarren]]) und möchte es eventuell zusammen mit dem [[Drachenzahn]] in seinen Stab einarbeiten lassen. Die Gruppe ist einverstanden, die Umsetzung erfolgt off-session.
 
+## [[Session 33]]
+
+- Sim gibt für seinen neuen Quarterstaff ein Metall „aus dem Tempel" beim Schmied ab. Vermutlich sind das die [[Blaue Metallbarren|blauen Metallbarren]] aus der Grabkammer der Gruft (nicht eindeutig, siehe dort).
+
 ## Verknüpfungen
 - [[Erliorwald]]
 - [[Aalafiel]]
@@ -91,3 +97,4 @@ Der Dungeon gilt als **vollständig abgeschlossen** (alle Räume bewältigt, Sar
 - [[Session 18]]
 - [[Session 19]]
 - [[Session 32]] · [[Session 32 transcript]]
+- [[Session 33]] · [[Session 33 transcript]]

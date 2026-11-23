@@ -2,7 +2,7 @@
 type: overview
 title: "Edotea — Willkommen"
 created: 2026-05-11
-updated: 2026-11-16
+updated: 2026-11-23
 tags:
   - overview
   - campaign
@@ -15,7 +15,7 @@ sources: []
 
 ## Einstieg
 
-- [[Session 32|Aktuelle Session: Session 32]]
+- [[Session 33|Aktuelle Session: Session 33]]
 - [[Kontinent Edotea]]
 - [[Kalineon]]
 - [[Lunovar]]
@@ -33,7 +33,7 @@ sources: []
 - [[Hrímnir]]
 - [[Naeli]]
 - [[Pyraschan]] — Paladin, Level 7, neu ab [[Session 26]]; **verlässt in [[Session 31]] die Gruppe**, um dem [[Goetterfunke|Götterfunken]] in [[Kalineon]] vom Teufel [[Zeldris]] zu berichten; in [[Session 27]] krank zurückgelassen, seit [[Session 28]] per DM-Retcon wieder bei der Gruppe
-- [[Sim]] — seit [[Session 29]] trägt er den verdienten Namen **„Plane Walking Eye"** (Sim bleibt gültiger Rufname); hat in [[Session 31]] [[Scale Piercer]] zum Duell gefordert und **in [[Session 32]] gewonnen — neues Oberhaupt von [[Cloud Fang]]**
+- [[Sim]] — seit [[Session 29]] trägt er den verdienten Namen **„Plane Walking Eye"** (Sim bleibt gültiger Rufname); hat in [[Session 31]] [[Scale Piercer]] zum Duell gefordert und **in [[Session 32]] gewonnen — neues Oberhaupt von [[Cloud Fang]]**; seit [[Session 33]] vertritt ihn [[Nature's Guide]], während er mit der Gruppe weiterzieht
 - [[Khirin]] — seit [[Session 25]] ohne einen Arm und ein Bein; [[Session 26]]–[[Session 30]] nicht aktiv gespielt, **ab [[Session 31]] wieder gespielt** (`luke_234`), seit [[Session 32]] mit einfacher, angenagelter Hakenprothese (Nachteil bei zweihändigen Str-/Dex-Aufgaben); war die ganze Zeit separat als Stein versteinert mitgeführt und wurde in [[Session 30]] entsteinert (der von [[Magda]] getragene Patient war die ganze Zeit eine andere Person, siehe [[Khirin]])
 
 ## Wichtige NPC
@@ -63,10 +63,13 @@ sources: []
 
 ## Aktuelle Fäden
 
+- **Der verborgene Blütenbaum ([[Session 33]])**: Naelis innerer Drang führt nach Nordwesten zu einem magischen Riesenbaum. Er ist eine Tür, die sich öffnet, wenn er vollständig erblüht → [[Verborgener Blütenbaum]], [[Weiße Echse aufspüren]].
+- **Naelis Verwandlung ([[Session 33]])**: etwa 26 cm gewachsen, blasser, schuppige Hautstellen. Begann im Wald, Ursache unbekannt.
+- **Sims Abschied ([[Session 33]])**: [[Nature's Guide]] vertritt ihn als Oberhaupt, Waffenstillstand mit den Tabaxi öffentlich angekündigt, neuer Drachenzahn-Stab beim Schmied.
 - **Sim ist Oberhaupt von [[Cloud Fang]] ([[Session 32]])**: Duell gewonnen, Scale Piercer begnadigt. Abgeschlossen → [[Scale Piercer herausfordern]].
 - **Der Drachenreiter ([[Session 32]])**: [[Alter Magier auf dem schwarzen Drachen]] mit rotem und schwarzem Drachen (der blaue ist tot) gilt als Urheber der Spinnenangriffe auf Cloud Fang.
 - **Nächstes Ziel: [[Weiße Echse aufspüren]]**, danach [[Frieden mit den Tabaxi]] (Rückgabe der [[Tabaxi-Puzzlebox]]).
-- **Buch der Schwellen vervollständigt ([[Session 32]])**: Bertas Seite eingefügt, Schockwelle bis zum Horizont, Bertas Attunement steht aus → [[Drei Bücher]].
+- **Buch der Schwellen vervollständigt ([[Session 32]])**: Bertas Seite eingefügt, Schockwelle bis zum Horizont. **Berta ist seit [[Session 33]] eingestimmt** → [[Drei Bücher]].
 - **Fohlen antwortet ([[Session 32]])**: Ein Familiar mit Rückkehr-Schriftrolle ist unterwegs.
 - **~~Duell gegen Scale Piercer~~ ([[Session 31]], entschieden in [[Session 32]])**: Herausforderung angenommen — Duell am Mittag des folgenden Tages, siehe [[Scale Piercer herausfordern]]. In der Nacht davor überfallen bewaffnete Simianer die Gruppe in Sims Hütte (Auftraggeber unbekannt, Gefangene gemacht).
 - **[[Zeldris]] ([[Session 31]])**: Der Cliffhanger am Druidenschrein war ein aus dem Styx entkommener Teufel, der „niederen Kreaturen" Handel anbietet und als Herrscher nach Avernus zurückkehren will. Davongeflogen.
@@ -93,6 +96,7 @@ sources: []
 
 ## Letzte Sessions
 
+- [[Session 33]]
 - [[Session 32]]
 - [[Session 31]]
 - [[Session 30]]

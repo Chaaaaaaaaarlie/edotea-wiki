@@ -3,8 +3,11 @@ type: lore
 title: "Treant"
 lore_category: bestiary
 created: 2026-05-11
-updated: 2026-06-09
+updated: 2026-11-23
 status: mature
+tags:
+  - lore
+  - bestiarium
 aliases:
   - Treant
 Gruppierung: Einzeln
@@ -23,6 +26,10 @@ Sinne: Passive Wahrnehmung 13
 Sprachen: Common, Druidic, Elvish, Sylvan
 HG: 9
 NoteIcon: npc
+related:
+  - Session 33
+sources:
+  - Session 33 transcript
 ---
 
 # Informationen
@@ -78,6 +85,10 @@ Der Treant war freundlich und so gingen wir einfach an ihm vorbei, nachdem der T
 - Übergibt der Gruppe **[[Aalafiels Trank|Abscheu-Tränke]]** und **Früchte/Äpfel**; lehnt magisches Brunnenwasser höflich ab.
 - Passt zur 2024er Darstellung als langlebiger, beschützender Waldhüter.
 
+## [[Session 33]]
+
+- An einer Furt im [[Olmea-Wald]] trifft die Gruppe auf Pflanzenwesen mit Mäulern, die laut DM **keine Ents** sind. Am Tisch fallen Vergleiche mit „Trends" (Treants), mit denen die Gruppe „letztens" gesprochen habe. Hrímnir: „Ein Trend ist eine Pflanze."
+
 ## Verknüpfungen
 
 - [[Berta]]
@@ -95,3 +106,4 @@ Der Treant war freundlich und so gingen wir einfach an ihm vorbei, nachdem der T
 - [[Session 10]]
 - [[Session 16]]
 - [[Sim]]
+- [[Session 33]] · [[Session 33 transcript]]

@@ -16,13 +16,15 @@ related:
   - Session 32
   - Tabaxi-Puzzlebox
   - Frieden mit den Tabaxi
+  - Session 33
 sources:
   - Session 29 transcript
   - Session 30 transcript
   - Session 31 transcript
   - Session 32 transcript
+  - Session 33 transcript
 created: 2026-10-12
-updated: 2026-11-16
+updated: 2026-11-23
 status: developing
 ---
 
@@ -56,8 +58,13 @@ Bei der Begegnung mit Sims eigenem Stamm (siehe [[Cloud Fang]]) zeigt ein Simian
 - In seinem Anwesen liegt eine den Tabaxi gestohlene **[[Tabaxi-Puzzlebox]]** mit drei magischen Ringen. Herkunft und Hersteller sind unklar.
 - [[Sim]] will als neues Oberhaupt **Frieden** schließen und das persönlich regeln → [[Frieden mit den Tabaxi]]. Das Tabaxi-Dorf liegt laut Sim im Nordwesten.
 
+## [[Session 33]]
+
+- [[Sim]] verkündet in [[Cloud Fang]], dass der **Krieg mit den Tabaxi endet** und er einen **Waffenstillstand** verhandeln wird. Viele Simianer sind erleichtert. Gegenüber [[Nature's Guide]]: *„Wir müssen uns gegenseitig unterstützen, um unseren Wald zu beschützen."* → [[Frieden mit den Tabaxi]]
+
 ## Verknüpfungen
 - [[Olmea-Wald]] · [[Session 29]] · [[Session 29 transcript]] · [[Session 30]] · [[Session 30 transcript]]
 - [[Sim]] · [[Scale Piercer]] · [[Berta]] · [[Hrímnir]] · [[Cloud Fang]]
 - [[Session 31]] · [[Session 31 transcript]]
 - [[Session 32]] · [[Session 32 transcript]]
+- [[Session 33]] · [[Session 33 transcript]]

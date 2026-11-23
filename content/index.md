@@ -2,7 +2,7 @@
 type: meta
 title: "Wiki Index"
 created: 2026-05-11
-updated: 2026-11-16
+updated: 2026-11-23
 tags:
   - meta
 status: mature
@@ -18,15 +18,15 @@ Master catalog. Updated on every ingest.
 ## Characters (41) — see [[_index|Characters Index]]
 
 ### PCs (6)
-- [[Berta]] · [[Hrímnir]] · [[Naeli]] · [[Pyraschan]] *(S31: verlässt die Gruppe, reist zum Götterfunken)* · [[Sim]] *(seit S29 „Plane Walking Eye"; S32: gewinnt das Duell, neues Oberhaupt von Cloud Fang)* · [[Khirin]] *(S31: wieder aktiv gespielt von `luke_234`, Prothese in Auftrag; seit [[Session 26]] nicht mehr aktiv gespielt; in [[Session 30]] entsteinert und wieder bei Bewusstsein — der seit [[Session 28]] von [[Magda]] getragene Patient war die ganze Zeit eine andere Person)*
+- [[Berta]] · [[Hrímnir]] · [[Naeli]] · [[Pyraschan]] *(S31: verlässt die Gruppe, reist zum Götterfunken)* · [[Sim]] *(seit S29 „Plane Walking Eye"; S32: gewinnt das Duell, neues Oberhaupt von Cloud Fang; S33: Nature's Guide vertritt ihn, neuer Drachenzahn-Stab in Arbeit)* · [[Khirin]] *(S31: wieder aktiv gespielt von `luke_234`, Prothese in Auftrag; seit [[Session 26]] nicht mehr aktiv gespielt; in [[Session 30]] entsteinert und wieder bei Bewusstsein — der seit [[Session 28]] von [[Magda]] getragene Patient war die ganze Zeit eine andere Person)*
 
 > [!note] Session 28: Alle fünf spielbaren PCs wieder aktiv
 > Nach [[Pyraschan]]s krankheitsbedingter Trennung von der Gruppe in [[Session 27]] eröffnet [[Session 28]] damit, dass er per DM-Retcon wieder bei der Gruppe ist (siehe Seite für den Widerspruch).
 
 ### NPCs (35)
-- [[Alter Magier auf dem schwarzen Drachen]] *(neu, S32 — Drachenreiter mit rotem/blauem/schwarzem Drachen, schickte laut Scale Piercer die Spinnenwesen)* · [[Zeldris]] *(neu, S31 — aus dem Styx entkommener Rebellen-Teufel)* · [[Legend Crafter]] *(neu, S31 — Schmied in Cloud Fang)* · [[Fateweaver]] *(neu, S31 — Schneiderin in Cloud Fang)* · [[Aalafiel]] · [[Borgrim Runenbrecher]] · [[Crucellus]] · [[Edgar Thorne]] · [[Elfaria Albis von Sylphid]] · [[Elliot]] *(S29: steht laut Pyraschan im Gefolge des [[Goetterfunke|Götterfunken]])* · [[Fiona Casterwill]] · [[Fohlen]] · [[Fürst Alator]] · [[Jack]] · [[Cassomir]] · [[Lucien]] · [[Lysanthiriel Vaelora]] · [[Magilanikas Maven]] · [[Magolor]] *(S30: unbestätigte Verbindung zum Spinnenbeinige-Kreaturen-Angriff auf [[Cloud Fang]])* · [[Markus L. Kalinion]] · [[Nora]] · [[Palamedis]] · [[Scale Piercer]] *(S29 ausgebaut, S30: neue Details zu Verstümmelungs-Strafpraxis)* · [[Sophie Marie]] · [[Spymaster]] · [[Storm Holder]] *(Stub→ausgebaut S29)* · [[Twilight (Pony)]] · [[Virion Loramis]] · [[Wilhelm Casterwill]] · [[Wukong]] · [[Y'Chak]] · [[Zwergenmeister Schmiedemeisterei]] · [[Magda]] *(neu, S27 — S30: ihr Patient ist bestätigt nicht Khirin)* · [[Fährmann des Styx]] *(neu, S27)* · [[Nature's Guide]] *(neu, S30 — Simian-Druide, entsteinert Khirin, entfernt die Flüche der Gruppe)*
+- [[Alter Magier auf dem schwarzen Drachen]] *(neu, S32 — Drachenreiter mit rotem/blauem/schwarzem Drachen, schickte laut Scale Piercer die Spinnenwesen)* · [[Zeldris]] *(neu, S31 — aus dem Styx entkommener Rebellen-Teufel)* · [[Legend Crafter]] *(neu, S31 — Schmied in Cloud Fang)* · [[Fateweaver]] *(neu, S31 — Schneiderin in Cloud Fang)* · [[Aalafiel]] · [[Borgrim Runenbrecher]] · [[Crucellus]] · [[Edgar Thorne]] · [[Elfaria Albis von Sylphid]] · [[Elliot]] *(S29: steht laut Pyraschan im Gefolge des [[Goetterfunke|Götterfunken]])* · [[Fiona Casterwill]] · [[Fohlen]] · [[Fürst Alator]] · [[Jack]] · [[Cassomir]] · [[Lucien]] · [[Lysanthiriel Vaelora]] · [[Magilanikas Maven]] · [[Magolor]] *(S30: unbestätigte Verbindung zum Spinnenbeinige-Kreaturen-Angriff auf [[Cloud Fang]])* · [[Markus L. Kalinion]] · [[Nora]] · [[Palamedis]] · [[Scale Piercer]] *(S29 ausgebaut, S30: neue Details zu Verstümmelungs-Strafpraxis)* · [[Sophie Marie]] · [[Spymaster]] · [[Storm Holder]] *(Stub→ausgebaut S29)* · [[Twilight (Pony)]] · [[Virion Loramis]] · [[Wilhelm Casterwill]] · [[Wukong]] · [[Y'Chak]] · [[Zwergenmeister Schmiedemeisterei]] · [[Magda]] *(neu, S27 — S30: ihr Patient ist bestätigt nicht Khirin)* · [[Fährmann des Styx]] *(neu, S27)* · [[Nature's Guide]] *(neu, S30 — Simian-Druide, entsteinert Khirin, entfernt die Flüche der Gruppe; S33: stellvertretendes Oberhaupt von Cloud Fang)*
 
-## Locations (37) — see [[_index|Locations Index]]
+## Locations (38) — see [[_index|Locations Index]]
 - Kontinent: [[Kontinent Edotea]] · [[Cloud Fang]] *(S30: bestätigt Sims Heimatdorf; S31: Gruppe im Dorf, Sims Hütte als Basis; S32: Sim neues Oberhaupt)* · [[Erliorwald]] · [[Nebelwald]] · [[Wesh]]
 - Cloud Fang: [[Druidenschrein (Cloud Fang)]] *(neu, S30)*
 - Erliorwald: [[Gruft des Buches]]
@@ -40,6 +40,7 @@ Master catalog. Updated on every ingest.
 - Riss-Stand: [[Eiswueste-Vulkan-Riss]]
 - [[Avernus]]: [[Imp-Höhle]] · [[Styx]] *(neu, S27)*
 - Unbekannt (evtl. nicht mehr Avernus): [[Olmea-Wald]] *(neu, S28, umbenannt S29 — Arbeitstitel „Kristallhöhlenwald" per Alias erhalten; S30: Krater mit Ork-Arm, Nordwesten-Geografie ergänzt)*
+- Olmea-Wald: [[Verborgener Blütenbaum]] *(neu, S33 — magische Baum-Tür, öffnet sich durch vollständiges Erblühen; ruft nach Naeli)*
 
 ## Lore (19) — see [[_index|Lore Index]]
 - Götter: [[Corellon]] · [[Ilmater]] · [[Lathander]] · [[Marcosias]] · [[Torm]] · [[Tymora]] · [[Tyr]]
@@ -48,23 +49,23 @@ Master catalog. Updated on every ingest.
 - Entitäten: [[das Nichts]] · [[Djinn]] · [[Sariel]] *(neu, S27; Schreibweise unbestätigt)*
 - Ebenen: [[Feenwildnis]] · [[Avernus]] *(evtl. seit S28 verlassen, unbestätigt)*
 
-## Bestiarium (25)
-- [[Dire Wolf]] *(neu, S28)* · [[Dornenteufel]] · [[Drift-Zeppelin]] · [[Eulenbärin]] · [[Gedankenschaender]] · [[Geist]] · [[Imp]] · [[Kettenteufel]] · [[Knochenteufel]] · [[Larvenschwarm]] · [[Ork (Kreatur)]] *(neu, S28)* · [[Revenant]] · [[Riesenvögel (Olmea-Wald)]] *(neu, S29)* · [[Rictus Mors]] · [[Shadow]] · [[Skelett]] · [[Spectre]] · [[Spinnenwesen]] · [[Tabaxi]] *(neu, S29)* · [[Treant]] · [[Weiße Echse (Vision)]] *(neu, S30 — nur als Vision gesehen, Existenz unbestätigt)* · [[Will o Wisp]] · [[Worg]] · [[Wraith]] · [[Zombie]]
+## Bestiarium (26)
+- [[Dire Wolf]] *(neu, S28)* · [[Dornenteufel]] · [[Drift-Zeppelin]] · [[Eulenbärin]] · [[Eulen-Harpyie]] *(neu, S33 — „Owl Harpies", Sleeping Song, Darkness)* · [[Gedankenschaender]] · [[Geist]] · [[Imp]] · [[Kettenteufel]] · [[Knochenteufel]] · [[Larvenschwarm]] · [[Ork (Kreatur)]] *(neu, S28)* · [[Revenant]] · [[Riesenvögel (Olmea-Wald)]] *(neu, S29)* · [[Rictus Mors]] · [[Shadow]] · [[Skelett]] · [[Spectre]] · [[Spinnenwesen]] · [[Tabaxi]] *(neu, S29)* · [[Treant]] · [[Weiße Echse (Vision)]] *(neu, S30 — nur als Vision gesehen, Existenz unbestätigt)* · [[Will o Wisp]] · [[Worg]] · [[Wraith]] · [[Zombie]]
 
-## Items (26) — see [[_index|Items Index]]
-- [[Tabaxi-Puzzlebox]] *(neu, S32)* · [[Ring des blutenden Magiers]] *(neu, S32)* · [[Ringe des hilfreichen Magiers]] *(neu, S32)* · [[Scale Piercers Drachenspeer]] *(neu, S32)* · [[Gnadenpfeile]] *(neu, S31 — Sims Erbe: 10 Gnaden- + 3 Elementarpfeile)* · [[Aalafiels Trank]] · [[Akronisjuwel]] · [[Bastardschwert aus Avernus]] *(S29: identifiziert, +2, 1d4 Selbstschaden)* · [[Blaue Metallbarren]] · [[Bogen +2]] · [[Cloak of Many Fashions]] *(S29: als Höllenkonstrukt enttarnt, dennoch auf Hrímnir attuned)* · [[Demon Core]] · [[Dis-Enchanter]] · [[Drachenzahn]] · [[Goldene Drachenschuppe]] · [[Grünes Erz (Avernus)]] *(S29: identifiziert als Batorianischer Stahl)* · [[Gurde]] · [[Krone des Hohen Rates]] · [[Lady Günthers Flasche]] · [[Lysandriels Ring]] · [[Magischer Schluessel]] · [[Spell-Slot-Anhänger]] · [[Staff of Charming]] · [[Staff of Fire]] · [[Staff of Warning]] · [[Wappen des alten Kalineon]]
+## Items (27) — see [[_index|Items Index]]
+- [[Runenstein von Nature's Guide]] *(neu, S33 — Nachrichtenadresse für Nature's Guides Familiars, bei Sim)* · [[Tabaxi-Puzzlebox]] *(neu, S32)* · [[Ring des blutenden Magiers]] *(neu, S32)* · [[Ringe des hilfreichen Magiers]] *(neu, S32)* · [[Scale Piercers Drachenspeer]] *(neu, S32)* · [[Gnadenpfeile]] *(neu, S31 — Sims Erbe: 10 Gnaden- + 3 Elementarpfeile)* · [[Aalafiels Trank]] · [[Akronisjuwel]] · [[Bastardschwert aus Avernus]] *(S29: identifiziert, +2, 1d4 Selbstschaden)* · [[Blaue Metallbarren]] · [[Bogen +2]] · [[Cloak of Many Fashions]] *(S29: als Höllenkonstrukt enttarnt, dennoch auf Hrímnir attuned)* · [[Demon Core]] · [[Dis-Enchanter]] · [[Drachenzahn]] · [[Goldene Drachenschuppe]] · [[Grünes Erz (Avernus)]] *(S29: identifiziert als Batorianischer Stahl)* · [[Gurde]] · [[Krone des Hohen Rates]] · [[Lady Günthers Flasche]] · [[Lysandriels Ring]] · [[Magischer Schluessel]] · [[Spell-Slot-Anhänger]] · [[Staff of Charming]] · [[Staff of Fire]] · [[Staff of Warning]] · [[Wappen des alten Kalineon]]
 
-## Sessions (33) — see [[_index|Sessions Index]]
-- [[Session 32]] · [[Session 31]] · [[Session 30]] · [[Session 29]] · [[Session 28]] · [[Session 27]] · [[Session 26]] · [[Session 25]] · [[Session 24]] · [[Session 23]] · [[Session 22]] · [[Session 21]] · [[Session 20]] · [[Session 19]] · [[Session 18]] · [[Session 17]] · [[Session 16]] · [[Session 15]] · [[Session 14]] · [[Session 13]] · [[Session 12]] · [[Session 11]] · [[Session 10]] · [[Session 9]] · [[Session 8]] · [[Session 7]] · [[Session 6]] · [[Session 5]] · [[Session 4]] · [[Session 3]] · [[Session 2]] · [[Session 1]] · [[Session 0]]
+## Sessions (34) — see [[_index|Sessions Index]]
+- [[Session 33]] · [[Session 32]] · [[Session 31]] · [[Session 30]] · [[Session 29]] · [[Session 28]] · [[Session 27]] · [[Session 26]] · [[Session 25]] · [[Session 24]] · [[Session 23]] · [[Session 22]] · [[Session 21]] · [[Session 20]] · [[Session 19]] · [[Session 18]] · [[Session 17]] · [[Session 16]] · [[Session 15]] · [[Session 14]] · [[Session 13]] · [[Session 12]] · [[Session 11]] · [[Session 10]] · [[Session 9]] · [[Session 8]] · [[Session 7]] · [[Session 6]] · [[Session 5]] · [[Session 4]] · [[Session 3]] · [[Session 2]] · [[Session 1]] · [[Session 0]]
 
 ## Sources (21) — see [[_index|Sources Index]]
-- [[Session 32 transcript]] · [[Session 31 transcript]] · [[Session 30 transcript]] · [[Session 29 transcript]] · [[Session 28 transcript]] · [[Session 27 transcript]] · [[Session 26 transcript]] · [[Session 25 transcript]] · [[Session 24 transcript]] · [[Session 23 transcript]] · [[Session 22 transcript]] · [[Session 21 transcript]] · [[Session 20 transcript]] · [[Session 19 transcript]] · [[Session 17 transcript]] · [[Session 16 transcript]] · [[Session 15 transcript]] · [[Session 12 transcript]] · [[Session 13 transcript]] · [[Session 14 transcript]] · [[Tagebücher Wilhelm Casterwill]]
+- [[Session 33 transcript]] · [[Session 32 transcript]] · [[Session 31 transcript]] · [[Session 30 transcript]] · [[Session 29 transcript]] · [[Session 28 transcript]] · [[Session 27 transcript]] · [[Session 26 transcript]] · [[Session 25 transcript]] · [[Session 24 transcript]] · [[Session 23 transcript]] · [[Session 22 transcript]] · [[Session 21 transcript]] · [[Session 20 transcript]] · [[Session 19 transcript]] · [[Session 17 transcript]] · [[Session 16 transcript]] · [[Session 15 transcript]] · [[Session 12 transcript]] · [[Session 13 transcript]] · [[Session 14 transcript]] · [[Tagebücher Wilhelm Casterwill]]
 
 ## Factions (1) — see [[_index|Factions Index]]
 - [[Kalineon-Royalisten]]
 
 ## Quests (3) — see [[_index|Quests Index]]
-- [[Weiße Echse aufspüren]] *(neu, S32 — aktiv, nächstes Ziel)* · [[Frieden mit den Tabaxi]] *(neu, S32 — pending)* · [[Scale Piercer herausfordern]] *(S32 — abgeschlossen: Sim gewinnt)*
+- [[Weiße Echse aufspüren]] *(neu, S32 — aktiv; S33: Richtung Nordwesten bestätigt, Spur führt zum [[Verborgener Blütenbaum|Blütenbaum]])* · [[Frieden mit den Tabaxi]] *(neu, S32 — pending)* · [[Scale Piercer herausfordern]] *(S32 — abgeschlossen: Sim gewinnt)*
 
 ## Questions — see [[_index|Questions Index]]
 *(noch keine Q&A gespeichert)*
@@ -77,7 +78,13 @@ Master catalog. Updated on every ingest.
 
 ## Bekannte Lücken
 
-> [!gap] **Session 32 — Richtung der weißen Echse**: Sim sagt Nordosten, [[Session 30]] Nordwesten. Ungeklärt → [[Weiße Echse aufspüren]].
+> [!gap] **Session 33 — Wie öffnet man den Blütenbaum?** Er muss „komplett erblühen". Druidcraft wirkt nicht, Plant Growth steht aus. Was liegt dahinter? → [[Verborgener Blütenbaum]].
+
+> [!gap] **Session 33 — Naelis Verwandlung**: etwa 26 cm Wachstum, Blässe, schuppige Hautstellen, begann im Wald. Ursache unbekannt → [[Naeli]].
+
+> [!gap] **Session 33 — Metall für Sims Waffe**: blaue Metallbarren oder Batorianischer Stahl? → [[Blaue Metallbarren]].
+
+> [!gap] **Session 32 — Richtung der weißen Echse** — ✅ Geklärt in [[Session 33]]: Nordwesten. Ursprünglich: Sim sagt Nordosten, [[Session 30]] Nordwesten → [[Weiße Echse aufspüren]].
 
 > [!gap] **Session 32 — Reichweite der Schockwelle**: Bertas Seite vervollständigt das Buch der Schwellen, eine farbige Lichtwelle zieht bis zum Horizont. Wer hat sie bemerkt? → [[Drei Bücher]].
 

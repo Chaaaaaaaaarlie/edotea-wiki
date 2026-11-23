@@ -10,10 +10,13 @@ tags:
 related:
   - Olmea-Wald
   - Session 29
+  - Session 33
+  - Eulen-Harpyie
 sources:
   - Session 29 transcript
+  - Session 33 transcript
 created: 2026-10-12
-updated: 2026-10-12
+updated: 2026-11-23
 status: seed
 ---
 
@@ -42,6 +45,11 @@ Riesige, unnatürliche Vögel, die unter den zerbröckelnden fliegenden Inseln i
 - Was ist die eigentliche Art dieser Vögel, und warum tragen manche von ihnen Felsbrocken?
 - Hat ihr Verhalten etwas mit dem Zerbröckeln der fliegenden Inseln zu tun?
 
+## [[Session 33]]
+
+- [[Sim]] erkennt nordwestlich von [[Cloud Fang]] Krallenspuren großer vogelartiger Wesen und hält sie für Spuren der „komischen Fliegefrauen", die Naeli in [[Session 29]] zerschmolz. Kurz darauf greifen zwei **[[Eulen-Harpyie|Eulen-Harpyien]]** an, die am Tisch nach dem *Tome-of-Beasts*-Statblock „Owl Harpies" heißen. Ob sie zur selben Art gehören wie diese Riesenvögel, ist offen (der DM hatte in Session 29 betont: keine Harpyien).
+
 ## Verknüpfungen
 - [[Olmea-Wald]] · [[Session 29]] · [[Session 29 transcript]]
 - [[Hrímnir]] · [[Naeli]] · [[Pyraschan]]
+- [[Session 33]] · [[Session 33 transcript]]

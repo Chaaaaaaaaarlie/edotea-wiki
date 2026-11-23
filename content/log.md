@@ -2,7 +2,7 @@
 type: meta
 title: "Wiki Log"
 created: 2026-05-11
-updated: 2026-11-16
+updated: 2026-11-23
 tags:
   - meta
 status: evergreen
@@ -11,6 +11,34 @@ status: evergreen
 # Wiki Log
 
 Append-only. New entries at the **TOP**. Never edit past entries.
+
+## [2026-11-23] ingest | Session 33 (gespielt 2026-11-23) aus WhisperX-Transkript
+
+- **Quelle**: `craig-uDVVTnBW4Adc-a13OnMR00u86LsG_20261123_211125/corrected_obsidian.md` (WhisperX `large-v3`, cuda/float16, de, Word-Timestamps, keine Diarisierung, 87 Glossar-Korrekturen). Dauer: ~2h55min, 3346 Segmente, **6** Craig-Spuren.
+- **Sprecher-Mapping**: `_blestem_`=DM („Philipp"), `drore`=[[Berta]], `feeminin`=[[Naeli]], `hansmeier`=[[Hrímnir]], `mep0510`=[[Sim]], `luke_234`=[[Khirin]].
+- **Abweichungen vom Ingest-Auftrag**: `nightcore0302 = DM` ist veraltet (keine solche Spur, DM ist `_blestem_`). `vault_review.md` schlug fälschlich „Session 34" vor, korrekt ist **Session 33**. Ein früherer automatischer Lauf brach wegen eines Nutzungslimits ab, bevor er etwas am Vault änderte (geprüft: keine Dateien nach der Transkription verändert).
+- **Rohdatei kopiert**: `.raw/session-transcripts/Session 33 - 23.11.2026.md` (unveränderte Kopie, per `cmp` geprüft).
+- **Backup vor dem Ingest**: `_backups/session33_ingest_20261123_221211/wiki/` (vollständige Kopie von `wiki/`).
+- **Neue Seiten**: [[Session 33]], [[Session 33 transcript]], [[Verborgener Blütenbaum]], [[Eulen-Harpyie]], [[Runenstein von Nature's Guide]].
+- **Aktualisierte Seiten**: [[Naeli]], [[Sim]], [[Berta]], [[Khirin]], [[Hrímnir]], [[Nature's Guide]], [[Twilight (Pony)]], [[Legend Crafter]], [[Magolor]], [[Wukong]], [[Palamedis]], [[Cloud Fang]], [[Olmea-Wald]], [[Drei Bücher]] (Berta eingestimmt), [[Risse]], [[Weiße Echse (Vision)]], [[Riesenvögel (Olmea-Wald)]], [[Tabaxi]], [[Spinnenwesen]], [[Treant]], [[Lady Günthers Flasche]], [[Goldene Drachenschuppe]] (Träger Sim), [[Drachenzahn]] (beim Schmied), [[Blaue Metallbarren]], [[Grünes Erz (Avernus)]], [[Weiße Echse aufspüren]], [[Frieden mit den Tabaxi]], `wiki/index.md`, `wiki/overview.md`, alle Domain-`_index.md` (characters, locations, factions, lore, items, quests, sessions, sources), [[hot|Hot Cache]].
+- **Geprüft, nicht geändert** (Treffer der Vorab-Suche ohne Session-Bezug, meist Stichwort-Fehltreffer): Alter Magier auf dem schwarzen Drachen, Edgar Thorne, Elfaria, Fateweaver, Fohlen, Jack, Magda, Magilanikas Maven, Pyraschan, Scale Piercer, Sophie Marie, Spymaster, Virion Loramis, Zwergenmeister Schmiedemeisterei, Kalineon-Royalisten, Aalafiels Trank, Akronisjuwel, Bastardschwert aus Avernus, Bogen +2, Cloak of Many Fashions, Demon Core, Dis-Enchanter, Gnadenpfeile, Gurde, Krone des Hohen Rates, Lysandriels Ring, Magischer Schluessel, Ring des blutenden Magiers, Ringe des hilfreichen Magiers, Scale Piercers Drachenspeer, Spell-Slot-Anhänger, Staff of Charming/Fire/Warning, Tabaxi-Puzzlebox, Wappen des alten Kalineon, Berthas Bohnen, Carbus, Druidenschrein, Eiswueste-Vulkan-Riss, Erliorwald, Gruft des Buches, Isolationsraum, Kalden, Lunovar, Magilanikas Zauberladen, Schmiedemeisterei Lunovar, Styx, Verhängnisturm, alle Götter-/Ebenen-Lore-Seiten, die übrigen Bestiarium-Seiten, das Nichts, gesetzlose Stadt, Scale Piercer herausfordern.
+- **Schlüssel-Erkenntnisse**:
+  - **[[Nature's Guide]] vertritt Sim als Oberhaupt von [[Cloud Fang]]**. Sim hat den [[Runenstein von Nature's Guide]] (Familiars bringen Nachrichten) und kündigt öffentlich einen Waffenstillstand mit den Tabaxi an.
+  - **Sims neue Waffe**: Quarterstaff mit [[Drachenzahn]]-Ende beim Schmied, dazu Metall „aus dem Tempel".
+  - **Berta ist auf das Buch der Schwellen eingestimmt**. Sie liest Theorie zu Magolors Zaubern (Schild, Teleport, Abhörschutz), noch über ihrer Stufe. Ein Weg zum Schließen von Rissen gelingt ihr nicht.
+  - **Naelis Verwandlung**: etwa 26 cm Wachstum, Blässe, schuppige Hautstellen. Laut Berta begann es im Wald, nicht in den Höllen.
+  - **Richtung der Echse: Nordwesten** (Widerspruch aus Session 32 aufgelöst). Der Wald wird in dieser Richtung gesünder.
+  - **Zwei [[Eulen-Harpyie|Eulen-Harpyien]]** (Sleeping Song, Darkness): eine tot, eine geflohen. Pflanzenwesen mit Mäulern an einer Furt sind friedlich.
+  - **[[Verborgener Blütenbaum]]**: Er ruft nach Naeli. Die Krone ist ein illusorisch verborgener Pavillon. Laut Identify ist der Baum eine Tür, die sich durch **vollständiges Erblühen** öffnet.
+- **Offene Unsicherheiten dieses Ingests**:
+  - Metall für Sims Waffe: „aus dem Tempel"/„Legierung" (→ blaue Metallbarren) gegen „dehnbar, aber hart" (→ Batorianischer Stahl). Vermutlich die blauen Barren.
+  - „Der Schmied" ist nicht namentlich genannt, vermutlich [[Legend Crafter]].
+  - Bertas Attunement wird vom DM bestätigt, der Zeitpunkt nach Session 32 bleibt offen.
+  - Todesstoß der zweiten Harpyie: Hrímnir (DM: „Sie ist tot") oder Bertas Zauber (vermutlich Shatter). Hrímnirs Fluchtbefehl war vermutlich Command.
+  - Naelis Wachstum ist nur ungefähr (Rechenwitz am Tisch). Khirins Exhaustion vermutlich jetzt 1.
+  - Lady Günther war in der Flasche, obwohl die Flasche laut [[Session 20]] leer war. Wann sie wieder hineinkam, ist nicht dokumentiert.
+  - Khirins Maske ist nicht näher identifiziert. Was Khirin beim Jäger tat, wurde schriftlich geklärt und ist unbekannt.
+  - „Glory Portal" aus dem Buch ist ein Spielerwitz und keine Lore.
 
 ## [2026-11-16] ingest | Session 32 (gespielt 2026-11-16) aus WhisperX-Transkript
 
